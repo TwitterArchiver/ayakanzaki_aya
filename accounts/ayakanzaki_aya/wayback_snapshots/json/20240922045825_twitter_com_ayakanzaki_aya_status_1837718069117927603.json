@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-22T04:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T05:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837718069117927603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1314404516666638337",
+          "start": 0,
+          "username": "NBJ96116101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837718069117927603",
+    "in_reply_to_user_id": "1314404516666638337",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837032353686003726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NBJ96116101 14跟懷孕是板上釘釘\n女同是她自己說的\n但我覺得是男女通吃\n在學校是出了名的玩咖\n具體到底是怎樣不清楚\n跟她沒有到很熟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T04:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T05:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837718069117927603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1314404516666638337",
+              "start": 0,
+              "username": "NBJ96116101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837718069117927603",
+        "in_reply_to_user_id": "1314404516666638337",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837032353686003726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NBJ96116101 14跟懷孕是板上釘釘\n女同是她自己說的\n但我覺得是男女通吃\n在學校是出了名的玩咖\n具體到底是怎樣不清楚\n跟她沒有到很熟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314404516666638337",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-20T07:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T08:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837032353686003726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837032353686003726",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1167,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836990408175276060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 啊？不是？啥鬼？\n14,女同,懷孕？這都是個啥啊\n這個世界終究是癲了嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26287,
+          "listed_count": 9,
+          "tweet_count": 15750
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T03:17:43.000Z",
+        "description": "hi~(°∀。)",
+        "id": "1314404516666638337",
+        "location": "Taiwan",
+        "name": "赤羽隼人hayato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779869160534913024/AkUrAOXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 823,
+          "like_count": 61053,
+          "listed_count": 0,
+          "tweet_count": 495
+        },
+        "username": "NBJ96116101",
+        "verified": false
+      }
+    ]
+  }
+}

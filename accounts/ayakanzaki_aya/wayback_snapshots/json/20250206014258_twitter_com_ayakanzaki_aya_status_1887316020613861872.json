@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1886263232102375678",
+    "created_at": "2025-02-06T01:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T02:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887316020613861872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863225011009712128",
+          "start": 0,
+          "username": "reshe_reshe_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887316020613861872",
+    "in_reply_to_user_id": "1863225011009712128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886341805010235473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reshe_reshe_ 真的 其實5000也不算什麽大數字，總比直接搞消失弄我心態比較好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1886263232102375678",
+        "created_at": "2025-02-06T01:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T02:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887316020613861872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863225011009712128",
+              "start": 0,
+              "username": "reshe_reshe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887316020613861872",
+        "in_reply_to_user_id": "1863225011009712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886341805010235473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reshe_reshe_ 真的 其實5000也不算什麽大數字，總比直接搞消失弄我心態比較好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863225011009712128",
+        "conversation_id": "1886263232102375678",
+        "created_at": "2025-02-03T09:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886341805010235473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886341805010235473",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1681,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886263232102375678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 直接消失是挺過分的，如果最後有告知原因並道歉會比較能釋懷一點"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4489,
+          "following_count": 990,
+          "like_count": 28431,
+          "listed_count": 10,
+          "media_count": 124,
+          "tweet_count": 17980
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:14:03.000Z",
+        "description": "在Twitch上當小丑🤡本色演出 繪師帳號👉 @Reshe44161743",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Reshe44161743"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/reshe_shawn/ho…",
+                "end": 23,
+                "expanded_url": "https://m.twitch.tv/reshe_shawn/home",
+                "start": 0,
+                "url": "https://t.co/Llq5uW38Yf"
+              }
+            ]
+          }
+        },
+        "id": "1863225011009712128",
+        "location": "穹頂的魔塔",
+        "name": "雷雪《直播帳號》",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863247632031973376/tf2jeuwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/Llq5uW38Yf",
+        "username": "reshe_reshe_",
+        "verified": false
+      }
+    ]
+  }
+}

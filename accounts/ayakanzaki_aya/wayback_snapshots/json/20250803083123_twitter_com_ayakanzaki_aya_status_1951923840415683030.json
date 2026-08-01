@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1947849554436477231",
+    "created_at": "2025-08-03T08:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T09:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951923840415683030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "886568576013946880",
+          "start": 0,
+          "username": "Super_home6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951923840415683030",
+    "in_reply_to_user_id": "886568576013946880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949076982299541645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Super_home6 謝謝！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1947849554436477231",
+        "created_at": "2025-08-03T08:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951923840415683030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "886568576013946880",
+              "start": 0,
+              "username": "Super_home6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951923840415683030",
+        "in_reply_to_user_id": "886568576013946880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949076982299541645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Super_home6 謝謝！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886568576013946880",
+        "conversation_id": "1947849554436477231",
+        "created_at": "2025-07-26T11:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T12:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949076982299541645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949076982299541645",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947849554436477231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya プロの画家(確信)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8297,
+          "following_count": 996,
+          "like_count": 31398,
+          "listed_count": 19,
+          "media_count": 57,
+          "tweet_count": 20208
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T12:49:54.000Z",
+        "description": "",
+        "id": "886568576013946880",
+        "location": "中国",
+        "name": "Super",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353840360313634817/IoIbug8V_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 56,
+          "like_count": 3780,
+          "listed_count": 4,
+          "media_count": 267,
+          "tweet_count": 3132
+        },
+        "username": "Super_home6",
+        "verified": false
+      }
+    ]
+  }
+}

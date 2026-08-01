@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1983629986306388438",
+    "created_at": "2025-10-30T14:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983907688263123307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1222472034740867072",
+          "start": 0,
+          "username": "gavuriru6950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983907688263123307",
+    "in_reply_to_user_id": "1222472034740867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983748855062757419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gavuriru6950 試過了不行QQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1983629986306388438",
+        "created_at": "2025-10-30T14:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983907688263123307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1222472034740867072",
+              "start": 0,
+              "username": "gavuriru6950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983907688263123307",
+        "in_reply_to_user_id": "1222472034740867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983748855062757419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gavuriru6950 試過了不行QQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222472034740867072",
+        "conversation_id": "1983629986306388438",
+        "created_at": "2025-10-30T04:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983748855062757419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "《寶可夢傳說 Z-A》玩家社群整理出最新通信進化交換碼，只要輸入圖鑑編號兩次，就能輕鬆交換胡地、耿鬼、怪力等寶可夢。內附密碼表與防改獸指南。",
+              "display_url": "pokemonhubs.com/legends-z-a/tr…",
+              "end": 39,
+              "expanded_url": "https://pokemonhubs.com/legends-z-a/trade-evolution-codes/",
+              "start": 16,
+              "status": 200,
+              "title": "《寶可夢傳說 Z-A》通信進化交換碼大全：沒朋友也能完成圖鑑！ - Pokemon Hubs - 寶可夢GO 資訊",
+              "unwound_url": "https://pokemonhubs.com/legends-z-a/trade-evolution-codes/",
+              "url": "https://t.co/LeQ033JSBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983748855062757419",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983629986306388438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/LeQ033JSBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8421,
+          "following_count": 971,
+          "like_count": 31910,
+          "listed_count": 19,
+          "media_count": 86,
+          "tweet_count": 20645
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-29T10:50:28.000Z",
+        "description": "我好累",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCvrBt…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCvrBt92om7zhpBsAY6-osIg",
+                "start": 0,
+                "url": "https://t.co/aevkvYC0gT"
+              }
+            ]
+          }
+        },
+        "id": "1222472034740867072",
+        "location": "Taiwan",
+        "name": "阿育",
+        "pinned_tweet_id": "1284349111798427649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852372221618266112/bkmaQIp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 796,
+          "like_count": 83343,
+          "listed_count": 4,
+          "media_count": 634,
+          "tweet_count": 39218
+        },
+        "url": "https://t.co/aevkvYC0gT",
+        "username": "gavuriru6950",
+        "verified": false
+      }
+    ]
+  }
+}

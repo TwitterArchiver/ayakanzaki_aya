@@ -1,0 +1,231 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1803931208528568376",
+    "created_at": "2024-06-23T05:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T06:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804752361644028119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397109448406044677",
+          "start": 0,
+          "username": "ChakoVtuber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804752361644028119",
+    "in_reply_to_user_id": "1397109448406044677",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804250695450931378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChakoVtuber 我看了好久才看出來哪裡不對 草www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1803931208528568376",
+        "created_at": "2024-06-23T05:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T06:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804752361644028119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397109448406044677",
+              "start": 0,
+              "username": "ChakoVtuber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804752361644028119",
+        "in_reply_to_user_id": "1397109448406044677",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804250695450931378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChakoVtuber 我看了好久才看出來哪裡不對 草www"
+      },
+      {
+        "attachments": {},
+        "author_id": "1397109448406044677",
+        "conversation_id": "1803931208528568376",
+        "created_at": "2024-06-21T20:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T21:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804250695450931378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804250695450931378",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803931208528568376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 總有一天會誤擊必反"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3892,
+          "following_count": 993,
+          "like_count": 24563,
+          "listed_count": 10,
+          "tweet_count": 14073
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-25T08:37:20.000Z",
+        "description": "棉花糖https://t.co/3WrTpVQZdU… 合作邀約私訊本帳即可/ 年齡不詳但幻化的外觀是20歲柴犬少女.🐾 🐾語言：中台英⭕️日韓⚠️ 學習🧡理性💛廚娘❤繪圖.雜談.減肥系V",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/chakovtuber?ut",
+                "end": 26,
+                "expanded_url": "http://marshmallow-qa.com/chakovtuber?ut",
+                "start": 3,
+                "url": "https://t.co/3WrTpVQZdU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chakovtuber?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chakovtuber?si=ZQR5B6IzRrJE_A6E",
+                "start": 0,
+                "url": "https://t.co/4ldVLbTv18"
+              }
+            ]
+          }
+        },
+        "id": "1397109448406044677",
+        "location": "神社",
+        "name": "⛩.柴可🐕🐾",
+        "pinned_tweet_id": "1775129635313070300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587381654716194816/2GeebvaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3996,
+          "following_count": 630,
+          "like_count": 13682,
+          "listed_count": 20,
+          "tweet_count": 13513
+        },
+        "url": "https://t.co/4ldVLbTv18",
+        "username": "ChakoVtuber",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1896376018551943666",
+    "created_at": "2025-03-12T13:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T14:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899811396566581658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617594270088843264",
+          "start": 0,
+          "username": "AsakuraKaren31A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899811396566581658",
+    "in_reply_to_user_id": "1617594270088843264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897225529159508063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsakuraKaren31A 是又怎樣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_1897225513875439616",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GlRMjY1agAAmIQ-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GlRMjY1agAAmIQ-.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1896376018551943666",
+        "created_at": "2025-03-12T13:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T14:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899811396566581658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617594270088843264",
+              "start": 0,
+              "username": "AsakuraKaren31A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899811396566581658",
+        "in_reply_to_user_id": "1617594270088843264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897225529159508063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsakuraKaren31A 是又怎樣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1897225513875439616"
+          ]
+        },
+        "author_id": "1617594270088843264",
+        "conversation_id": "1896376018551943666",
+        "created_at": "2025-03-05T09:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T10:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897225529159508063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCXtz32E67",
+              "end": 39,
+              "expanded_url": "https://x.com/AsakuraKaren31A/status/1897225529159508063/photo/1",
+              "media_key": "16_1897225513875439616",
+              "start": 16,
+              "url": "https://t.co/fCXtz32E67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897225529159508063",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897196130863341722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/fCXtz32E67"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6498,
+          "following_count": 981,
+          "like_count": 29577,
+          "listed_count": 18,
+          "media_count": 129,
+          "tweet_count": 19093
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T18:45:36.000Z",
+        "description": "大家好，我是可愛的小萌貓，朝倉可憐🤗 你們可以稱呼我可憐或憐憐，很高興能認識大家喵💕",
+        "id": "1617594270088843264",
+        "location": "緋染天空",
+        "name": "朝倉可憐 あさくら かれん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898389144101076993/tHTqKpoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 84,
+          "like_count": 1642,
+          "listed_count": 0,
+          "media_count": 502,
+          "tweet_count": 4783
+        },
+        "username": "AsakuraKaren31A",
+        "verified": false
+      }
+    ]
+  }
+}

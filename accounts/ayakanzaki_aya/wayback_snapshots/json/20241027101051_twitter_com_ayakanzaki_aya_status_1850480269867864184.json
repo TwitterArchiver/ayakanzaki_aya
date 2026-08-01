@@ -1,0 +1,173 @@
+{
+  "data": {
+    "author_id": "1499470341734907907",
+    "conversation_id": "1849052799348162615",
+    "created_at": "2024-10-27T10:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T11:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850480269867864184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1277983934135975940",
+          "start": 0,
+          "username": "ruwayhsu"
+        }
+      ]
+    },
+    "id": "1850480269867864184",
+    "in_reply_to_user_id": "1277983934135975940",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849163193370951874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruwayhsu 恭喜你喜提額外禮包（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1499470341734907907",
+        "conversation_id": "1849052799348162615",
+        "created_at": "2024-10-27T10:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T11:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850480269867864184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1277983934135975940",
+              "start": 0,
+              "username": "ruwayhsu"
+            }
+          ]
+        },
+        "id": "1850480269867864184",
+        "in_reply_to_user_id": "1277983934135975940",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849163193370951874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruwayhsu 恭喜你喜提額外禮包（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1857345709181178184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4237,
+          "following_count": 981,
+          "like_count": 27358,
+          "listed_count": 10,
+          "media_count": 115,
+          "tweet_count": 16930
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T15:15:15.000Z",
+        "description": "嘟嘟嘟～重新整頓中，請稍候再播，8964天安門事件機器人護身符\n台v屆osu!std滑鼠玩家5位排名第一人\nmore introductions: https://t.co/o3JHbiH32z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/ruwayhsu/…",
+                "end": 97,
+                "expanded_url": "https://sites.google.com/view/ruwayhsu/%E9%A6%96%E9%A0%81",
+                "start": 74,
+                "url": "https://t.co/o3JHbiH32z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/ruwayhsu",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/ruwayhsu",
+                "start": 0,
+                "url": "https://t.co/kBeQBpQFKN"
+              }
+            ]
+          }
+        },
+        "id": "1277983934135975940",
+        "location": "台中市, 大甲區",
+        "name": "滷滷熊熊RuwayHsu루루셩셩 整頓中",
+        "pinned_tweet_id": "1823987019711963433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845901105131409409/Ioj7gHA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 905,
+          "like_count": 20378,
+          "listed_count": 9,
+          "media_count": 1651,
+          "tweet_count": 15414
+        },
+        "url": "https://t.co/kBeQBpQFKN",
+        "username": "ruwayhsu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2046858676560929131",
+    "created_at": "2026-04-23T05:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047179145608667336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1593790986072702976",
+          "start": 0,
+          "username": "mocha8_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047179145608667336",
+    "in_reply_to_user_id": "1593790986072702976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046903168450404459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mocha8_8 謝謝摩卡一直以來的支持！看我好久了www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-23T05:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047179145608667336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1593790986072702976",
+              "start": 0,
+              "username": "mocha8_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047179145608667336",
+        "in_reply_to_user_id": "1593790986072702976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046903168450404459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mocha8_8 謝謝摩卡一直以來的支持！看我好久了www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593790986072702976",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-22T10:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046903168450404459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046903168450404459",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046858676560929131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我喜歡aya\n恭喜9000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9105,
+          "following_count": 985,
+          "like_count": 32666,
+          "listed_count": 22,
+          "media_count": 91,
+          "tweet_count": 21280
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:20:06.000Z",
+        "description": "■我的藍蝴蝶 @mocha8-8.bsky.social\n■藍蝴蝶新手拓荒包 \n有台V的動態源, 也有創作者的動態源, 還有創作委託\nhttps://t.co/AJ9KciYw7e\n■橫幅感謝晞西爾幫忙繪製 @seashell0915",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "mocha8"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "seashell0915"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hunter…",
+                "end": 90,
+                "expanded_url": "http://bsky.app/profile/huntermilo.bsky.social/post/3l6sfzt744d2y",
+                "start": 67,
+                "url": "https://t.co/AJ9KciYw7e"
+              }
+            ]
+          }
+        },
+        "id": "1593790986072702976",
+        "location": "地球",
+        "name": "摩卡零零機☕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871177192149061632/d4p9paQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 898,
+          "like_count": 92849,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 17807
+        },
+        "username": "mocha8_8",
+        "verified": false
+      }
+    ]
+  }
+}

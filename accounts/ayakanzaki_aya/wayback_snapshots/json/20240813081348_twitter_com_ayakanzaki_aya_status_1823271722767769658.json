@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1822932386683728219",
+    "created_at": "2024-08-13T08:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T09:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823271722767769658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "421828043",
+          "start": 0,
+          "username": "Inumura_Aru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823271722767769658",
+    "in_reply_to_user_id": "421828043",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822937549205348845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inumura_Aru 嗚嗚嗚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1822932386683728219",
+        "created_at": "2024-08-13T08:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T09:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823271722767769658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "421828043",
+              "start": 0,
+              "username": "Inumura_Aru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823271722767769658",
+        "in_reply_to_user_id": "421828043",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822937549205348845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inumura_Aru 嗚嗚嗚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "421828043",
+        "conversation_id": "1822932386683728219",
+        "created_at": "2024-08-12T10:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T11:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822937549205348845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822937549205348845",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822932386683728219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 讓世界感受痛苦（戴上小鬍子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 998,
+          "like_count": 25534,
+          "listed_count": 10,
+          "tweet_count": 15009
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-26T12:42:38.000Z",
+        "description": "INTJ-A｜犬系男子｜生誕日 3月27日牡羊｜台灣華語＆日本語⭕｜illus&Logo&Live2D 自製｜FA #犬村的希望 ｜精華 #犬村的寶藏｜週表 #值班表 ｜直播通知 #值勤中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "犬村的希望"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "tag": "犬村的寶藏"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "值班表"
+              },
+              {
+                "end": 94,
+                "start": 90,
+                "tag": "值勤中"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/aruinumura",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/aruinumura",
+                "start": 0,
+                "url": "https://t.co/6d2wdsSrBo"
+              }
+            ]
+          }
+        },
+        "id": "421828043",
+        "location": "Taiwan",
+        "name": "Aru 犬村アル｜台灣Vtuber｜極簡",
+        "pinned_tweet_id": "1822959400937763064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807814788615114752/XistvI64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 528,
+          "like_count": 48038,
+          "listed_count": 38,
+          "tweet_count": 16498
+        },
+        "url": "https://t.co/6d2wdsSrBo",
+        "username": "Inumura_Aru",
+        "verified": false
+      }
+    ]
+  }
+}

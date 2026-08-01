@@ -1,0 +1,199 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1642125628726992897",
+    "created_at": "2023-04-01T12:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-01T12:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1642136571242487808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1399595922682642432",
+          "start": 0,
+          "username": "mxchi_tenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1642136571242487808",
+    "in_reply_to_user_id": "1399595922682642432",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1642136217990070272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxchi_tenshi 但是我不會出道_(:3 」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1642125628726992897",
+        "created_at": "2023-04-01T12:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-01T12:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1642136571242487808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1399595922682642432",
+              "start": 0,
+              "username": "mxchi_tenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1642136571242487808",
+        "in_reply_to_user_id": "1399595922682642432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1642136217990070272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxchi_tenshi 但是我不會出道_(:3 」∠)_"
+      },
+      {
+        "attachments": {},
+        "author_id": "1399595922682642432",
+        "conversation_id": "1642125628726992897",
+        "created_at": "2023-04-01T12:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-01T12:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1642136217990070272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1642136217990070272",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1642125628726992897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 要是Aya 出道我會推爆_(:3 」∠)_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "✧神崎あやKanzaki Aya✧｜學生/女的/畫圖/中文超爛｜努力尋找自我🐾｜委託相關請點下方連結🪴｜我婆@Dacodaco_426🐣｜よろしくね⸜(* ॑꒳ ॑* )⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "Dacodaco_426"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki0224.wixsite.com/ayadesu",
+                "end": 23,
+                "expanded_url": "https://ayakanzaki0224.wixsite.com/ayadesu",
+                "start": 0,
+                "url": "https://t.co/5d3aNRmx4n"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya✧",
+        "pinned_tweet_id": "1631086705301225472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631459651970650119/7D1yV38E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 361,
+          "listed_count": 2,
+          "tweet_count": 1717
+        },
+        "url": "https://t.co/5d3aNRmx4n",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-01T05:17:34.000Z",
+        "description": "。",
+        "id": "1399595922682642432",
+        "location": "w",
+        "name": "裟ㄕㄚ",
+        "pinned_tweet_id": "1577153929569132544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600264958000107522/_HeYYKhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 722,
+          "listed_count": 1,
+          "tweet_count": 2277
+        },
+        "username": "mxchi_tenshi",
+        "verified": false
+      }
+    ]
+  }
+}

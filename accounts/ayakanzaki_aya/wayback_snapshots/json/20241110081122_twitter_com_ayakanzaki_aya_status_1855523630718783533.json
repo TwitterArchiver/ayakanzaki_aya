@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1855156753987518815",
+    "created_at": "2024-11-10T08:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T09:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855523630718783533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1315632448500236288",
+          "start": 0,
+          "username": "chao_yun_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855523630718783533",
+    "in_reply_to_user_id": "1315632448500236288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855225736225042659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chao_yun_ 披薩店裡的花瓶🏺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1855156753987518815",
+        "created_at": "2024-11-10T08:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T09:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855523630718783533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1315632448500236288",
+              "start": 0,
+              "username": "chao_yun_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855523630718783533",
+        "in_reply_to_user_id": "1315632448500236288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855225736225042659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chao_yun_ 披薩店裡的花瓶🏺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315632448500236288",
+        "conversation_id": "1855156753987518815",
+        "created_at": "2024-11-09T12:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T13:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855225736225042659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855225736225042659",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855156753987518815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 專注力全部放在後面的花瓶（盯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1851840833923764641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4235,
+          "following_count": 980,
+          "like_count": 27020,
+          "listed_count": 10,
+          "tweet_count": 16568
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T12:36:42.000Z",
+        "description": "17、是個學生，整天口牙糸崩，推們：水縹そまる/小雪 /花芽すみれ，そま的聲音真的很可愛、歌回每一天都要聽，深坑一堆遊戲，先這樣.",
+        "id": "1315632448500236288",
+        "name": "chao🧊❄️👾💤",
+        "pinned_tweet_id": "1561374902535434240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843546453484154883/BBQ9a8Jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 350,
+          "like_count": 3117,
+          "listed_count": 1,
+          "tweet_count": 1513
+        },
+        "username": "chao_yun_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2031886438808047641",
+    "created_at": "2026-03-15T05:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T06:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033052033347969348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "742127272291770369",
+          "start": 0,
+          "username": "asa_nox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033052033347969348",
+    "in_reply_to_user_id": "742127272291770369",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032083083382644957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asa_nox thanks for you compliment✨\nI am really glad that there is people like you that admire to my art.(❁´◡`❁)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "16_2032083075031810048",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDNoylFawAANxmz.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDNoylFawAANxmz.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2031886438808047641",
+        "created_at": "2026-03-15T05:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033052033347969348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "742127272291770369",
+              "start": 0,
+              "username": "asa_nox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033052033347969348",
+        "in_reply_to_user_id": "742127272291770369",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032083083382644957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asa_nox thanks for you compliment✨\nI am really glad that there is people like you that admire to my art.(❁´◡`❁)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2032083075031810048"
+          ]
+        },
+        "author_id": "742127272291770369",
+        "conversation_id": "2031886438808047641",
+        "created_at": "2026-03-12T13:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032083083382644957"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 116,
+              "normalized_text": "Aya",
+              "probability": 0.6167,
+              "start": 114,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rE59QUoLdR",
+              "end": 280,
+              "expanded_url": "https://x.com/asa_nox/status/2032083083382644957/photo/1",
+              "media_key": "16_2032083075031810048",
+              "start": 257,
+              "url": "https://t.co/rE59QUoLdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032083083382644957",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031886438808047641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya Congratulations on getting accepted by the university you desired! 😘✨️\n\nI'm deeply happy for you, Aya! 🎉 Go chase your dreams. I really like your digital arts. You have amazing drawing skills! 🎨\n\nYou will become a master of drawing one day. https://t.co/rE59QUoLdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8749,
+          "following_count": 996,
+          "like_count": 32353,
+          "listed_count": 21,
+          "media_count": 105,
+          "tweet_count": 21060
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-12T22:51:44.000Z",
+        "description": "Dread it, Run From it, Destiny Arrives All the Same.\n\nAI, Anime, Crypto, VTuber, 3D Animation, Singing & Language Studying are my interests. 💛",
+        "id": "742127272291770369",
+        "location": "Hope",
+        "name": "godrebel",
+        "pinned_tweet_id": "1766564718280360191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830959294260658176/j95Rcrgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 3023,
+          "like_count": 133261,
+          "listed_count": 2,
+          "media_count": 1607,
+          "tweet_count": 26746
+        },
+        "username": "asa_nox",
+        "verified": false
+      }
+    ]
+  }
+}

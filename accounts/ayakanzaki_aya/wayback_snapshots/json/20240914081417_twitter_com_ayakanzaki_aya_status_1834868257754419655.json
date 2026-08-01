@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1834089434255401241",
+    "created_at": "2024-09-14T08:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T09:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834868257754419655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1451505814032642048",
+          "start": 0,
+          "username": "YukoriSango"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834868257754419655",
+    "in_reply_to_user_id": "1451505814032642048",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834430787963552000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukoriSango 選你正解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1834089434255401241",
+        "created_at": "2024-09-14T08:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T09:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834868257754419655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1451505814032642048",
+              "start": 0,
+              "username": "YukoriSango"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834868257754419655",
+        "in_reply_to_user_id": "1451505814032642048",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834430787963552000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukoriSango 選你正解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451505814032642048",
+        "conversation_id": "1834089434255401241",
+        "created_at": "2024-09-13T03:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T04:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834430787963552000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834430787963552000",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834089434255401241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我都說星期幾😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊イラストの依賴受付中✧ \n┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 82,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 59,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118,
+          "following_count": 983,
+          "like_count": 26111,
+          "listed_count": 9,
+          "tweet_count": 15556
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T11:09:04.000Z",
+        "description": "🇨🇦🇹🇼｜沒有皮2.0準備中\n🌊\n喜歡醫學但非專業\n🌊\n偶有為境界觸發者發瘋的突發性良疾\n◇目前是個無皮在假性暫停活動的Vtuber\n◇社團勢： @enito1211  \n◇ DM➡️推特私訊｜電子郵件：yurisnow950084@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "enito1211"
+              }
+            ]
+          }
+        },
+        "id": "1451505814032642048",
+        "location": "居住在某個社團的魔法之中成長",
+        "name": "織海珊雪🪸 Vtuber 2.0維修準備中",
+        "pinned_tweet_id": "1795468534698434627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706521376453255168/pUtCmwjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 596,
+          "like_count": 17753,
+          "listed_count": 10,
+          "tweet_count": 12974
+        },
+        "username": "YukoriSango",
+        "verified": false
+      }
+    ]
+  }
+}

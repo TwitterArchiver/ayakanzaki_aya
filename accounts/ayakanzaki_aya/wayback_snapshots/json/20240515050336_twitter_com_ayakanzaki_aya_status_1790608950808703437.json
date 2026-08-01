@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1790236202794156287",
+    "created_at": "2024-05-15T05:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T06:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790608950808703437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1300767869504901120",
+          "start": 0,
+          "username": "queen_freesia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790608950808703437",
+    "in_reply_to_user_id": "1300767869504901120",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790287679491621163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@queen_freesia 484！！！（激動"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1790236202794156287",
+        "created_at": "2024-05-15T05:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T06:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790608950808703437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1300767869504901120",
+              "start": 0,
+              "username": "queen_freesia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790608950808703437",
+        "in_reply_to_user_id": "1300767869504901120",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790287679491621163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@queen_freesia 484！！！（激動"
+      },
+      {
+        "attachments": {},
+        "author_id": "1300767869504901120",
+        "conversation_id": "1790236202794156287",
+        "created_at": "2024-05-14T07:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T08:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790287679491621163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790287679491621163",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790236202794156287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 太...太刺激了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3784,
+          "following_count": 992,
+          "like_count": 23514,
+          "listed_count": 10,
+          "tweet_count": 13058
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T12:10:14.000Z",
+        "description": "⚠未經同意不可商用、轉載或讓AI學習我的作品！\nDo not commercial use, repose or use AI learning my work without my permission!\n請記得看置頂！💖\n委託請使用推特/IG/FB粉專私訊🌟\n中文&English🆗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Queesia",
+                "end": 23,
+                "expanded_url": "https://lit.link/Queesia",
+                "start": 0,
+                "url": "https://t.co/SKXbW2SE96"
+              }
+            ]
+          }
+        },
+        "id": "1300767869504901120",
+        "location": "我是原創繪手兼世界觀創作者，點擊下方查看我的個人主頁！",
+        "name": "Queesia/小蒼蘭❃課業忙碌緩更中",
+        "pinned_tweet_id": "1741951104643117290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784937233457561600/HqlKxHS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 734,
+          "like_count": 56688,
+          "listed_count": 1,
+          "tweet_count": 26490
+        },
+        "url": "https://t.co/SKXbW2SE96",
+        "username": "queen_freesia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1815455082126913954",
+    "created_at": "2024-07-23T06:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T07:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815638092411273261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1637859109218435072",
+          "start": 0,
+          "username": "Barbatos112213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815638092411273261",
+    "in_reply_to_user_id": "1637859109218435072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815456770208469422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Barbatos112213 那現在可以了吧w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1815455082126913954",
+        "created_at": "2024-07-23T06:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T07:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815638092411273261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1637859109218435072",
+              "start": 0,
+              "username": "Barbatos112213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815638092411273261",
+        "in_reply_to_user_id": "1637859109218435072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815456770208469422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Barbatos112213 那現在可以了吧w"
+      },
+      {
+        "attachments": {},
+        "author_id": "1637859109218435072",
+        "conversation_id": "1815455082126913954",
+        "created_at": "2024-07-22T18:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T19:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815456770208469422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815456770208469422",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815455082126913954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 很遺憾\n這邊剛好是深夜\n所以不能跟你早安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3902,
+          "following_count": 995,
+          "like_count": 25193,
+          "listed_count": 10,
+          "tweet_count": 14677
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T16:50:29.000Z",
+        "description": "身處此世，眾人皆有不同面貌，或喜、或怒、或哀、或樂；此面貌依託於人心，化身千萬，卻又同為一體；吾等亦如此，故吾等自命為千面，既為存於此世之代稱，也作為吾等行為之制約。",
+        "id": "1637859109218435072",
+        "name": "千面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637859336348368896/q9ELqsBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 327,
+          "like_count": 69,
+          "listed_count": 0,
+          "tweet_count": 244
+        },
+        "username": "Barbatos112213",
+        "verified": false
+      }
+    ]
+  }
+}

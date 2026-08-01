@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827627551755325440"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1827627557904130480",
+    "created_at": "2024-08-25T08:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T09:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1827627557904130480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gisyqamlc6",
+          "end": 123,
+          "expanded_url": "https://twitter.com/ayakanzaki_aya/status/1827627557904130480/photo/1",
+          "media_key": "3_1827627551755325440",
+          "start": 100,
+          "url": "https://t.co/GIsYQAMlC6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827627557904130480",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "FF的發卡活動結束啦～\n感謝我的npc\n感謝來認親的大家\n還有感謝願意拿卡片的你們✨\n如果有下次的話希望能夠親手把卡交給你們(*¯︶¯*)\n真的很謝謝你們辣💜\n\n（附圖是我畫認親卡的時候順便拍的哈哈 https://t.co/GIsYQAMlC6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1827627551755325440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV0JkzwX0AA7BL2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827627551755325440"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1827627557904130480",
+        "created_at": "2024-08-25T08:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T09:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827627557904130480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gisyqamlc6",
+              "end": 123,
+              "expanded_url": "https://twitter.com/ayakanzaki_aya/status/1827627557904130480/photo/1",
+              "media_key": "3_1827627551755325440",
+              "start": 100,
+              "url": "https://t.co/GIsYQAMlC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827627557904130480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "FF的發卡活動結束啦～\n感謝我的npc\n感謝來認親的大家\n還有感謝願意拿卡片的你們✨\n如果有下次的話希望能夠親手把卡交給你們(*¯︶¯*)\n真的很謝謝你們辣💜\n\n（附圖是我畫認親卡的時候順便拍的哈哈 https://t.co/GIsYQAMlC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3917,
+          "following_count": 979,
+          "like_count": 25693,
+          "listed_count": 10,
+          "tweet_count": 15168
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

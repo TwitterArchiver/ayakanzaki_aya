@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2039947205075722466",
+    "created_at": "2026-04-03T14:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040075297551237263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1586989508179808256",
+          "start": 0,
+          "username": "CTU878"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040075297551237263",
+    "in_reply_to_user_id": "1586989508179808256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040013633292550645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CTU878 可以但不建議 因為海洋生物會替你把另一半吃掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2039947205075722466",
+        "created_at": "2026-04-03T14:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040075297551237263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1586989508179808256",
+              "start": 0,
+              "username": "CTU878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040075297551237263",
+        "in_reply_to_user_id": "1586989508179808256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040013633292550645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CTU878 可以但不建議 因為海洋生物會替你把另一半吃掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586989508179808256",
+        "conversation_id": "2039947205075722466",
+        "created_at": "2026-04-03T10:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040013633292550645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040013633292550645",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039947205075722466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 龍蝦可以一半拿來吃，一半拿去放生嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2038606993040998570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8888,
+          "following_count": 984,
+          "like_count": 32472,
+          "listed_count": 20,
+          "media_count": 111,
+          "tweet_count": 21160
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T07:52:54.000Z",
+        "description": "一個不太會畫畫的軍武迷：）\n天音旗下軍武系列\n天音系列（海空）\n冰錐系列（陸）\n竜井系列（陸）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/@T.C.U878",
+                "end": 23,
+                "expanded_url": "http://YouTube.com/@T.C.U878",
+                "start": 0,
+                "url": "https://t.co/AHMQhWoc9n"
+              }
+            ]
+          }
+        },
+        "id": "1586989508179808256",
+        "location": "火星 ",
+        "name": "鬼豔878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027854285413949440/bhPomGKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 518,
+          "like_count": 16168,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1293
+        },
+        "url": "https://t.co/AHMQhWoc9n",
+        "username": "CTU878",
+        "verified": false
+      }
+    ]
+  }
+}

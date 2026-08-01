@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1890850853227008007",
+    "created_at": "2025-02-20T08:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T09:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892489916908466660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "846878628650532865",
+          "start": 0,
+          "username": "uuGFGGLXn5aPxGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892489916908466660",
+    "in_reply_to_user_id": "846878628650532865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890994121071886580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuGFGGLXn5aPxGs （看帳戶（沒有啊！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1890850853227008007",
+        "created_at": "2025-02-20T08:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T09:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892489916908466660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "846878628650532865",
+              "start": 0,
+              "username": "uuGFGGLXn5aPxGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892489916908466660",
+        "in_reply_to_user_id": "846878628650532865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890994121071886580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuGFGGLXn5aPxGs （看帳戶（沒有啊！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "846878628650532865",
+        "conversation_id": "1890850853227008007",
+        "created_at": "2025-02-16T05:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T06:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890994121071886580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890994121071886580",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890850853227008007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 錢已經匯完了 \n保證絕不更改"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6245,
+          "following_count": 974,
+          "like_count": 28951,
+          "listed_count": 16,
+          "media_count": 127,
+          "tweet_count": 18463
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-29T00:16:14.000Z",
+        "description": "就是一個大叔 魯魯的 且玻璃心\n不管你主張多麼崇高的理念，只要你的行動有可能造成國民黨再度執政，那就是浪費我的時間。\n不要想著成為英雄 要想著如何照亮別人\n「戰爭結束後，我就要回鄉下結婚了」\n「我才不跟可能是兇手的人待在同一地方，我要先回房了」\n自認未達女性主義者標準 還請不要指教盡速離開",
+        "id": "846878628650532865",
+        "name": "☆㊣↖煞气a一事無成高端打三劑的大魯叔↘㊣☆",
+        "pinned_tweet_id": "1814868077391323284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566772289613754368/3aMQDIIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 1585,
+          "like_count": 219234,
+          "listed_count": 11,
+          "media_count": 6410,
+          "tweet_count": 34846
+        },
+        "username": "uuGFGGLXn5aPxGs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2041536373954314659",
+    "created_at": "2026-04-09T03:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042087053114884444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364153542534029314",
+          "start": 0,
+          "username": "haroldla0610"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042087053114884444",
+    "in_reply_to_user_id": "1364153542534029314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041541273103057142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haroldla0610 這個我知道( ⓛ ω ⓛ *)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2041536373954314659",
+        "created_at": "2026-04-09T03:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042087053114884444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1364153542534029314",
+              "start": 0,
+              "username": "haroldla0610"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042087053114884444",
+        "in_reply_to_user_id": "1364153542534029314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041541273103057142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haroldla0610 這個我知道( ⓛ ω ⓛ *)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364153542534029314",
+        "conversation_id": "2041536373954314659",
+        "created_at": "2026-04-07T15:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041541273103057142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041541273103057142",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1480,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041536373954314659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 那我講直接一點\n阿雅你是我的神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2038606993040998570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8869,
+          "following_count": 983,
+          "like_count": 32607,
+          "listed_count": 21,
+          "media_count": 106,
+          "tweet_count": 21229
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-23T10:02:20.000Z",
+        "description": "一個沒事看看台的DD",
+        "id": "1364153542534029314",
+        "name": "死靈王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364153763670360068/BKvPEP7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 1337,
+          "like_count": 71966,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 3625
+        },
+        "username": "haroldla0610",
+        "verified": false
+      }
+    ]
+  }
+}

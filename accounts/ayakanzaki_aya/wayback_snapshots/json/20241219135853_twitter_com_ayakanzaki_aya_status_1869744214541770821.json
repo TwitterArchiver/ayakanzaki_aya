@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1868713068475334887",
+    "created_at": "2024-12-19T13:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T14:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869744214541770821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2315538595",
+          "start": 0,
+          "username": "s89220s82220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869744214541770821",
+    "in_reply_to_user_id": "2315538595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869288863014986166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s89220s82220 這就是廢文的威力！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1868713068475334887",
+        "created_at": "2024-12-19T13:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T14:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869744214541770821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2315538595",
+              "start": 0,
+              "username": "s89220s82220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869744214541770821",
+        "in_reply_to_user_id": "2315538595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869288863014986166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s89220s82220 這就是廢文的威力！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2315538595",
+        "conversation_id": "1868713068475334887",
+        "created_at": "2024-12-18T07:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T08:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869288863014986166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869288863014986166",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868713068475334887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 嗯，我看到你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4253,
+          "following_count": 982,
+          "like_count": 27519,
+          "listed_count": 10,
+          "media_count": 116,
+          "tweet_count": 17097
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-28T13:50:46.000Z",
+        "description": "",
+        "id": "2315538595",
+        "name": "ㄚ殃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681305416515620864/xoPEq3SD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 257,
+          "like_count": 10721,
+          "listed_count": 13,
+          "media_count": 56,
+          "tweet_count": 6162
+        },
+        "username": "s89220s82220",
+        "verified": false
+      }
+    ]
+  }
+}

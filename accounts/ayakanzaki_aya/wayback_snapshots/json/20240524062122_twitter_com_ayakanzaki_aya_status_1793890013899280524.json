@@ -1,0 +1,252 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1793610942900842905",
+    "created_at": "2024-05-24T06:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T07:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793890013899280524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "817280197217034241",
+          "start": 0,
+          "username": "Shoueki0307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793890013899280524",
+    "in_reply_to_user_id": "817280197217034241",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793614878919569717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shoueki0307 他可能會覺得這個世界真奇妙\n（海綿寶寶彩虹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1793610942900842905",
+        "created_at": "2024-05-24T06:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T07:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793890013899280524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "817280197217034241",
+              "start": 0,
+              "username": "Shoueki0307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793890013899280524",
+        "in_reply_to_user_id": "817280197217034241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793614878919569717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shoueki0307 他可能會覺得這個世界真奇妙\n（海綿寶寶彩虹"
+      },
+      {
+        "attachments": {},
+        "author_id": "817280197217034241",
+        "conversation_id": "1793610942900842905",
+        "created_at": "2024-05-23T12:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T13:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793614878919569717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793614878919569717",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793610942900842905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 他可能覺得引力壞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 993,
+          "like_count": 23700,
+          "listed_count": 10,
+          "tweet_count": 13225
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-06T08:02:38.000Z",
+        "description": "我在2022年底回歸實況主身份（2017開始），歡迎來多跟我互動哦！ 立繪及頭貼:麻齁燒酒 @ma_ho_sho_jo_ twitch: https://t.co/1p6esEdQEL DC: https://t.co/vQOMsZLmPh 棉花糖：https://t.co/sCgyQh1DIb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "ma_ho_sho_jo_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/eric123840307",
+                "end": 92,
+                "expanded_url": "http://twitch.tv/eric123840307",
+                "start": 69,
+                "url": "https://t.co/1p6esEdQEL"
+              },
+              {
+                "display_url": "discord.gg/xzAtt2S",
+                "end": 120,
+                "expanded_url": "http://discord.gg/xzAtt2S",
+                "start": 97,
+                "url": "https://t.co/vQOMsZLmPh"
+              },
+              {
+                "display_url": "reurl.cc/qkQApn",
+                "end": 148,
+                "expanded_url": "http://reurl.cc/qkQApn",
+                "start": 125,
+                "url": "https://t.co/sCgyQh1DIb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/eric123840307",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/eric123840307",
+                "start": 0,
+                "url": "https://t.co/1p6esEdQEL"
+              }
+            ]
+          }
+        },
+        "id": "817280197217034241",
+        "location": "New Taipei City, Taiwan",
+        "name": "小益ショウエキ ⚾️實況主｜歡迎聯動",
+        "pinned_tweet_id": "1792390543026311347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643498062437023744/5U0c8CFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 1436,
+          "like_count": 53413,
+          "listed_count": 18,
+          "tweet_count": 12227
+        },
+        "url": "https://t.co/1p6esEdQEL",
+        "username": "Shoueki0307",
+        "verified": false
+      }
+    ]
+  }
+}

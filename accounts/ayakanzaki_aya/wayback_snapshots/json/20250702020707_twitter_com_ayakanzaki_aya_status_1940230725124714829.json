@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1939188159432270234",
+    "created_at": "2025-07-02T02:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T03:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940230725124714829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1541358458817380353",
+          "start": 0,
+          "username": "yangkongbai2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940230725124714829",
+    "in_reply_to_user_id": "1541358458817380353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939236169440731578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangkongbai2 沒喝過www 但感覺蠻好玩的www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1939188159432270234",
+        "created_at": "2025-07-02T02:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T03:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940230725124714829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1541358458817380353",
+              "start": 0,
+              "username": "yangkongbai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940230725124714829",
+        "in_reply_to_user_id": "1541358458817380353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939236169440731578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangkongbai2 沒喝過www 但感覺蠻好玩的www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541358458817380353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026568582",
+              "name": "Oreo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026568582",
+              "name": "Oreo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Cookies",
+              "id": "825058563915526145",
+              "name": "Cookies"
+            }
+          }
+        ],
+        "conversation_id": "1939188159432270234",
+        "created_at": "2025-06-29T08:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T09:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939236169440731578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939236169440731578",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939188159432270234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我覺得oreo可樂好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7725,
+          "following_count": 998,
+          "like_count": 31133,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20026
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T09:52:49.000Z",
+        "description": "日本ACG文化好き❤️，絵画の初心者，流暢中国語，英語勉強\n15歳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkgoods.com/kuhakus",
+                "end": 23,
+                "expanded_url": "https://linkgoods.com/kuhakus",
+                "start": 0,
+                "url": "https://t.co/R9P6fYfJZk"
+              }
+            ]
+          }
+        },
+        "id": "1541358458817380353",
+        "location": "住家",
+        "name": "空白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920459278101438464/YBjL3lyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 4132,
+          "like_count": 5594,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/R9P6fYfJZk",
+        "username": "yangkongbai2",
+        "verified": false
+      }
+    ]
+  }
+}

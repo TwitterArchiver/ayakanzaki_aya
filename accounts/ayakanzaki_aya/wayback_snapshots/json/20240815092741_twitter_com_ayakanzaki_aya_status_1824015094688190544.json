@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1822932386683728219",
+    "created_at": "2024-08-15T09:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T10:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824015094688190544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1257945942688329729",
+          "start": 0,
+          "username": "LittleRice1007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824015094688190544",
+    "in_reply_to_user_id": "1257945942688329729",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824011816902766853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleRice1007 我電腦買的是成機 所以配置什麼的我也不太清楚_(:_」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1822932386683728219",
+        "created_at": "2024-08-15T09:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T10:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824015094688190544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1257945942688329729",
+              "start": 0,
+              "username": "LittleRice1007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824015094688190544",
+        "in_reply_to_user_id": "1257945942688329729",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824011816902766853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleRice1007 我電腦買的是成機 所以配置什麼的我也不太清楚_(:_」∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257945942688329729",
+        "conversation_id": "1822932386683728219",
+        "created_at": "2024-08-15T09:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T10:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824011816902766853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824011816902766853",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824011286335656268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya QwQ這部分還要參考一下電腦的配置\n當初我是看到特價，然後容量又夠用就買了(小聲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3909,
+          "following_count": 998,
+          "like_count": 25588,
+          "listed_count": 10,
+          "tweet_count": 15061
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T08:11:14.000Z",
+        "description": "一個懶懶散散的Vtuber\nhttps://t.co/QOPg4mReqs\n\nLogo繪師：上野かみ(@ueno_kami)\n人物形象：升由るむ (@Masuyu_rumu)\n\n星夜の森所屬\n雨漾 @Rainnowing \n銀白 @argentstar183\n貓渕空 @nekobuchi_sora",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ueno_kami"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Masuyu_rumu"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Rainnowing"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "argentstar183"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "nekobuchi_sora"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "link.littlerice.one",
+                "end": 37,
+                "expanded_url": "https://link.littlerice.one",
+                "start": 14,
+                "url": "https://t.co/QOPg4mReqs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.littlerice.one",
+                "end": 23,
+                "expanded_url": "https://link.littlerice.one/",
+                "start": 0,
+                "url": "https://t.co/LbK2mHxT0p"
+              }
+            ]
+          }
+        },
+        "id": "1257945942688329729",
+        "location": "🇹🇼 台灣",
+        "name": "小飯-LittleRice-【星夜之森所屬的應急食品】聯動歡迎",
+        "pinned_tweet_id": "1641978233477550081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741799053728583680/plYrifqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 862,
+          "like_count": 8913,
+          "listed_count": 6,
+          "tweet_count": 10669
+        },
+        "url": "https://t.co/LbK2mHxT0p",
+        "username": "LittleRice1007",
+        "verified": false
+      }
+    ]
+  }
+}

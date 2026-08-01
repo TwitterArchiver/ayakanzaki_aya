@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1861127562740601067",
+    "created_at": "2024-11-29T08:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T09:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862417826532692369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "972711644370317313",
+          "start": 0,
+          "username": "CarveSoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862417826532692369",
+    "in_reply_to_user_id": "972711644370317313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861613119614919086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarveSoul 嗯嗯 很有道理很有道理 但我還是在熬夜（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1861127562740601067",
+        "created_at": "2024-11-29T08:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T09:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862417826532692369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "972711644370317313",
+              "start": 0,
+              "username": "CarveSoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862417826532692369",
+        "in_reply_to_user_id": "972711644370317313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861613119614919086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarveSoul 嗯嗯 很有道理很有道理 但我還是在熬夜（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "972711644370317313",
+        "conversation_id": "1861127562740601067",
+        "created_at": "2024-11-27T03:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T04:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861613119614919086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861613119614919086",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861592838787481853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 那你就努力在2點\n完成作業後開始睡覺吧\n我以前也是那麼早睡的說\n\n現在最早睡的時候大概是\n早上7：30-7：40\n大腦做精神整合 睡10分鐘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1857345709181178184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 981,
+          "like_count": 27250,
+          "listed_count": 10,
+          "media_count": 114,
+          "tweet_count": 16824
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-11T05:51:42.000Z",
+        "description": "nayuta、みもりん、わため、AZKi大好き！",
+        "id": "972711644370317313",
+        "name": "印魂（ソウルカブ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505006562284236800/p5Nftrd9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 180,
+          "like_count": 36755,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 7981
+        },
+        "username": "CarveSoul",
+        "verified": false
+      }
+    ]
+  }
+}

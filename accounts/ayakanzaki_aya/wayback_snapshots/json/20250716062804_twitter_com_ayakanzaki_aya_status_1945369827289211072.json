@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1943973150292586710",
+    "created_at": "2025-07-16T06:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T07:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945369827289211072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1510612222849937411",
+          "start": 0,
+          "username": "roresu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945369827289211072",
+    "in_reply_to_user_id": "1510612222849937411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943975934316752900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roresu2 死去的記憶在攻擊我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1943973150292586710",
+        "created_at": "2025-07-16T06:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945369827289211072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1510612222849937411",
+              "start": 0,
+              "username": "roresu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945369827289211072",
+        "in_reply_to_user_id": "1510612222849937411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943975934316752900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roresu2 死去的記憶在攻擊我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510612222849937411",
+        "conversation_id": "1943973150292586710",
+        "created_at": "2025-07-12T10:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T11:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943975934316752900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943975934316752900",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943973150292586710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 短短四個字彷彿透露了什麼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7836,
+          "following_count": 990,
+          "like_count": 31224,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20088
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T13:37:14.000Z",
+        "description": "",
+        "id": "1510612222849937411",
+        "name": "東原楓業",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929166986044702720/Pl4JkNB2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 2010,
+          "like_count": 41220,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1876
+        },
+        "username": "roresu2",
+        "verified": false
+      }
+    ]
+  }
+}

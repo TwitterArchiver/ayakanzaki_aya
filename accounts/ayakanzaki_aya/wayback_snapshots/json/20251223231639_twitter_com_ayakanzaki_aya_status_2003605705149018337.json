@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2001713495142752498",
+    "created_at": "2025-12-23T23:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T00:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003605705149018337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1365868145106251776",
+          "start": 0,
+          "username": "zerocrow0307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003605705149018337",
+    "in_reply_to_user_id": "1365868145106251776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002212280889692636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerocrow0307 怎麽會！每個人畫圖都很棒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2001713495142752498",
+        "created_at": "2025-12-23T23:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T00:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003605705149018337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1365868145106251776",
+              "start": 0,
+              "username": "zerocrow0307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003605705149018337",
+        "in_reply_to_user_id": "1365868145106251776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002212280889692636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerocrow0307 怎麽會！每個人畫圖都很棒！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365868145106251776",
+        "conversation_id": "2001713495142752498",
+        "created_at": "2025-12-20T02:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T03:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002212280889692636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002212280889692636",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001713495142752498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 在我面前畫圖違法\n因為我會自卑嗚嗚嗚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8469,
+          "following_count": 976,
+          "like_count": 32121,
+          "listed_count": 20,
+          "media_count": 88,
+          "tweet_count": 20868
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-28T03:35:25.000Z",
+        "description": "",
+        "id": "1365868145106251776",
+        "name": "泠鴉吐司邊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919918080798687232/oJTacRgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 63,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "zerocrow0307",
+        "verified": false
+      }
+    ]
+  }
+}

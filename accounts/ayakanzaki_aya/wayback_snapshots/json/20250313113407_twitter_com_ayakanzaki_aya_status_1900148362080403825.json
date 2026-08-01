@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1897570115056701884",
+    "created_at": "2025-03-13T11:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T12:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900148362080403825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1384438944318722050",
+          "start": 0,
+          "username": "Vamp_Hayato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900148362080403825",
+    "in_reply_to_user_id": "1384438944318722050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897635214853296462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vamp_Hayato 帥哥本人都這麼說"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1897570115056701884",
+        "created_at": "2025-03-13T11:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T12:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900148362080403825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1384438944318722050",
+              "start": 0,
+              "username": "Vamp_Hayato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900148362080403825",
+        "in_reply_to_user_id": "1384438944318722050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897635214853296462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vamp_Hayato 帥哥本人都這麼說"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384438944318722050",
+        "conversation_id": "1897570115056701884",
+        "created_at": "2025-03-06T13:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T14:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897635214853296462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897635214853296462",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897632572366041125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 並不是帥哥🙈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6506,
+          "following_count": 981,
+          "like_count": 29601,
+          "listed_count": 18,
+          "media_count": 129,
+          "tweet_count": 19117
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-20T09:29:10.000Z",
+        "description": "想成為一位富豪的吸血鬼教主Vtuber水樹颯斗，正努力尋找一位石油王┆#HayatoVtuber┆棉花糖 https://t.co/mkvqNfBa72",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 35,
+                "tag": "HayatoVtuber"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/vtuber_hayato",
+                "end": 76,
+                "expanded_url": "http://marshmallow-qa.com/vtuber_hayato",
+                "start": 53,
+                "url": "https://t.co/mkvqNfBa72"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/ZjRA93",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/ZjRA93",
+                "start": 0,
+                "url": "https://t.co/XRYhj5GKFe"
+              }
+            ]
+          }
+        },
+        "id": "1384438944318722050",
+        "location": "地下世界",
+        "name": "水樹はやと⚜️Vtuber",
+        "pinned_tweet_id": "1844925685061808294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897569869694152704/GsAIM0Fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 894,
+          "like_count": 24155,
+          "listed_count": 7,
+          "media_count": 1635,
+          "tweet_count": 11177
+        },
+        "url": "https://t.co/XRYhj5GKFe",
+        "username": "Vamp_Hayato",
+        "verified": false
+      }
+    ]
+  }
+}

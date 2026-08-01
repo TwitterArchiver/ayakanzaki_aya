@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1958581826944934251",
+    "created_at": "2025-08-22T11:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T12:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958856786724704472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1359117852385570818",
+          "start": 0,
+          "username": "X1a0sh1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958856786724704472",
+    "in_reply_to_user_id": "1359117852385570818",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958740368306094463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X1a0sh1 ( •̀ ω •́ )✧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1958581826944934251",
+        "created_at": "2025-08-22T11:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958856786724704472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1359117852385570818",
+              "start": 0,
+              "username": "X1a0sh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958856786724704472",
+        "in_reply_to_user_id": "1359117852385570818",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958740368306094463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1a0sh1 ( •̀ ω •́ )✧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359117852385570818",
+        "conversation_id": "1958581826944934251",
+        "created_at": "2025-08-22T03:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T04:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958740368306094463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958740368306094463",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958581826944934251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 難怪畫的那麼精緻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1958347848430342624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8349,
+          "following_count": 998,
+          "like_count": 31562,
+          "listed_count": 19,
+          "media_count": 64,
+          "tweet_count": 20313
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T12:32:10.000Z",
+        "description": "...",
+        "id": "1359117852385570818",
+        "name": "X1aoshi",
+        "pinned_tweet_id": "1919875736359625086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950448211878928384/o9qZPIlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 426,
+          "like_count": 5981,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 115
+        },
+        "username": "X1a0sh1",
+        "verified": false
+      }
+    ]
+  }
+}

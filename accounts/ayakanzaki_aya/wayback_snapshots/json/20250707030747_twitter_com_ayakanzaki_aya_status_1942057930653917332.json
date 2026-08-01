@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941550234758414337",
+        "3_1941550235026595840"
+      ],
+      "media_source_tweet_id": [
+        "1941550243558064549",
+        "1941550243558064549"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1942057930653917332",
+    "created_at": "2025-07-07T03:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T04:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942057930653917332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1156981009763540992",
+          "start": 3,
+          "username": "AuraWithCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NKZZv1u4vb",
+          "end": 60,
+          "expanded_url": "https://x.com/AuraWithCat/status/1941550243558064549/photo/1",
+          "media_key": "3_1941550234758414337",
+          "start": 37,
+          "url": "https://t.co/NKZZv1u4vb"
+        },
+        {
+          "display_url": "pic.x.com/NKZZv1u4vb",
+          "end": 60,
+          "expanded_url": "https://x.com/AuraWithCat/status/1941550243558064549/photo/1",
+          "media_key": "3_1941550235026595840",
+          "start": 37,
+          "url": "https://t.co/NKZZv1u4vb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942057930653917332",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51986
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941550243558064549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AuraWithCat: I see no difference https://t.co/NKZZv1u4vb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_1941550234758414337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvHFpthaAAEWZX_.jpg",
+        "width": 720
+      },
+      {
+        "height": 940,
+        "media_key": "3_1941550235026595840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvHFpuhWIAA-6HA.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941550234758414337",
+            "3_1941550235026595840"
+          ],
+          "media_source_tweet_id": [
+            "1941550243558064549",
+            "1941550243558064549"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1942057930653917332",
+        "created_at": "2025-07-07T03:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T04:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942057930653917332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1156981009763540992",
+              "start": 3,
+              "username": "AuraWithCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKZZv1u4vb",
+              "end": 60,
+              "expanded_url": "https://x.com/AuraWithCat/status/1941550243558064549/photo/1",
+              "media_key": "3_1941550234758414337",
+              "start": 37,
+              "url": "https://t.co/NKZZv1u4vb"
+            },
+            {
+              "display_url": "pic.x.com/NKZZv1u4vb",
+              "end": 60,
+              "expanded_url": "https://x.com/AuraWithCat/status/1941550243558064549/photo/1",
+              "media_key": "3_1941550235026595840",
+              "start": 37,
+              "url": "https://t.co/NKZZv1u4vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942057930653917332",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51986
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941550243558064549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AuraWithCat: I see no difference https://t.co/NKZZv1u4vb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941550234758414337",
+            "3_1941550235026595840"
+          ]
+        },
+        "author_id": "1156981009763540992",
+        "conversation_id": "1941550243558064549",
+        "created_at": "2025-07-05T17:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T18:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941550243558064549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKZZv1u4vb",
+              "end": 43,
+              "expanded_url": "https://x.com/AuraWithCat/status/1941550243558064549/photo/1",
+              "media_key": "3_1941550234758414337",
+              "start": 20,
+              "url": "https://t.co/NKZZv1u4vb"
+            },
+            {
+              "display_url": "pic.x.com/NKZZv1u4vb",
+              "end": 43,
+              "expanded_url": "https://x.com/AuraWithCat/status/1941550243558064549/photo/1",
+              "media_key": "3_1941550235026595840",
+              "start": 20,
+              "url": "https://t.co/NKZZv1u4vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941550243558064549",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22743,
+          "impression_count": 10239870,
+          "like_count": 658535,
+          "quote_count": 853,
+          "reply_count": 570,
+          "retweet_count": 51986
+        },
+        "reply_settings": "everyone",
+        "text": "I see no difference https://t.co/NKZZv1u4vb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7717,
+          "following_count": 990,
+          "like_count": 31189,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20067
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-01T17:32:23.000Z",
+        "description": "These cats with pawerful aura|| we don't own any content || Please Dm for credit ||",
+        "id": "1156981009763540992",
+        "location": "DM for credit/removal",
+        "name": "Cats with pawerful aura",
+        "pinned_tweet_id": "1941854733133877592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903404281807724544/b7vyyYC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469619,
+          "following_count": 3,
+          "like_count": 116,
+          "listed_count": 1113,
+          "media_count": 28086,
+          "tweet_count": 28791
+        },
+        "username": "AuraWithCat",
+        "verified": true
+      }
+    ]
+  }
+}

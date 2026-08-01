@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1644891556631961601",
+    "created_at": "2023-04-09T11:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-09T12:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1645027491055108096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482656390053494784",
+          "start": 0,
+          "username": "gaolicai514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1645027491055108096",
+    "in_reply_to_user_id": "1482656390053494784",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1644986586067795968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaolicai514 哈ψ(｀∇´)ψ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1644891556631961601",
+        "created_at": "2023-04-09T11:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-09T12:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1645027491055108096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482656390053494784",
+              "start": 0,
+              "username": "gaolicai514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1645027491055108096",
+        "in_reply_to_user_id": "1482656390053494784",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644986586067795968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaolicai514 哈ψ(｀∇´)ψ"
+      },
+      {
+        "attachments": {},
+        "author_id": "1482656390053494784",
+        "conversation_id": "1644891556631961601",
+        "created_at": "2023-04-09T08:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-09T09:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1644986586067795968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1644986586067795968",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644891556631961601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 阿雅出息了 我好感動"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "✧神崎あやKanzaki Aya✧｜學生/女的/畫圖/中文超爛｜努力尋找自我🐾｜委託相關請點下方連結🪴｜我婆@Dacodaco_426🐣｜よろしくね⸜(* ॑꒳ ॑* )⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "Dacodaco_426"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki0224.wixsite.com/ayadesu",
+                "end": 23,
+                "expanded_url": "https://ayakanzaki0224.wixsite.com/ayadesu",
+                "start": 0,
+                "url": "https://t.co/5d3aNRmx4n"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya✧",
+        "pinned_tweet_id": "1631086705301225472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631459651970650119/7D1yV38E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 380,
+          "listed_count": 3,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/5d3aNRmx4n",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T10:10:13.000Z",
+        "description": "DC server：https://t.co/Ex2QwzjSf5\n一個無聊會開台聊天的111會考生\n主玩apex minecraft",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/MUMf6J36WJ",
+                "end": 33,
+                "expanded_url": "http://discord.gg/MUMf6J36WJ",
+                "start": 10,
+                "url": "https://t.co/Ex2QwzjSf5"
+              }
+            ]
+          }
+        },
+        "id": "1482656390053494784",
+        "name": "蔬菜我只吃高麗菜 twitch不定時開台",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586955366935379970/8LfiqiKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 177,
+          "listed_count": 0,
+          "tweet_count": 658
+        },
+        "username": "gaolicai514",
+        "verified": false
+      }
+    ]
+  }
+}

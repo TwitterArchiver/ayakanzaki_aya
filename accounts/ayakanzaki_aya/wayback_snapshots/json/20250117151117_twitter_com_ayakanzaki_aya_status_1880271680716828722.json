@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1879067824452428229",
+    "created_at": "2025-01-17T15:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T16:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880271680716828722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1492835977462960133",
+          "start": 0,
+          "username": "agxhhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880271680716828722",
+    "in_reply_to_user_id": "1492835977462960133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879501588689309891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@agxhhg 好爽www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1879067824452428229",
+        "created_at": "2025-01-17T15:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T16:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880271680716828722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1492835977462960133",
+              "start": 0,
+              "username": "agxhhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880271680716828722",
+        "in_reply_to_user_id": "1492835977462960133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879501588689309891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agxhhg 好爽www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492835977462960133",
+        "conversation_id": "1879067824452428229",
+        "created_at": "2025-01-15T12:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T13:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879501588689309891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#台灣Vtuber #艾爾登舞台 #異特龍 #allosaurus #アロサウルス 獸腳亞目告解懺悔投稿：https://forms.gle/jmAMNgAd9sPJN3SR7✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧從岩層中復活的異特龍化石，為了推翻電影對白堊紀物種的偏袒而走上Vtuber之路。✧✧✧✧✧✧...",
+              "display_url": "youtube.com/live/UbFuvDsSL…",
+              "end": 53,
+              "expanded_url": "https://www.youtube.com/live/UbFuvDsSL5Q?si=Ke_GhWNU67IuztMG",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1879501592296357888/Zz95u2yJ?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1879501592296357888/Zz95u2yJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "【繪圖台】周年抽獎頭像開畫囉！【艾爾‧拉普塔斯】",
+              "unwound_url": "https://www.youtube.com/live/UbFuvDsSL5Q?si=Ke_GhWNU67IuztMG",
+              "url": "https://t.co/wMOK5hdUNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879501588689309891",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879479990464794945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我頭像是當時一週年抽到的w\nhttps://t.co/wMOK5hdUNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4273,
+          "following_count": 988,
+          "like_count": 27999,
+          "listed_count": 10,
+          "media_count": 120,
+          "tweet_count": 17585
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T12:20:31.000Z",
+        "description": "自介:安安(〃'▽'〃)\n零音一名業餘V精華剪輯\n喜歡到處DD 時常有天馬行空的創意重度妹控\n喜歡廣泛交友ヽ( ° ▽°)ノ再來V的方面\n目前是還沒好 好了會再說的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@dd.ch.4073?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@dd.ch.4073?si=SbnPfqSjY7XUf9t1",
+                "start": 0,
+                "url": "https://t.co/wgyEO0BHge"
+              }
+            ]
+          }
+        },
+        "id": "1492835977462960133",
+        "name": "冰零音一定不PON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805592967815872513/LrOe_KSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 3132,
+          "like_count": 21012,
+          "listed_count": 2,
+          "media_count": 775,
+          "tweet_count": 4399
+        },
+        "url": "https://t.co/wgyEO0BHge",
+        "username": "agxhhg",
+        "verified": false
+      }
+    ]
+  }
+}

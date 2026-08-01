@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2059154368025211079",
+    "created_at": "2026-05-26T11:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059236371265376458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1684115555425427456",
+          "start": 0,
+          "username": "weiwei_channel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059236371265376458",
+    "in_reply_to_user_id": "1684115555425427456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059166999696331029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiwei_channel 晚安～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2059154368025211079",
+        "created_at": "2026-05-26T11:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059236371265376458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684115555425427456",
+              "start": 0,
+              "username": "weiwei_channel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059236371265376458",
+        "in_reply_to_user_id": "1684115555425427456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059166999696331029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiwei_channel 晚安～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684115555425427456",
+        "conversation_id": "2059154368025211079",
+        "created_at": "2026-05-26T06:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059166999696331029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059166999696331029",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059154368025211079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "気づいてくれてありがと。\n高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH┊FANBOX：https://t.co/yhbghbkFby",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 51,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 105,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 82,
+                "url": "https://t.co/yhbghbkFby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2058393230731829716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9522,
+          "following_count": 970,
+          "like_count": 32799,
+          "listed_count": 22,
+          "media_count": 87,
+          "tweet_count": 21391
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T08:17:28.000Z",
+        "description": "こんYami香港深圳日本在住学生歌手配信者ウェイウェイ.はるひ在阿byt图奇和大家唱歌聊天   游戏玩家 番组企划讲四种语言よろしくね 粉丝名字/#weiqi 让我知道 /#live生放送/绘画 /#玮大画作\n 家https://t.co/bCqJ9EWaTm 联动合作：weiweichannel684@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "weiqi"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "tag": "live生放送"
+              },
+              {
+                "end": 104,
+                "start": 99,
+                "tag": "玮大画作"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/LpkjT7",
+                "end": 130,
+                "expanded_url": "https://b23.tv/LpkjT7",
+                "start": 107,
+                "url": "https://t.co/bCqJ9EWaTm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@weiweichannel…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@weiweichannel684?si=cKpTjvSBnNi-RYuj",
+                "start": 0,
+                "url": "https://t.co/lHGmrsWLEx"
+              }
+            ]
+          }
+        },
+        "id": "1684115555425427456",
+        "location": "哔哩哔哩/YouTube/🇭🇰🇨🇳/🇯🇵",
+        "name": "玮玮.はるひ9月回归Vtuber🦊🐻🔧👑🌲🎨🌽🍙🎵📀🎤🎮💬🎸3/9诞生日",
+        "pinned_tweet_id": "2058907727452401930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053399508315426816/kqyRFn3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 3256,
+          "like_count": 4769,
+          "listed_count": 2,
+          "media_count": 593,
+          "tweet_count": 4497
+        },
+        "url": "https://t.co/lHGmrsWLEx",
+        "username": "weiwei_channel",
+        "verified": false
+      }
+    ]
+  }
+}

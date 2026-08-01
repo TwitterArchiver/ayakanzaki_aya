@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2049736337884958946",
+    "created_at": "2026-04-30T06:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T07:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049736337884958946"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049736337884958946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你説的哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2049736337884958946",
+        "created_at": "2026-04-30T06:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049736337884958946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049736337884958946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你説的哦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊Pixiv：https://t.co/Aqt4Xw88YH┊FANBOX：https://t.co/yhbghbkFby",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 63,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 40,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 94,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 71,
+                "url": "https://t.co/yhbghbkFby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9254,
+          "following_count": 969,
+          "like_count": 32788,
+          "listed_count": 22,
+          "media_count": 84,
+          "tweet_count": 21328
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

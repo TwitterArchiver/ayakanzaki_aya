@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990013245164523520"
+      ],
+      "media_source_tweet_id": [
+        "1990014612528586774"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese actress, voice actress and singer",
+          "id": "1070715913148612614",
+          "name": "Inori Minase"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070722402114392065",
+          "name": "Mutsumi Tamura"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese actress, voice actress and singer",
+          "id": "1070715913148612614",
+          "name": "Inori Minase"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070722402114392065",
+          "name": "Mutsumi Tamura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese actress, voice actress and singer",
+          "id": "1070715913148612614",
+          "name": "Inori Minase"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070722402114392065",
+          "name": "Mutsumi Tamura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "1990239740998926434",
+    "created_at": "2025-11-17T02:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990239740998926434"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "死亡遊戯"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1554025146645884930",
+          "start": 3,
+          "username": "shibouyugi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/92D7OC4lDB",
+          "end": 93,
+          "expanded_url": "https://x.com/shibouyugi_/status/1990014612528586774/photo/1",
+          "media_key": "3_1990013245164523520",
+          "start": 70,
+          "url": "https://t.co/92D7OC4lDB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990239740998926434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 536
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990014612528586774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shibouyugi_: 自らの運命を、幽鬼はまだ、知らない。\n\n『死亡遊戯で飯を食う。9』2026年1月23日発売。\n#死亡遊戯 https://t.co/92D7OC4lDB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2054,
+        "media_key": "3_1990013245164523520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53ygMBakAAzANm.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990013245164523520"
+          ],
+          "media_source_tweet_id": [
+            "1990014612528586774"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715913148612614",
+              "name": "Inori Minase"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722402114392065",
+              "name": "Mutsumi Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715913148612614",
+              "name": "Inori Minase"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722402114392065",
+              "name": "Mutsumi Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715913148612614",
+              "name": "Inori Minase"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722402114392065",
+              "name": "Mutsumi Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1990239740998926434",
+        "created_at": "2025-11-17T02:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990239740998926434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "死亡遊戯"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1554025146645884930",
+              "start": 3,
+              "username": "shibouyugi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92D7OC4lDB",
+              "end": 93,
+              "expanded_url": "https://x.com/shibouyugi_/status/1990014612528586774/photo/1",
+              "media_key": "3_1990013245164523520",
+              "start": 70,
+              "url": "https://t.co/92D7OC4lDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990239740998926434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 536
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990014612528586774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shibouyugi_: 自らの運命を、幽鬼はまだ、知らない。\n\n『死亡遊戯で飯を食う。9』2026年1月23日発売。\n#死亡遊戯 https://t.co/92D7OC4lDB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990013245164523520"
+          ]
+        },
+        "author_id": "1554025146645884930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715913148612614",
+              "name": "Inori Minase"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722402114392065",
+              "name": "Mutsumi Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715913148612614",
+              "name": "Inori Minase"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722402114392065",
+              "name": "Mutsumi Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715913148612614",
+              "name": "Inori Minase"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722402114392065",
+              "name": "Mutsumi Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1990014612528586774",
+        "created_at": "2025-11-16T11:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990014612528586774"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "死亡遊戯"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92D7OC4lDB",
+              "end": 76,
+              "expanded_url": "https://x.com/shibouyugi_/status/1990014612528586774/photo/1",
+              "media_key": "3_1990013245164523520",
+              "start": 53,
+              "url": "https://t.co/92D7OC4lDB"
+            },
+            {
+              "display_url": "x.com/shibouyugi_/st…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/shibouyugi_/status/1989936965358342318",
+              "start": 77,
+              "url": "https://t.co/rd5HdXZhDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990014612528586774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 432,
+          "impression_count": 115220,
+          "like_count": 3023,
+          "quote_count": 73,
+          "reply_count": 32,
+          "retweet_count": 536
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989936965358342318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自らの運命を、幽鬼はまだ、知らない。\n\n『死亡遊戯で飯を食う。9』2026年1月23日発売。\n#死亡遊戯 https://t.co/92D7OC4lDB https://t.co/rd5HdXZhDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8412,
+          "following_count": 974,
+          "like_count": 31960,
+          "listed_count": 20,
+          "media_count": 87,
+          "tweet_count": 20706
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T08:45:01.000Z",
+        "description": "「死亡遊戯で飯を食う。」公式アカウント\nアニメ➤2026年1月放送・配信開始\n原作➤鵜飼有志×ねこめたる：最新第8巻『このライトノベルがすごい！2024』新作1位 https://t.co/PeT18jOIPF\nコミック➤万歳寿大宴会：最新第3巻。コンプエースで連載中 https://t.co/ImzQvEdhXU\nタグ➤#死亡遊戯",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 167,
+                "start": 162,
+                "tag": "死亡遊戯"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/gensaku",
+                "end": 105,
+                "expanded_url": "https://x.gd/gensaku",
+                "start": 82,
+                "url": "https://t.co/PeT18jOIPF"
+              },
+              {
+                "display_url": "x.gd/comics",
+                "end": 158,
+                "expanded_url": "https://x.gd/comics",
+                "start": 135,
+                "url": "https://t.co/ImzQvEdhXU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiboyugi-anime.com",
+                "end": 23,
+                "expanded_url": "http://shiboyugi-anime.com",
+                "start": 0,
+                "url": "https://t.co/miuZgZV2GX"
+              }
+            ]
+          }
+        },
+        "id": "1554025146645884930",
+        "location": "これは、とあるいかれた世界の話。",
+        "name": "『死亡遊戯で飯を食う。』公式",
+        "pinned_tweet_id": "1989936965358342318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948940811200331778/qocaS70G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35917,
+          "following_count": 21,
+          "like_count": 24895,
+          "listed_count": 112,
+          "media_count": 1423,
+          "tweet_count": 5152
+        },
+        "url": "https://t.co/miuZgZV2GX",
+        "username": "shibouyugi_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1793706417750503857",
+    "created_at": "2024-05-25T05:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T06:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794234261954007050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3172439215",
+          "start": 0,
+          "username": "ben20277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794234261954007050",
+    "in_reply_to_user_id": "3172439215",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793732633786208733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ben20277 雙眼無神ˊ_&gt;ˋ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1793706417750503857",
+        "created_at": "2024-05-25T05:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T06:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794234261954007050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3172439215",
+              "start": 0,
+              "username": "ben20277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794234261954007050",
+        "in_reply_to_user_id": "3172439215",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793732633786208733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ben20277 雙眼無神ˊ_&gt;ˋ"
+      },
+      {
+        "attachments": {},
+        "author_id": "3172439215",
+        "conversation_id": "1793706417750503857",
+        "created_at": "2024-05-23T19:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T20:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793732633786208733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793732633786208733",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793706417750503857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 那個眼神有在疲倦喔😪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 993,
+          "like_count": 23726,
+          "listed_count": 10,
+          "tweet_count": 13253
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-25T15:49:20.000Z",
+        "description": "潛伏於多個實況台 不專業DD  主推子午計畫!!",
+        "id": "3172439215",
+        "name": "鷹二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/591993800416841728/7BFkQjgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 726,
+          "like_count": 61125,
+          "listed_count": 0,
+          "tweet_count": 3174
+        },
+        "username": "ben20277",
+        "verified": false
+      }
+    ]
+  }
+}

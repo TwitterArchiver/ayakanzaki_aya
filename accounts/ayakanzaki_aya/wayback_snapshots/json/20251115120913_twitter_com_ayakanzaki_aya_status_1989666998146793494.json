@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1988405879289655360",
+    "created_at": "2025-11-15T12:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T13:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989666998146793494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1365557056741068800",
+          "start": 0,
+          "username": "riolionrock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989666998146793494",
+    "in_reply_to_user_id": "1365557056741068800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988419962483208450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riolionrock 沒有要回香港的打算啦嗚嗚嗚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1988405879289655360",
+        "created_at": "2025-11-15T12:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989666998146793494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1365557056741068800",
+              "start": 0,
+              "username": "riolionrock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989666998146793494",
+        "in_reply_to_user_id": "1365557056741068800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988419962483208450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riolionrock 沒有要回香港的打算啦嗚嗚嗚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365557056741068800",
+        "conversation_id": "1988405879289655360",
+        "created_at": "2025-11-12T01:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T02:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988419962483208450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988419962483208450",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988405879289655360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 明年RG現場更會有實物展示\n經過就過來看看吧？　(≧∀≦)ﾉｼ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8406,
+          "following_count": 974,
+          "like_count": 31955,
+          "listed_count": 20,
+          "media_count": 87,
+          "tweet_count": 20700
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T06:59:19.000Z",
+        "description": "🇭🇰 #香港vtuber 獅子山 Rio 🦁⛰♌ 入面既人係一個大叔 內容主要都係講下電腦野🖥️，經驗及技術分享同埋打下機咁 目的係要上來悶死晒大家。 v=.=v Tag全般: #獅子山博物館 FF14 Server: Alexander (Gaia)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 3,
+                "tag": "香港vtuber"
+              },
+              {
+                "end": 96,
+                "start": 89,
+                "tag": "獅子山博物館"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/RioChannelHK",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/RioChannelHK",
+                "start": 0,
+                "url": "https://t.co/2ZbbXmf3fK"
+              }
+            ]
+          }
+        },
+        "id": "1365557056741068800",
+        "location": "香港",
+        "name": "獅子山 Rio 🦁⛰♌",
+        "pinned_tweet_id": "1555052259473469440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792886329858265088/gnqddauy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 443,
+          "like_count": 21883,
+          "listed_count": 7,
+          "media_count": 1208,
+          "tweet_count": 16558
+        },
+        "url": "https://t.co/2ZbbXmf3fK",
+        "username": "riolionrock",
+        "verified": true
+      }
+    ]
+  }
+}

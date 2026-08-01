@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1954491858236923948",
+    "created_at": "2025-08-12T02:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T03:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955089709685760484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888635222885076992",
+          "start": 0,
+          "username": "blood_foxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955089709685760484",
+    "in_reply_to_user_id": "1888635222885076992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954800720643027072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blood_foxs 真的！！！很中我電波！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1954491858236923948",
+        "created_at": "2025-08-12T02:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T03:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955089709685760484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888635222885076992",
+              "start": 0,
+              "username": "blood_foxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955089709685760484",
+        "in_reply_to_user_id": "1888635222885076992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954800720643027072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blood_foxs 真的！！！很中我電波！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888635222885076992",
+        "conversation_id": "1954491858236923948",
+        "created_at": "2025-08-11T07:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T08:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954800720643027072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954800720643027072",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954491858236923948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 這本小說超好看！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1923969597725638945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8356,
+          "following_count": 995,
+          "like_count": 31522,
+          "listed_count": 19,
+          "media_count": 60,
+          "tweet_count": 20283
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T17:05:28.000Z",
+        "description": "來自地獄的狐狸，目前在嘗試當個小小的Vtuber（雖然我的皮還沒製作），有興趣的話可以來我的圖奇或者是Yt聊聊天或一起玩，我的推特可能會有點吵，因為我很喜歡轉發一些東西，有的時候會發一些原神或崩鐵的圖片如果有侵權可以私訊我，我在刪除，歡迎連動邀約！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/blood_foxs",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/blood_foxs",
+                "start": 0,
+                "url": "https://t.co/kaFjKqM0YH"
+              }
+            ]
+          }
+        },
+        "id": "1888635222885076992",
+        "name": "血狐🩸寵物遊戲勢Vtuber準備中（暫時會以史萊姆皮活動）",
+        "pinned_tweet_id": "1946870447506886773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924044658486763520/xPrYWBBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1003,
+          "like_count": 3176,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2515
+        },
+        "url": "https://t.co/kaFjKqM0YH",
+        "username": "blood_foxs",
+        "verified": false
+      }
+    ]
+  }
+}

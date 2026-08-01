@@ -1,0 +1,231 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1787717692352323805",
+    "created_at": "2024-05-08T07:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T08:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788104013386268908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695992179058225152",
+          "start": 0,
+          "username": "Rakusei0605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788104013386268908",
+    "in_reply_to_user_id": "1695992179058225152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787843831947517972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rakusei0605 我會的～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1787717692352323805",
+        "created_at": "2024-05-08T07:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T08:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788104013386268908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695992179058225152",
+              "start": 0,
+              "username": "Rakusei0605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788104013386268908",
+        "in_reply_to_user_id": "1695992179058225152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787843831947517972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rakusei0605 我會的～"
+      },
+      {
+        "attachments": {},
+        "author_id": "1695992179058225152",
+        "conversation_id": "1787717692352323805",
+        "created_at": "2024-05-07T13:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-07T14:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1787843831947517972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787843831947517972",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787717692352323805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 辛苦了，好好休息喔～(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3757,
+          "following_count": 992,
+          "like_count": 23382,
+          "listed_count": 10,
+          "tweet_count": 12929
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T02:50:42.000Z",
+        "description": "台灣個人勢Vtuber\n中文 〇 / 英文 △ / 日文 △ / 台語△\n主要的直播內容：雜談、遊戲、唱歌、繪圖\n我在YouTube和Twitch都有頻道ㄛ～\n歡迎按下訂閱～～(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡\n粉絲名：#星喵 / Fan's art：#繪星 / 萬用tag：#洛星貓 /實況tag ：#星實況",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 110,
+                "tag": "星喵"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "繪星"
+              },
+              {
+                "end": 142,
+                "start": 138,
+                "tag": "洛星貓"
+              },
+              {
+                "end": 155,
+                "start": 151,
+                "tag": "星實況"
+              }
+            ]
+          }
+        },
+        "id": "1695992179058225152",
+        "name": "天音洛星☆⁠ 個人勢Vtuber 【初配信（長期）準備ing…】",
+        "pinned_tweet_id": "1763207054360289343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762665429359857664/LGbwLRDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 42,
+          "like_count": 3860,
+          "listed_count": 0,
+          "tweet_count": 510
+        },
+        "username": "Rakusei0605",
+        "verified": false
+      }
+    ]
+  }
+}

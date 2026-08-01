@@ -1,0 +1,228 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1811942974734897238",
+    "created_at": "2024-07-14T07:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T08:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812392175059026257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1406722651217829889",
+          "start": 0,
+          "username": "Ratrycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812392175059026257",
+    "in_reply_to_user_id": "1406722651217829889",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812062891790762280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ratrycat rickroll成功👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1811942974734897238",
+        "created_at": "2024-07-14T07:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T08:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812392175059026257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1406722651217829889",
+              "start": 0,
+              "username": "Ratrycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812392175059026257",
+        "in_reply_to_user_id": "1406722651217829889",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812062891790762280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ratrycat rickroll成功👍🏻"
+      },
+      {
+        "attachments": {},
+        "author_id": "1406722651217829889",
+        "conversation_id": "1811942974734897238",
+        "created_at": "2024-07-13T09:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T10:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812062891790762280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812062891790762280",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811943271389675905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 被rickrock了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 25001,
+          "listed_count": 10,
+          "tweet_count": 14484
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-20T21:16:40.000Z",
+        "description": "我是Ratry月見貓~😺\n暱稱是：猫ソース💫\n\n主要玩的遊戲:特戰英豪\napex偶爾也會接觸！！\n\n封面簽名 @surabbyte 超佩服老師字超漂釀🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "surabbyte"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ratrycat",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ratrycat",
+                "start": 0,
+                "url": "https://t.co/Tz9WDghYmz"
+              }
+            ]
+          }
+        },
+        "id": "1406722651217829889",
+        "name": "Rratry月見貓✨一隻口愛の小卯咪🐱",
+        "pinned_tweet_id": "1699922092882587789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545070716525375488/MeRMCpKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 331,
+          "like_count": 4991,
+          "listed_count": 0,
+          "tweet_count": 4017
+        },
+        "url": "https://t.co/Tz9WDghYmz",
+        "username": "Ratrycat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1983908361327296879",
+    "created_at": "2025-10-30T14:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983909127328813451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1276022886482841600",
+          "start": 0,
+          "username": "foxfishhhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983909127328813451",
+    "in_reply_to_user_id": "1276022886482841600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983908721505046678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foxfishhhhh 班裡某一個同學\n但找不到是誰\n因為就只是一個髮圈所以也不好意思跟老師講\n重點是我戒指也放在旁邊但不拿只拿我的髮圈\n蛤？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1983908361327296879",
+        "created_at": "2025-10-30T14:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983909127328813451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1276022886482841600",
+              "start": 0,
+              "username": "foxfishhhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983909127328813451",
+        "in_reply_to_user_id": "1276022886482841600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983908721505046678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxfishhhhh 班裡某一個同學\n但找不到是誰\n因為就只是一個髮圈所以也不好意思跟老師講\n重點是我戒指也放在旁邊但不拿只拿我的髮圈\n蛤？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276022886482841600",
+        "conversation_id": "1983908361327296879",
+        "created_at": "2025-10-30T14:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983908721505046678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983908721505046678",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983908361327296879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 喔不\n是誰這麼沒良心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8421,
+          "following_count": 971,
+          "like_count": 31912,
+          "listed_count": 19,
+          "media_count": 86,
+          "tweet_count": 20648
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-25T05:22:37.000Z",
+        "description": "我是一隻呱呱，叫聲像綿羊，正躺在風鈴草上 \n無情轉推機器人(# \n音遊中毒 arcaea(12.02)|phigros(14.93 | dynamix | chunithm | takumi³",
+        "id": "1276022886482841600",
+        "location": "瑪麗的心上",
+        "name": "狐魚🧊🐸🌼🐺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742163708351246336/uMMDfNmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 6210,
+          "like_count": 64990,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 33193
+        },
+        "username": "foxfishhhhh",
+        "verified": false
+      }
+    ]
+  }
+}

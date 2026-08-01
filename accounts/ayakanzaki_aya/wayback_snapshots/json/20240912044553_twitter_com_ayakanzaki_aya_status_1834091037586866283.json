@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1833333952666362271",
+    "created_at": "2024-09-12T04:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T05:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834091037586866283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3009694350",
+          "start": 0,
+          "username": "Haogolfmura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834091037586866283",
+    "in_reply_to_user_id": "3009694350",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833407755299987602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haogolfmura 沒有那是我的錯www\n你可以理解為講口語的時候出現了一個書面語"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1833333952666362271",
+        "created_at": "2024-09-12T04:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T05:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834091037586866283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3009694350",
+              "start": 0,
+              "username": "Haogolfmura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834091037586866283",
+        "in_reply_to_user_id": "3009694350",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833407755299987602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haogolfmura 沒有那是我的錯www\n你可以理解為講口語的時候出現了一個書面語"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3009694350",
+        "conversation_id": "1833333952666362271",
+        "created_at": "2024-09-10T07:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T08:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833407755299987602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833407755299987602",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833333952666362271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 下次用她的魔法對付她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊イラストの依賴受付中✧ \n┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 82,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 59,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118,
+          "following_count": 984,
+          "like_count": 26049,
+          "listed_count": 9,
+          "tweet_count": 15501
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T04:44:54.000Z",
+        "description": "成人向イラスト&マンガがある  \n未成年の方はフォローしないでください\nNSFW / Hentai Illustration / Lewd\n注意，含有敏感內容，跟隨前請斟酌\n日常\n日常帳：@AmisterL65581\n頭像繪師：@kay_ii2\n頂圖繪師：@pumpkiiiiin_man",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 94,
+                "username": "AmisterL65581"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "username": "kay_ii2"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "pumpkiiiiin_man"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4473381",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/4473381",
+                "start": 0,
+                "url": "https://t.co/JaEXB8kzsz"
+              }
+            ]
+          }
+        },
+        "id": "3009694350",
+        "location": "Earth",
+        "name": "槍兵Definia-Lancaster-Soldat",
+        "pinned_tweet_id": "1779533206511120639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823305632256258048/QwOexQNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 2086,
+          "like_count": 162138,
+          "listed_count": 0,
+          "tweet_count": 152948
+        },
+        "url": "https://t.co/JaEXB8kzsz",
+        "username": "Haogolfmura",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2057302731967098991",
+    "created_at": "2026-05-21T03:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T04:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057302731967098991"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057302731967098991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是5月20日\n\n我們最終和平分手\n從朋友到戀人我們發生了挺多事情\n能走到一起也是很不容易\n我喜歡你 很喜歡你\n也想和你幼稚 沒有備胎 也不玩曖昧\n我所有的脾氣愛笑愛哭都給了你\n為你做的最後一件事竟然是走出你的人生\n我一點都不後悔\n更謝謝你教會我成長\n我也不知道這是誰寫的\n挺感動的我就複製下來了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2057302731967098991",
+        "created_at": "2026-05-21T03:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057302731967098991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057302731967098991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是5月20日\n\n我們最終和平分手\n從朋友到戀人我們發生了挺多事情\n能走到一起也是很不容易\n我喜歡你 很喜歡你\n也想和你幼稚 沒有備胎 也不玩曖昧\n我所有的脾氣愛笑愛哭都給了你\n為你做的最後一件事竟然是走出你的人生\n我一點都不後悔\n更謝謝你教會我成長\n我也不知道這是誰寫的\n挺感動的我就複製下來了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "気づいてくれてありがと。\n高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw7B99┊FANBOX：https://t.co/yhbghbk7m0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 76,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 53,
+                "url": "https://t.co/Aqt4Xw7B99"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 107,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 84,
+                "url": "https://t.co/yhbghbk7m0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9271,
+          "following_count": 970,
+          "like_count": 32750,
+          "listed_count": 22,
+          "media_count": 86,
+          "tweet_count": 21350
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

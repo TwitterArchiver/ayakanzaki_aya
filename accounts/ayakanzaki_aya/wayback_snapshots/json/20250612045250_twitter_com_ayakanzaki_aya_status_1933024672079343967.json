@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1932667951867703413",
+    "created_at": "2025-06-12T04:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T05:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933024672079343967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "826718230525808641",
+          "start": 0,
+          "username": "hoolu_vtuber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933024672079343967",
+    "in_reply_to_user_id": "826718230525808641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932667951867703413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoolu_vtuber 有幫忙考試的嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1932667951867703413",
+        "created_at": "2025-06-12T04:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T05:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933024672079343967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "826718230525808641",
+              "start": 0,
+              "username": "hoolu_vtuber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933024672079343967",
+        "in_reply_to_user_id": "826718230525808641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932667951867703413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoolu_vtuber 有幫忙考試的嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "826718230525808641",
+        "conversation_id": "1932667951867703413",
+        "created_at": "2025-06-11T05:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T06:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932667951867703413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932667951867703413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "快暑假了！ 現在接手以下工作！\n幫小學生打架\n價格如下:\n一年級——200\n二年級——300\n三年級——500\n四年級——700\n五年級——900\n六年級會烙人 所以三人以上1300\n\n幫小學生抄暑假作業\n頁數 價格\n30～35頁-- 160元\n36～40頁--360元\n41～45頁--420元\n46～50頁--600元\n51～55頁-- 720元\n56頁以上---1200元\n（無答案外加100元.5到6年級無答案免談）\n\n幫人帶小孩\n年齡 男 女(元/天)\n1～12歲均一價1500/1\n13-17歲1600元 1200元\n18歲以上600元\n（另外幫小學生開家長會420元/小時、未滿1小時按1小時算\n\n代砸玻璃\n一樓300元\n二樓180元\n三樓120元\n四樓往上價格面議,（社區有狗，或保安強悍的免談）\n顧客至上，誠信為本\n小本生意，概不賒賬\n可以刷卡，%數自付"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3590,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "快暑假了！ 現在接手以下工作！\n幫小學生打架\n價格如下:\n一年級——200\n二年級——300\n三年級——500\n四年級——700\n五年級——900\n六年級會烙人 所以三人以上1300\n\n幫小學生抄暑假作業\n頁數 價格\n30～35頁-- 160元\n36～40頁--360元\n41～45頁--420元\n46～50頁--600元\n51～55頁-- 720元\n56頁以上---1200元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 996,
+          "like_count": 30768,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19914
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-01T09:06:00.000Z",
+        "description": "《睡覺打呼嚕💤肚餓咕嚕嚕🤤開運找虎嚕🐯》｜ 👩‍🎨繪師麻麻：@MuCheng_tw ｜粉絲名：福糰🍡｜ DC群：https://t.co/yoaTn9hLCM ☯️専業：正五行八字｜🔮服務：命盤諮詢/各式開運儀式/ 開運商品/風水佈局/化小人/占卜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "MuCheng_tw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.com/invite/FWHGuTr…",
+                "end": 79,
+                "expanded_url": "https://discord.com/invite/FWHGuTrkCB",
+                "start": 56,
+                "url": "https://t.co/yoaTn9hLCM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hoolu.lu?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hoolu.lu?igsh=MW4wMWJicWRsdWNrYQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/82xdZpIKYZ"
+              }
+            ]
+          }
+        },
+        "id": "826718230525808641",
+        "location": "明知山",
+        "name": "🐯虎嚕命理🐾命理係Vtype",
+        "pinned_tweet_id": "1898752258625749119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799066907485831168/9lS5qG6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 5462,
+          "like_count": 50241,
+          "listed_count": 7,
+          "media_count": 1671,
+          "tweet_count": 16883
+        },
+        "url": "https://t.co/82xdZpIKYZ",
+        "username": "hoolu_vtuber",
+        "verified": true
+      }
+    ]
+  }
+}

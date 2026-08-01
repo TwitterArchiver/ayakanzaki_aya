@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2061112908780568636",
+    "created_at": "2026-05-31T16:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061118517097779656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1287213071421726720",
+          "start": 7,
+          "username": "Dacodaco_426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061118517097779656",
+    "in_reply_to_user_id": "1499470341734907907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061112908780568636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最可愛的鴨！ @Dacodaco_426"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2061112393501966340",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqKzTjXAAQohoU.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2061112908780568636",
+        "created_at": "2026-05-31T16:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061118517097779656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1287213071421726720",
+              "start": 7,
+              "username": "Dacodaco_426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061118517097779656",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061112908780568636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最可愛的鴨！ @Dacodaco_426"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061112393501966340"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "2061112908780568636",
+        "created_at": "2026-05-31T15:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061112908780568636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KuwKLiQUii",
+              "end": 73,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/2061112908780568636/photo/1",
+              "media_key": "3_2061112393501966340",
+              "start": 50,
+              "url": "https://t.co/KuwKLiQUii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061112908780568636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 125,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天開台畫的鴨！\n想看過程的可以去補檔看看( •̀ ω •́ )✧\n然後很對不起我睡過頭了/_ \\ https://t.co/KuwKLiQUii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "気づいてくれてありがと。\n高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH┊FANBOX：https://t.co/yhbghbkFby",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 51,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 105,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 82,
+                "url": "https://t.co/yhbghbkFby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9617,
+          "following_count": 971,
+          "like_count": 32804,
+          "listed_count": 22,
+          "media_count": 89,
+          "tweet_count": 21410
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T02:28:17.000Z",
+        "description": "是個繪師 喜歡唱歌/委託歡迎私訊 ai🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/dacodaco426",
+                "end": 23,
+                "expanded_url": "https://lit.link/dacodaco426",
+                "start": 0,
+                "url": "https://t.co/6jYPIBJifn"
+              }
+            ]
+          }
+        },
+        "id": "1287213071421726720",
+        "location": "大鴨鴨澡堂",
+        "name": "呱鴨Daco🐣委託開放中",
+        "pinned_tweet_id": "1926144313638928607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926145107658416128/7w3V8roV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3099,
+          "following_count": 1024,
+          "like_count": 8178,
+          "listed_count": 12,
+          "media_count": 431,
+          "tweet_count": 4251
+        },
+        "url": "https://t.co/6jYPIBJifn",
+        "username": "Dacodaco_426",
+        "verified": false
+      }
+    ]
+  }
+}

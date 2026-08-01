@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1909059591641485382",
+    "created_at": "2025-04-08T03:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T04:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909448147635470402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1356118178795937793",
+          "start": 0,
+          "username": "Nyaa_ouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909448147635470402",
+    "in_reply_to_user_id": "1356118178795937793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909278917724393883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyaa_ouo 其實蠻簡單哦（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1909059591641485382",
+        "created_at": "2025-04-08T03:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T04:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909448147635470402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1356118178795937793",
+              "start": 0,
+              "username": "Nyaa_ouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909448147635470402",
+        "in_reply_to_user_id": "1356118178795937793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909278917724393883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyaa_ouo 其實蠻簡單哦（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356118178795937793",
+        "conversation_id": "1909059591641485382",
+        "created_at": "2025-04-07T16:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T17:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909278917724393883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909278917724393883",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909059591641485382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya *璃子正在嘗試如何模仿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1908696249852715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908035628488417280/CuOrfaUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6611,
+          "following_count": 984,
+          "like_count": 30323,
+          "listed_count": 18,
+          "media_count": 134,
+          "tweet_count": 19686
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T05:53:21.000Z",
+        "description": "Riko，一個看著可愛 實則可愛的18歲魔女，超高的160公分，超高的0.87智商，以及有夠懶散的性格，討厭X 喜歡推特\n🎨璃子不甜-合作&提醒的小窩傳送門 歡迎聯絡！✉️Riko20061209@gmail.com\n☁️BlueSky : riko1209",
+        "id": "1356118178795937793",
+        "location": "你們房間的某個角落",
+        "name": "璃子不甜🌷 你猜誰最可愛",
+        "pinned_tweet_id": "1836028063307718920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791271505277620224/_e60VApU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 4936,
+          "like_count": 50124,
+          "listed_count": 0,
+          "media_count": 1080,
+          "tweet_count": 32916
+        },
+        "username": "Nyaa_ouo",
+        "verified": false
+      }
+    ]
+  }
+}

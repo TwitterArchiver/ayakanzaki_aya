@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934445968868433920"
+      ],
+      "media_source_tweet_id": [
+        "1934445980532769185"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1934597716199268850",
+    "created_at": "2025-06-16T13:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T14:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934597716199268850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1243688072031670278",
+          "start": 3,
+          "username": "zaijoubu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eQOtVaiu53",
+          "end": 62,
+          "expanded_url": "https://x.com/zaijoubu/status/1934445980532769185/photo/1",
+          "media_key": "3_1934445968868433920",
+          "start": 39,
+          "url": "https://t.co/eQOtVaiu53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934597716199268850",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5503
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934445980532769185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zaijoubu: We walk among the giants https://t.co/eQOtVaiu53"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1934445968868433920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtiIXAuW4AADPk6.jpg",
+        "width": 2650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934445968868433920"
+          ],
+          "media_source_tweet_id": [
+            "1934445980532769185"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1934597716199268850",
+        "created_at": "2025-06-16T13:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T14:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934597716199268850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1243688072031670278",
+              "start": 3,
+              "username": "zaijoubu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQOtVaiu53",
+              "end": 62,
+              "expanded_url": "https://x.com/zaijoubu/status/1934445980532769185/photo/1",
+              "media_key": "3_1934445968868433920",
+              "start": 39,
+              "url": "https://t.co/eQOtVaiu53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934597716199268850",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5503
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934445980532769185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zaijoubu: We walk among the giants https://t.co/eQOtVaiu53"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934445968868433920"
+          ]
+        },
+        "author_id": "1243688072031670278",
+        "conversation_id": "1934445980532769185",
+        "created_at": "2025-06-16T03:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T04:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934445980532769185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQOtVaiu53",
+              "end": 48,
+              "expanded_url": "https://x.com/zaijoubu/status/1934445980532769185/photo/1",
+              "media_key": "3_1934445968868433920",
+              "start": 25,
+              "url": "https://t.co/eQOtVaiu53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934445980532769185",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4294,
+          "impression_count": 599683,
+          "like_count": 43274,
+          "quote_count": 65,
+          "reply_count": 32,
+          "retweet_count": 5503
+        },
+        "reply_settings": "everyone",
+        "text": "We walk among the giants https://t.co/eQOtVaiu53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 996,
+          "like_count": 30945,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19952
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T23:55:30.000Z",
+        "description": "Prev: Titmouse BG Paint Mentee, The Mill | OPEN FOR WORK 📥 zaijoubu@gmail.com Sometimes streaming: https://t.co/z9xq5qOCb2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/zaijoubu",
+                "end": 122,
+                "expanded_url": "https://www.twitch.tv/zaijoubu",
+                "start": 99,
+                "url": "https://t.co/z9xq5qOCb2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/zaijoubu",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/zaijoubu",
+                "start": 0,
+                "url": "https://t.co/mHVAnhyGcB"
+              }
+            ]
+          }
+        },
+        "id": "1243688072031670278",
+        "name": "Daniel 🍉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876165695806869504/TWI0YKzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11412,
+          "following_count": 958,
+          "like_count": 24096,
+          "listed_count": 106,
+          "media_count": 339,
+          "tweet_count": 1864
+        },
+        "url": "https://t.co/mHVAnhyGcB",
+        "username": "zaijoubu",
+        "verified": false
+      }
+    ]
+  }
+}

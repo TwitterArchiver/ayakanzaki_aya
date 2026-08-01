@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1928184344998212080",
+    "created_at": "2025-06-08T22:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T23:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931839291858342058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "929308464110739456",
+          "start": 0,
+          "username": "h_looke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931839291858342058",
+    "in_reply_to_user_id": "929308464110739456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928290841346330920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h_looke 確實 伏筆跟結果都藏在外傳的不同地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1928184344998212080",
+        "created_at": "2025-06-08T22:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T23:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931839291858342058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "929308464110739456",
+              "start": 0,
+              "username": "h_looke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931839291858342058",
+        "in_reply_to_user_id": "929308464110739456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928290841346330920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h_looke 確實 伏筆跟結果都藏在外傳的不同地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "929308464110739456",
+        "conversation_id": "1928184344998212080",
+        "created_at": "2025-05-30T03:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T04:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928290841346330920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928290841346330920",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928184344998212080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 魔禁麻煩的地方是\n支線太多了\n這種系列作品的麻煩是在觀看順序\n像是fate那些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6771,
+          "following_count": 999,
+          "like_count": 30721,
+          "listed_count": 19,
+          "media_count": 55,
+          "tweet_count": 19894
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-11T11:22:58.000Z",
+        "description": "我的所有連結\nhttps://t.co/Ek0o393Vam",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/HLooke",
+                "end": 30,
+                "expanded_url": "https://lit.link/HLooke",
+                "start": 7,
+                "url": "https://t.co/Ek0o393Vam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/hlooke",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/hlooke",
+                "start": 0,
+                "url": "https://t.co/2FeJ94onS9"
+              }
+            ]
+          }
+        },
+        "id": "929308464110739456",
+        "name": "HLooke 經營實況主中",
+        "pinned_tweet_id": "1890227118656876986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861412688892698630/8fA1vRPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 5439,
+          "like_count": 89683,
+          "listed_count": 5,
+          "media_count": 1474,
+          "tweet_count": 88189
+        },
+        "url": "https://t.co/2FeJ94onS9",
+        "username": "h_looke",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1801448112080208337",
+    "created_at": "2024-06-16T08:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T09:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802252788673511901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1288052056687689729",
+          "start": 0,
+          "username": "YA_YAFIREYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802252788673511901",
+    "in_reply_to_user_id": "1288052056687689729",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801515815717818653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YA_YAFIREYA 認證成功（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1801448112080208337",
+        "created_at": "2024-06-16T08:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T09:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802252788673511901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1288052056687689729",
+              "start": 0,
+              "username": "YA_YAFIREYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802252788673511901",
+        "in_reply_to_user_id": "1288052056687689729",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801515815717818653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YA_YAFIREYA 認證成功（"
+      },
+      {
+        "attachments": {},
+        "author_id": "1288052056687689729",
+        "conversation_id": "1801448112080208337",
+        "created_at": "2024-06-14T07:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T08:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801515815717818653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801515815717818653",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801448112080208337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 果然是親生的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3882,
+          "following_count": 993,
+          "like_count": 24305,
+          "listed_count": 10,
+          "tweet_count": 13813
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-28T10:02:34.000Z",
+        "description": "哈囉大家好我是YA｜實況主｜訂閱追隨點下去的啦｜歡迎遊戲邀約 XD\n🌟YA相關資訊：https://t.co/DLiRHD0QVx\n🌟合作or工商邀約：890912sffire@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/YAFIREYA",
+                "end": 65,
+                "expanded_url": "http://lit.link/YAFIREYA",
+                "start": 42,
+                "url": "https://t.co/DLiRHD0QVx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/YAFIREYA",
+                "end": 23,
+                "expanded_url": "https://lit.link/YAFIREYA",
+                "start": 0,
+                "url": "https://t.co/KlMxY1BAhv"
+              }
+            ]
+          }
+        },
+        "id": "1288052056687689729",
+        "location": "FourZ live",
+        "name": "YA燁😺爆肝型😺貓又遊戲實況玩家～Life of Game～歡迎連動邀約 ~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796811580807782400/K73Kf_Lm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 517,
+          "like_count": 2904,
+          "listed_count": 2,
+          "tweet_count": 1198
+        },
+        "url": "https://t.co/KlMxY1BAhv",
+        "username": "YA_YAFIREYA",
+        "verified": false
+      }
+    ]
+  }
+}

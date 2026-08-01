@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2065567005822922966",
+    "created_at": "2026-06-12T22:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T23:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065567083597893810"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065567083597893810",
+    "in_reply_to_user_id": "1499470341734907907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065567005822922966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "還有我考完試了！\n但是感冒了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2065567005822922966",
+        "created_at": "2026-06-12T22:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T23:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065567083597893810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065567083597893810",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065567005822922966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "還有我考完試了！\n但是感冒了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2065567005822922966",
+        "created_at": "2026-06-12T22:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T23:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065567005822922966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065567005822922966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一、一萬了🥹🥹🥹\n\n如果告訴四年前那個還在網路上亂逛的自己，未來會有一萬人追隨，還會被形形色色的人喜愛著\n\n我大概 100% 會覺得是在唬爛吧ww\n\n但這不是夢。\n\n而是真真實實發生在我身上的事情。\n\n謝謝你們帶給我的一切。\n\n能夠遇見你們，真的是我這輩子最幸福的事情❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。https://t.co/0bAP4M0U4a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 122,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 99,
+                "url": "https://t.co/0bAP4M0U4a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10045,
+          "following_count": 973,
+          "like_count": 32826,
+          "listed_count": 22,
+          "media_count": 92,
+          "tweet_count": 21447
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

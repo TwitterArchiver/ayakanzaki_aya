@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2077611538836279529",
+    "created_at": "2026-07-18T20:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T21:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078571794013798404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4903002618",
+          "start": 0,
+          "username": "wen35892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078571794013798404",
+    "in_reply_to_user_id": "4903002618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077731297494188205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wen35892 那個是贈圖w 免費畫的 那時候畫風有夠青澀的w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2077611538836279529",
+        "created_at": "2026-07-18T20:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078571794013798404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4903002618",
+              "start": 0,
+              "username": "wen35892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078571794013798404",
+        "in_reply_to_user_id": "4903002618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077731297494188205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wen35892 那個是贈圖w 免費畫的 那時候畫風有夠青澀的w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4903002618",
+        "conversation_id": "2077611538836279529",
+        "created_at": "2026-07-16T12:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077731297494188205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "008c994a10edec85"
+        },
+        "id": "2077731297494188205",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077611538836279529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 記得妳幫某隻水豚畫過皮......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。：https://t.co/VcHIX9aINY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 123,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 100,
+                "url": "https://t.co/VcHIX9aINY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10588,
+          "following_count": 976,
+          "like_count": 32950,
+          "listed_count": 26,
+          "media_count": 97,
+          "tweet_count": 21536
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-13T18:32:02.000Z",
+        "description": "不正經/肝話系，設定：巨嘴鴉，中文⭕、台語⭕、英語🤏，\n不專業自行車維修工、平日露營推廣。\n廢片區：https://t.co/lBr00wxPi1\n棉花糖：https://t.co/boGMjDEQaf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/Q4bQa0",
+                "end": 73,
+                "expanded_url": "http://reurl.cc/Q4bQa0",
+                "start": 50,
+                "url": "https://t.co/lBr00wxPi1"
+              },
+              {
+                "display_url": "reurl.cc/LN8KG9",
+                "end": 101,
+                "expanded_url": "http://reurl.cc/LN8KG9",
+                "start": 78,
+                "url": "https://t.co/boGMjDEQaf"
+              }
+            ]
+          }
+        },
+        "id": "4903002618",
+        "location": "西太平洋某島嶼",
+        "name": "迷途鴉",
+        "pinned_tweet_id": "2076129427017412830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/698577985700401152/JWpnK4zu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 688,
+          "like_count": 25026,
+          "listed_count": 0,
+          "media_count": 4041,
+          "tweet_count": 12132
+        },
+        "url": "",
+        "username": "wen35892",
+        "verified": false
+      }
+    ]
+  }
+}

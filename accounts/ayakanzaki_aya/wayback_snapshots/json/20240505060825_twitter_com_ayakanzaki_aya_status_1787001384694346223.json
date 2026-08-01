@@ -1,0 +1,239 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1786087970019127784",
+    "created_at": "2024-05-05T06:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-05T07:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1787001384694346223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1365557056741068800",
+          "start": 0,
+          "username": "riolionrock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1787001384694346223",
+    "in_reply_to_user_id": "1365557056741068800",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1786653188172783766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riolionrock 你啱你啱🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1786087970019127784",
+        "created_at": "2024-05-05T06:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-05T07:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1787001384694346223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1365557056741068800",
+              "start": 0,
+              "username": "riolionrock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787001384694346223",
+        "in_reply_to_user_id": "1365557056741068800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1786653188172783766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riolionrock 你啱你啱🤣"
+      },
+      {
+        "attachments": {},
+        "author_id": "1365557056741068800",
+        "conversation_id": "1786087970019127784",
+        "created_at": "2024-05-04T07:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-04T08:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1786653188172783766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1786653188172783766",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1786628233644884290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 因為第一部得到的龍在第三部放生了？\n所以就無數了？　〜(๑&gt;◡&lt;๑)〜\n\n淨下來就是用腳換老婆了？～🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3763,
+          "following_count": 994,
+          "like_count": 23319,
+          "listed_count": 10,
+          "tweet_count": 12863
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T06:59:19.000Z",
+        "description": "🇭🇰 #香港vtuber 獅子山 Rio 🦁⛰♌ 入面既人係一個大叔( #バ美肉 おじさん)💦 內容主要都係講下電腦野🖥️同埋打下機咁 目的係要上來悶死晒大家。 v=.=v Tag全般: #獅子山博物館 FF14 Server: Alexander (Gaia)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 3,
+                "tag": "香港vtuber"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "バ美肉"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "獅子山博物館"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/RioChannelHK",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/RioChannelHK",
+                "start": 0,
+                "url": "https://t.co/2ZbbXmf3fK"
+              }
+            ]
+          }
+        },
+        "id": "1365557056741068800",
+        "location": "香港",
+        "name": "獅子山 Rio 🦁⛰♌",
+        "pinned_tweet_id": "1555052259473469440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563353129797943297/tbagUSQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 397,
+          "like_count": 18923,
+          "listed_count": 6,
+          "tweet_count": 13416
+        },
+        "url": "https://t.co/2ZbbXmf3fK",
+        "username": "riolionrock",
+        "verified": true
+      }
+    ]
+  }
+}

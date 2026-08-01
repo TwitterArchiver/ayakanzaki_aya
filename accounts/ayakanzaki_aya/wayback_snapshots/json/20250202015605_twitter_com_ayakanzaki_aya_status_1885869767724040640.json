@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1885097030994829338",
+    "created_at": "2025-02-02T01:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T02:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885869767724040640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1327220642",
+          "start": 0,
+          "username": "kakawai6683"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885869767724040640",
+    "in_reply_to_user_id": "1327220642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885198220994998740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakawai6683 他再靠近點的話就會了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1885097030994829338",
+        "created_at": "2025-02-02T01:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T02:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885869767724040640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1327220642",
+              "start": 0,
+              "username": "kakawai6683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885869767724040640",
+        "in_reply_to_user_id": "1327220642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885198220994998740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakawai6683 他再靠近點的話就會了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327220642",
+        "conversation_id": "1885097030994829338",
+        "created_at": "2025-01-31T05:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T06:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885198220994998740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885198220994998740",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885125491062972469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 還以為是要亮刀了(X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 991,
+          "like_count": 28366,
+          "listed_count": 10,
+          "media_count": 123,
+          "tweet_count": 17924
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-04T15:45:03.000Z",
+        "description": "カイです。 現在轉生成一只幽靈、喜歡晚上的氛圍。 生活文，追V，耍廢文，是個香港的DD，請多指教(´･ω･`) 幽月カイと申します、香港人です、今は日本語を勉強します〜よろしくお願いいたします～ 元名前：kazuki/カイ",
+        "id": "1327220642",
+        "location": "台北",
+        "name": "幽月カイ/yuduki kai(ゆーかってむ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875246607425531905/azUbAIaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 352,
+          "like_count": 50346,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 15595
+        },
+        "username": "kakawai6683",
+        "verified": false
+      }
+    ]
+  }
+}

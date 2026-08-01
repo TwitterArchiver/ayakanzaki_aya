@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1831591808486261032",
+    "created_at": "2024-09-06T03:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T04:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831900287755547033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655916502443491328",
+          "start": 0,
+          "username": "20051011aya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831900287755547033",
+    "in_reply_to_user_id": "1655916502443491328",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831592002443526573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@20051011aya 那個比較像是掉色（？\n生病的話以前會\n現在就還好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1831591808486261032",
+        "created_at": "2024-09-06T03:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T04:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831900287755547033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655916502443491328",
+              "start": 0,
+              "username": "20051011aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831900287755547033",
+        "in_reply_to_user_id": "1655916502443491328",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831592002443526573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@20051011aya 那個比較像是掉色（？\n生病的話以前會\n現在就還好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655916502443491328",
+        "conversation_id": "1831591808486261032",
+        "created_at": "2024-09-05T07:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T08:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831592002443526573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831592002443526573",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831591808486261032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 原來營養不良會導致頭髮變色嗎？\n那あや會不會容易生病啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4103,
+          "following_count": 982,
+          "like_count": 25948,
+          "listed_count": 9,
+          "tweet_count": 15409
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T12:44:07.000Z",
+        "description": "",
+        "id": "1655916502443491328",
+        "name": "あや",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655916676700057600/bDwwvTSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 162,
+          "like_count": 14022,
+          "listed_count": 0,
+          "tweet_count": 2517
+        },
+        "username": "20051011aya",
+        "verified": false
+      }
+    ]
+  }
+}

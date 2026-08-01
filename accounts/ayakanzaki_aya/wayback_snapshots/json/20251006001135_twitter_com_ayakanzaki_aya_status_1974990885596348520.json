@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1973946118183793133",
+    "created_at": "2025-10-06T00:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T01:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974990885596348520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1593790986072702976",
+          "start": 0,
+          "username": "mocha8_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974990885596348520",
+    "in_reply_to_user_id": "1593790986072702976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973951866653585429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mocha8_8 喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1973946118183793133",
+        "created_at": "2025-10-06T00:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T01:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974990885596348520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1593790986072702976",
+              "start": 0,
+              "username": "mocha8_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974990885596348520",
+        "in_reply_to_user_id": "1593790986072702976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973951866653585429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mocha8_8 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593790986072702976",
+        "conversation_id": "1973946118183793133",
+        "created_at": "2025-10-03T03:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T04:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973951866653585429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973951866653585429",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973946118183793133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 汪汪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8317,
+          "following_count": 965,
+          "like_count": 31798,
+          "listed_count": 19,
+          "media_count": 80,
+          "tweet_count": 20526
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:20:06.000Z",
+        "description": "■我的藍蝴蝶 @mocha8-8.bsky.social\n■藍蝴蝶新手拓荒包 \n有台V的動態源, 也有創作者的動態源, 還有創作委託\nhttps://t.co/AJ9KciYw7e\n■橫幅感謝晞西爾幫忙繪製 @seashell0915",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "mocha8"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "seashell0915"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hunter…",
+                "end": 90,
+                "expanded_url": "http://bsky.app/profile/huntermilo.bsky.social/post/3l6sfzt744d2y",
+                "start": 67,
+                "url": "https://t.co/AJ9KciYw7e"
+              }
+            ]
+          }
+        },
+        "id": "1593790986072702976",
+        "location": "地球",
+        "name": "摩卡零零機☕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871177192149061632/d4p9paQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 873,
+          "like_count": 90639,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 17426
+        },
+        "username": "mocha8_8",
+        "verified": false
+      }
+    ]
+  }
+}

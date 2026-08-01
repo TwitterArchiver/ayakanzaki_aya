@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1849052799348162615",
+    "created_at": "2024-10-27T10:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T11:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850480891983740994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1597899228713406464",
+          "start": 0,
+          "username": "lnzhngxin17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850480891983740994",
+    "in_reply_to_user_id": "1597899228713406464",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849292019811934695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnzhngxin17 是想那個會大喊「異議あり！！！（指」的那種律師嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1849052799348162615",
+        "created_at": "2024-10-27T10:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T11:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850480891983740994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1597899228713406464",
+              "start": 0,
+              "username": "lnzhngxin17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850480891983740994",
+        "in_reply_to_user_id": "1597899228713406464",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849292019811934695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnzhngxin17 是想那個會大喊「異議あり！！！（指」的那種律師嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597899228713406464",
+        "conversation_id": "1849052799348162615",
+        "created_at": "2024-10-24T03:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-24T04:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849292019811934695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849292019811934695",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849052799348162615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 看他如何證明自己有自首的意願，這時就需要厲害的律師了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1848987750332026918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4249,
+          "following_count": 980,
+          "like_count": 26847,
+          "listed_count": 10,
+          "tweet_count": 16366
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T10:24:25.000Z",
+        "description": "這邊好像要寫些什麼，但是我不知道要寫什麼\n所以就寫這些，如果以後知道要寫什麼，我再寫上去。",
+        "id": "1597899228713406464",
+        "name": "賈慶吉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819815392325373952/NgEdYuZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 56,
+          "like_count": 219,
+          "listed_count": 0,
+          "tweet_count": 1552
+        },
+        "username": "lnzhngxin17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1882086772617945117",
+    "created_at": "2025-01-26T17:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T18:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883571687557566965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1797842695760785409",
+          "start": 0,
+          "username": "TAOYOTDA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883571687557566965",
+    "in_reply_to_user_id": "1797842695760785409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882389673361998162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAOYOTDA 這個倒是沒有 放心（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-26T17:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T18:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883571687557566965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1797842695760785409",
+              "start": 0,
+              "username": "TAOYOTDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883571687557566965",
+        "in_reply_to_user_id": "1797842695760785409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882389673361998162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAOYOTDA 這個倒是沒有 放心（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797842695760785409",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T11:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T12:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882389673361998162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882389673361998162",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882086772617945117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 就怕看哪個旁門走道影片，直接將細菌上清液+強鹼+強算含嘴裡。說要用漱口方式「攪拌」，完成蛋白萃取。制止他還要強辭奪裡說那是乳酸菌諸如此類……@.@"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 991,
+          "like_count": 28273,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17833
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T04:08:11.000Z",
+        "description": "沉默的大多數(Silent Majorityサイレント・マジョリティ)，但不中立。Come from Taiwan.",
+        "id": "1797842695760785409",
+        "name": "UWE CHENG",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 89,
+          "like_count": 20663,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 389
+        },
+        "username": "TAOYOTDA",
+        "verified": false
+      }
+    ]
+  }
+}

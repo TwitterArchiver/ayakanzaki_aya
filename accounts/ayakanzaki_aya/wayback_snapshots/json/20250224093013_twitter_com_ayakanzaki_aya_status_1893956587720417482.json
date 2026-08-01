@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893637855525618040",
+    "created_at": "2025-02-24T09:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T10:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893956587720417482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1508639383",
+          "start": 0,
+          "username": "_hokkyokuusagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893956587720417482",
+    "in_reply_to_user_id": "1508639383",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893892761713025156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_hokkyokuusagi 謝謝北極兔！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893637855525618040",
+        "created_at": "2025-02-24T09:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T10:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893956587720417482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1508639383",
+              "start": 0,
+              "username": "_hokkyokuusagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893956587720417482",
+        "in_reply_to_user_id": "1508639383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893892761713025156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_hokkyokuusagi 謝謝北極兔！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508639383",
+        "conversation_id": "1893637855525618040",
+        "created_at": "2025-02-24T05:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T06:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893892761713025156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893892761713025156",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893637855525618040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya Aya生日快樂！！🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6248,
+          "following_count": 976,
+          "like_count": 29127,
+          "listed_count": 16,
+          "media_count": 128,
+          "tweet_count": 18634
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-12T03:59:48.000Z",
+        "description": "一隻公兔子，偶爾會在Twitch直播， 緣分到了就能看見這隻兔子鑽出來(՞ . .՞) ੭\" \n\n🧡 看板娘人設 ∣ 米米 @alicefulomi0112 \n🩷 頭貼 ∣ 露琳 @Lalune18855980 \n💛 橫幅 ∣ 蘭蘭 @ting1an_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "alicefulomi0112"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Lalune18855980"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "ting1an_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/hokkyoku_usagi",
+                "end": 23,
+                "expanded_url": "http://www.twitch.tv/hokkyoku_usagi",
+                "start": 0,
+                "url": "https://t.co/H7AdAdq49B"
+              }
+            ]
+          }
+        },
+        "id": "1508639383",
+        "location": "飛天兔兔球",
+        "name": "北極兔",
+        "pinned_tweet_id": "1818308107925385524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868289121061683200/kIehTWOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 593,
+          "like_count": 22488,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/H7AdAdq49B",
+        "username": "_hokkyokuusagi",
+        "verified": false
+      }
+    ]
+  }
+}

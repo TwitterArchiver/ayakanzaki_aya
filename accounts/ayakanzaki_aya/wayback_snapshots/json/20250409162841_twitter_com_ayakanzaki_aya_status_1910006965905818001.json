@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908696050744864768"
+      ],
+      "media_source_tweet_id": [
+        "1908696249852715445"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1910006965905818001",
+    "created_at": "2025-04-09T16:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T17:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910006965905818001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1499470341734907907",
+          "start": 3,
+          "username": "ayakanzaki_aya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2T8MY7rWKo",
+          "end": 114,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/1908696249852715445/photo/1",
+          "media_key": "3_1908696050744864768",
+          "start": 91,
+          "url": "https://t.co/2T8MY7rWKo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910006965905818001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908696249852715445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayakanzaki_aya: 之前説過的抽獎！抽一個人送半身圖\n\n追隨+轉推+留言丟人設\n可以幫推代抽\n追隨到7000的話再開新的名額\n一個星期後截止\n圖大概會長這樣⬇️ https://t.co/2T8MY7rWKo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2910,
+        "media_key": "3_1908696050744864768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn0M8gjWsAAacy2.jpg",
+        "width": 2127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908696050744864768"
+          ],
+          "media_source_tweet_id": [
+            "1908696249852715445"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1910006965905818001",
+        "created_at": "2025-04-09T16:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T17:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910006965905818001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1499470341734907907",
+              "start": 3,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2T8MY7rWKo",
+              "end": 114,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/1908696249852715445/photo/1",
+              "media_key": "3_1908696050744864768",
+              "start": 91,
+              "url": "https://t.co/2T8MY7rWKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910006965905818001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908696249852715445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayakanzaki_aya: 之前説過的抽獎！抽一個人送半身圖\n\n追隨+轉推+留言丟人設\n可以幫推代抽\n追隨到7000的話再開新的名額\n一個星期後截止\n圖大概會長這樣⬇️ https://t.co/2T8MY7rWKo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908696050744864768"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1908696249852715445",
+        "created_at": "2025-04-06T01:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T02:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908696249852715445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2T8MY7rWKo",
+              "end": 94,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/1908696249852715445/photo/1",
+              "media_key": "3_1908696050744864768",
+              "start": 71,
+              "url": "https://t.co/2T8MY7rWKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908696249852715445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 15093,
+          "like_count": 510,
+          "quote_count": 0,
+          "reply_count": 111,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "之前説過的抽獎！抽一個人送半身圖\n\n追隨+轉推+留言丟人設\n可以幫推代抽\n追隨到7000的話再開新的名額\n一個星期後截止\n圖大概會長這樣⬇️ https://t.co/2T8MY7rWKo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1908696249852715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908035628488417280/CuOrfaUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6597,
+          "following_count": 984,
+          "like_count": 30335,
+          "listed_count": 18,
+          "media_count": 135,
+          "tweet_count": 19699
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

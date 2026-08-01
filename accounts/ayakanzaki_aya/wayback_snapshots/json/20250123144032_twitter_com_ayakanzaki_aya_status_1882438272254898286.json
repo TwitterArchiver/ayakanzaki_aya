@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1881718846001951173",
+    "created_at": "2025-01-23T14:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T15:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882438272254898286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1476154238795673607",
+          "start": 0,
+          "username": "nervs2work"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882438272254898286",
+    "in_reply_to_user_id": "1476154238795673607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881755141306798421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nervs2work (((o(*ﾟ▽ﾟ*)o)))"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1881718846001951173",
+        "created_at": "2025-01-23T14:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T15:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882438272254898286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1476154238795673607",
+              "start": 0,
+              "username": "nervs2work"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882438272254898286",
+        "in_reply_to_user_id": "1476154238795673607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881755141306798421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nervs2work (((o(*ﾟ▽ﾟ*)o)))"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476154238795673607",
+        "conversation_id": "1881718846001951173",
+        "created_at": "2025-01-21T17:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T18:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881755141306798421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881755141306798421",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881718846001951173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 👍👍👍👍👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4315,
+          "following_count": 992,
+          "like_count": 28176,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17736
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T11:33:15.000Z",
+        "description": "路上隨處可見的普通上班族",
+        "id": "1476154238795673607",
+        "location": "Tainan City, Taiwan",
+        "name": "辰",
+        "pinned_tweet_id": "1839867349157265606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878155746036342784/VR57x1aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 3934,
+          "like_count": 128346,
+          "listed_count": 20,
+          "media_count": 1244,
+          "tweet_count": 23657
+        },
+        "username": "nervs2work",
+        "verified": false
+      }
+    ]
+  }
+}

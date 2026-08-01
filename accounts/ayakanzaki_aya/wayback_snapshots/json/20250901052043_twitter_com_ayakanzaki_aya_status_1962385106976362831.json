@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1960555388056608781",
+    "created_at": "2025-09-01T05:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962385106976362831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1649600829559799810",
+          "start": 0,
+          "username": "chitoly288988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962385106976362831",
+    "in_reply_to_user_id": "1649600829559799810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960572003036893621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chitoly288988 那個就不需要了（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1960555388056608781",
+        "created_at": "2025-09-01T05:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962385106976362831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1649600829559799810",
+              "start": 0,
+              "username": "chitoly288988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962385106976362831",
+        "in_reply_to_user_id": "1649600829559799810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960572003036893621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chitoly288988 那個就不需要了（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649600829559799810",
+        "conversation_id": "1960555388056608781",
+        "created_at": "2025-08-27T05:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960572003036893621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960572003036893621",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960555388056608781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 划算划算，加送一個Aya抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1958347848430342624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8333,
+          "following_count": 994,
+          "like_count": 31617,
+          "listed_count": 20,
+          "media_count": 65,
+          "tweet_count": 20385
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T02:28:00.000Z",
+        "description": "🌄注意事項\n我因為某些原因，欠缺某種情感，所以如果對話有某些得罪之處......那就不太好意思了ww\n\n極度樂觀，理性與感性思維分離。導致一件事情在心裡的看法，最後都得用抽籤決定聽哪邊🥴\n\n🌸散播正向與溫暖的語言。希望給這冰冷的世界帶來一抹難得的溫度。⭐",
+        "id": "1649600829559799810",
+        "name": "Chitoly-蜉蝣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687982380181823488/pY3xT4Ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 155,
+          "like_count": 4833,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 2278
+        },
+        "username": "chitoly288988",
+        "verified": false
+      }
+    ]
+  }
+}

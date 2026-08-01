@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1816352248395444264",
+    "created_at": "2024-07-27T05:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T06:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817073264994189473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1182918144253280257",
+          "start": 0,
+          "username": "my77966293"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817073264994189473",
+    "in_reply_to_user_id": "1182918144253280257",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816484712921354420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@my77966293 上班加油w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1816352248395444264",
+        "created_at": "2024-07-27T05:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T06:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817073264994189473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1182918144253280257",
+              "start": 0,
+              "username": "my77966293"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817073264994189473",
+        "in_reply_to_user_id": "1182918144253280257",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816484712921354420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@my77966293 上班加油w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1182918144253280257",
+        "conversation_id": "1816352248395444264",
+        "created_at": "2024-07-25T14:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T15:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816484712921354420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816484712921354420",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816352248395444264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 要不是橋上有封鎖線不然還需要跨縣市騎車上班的帕魯😮‍💨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3899,
+          "following_count": 995,
+          "like_count": 25268,
+          "listed_count": 10,
+          "tweet_count": 14754
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T07:17:36.000Z",
+        "description": "不要看我追蹤誰 小心出門衰事不斷",
+        "id": "1182918144253280257",
+        "location": "Taiwan",
+        "name": "頭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475595925531754499/dULixK2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 301,
+          "like_count": 50260,
+          "listed_count": 3,
+          "tweet_count": 3138
+        },
+        "username": "my77966293",
+        "verified": false
+      }
+    ]
+  }
+}

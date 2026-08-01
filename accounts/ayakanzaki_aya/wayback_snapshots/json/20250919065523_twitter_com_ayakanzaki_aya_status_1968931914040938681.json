@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1968486013808033994",
+    "created_at": "2025-09-19T06:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T07:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968931914040938681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1019584327376461825",
+          "start": 0,
+          "username": "yazawaribii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968931914040938681",
+    "in_reply_to_user_id": "1019584327376461825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968486013808033994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yazawaribii 這個很好用！我現在用的也是這個，有條件的話建議加個tourbox還有記得貼膜，我沒有貼膜，用了兩年多熒幕中央是糊的www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968486010293284864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1F3mMzbcAAhZj5.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968486010029060096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1F3mL0bsAA3RRv.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1968486013808033994",
+        "created_at": "2025-09-19T06:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T07:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968931914040938681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1019584327376461825",
+              "start": 0,
+              "username": "yazawaribii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968931914040938681",
+        "in_reply_to_user_id": "1019584327376461825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968486013808033994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yazawaribii 這個很好用！我現在用的也是這個，有條件的話建議加個tourbox還有記得貼膜，我沒有貼膜，用了兩年多熒幕中央是糊的www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968486010293284864",
+            "3_1968486010029060096"
+          ]
+        },
+        "author_id": "1019584327376461825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968486013808033994",
+        "created_at": "2025-09-18T01:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T02:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968486013808033994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3TI1luLwC",
+              "end": 63,
+              "expanded_url": "https://x.com/yazawaribii/status/1968486013808033994/photo/1",
+              "media_key": "3_1968486010293284864",
+              "start": 40,
+              "url": "https://t.co/U3TI1luLwC"
+            },
+            {
+              "display_url": "pic.x.com/U3TI1luLwC",
+              "end": 63,
+              "expanded_url": "https://x.com/yazawaribii/status/1968486013808033994/photo/1",
+              "media_key": "3_1968486010029060096",
+              "start": 40,
+              "url": "https://t.co/U3TI1luLwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968486013808033994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 44809,
+          "like_count": 819,
+          "quote_count": 20,
+          "reply_count": 77,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "等等...\n一早醒來就！！！！？\n好開心～～～✨✨✨\n終於有繪圖螢幕的繪圖板了 https://t.co/U3TI1luLwC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8331,
+          "following_count": 997,
+          "like_count": 31736,
+          "listed_count": 20,
+          "media_count": 72,
+          "tweet_count": 20474
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-18T14:07:01.000Z",
+        "description": "我是繪師莉比Ribi～🩷可以叫我莉比醬或是Ribi\n全突發繪畫型圖奇Vtuber！努力讓可愛魔法蔓延你們的心靈☆ﾟ.*･\n委託&合作可私信或是+DC討論(同推特ID)🫶\n✨2025委託排單狀況：https://t.co/yYjYLZhKSv\n\n※未經同意禁止轉載，如需轉載，請註明出處\n自作宣言、AI學習禁止。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/rvnM7Z",
+                "end": 120,
+                "expanded_url": "https://reurl.cc/rvnM7Z",
+                "start": 97,
+                "url": "https://t.co/yYjYLZhKSv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yazawaribii",
+                "end": 23,
+                "expanded_url": "https://lit.link/yazawaribii",
+                "start": 0,
+                "url": "https://t.co/YPcySxnQDH"
+              }
+            ]
+          }
+        },
+        "id": "1019584327376461825",
+        "location": "正在尋夢的路上",
+        "name": "莉比Ribi🍡(๑' '๑) 🌟｡･*繪圖系魔法少女Vtuber🩷|2025委託受付中",
+        "pinned_tweet_id": "1865778405750501738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896102269118267393/d9luxcM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 1186,
+          "like_count": 35475,
+          "listed_count": 11,
+          "media_count": 488,
+          "tweet_count": 8441
+        },
+        "url": "https://t.co/YPcySxnQDH",
+        "username": "yazawaribii",
+        "verified": false
+      }
+    ]
+  }
+}

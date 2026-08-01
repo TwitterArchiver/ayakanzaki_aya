@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1887721713783173306",
+    "created_at": "2025-02-25T01:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T02:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894201196719522212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1486078923213623304",
+          "start": 0,
+          "username": "ZoraPMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894201196719522212",
+    "in_reply_to_user_id": "1486078923213623304",
+    "lang": "el",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894008289089757192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZoraPMC ψ(｀∇´)ψ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1887721713783173306",
+        "created_at": "2025-02-25T01:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894201196719522212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1486078923213623304",
+              "start": 0,
+              "username": "ZoraPMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894201196719522212",
+        "in_reply_to_user_id": "1486078923213623304",
+        "lang": "el",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894008289089757192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZoraPMC ψ(｀∇´)ψ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486078923213623304",
+        "conversation_id": "1887721713783173306",
+        "created_at": "2025-02-24T12:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894008289089757192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894008289089757192",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887721713783173306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya Naked Aya is cute"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 976,
+          "like_count": 29251,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18754
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T20:50:14.000Z",
+        "description": "Gamer + Yapper | Business: zorapmc@gmail.com | My follow is NOT an endorsement | Unless shilled, I will play any game I want | Gray Morals",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ZoraPMC",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ZoraPMC",
+                "start": 0,
+                "url": "https://t.co/ohc1V7E58s"
+              }
+            ]
+          }
+        },
+        "id": "1486078923213623304",
+        "location": "Internet",
+        "name": "ZoraPMC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486079125202812936/VSBIsWSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2798,
+          "like_count": 61848,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/ohc1V7E58s",
+        "username": "ZoraPMC",
+        "verified": false
+      }
+    ]
+  }
+}

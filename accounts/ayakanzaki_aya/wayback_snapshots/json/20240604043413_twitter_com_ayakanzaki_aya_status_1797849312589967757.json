@@ -1,0 +1,314 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1797636910246211585"
+      ],
+      "media_source_tweet_id": [
+        "1797818807471235134"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1797849312589967757",
+    "created_at": "2024-06-04T04:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T05:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797849312589967757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "933023097673748480",
+          "start": 3,
+          "username": "aroamoyasi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/5ZGbPyBXMq",
+          "end": 45,
+          "expanded_url": "https://twitter.com/aroamoyasi/status/1797818807471235134/photo/1",
+          "media_key": "3_1797636910246211585",
+          "start": 22,
+          "url": "https://t.co/5ZGbPyBXMq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797849312589967757",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797818807471235134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aroamoyasi: 蒼天に漂う https://t.co/5ZGbPyBXMq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1797636910246211585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPJ9Pt5bMAEnFcb.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797636910246211585"
+          ],
+          "media_source_tweet_id": [
+            "1797818807471235134"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1797849312589967757",
+        "created_at": "2024-06-04T04:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T05:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797849312589967757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "933023097673748480",
+              "start": 3,
+              "username": "aroamoyasi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5ZGbPyBXMq",
+              "end": 45,
+              "expanded_url": "https://twitter.com/aroamoyasi/status/1797818807471235134/photo/1",
+              "media_key": "3_1797636910246211585",
+              "start": 22,
+              "url": "https://t.co/5ZGbPyBXMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797849312589967757",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797818807471235134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aroamoyasi: 蒼天に漂う https://t.co/5ZGbPyBXMq"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797636910246211585"
+          ]
+        },
+        "author_id": "933023097673748480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1797818807471235134",
+        "created_at": "2024-06-04T02:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T03:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797818807471235134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5ZGbPyBXMq",
+              "end": 29,
+              "expanded_url": "https://twitter.com/aroamoyasi/status/1797818807471235134/photo/1",
+              "media_key": "3_1797636910246211585",
+              "start": 6,
+              "url": "https://t.co/5ZGbPyBXMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797818807471235134",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 18952,
+          "like_count": 1130,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "蒼天に漂う https://t.co/5ZGbPyBXMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3863,
+          "following_count": 993,
+          "like_count": 24037,
+          "listed_count": 10,
+          "tweet_count": 13551
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-21T17:23:36.000Z",
+        "description": "フリーランスイラストレーター/白髪と四季と儚い女の子が好き。ヴィレヴァンコラボ、電撃文庫『赤点魔女に異世界最強の個別指導を！』、ホロライブ、プロセカなど。ご依頼はメールか下記HPにて 。【✉メール】：aroa138938＠gmail.com 【Youtube】https://t.co/QA7iuMgpWo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@aroa32440",
+                "end": 153,
+                "expanded_url": "http://youtube.com/@aroa32440",
+                "start": 130,
+                "url": "https://t.co/QA7iuMgpWo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aroa138.tumblr.com/post/629297983…",
+                "end": 23,
+                "expanded_url": "https://aroa138.tumblr.com/post/629297983288197120/%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+                "start": 0,
+                "url": "https://t.co/8sdPwU4tBf"
+              }
+            ]
+          }
+        },
+        "id": "933023097673748480",
+        "location": "ご依頼＆過去の実績は下記ホームページから",
+        "name": "あろあ",
+        "pinned_tweet_id": "1774987618314551615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473247172607242242/XOzmltF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126057,
+          "following_count": 834,
+          "like_count": 4429,
+          "listed_count": 1231,
+          "tweet_count": 2253
+        },
+        "url": "https://t.co/8sdPwU4tBf",
+        "username": "aroamoyasi",
+        "verified": true
+      }
+    ]
+  }
+}

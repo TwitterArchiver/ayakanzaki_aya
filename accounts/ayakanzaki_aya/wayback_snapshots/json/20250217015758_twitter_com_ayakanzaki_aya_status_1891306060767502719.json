@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1889500495678493030",
+    "created_at": "2025-02-17T01:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T02:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891306060767502719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947658974",
+          "start": 0,
+          "username": "Chinatsu_tkfmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891306060767502719",
+    "in_reply_to_user_id": "1947658974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889791019266256950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chinatsu_tkfmt 我有好好讀啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1889500495678493030",
+        "created_at": "2025-02-17T01:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T02:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891306060767502719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947658974",
+              "start": 0,
+              "username": "Chinatsu_tkfmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891306060767502719",
+        "in_reply_to_user_id": "1947658974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889791019266256950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chinatsu_tkfmt 我有好好讀啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947658974",
+        "conversation_id": "1889500495678493030",
+        "created_at": "2025-02-12T21:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T22:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889791019266256950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889791019266256950",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889500495678493030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 小孩子就去好好讀書\n不要每天只會在那邊畫那什麼娃娃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6244,
+          "following_count": 970,
+          "like_count": 28827,
+          "listed_count": 16,
+          "media_count": 127,
+          "tweet_count": 18355
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-08T18:52:52.000Z",
+        "description": "台湾🇹🇼｜通訳｜中⇔日翻譯員｜Twtich實況主｜ご連絡はDMか→chinatsu.tkfmt@gmail.com\n有任何聯絡歡迎私訊或email",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/chinatsu_tkfmt",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/chinatsu_tkfmt",
+                "start": 0,
+                "url": "https://t.co/6da9ta3v3g"
+              }
+            ]
+          }
+        },
+        "id": "1947658974",
+        "location": "世界の理",
+        "name": "天下不滅千夏ちゃん🕊️",
+        "pinned_tweet_id": "1572972642927546368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537601244943962113/-g5yzVpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 1056,
+          "like_count": 10689,
+          "listed_count": 8,
+          "media_count": 967,
+          "tweet_count": 12217
+        },
+        "url": "https://t.co/6da9ta3v3g",
+        "username": "Chinatsu_tkfmt",
+        "verified": false
+      }
+    ]
+  }
+}

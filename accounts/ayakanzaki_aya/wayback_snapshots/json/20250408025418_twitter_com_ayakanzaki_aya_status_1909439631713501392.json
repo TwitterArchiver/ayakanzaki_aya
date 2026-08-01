@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1906811215994654794",
+    "created_at": "2025-04-08T02:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T03:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909439631713501392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3238124278",
+          "start": 0,
+          "username": "rueipang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909439631713501392",
+    "in_reply_to_user_id": "3238124278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906893253133353182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rueipang 快樂（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1906811215994654794",
+        "created_at": "2025-04-08T02:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T03:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909439631713501392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3238124278",
+              "start": 0,
+              "username": "rueipang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909439631713501392",
+        "in_reply_to_user_id": "3238124278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906893253133353182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rueipang 快樂（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3238124278",
+        "conversation_id": "1906811215994654794",
+        "created_at": "2025-04-01T02:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T03:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906893253133353182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906893253133353182",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906811215994654794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 👀👀👀\n愚人節快樂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1908696249852715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908035628488417280/CuOrfaUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6610,
+          "following_count": 984,
+          "like_count": 30138,
+          "listed_count": 18,
+          "media_count": 134,
+          "tweet_count": 19606
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-06T04:41:00.000Z",
+        "description": "🇹🇼 中文沒問題、努力學習日文中基本上還是靠GPT翻譯\n日本語はまだ勉強中で、基本的にはまだ聞き取れません。主にGPTの翻訳を頼りにしています。  \n音響機材の選び方やEQ設定で悩んでいる方は、気軽にDMしてください！（ただし、詳しいのは私ではなく友達ですwww）",
+        "id": "3238124278",
+        "location": "Tainan City, Taiwan",
+        "name": "胖胖(パンパン)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807530118912598016/vHtugvuG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 3002,
+          "like_count": 76097,
+          "listed_count": 9,
+          "media_count": 435,
+          "tweet_count": 39129
+        },
+        "username": "rueipang",
+        "verified": false
+      }
+    ]
+  }
+}

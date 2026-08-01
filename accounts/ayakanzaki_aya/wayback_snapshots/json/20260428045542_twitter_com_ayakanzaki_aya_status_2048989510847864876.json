@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2048550500455309658",
+    "created_at": "2026-04-28T04:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048989510847864876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817897018167291904",
+          "start": 0,
+          "username": "time20240625"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048989510847864876",
+    "in_reply_to_user_id": "1817897018167291904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048656245201293409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@time20240625 滿分w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2048550500455309658",
+        "created_at": "2026-04-28T04:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048989510847864876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817897018167291904",
+              "start": 0,
+              "username": "time20240625"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048989510847864876",
+        "in_reply_to_user_id": "1817897018167291904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048656245201293409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@time20240625 滿分w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817897018167291904",
+        "conversation_id": "2048550500455309658",
+        "created_at": "2026-04-27T06:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048656245201293409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048656245201293409",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048550500455309658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 這也太腳琴了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9239,
+          "following_count": 969,
+          "like_count": 32766,
+          "listed_count": 22,
+          "media_count": 91,
+          "tweet_count": 21325
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T12:17:01.000Z",
+        "description": "賣窗簾的\n開直播是為了完成小時候當體育人的夢想，和留下活著的紀錄\n會玩遊戲、偶爾聊天(但沒人和我聊窗簾XD)，唱歌(?)，追V嗎....再看看吧~\n\nhttps://t.co/L8h3U3g6Zc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/timemicky",
+                "end": 98,
+                "expanded_url": "https://www.twitch.tv/timemicky",
+                "start": 75,
+                "url": "https://t.co/L8h3U3g6Zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/timemicky",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/timemicky",
+                "start": 0,
+                "url": "https://t.co/L8h3U3g6Zc"
+              }
+            ]
+          }
+        },
+        "id": "1817897018167291904",
+        "name": "范綱智",
+        "pinned_tweet_id": "2048379674452254914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014789882284224512/3ChWh-1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 446,
+          "like_count": 12370,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/L8h3U3g6Zc",
+        "username": "time20240625",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2001713495142752498",
+    "created_at": "2025-12-19T14:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T15:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002025972862996909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1370268243420573700",
+          "start": 0,
+          "username": "turtle0622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002025972862996909",
+    "in_reply_to_user_id": "1370268243420573700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001857333044089152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@turtle0622 大部分都是郵件跟dc的訊息啦www\n沒在管的w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2001713495142752498",
+        "created_at": "2025-12-19T14:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002025972862996909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1370268243420573700",
+              "start": 0,
+              "username": "turtle0622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002025972862996909",
+        "in_reply_to_user_id": "1370268243420573700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001857333044089152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@turtle0622 大部分都是郵件跟dc的訊息啦www\n沒在管的w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370268243420573700",
+        "conversation_id": "2001713495142752498",
+        "created_at": "2025-12-19T03:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T04:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001857333044089152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001857333044089152",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001713495142752498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我只注意到9986則訊息！！！這要回到什麼時後啊！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8421,
+          "following_count": 976,
+          "like_count": 32070,
+          "listed_count": 20,
+          "media_count": 86,
+          "tweet_count": 20824
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T06:59:53.000Z",
+        "description": "1.通常訓練的時候說幹話\n2.不是高富帥\n3.謝絕政治文，一律封鎖\n4.等我想到在補充，謝謝大家",
+        "id": "1370268243420573700",
+        "name": "烏龜先生-減脂期（不成功不改名）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947157598110949376/HXvFvZsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 838,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 1767,
+          "tweet_count": 20596
+        },
+        "username": "turtle0622",
+        "verified": false
+      }
+    ]
+  }
+}

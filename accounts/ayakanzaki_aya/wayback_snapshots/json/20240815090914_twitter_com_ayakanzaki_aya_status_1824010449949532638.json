@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1822932386683728219",
+    "created_at": "2024-08-15T09:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T10:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824010449949532638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1414241327366111232",
+          "start": 0,
+          "username": "Rinnn_Py"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824010449949532638",
+    "in_reply_to_user_id": "1414241327366111232",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822993906696654936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinnn_Py _(:_」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1822932386683728219",
+        "created_at": "2024-08-15T09:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T10:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824010449949532638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1414241327366111232",
+              "start": 0,
+              "username": "Rinnn_Py"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824010449949532638",
+        "in_reply_to_user_id": "1414241327366111232",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822993906696654936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinnn_Py _(:_」∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414241327366111232",
+        "conversation_id": "1822932386683728219",
+        "created_at": "2024-08-12T13:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T14:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822993906696654936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822993906696654936",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822932386683728219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 保重啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3909,
+          "following_count": 998,
+          "like_count": 25547,
+          "listed_count": 10,
+          "tweet_count": 15023
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T15:13:16.000Z",
+        "description": "✦✦✦✦✦\n早安ㄩㄇ，我是磷!!\n惡魔族，500歲，LV50 台灣騷年VTB!!\nNO香菇!! NO香菜!! NO摸尾巴!!\n這裡蠻輕鬆的，帶有善意及尊重的留言請隨意\n各種二創作品都歡迎，R18的也可以喔~\n有磷角想更了解我歡迎留言或到YT圖奇直播與我互動!!\n✦✦✦✦✦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RinnnPy",
+                "end": 23,
+                "expanded_url": "https://lit.link/RinnnPy",
+                "start": 0,
+                "url": "https://t.co/Y5aSQS9dc2"
+              }
+            ]
+          }
+        },
+        "id": "1414241327366111232",
+        "name": "末代磷磷✦台V貴公子✦ 個人勢台V✦ 🔊",
+        "pinned_tweet_id": "1638861848106909697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521055812713840640/jpYrefr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 799,
+          "like_count": 51091,
+          "listed_count": 14,
+          "tweet_count": 21723
+        },
+        "url": "https://t.co/Y5aSQS9dc2",
+        "username": "Rinnn_Py",
+        "verified": false
+      }
+    ]
+  }
+}

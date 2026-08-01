@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-22T04:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T05:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837716740437840088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "939357003641524224",
+          "start": 0,
+          "username": "a24098030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837716740437840088",
+    "in_reply_to_user_id": "939357003641524224",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836999898295849449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a24098030 加拿大就這樣 習慣就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T04:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T05:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837716740437840088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "939357003641524224",
+              "start": 0,
+              "username": "a24098030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837716740437840088",
+        "in_reply_to_user_id": "939357003641524224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836999898295849449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a24098030 加拿大就這樣 習慣就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "939357003641524224",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-20T05:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T06:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836999898295849449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836999898295849449",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5512,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836990408175276060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 說個地獄的\n她快集齊所有buff了(X\n\n不過這真的好亂@@"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26273,
+          "listed_count": 9,
+          "tweet_count": 15735
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-09T04:52:16.000Z",
+        "description": "",
+        "id": "939357003641524224",
+        "name": "程柏融",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1021647285489348608/bfSaeuP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 1079,
+          "like_count": 153852,
+          "listed_count": 0,
+          "tweet_count": 11502
+        },
+        "username": "a24098030",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1666590490022625280",
+    "created_at": "2023-06-08T03:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-08T04:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1666645437204365312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583003452874969088",
+          "start": 0,
+          "username": "xub79334844"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1666645437204365312",
+    "in_reply_to_user_id": "1583003452874969088",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1666614605752451072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xub79334844 (●´ω｀●)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1666590490022625280",
+        "created_at": "2023-06-08T03:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-08T04:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1666645437204365312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583003452874969088",
+              "start": 0,
+              "username": "xub79334844"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1666645437204365312",
+        "in_reply_to_user_id": "1583003452874969088",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1666614605752451072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xub79334844 (●´ω｀●)"
+      },
+      {
+        "attachments": {},
+        "author_id": "1583003452874969088",
+        "conversation_id": "1666590490022625280",
+        "created_at": "2023-06-08T01:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-08T02:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1666614605752451072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1666614605752451072",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1666590490022625280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 可愛🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "✧神崎あやKanzaki Aya✧｜學生/女的/畫圖/廢文/中文超爛｜🪴委託開放中 Commission Open ฅ｜日本語を勉強中💦｜努力尋找自我🍁｜我婆@Dacodaco_426🐣｜よろしくね⸜(* ॑꒳ ॑* )⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "Dacodaco_426"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki0224.wixsite.com/ayadesu",
+                "end": 23,
+                "expanded_url": "https://ayakanzaki0224.wixsite.com/ayadesu",
+                "start": 0,
+                "url": "https://t.co/5d3aNRmx4n"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya✧快來委託我啦✧",
+        "pinned_tweet_id": "1645627973779836929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631459651970650119/7D1yV38E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 552,
+          "listed_count": 10,
+          "tweet_count": 3811
+        },
+        "url": "https://t.co/5d3aNRmx4n",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T07:53:51.000Z",
+        "description": "一隻喜歡玩遊戲、唱歌、聊天的小水豚\n小水豚每天半夜出沒\n陪伴大家度過難熬的夜晚\n\n繪師麻麻：あやAya @ayakanzaki_aya\n\ntwitch：https://t.co/6mGL0owfxP\nyoutube：規劃中\nDC：https://t.co/8CItDmLypV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "ayakanzaki_aya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/yukibu_yuma",
+                "end": 99,
+                "expanded_url": "https://www.twitch.tv/yukibu_yuma",
+                "start": 76,
+                "url": "https://t.co/6mGL0owfxP"
+              },
+              {
+                "display_url": "discord.gg/svMWxrkGQg",
+                "end": 138,
+                "expanded_url": "https://discord.gg/svMWxrkGQg",
+                "start": 115,
+                "url": "https://t.co/8CItDmLypV"
+              }
+            ]
+          }
+        },
+        "id": "1583003452874969088",
+        "name": "雪咘ユキ☃️【新手實況主】",
+        "pinned_tweet_id": "1664021828216709120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662487487279931392/nHEhnERV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 267,
+          "listed_count": 1,
+          "tweet_count": 984
+        },
+        "username": "xub79334844",
+        "verified": false
+      }
+    ]
+  }
+}

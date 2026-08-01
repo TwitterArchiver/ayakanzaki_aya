@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2046858676560929131",
+    "created_at": "2026-04-24T05:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047548826525876557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3001588856",
+          "start": 0,
+          "username": "pizzatw_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047548826525876557",
+    "in_reply_to_user_id": "3001588856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046888371835036133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pizzatw_ 下次來畫卡皮巴拉的骨頭（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21601,
+        "height": 1280,
+        "media_key": "13_2046888311357349888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046888311357349888/img/6A8d1M0z17_0oj7k.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046888311357349888/pl/PJaG7_e0tY-RVPpF.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046888311357349888/vid/avc1/960x1280/tynYfPxld2Vqz9F0.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046888311357349888/vid/avc1/320x426/RogYzxK5iWqdS36f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046888311357349888/vid/avc1/720x960/fKJ_ms-G2tJQ_zkm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046888311357349888/vid/avc1/480x640/s8bUCcYzWLB9YcQ9.mp4"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-24T05:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047548826525876557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3001588856",
+              "start": 0,
+              "username": "pizzatw_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047548826525876557",
+        "in_reply_to_user_id": "3001588856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046888371835036133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizzatw_ 下次來畫卡皮巴拉的骨頭（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046888311357349888"
+          ]
+        },
+        "author_id": "3001588856",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-22T09:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046888371835036133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLXcCrvarG",
+              "end": 58,
+              "expanded_url": "https://x.com/pizzatw_/status/2046888371835036133/video/1",
+              "media_key": "13_2046888311357349888",
+              "start": 35,
+              "url": "https://t.co/oLXcCrvarG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046888371835036133",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046858676560929131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 果然有鳥鳥！\n那我給點卡皮可愛能量👍 https://t.co/oLXcCrvarG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9130,
+          "following_count": 985,
+          "like_count": 32702,
+          "listed_count": 22,
+          "media_count": 90,
+          "tweet_count": 21297
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-29T15:45:52.000Z",
+        "description": "卡皮巴拉水豚愛好者/在台中工作邁入第四年/步入30的中年大叔/看看繪師或色圖\\(//∇//)\\/百鬼組萬歲/手遊非洲日常分享",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pizza_tw/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/pizza_tw/",
+                "start": 0,
+                "url": "https://t.co/sQ6FyONnrW"
+              }
+            ]
+          }
+        },
+        "id": "3001588856",
+        "location": "Kaohsiung City, Taiwan",
+        "name": "哲_Pizza「百鬼組」",
+        "pinned_tweet_id": "1945187721913291252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934947404001976320/r9PkYE3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 1579,
+          "like_count": 60042,
+          "listed_count": 3,
+          "media_count": 677,
+          "tweet_count": 5801
+        },
+        "url": "https://t.co/sQ6FyONnrW",
+        "username": "pizzatw_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1947849554436477231",
+    "created_at": "2025-07-24T12:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T13:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948366715894583458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364153542534029314",
+          "start": 0,
+          "username": "haroldla0610"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948366715894583458",
+    "in_reply_to_user_id": "1364153542534029314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947988574760284254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haroldla0610 (((o(*ﾟ▽ﾟ*)o)))"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1947849554436477231",
+        "created_at": "2025-07-24T12:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T13:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948366715894583458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1364153542534029314",
+              "start": 0,
+              "username": "haroldla0610"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948366715894583458",
+        "in_reply_to_user_id": "1364153542534029314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947988574760284254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haroldla0610 (((o(*ﾟ▽ﾟ*)o)))"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364153542534029314",
+        "conversation_id": "1947849554436477231",
+        "created_at": "2025-07-23T11:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T12:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947988574760284254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947988574760284254",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947849554436477231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 幹 暈爛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7837,
+          "following_count": 993,
+          "like_count": 31350,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 20157
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-23T10:02:20.000Z",
+        "description": "一個沒事看看台的DD",
+        "id": "1364153542534029314",
+        "name": "死靈王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364153763670360068/BKvPEP7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 1239,
+          "like_count": 59071,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 3370
+        },
+        "username": "haroldla0610",
+        "verified": false
+      }
+    ]
+  }
+}

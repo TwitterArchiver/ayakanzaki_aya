@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1983758655196639411",
+    "created_at": "2025-10-31T01:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T02:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984063543713608142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935219444940488704",
+          "start": 0,
+          "username": "mikagamihana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984063543713608142",
+    "in_reply_to_user_id": "1935219444940488704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983758655196639411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikagamihana 他是對的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_1983758650285096960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4e5-2ZaAAAW7ar.jpg",
+        "width": 629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1983758655196639411",
+        "created_at": "2025-10-31T01:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T02:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984063543713608142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935219444940488704",
+              "start": 0,
+              "username": "mikagamihana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984063543713608142",
+        "in_reply_to_user_id": "1935219444940488704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983758655196639411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikagamihana 他是對的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983758650285096960"
+          ]
+        },
+        "author_id": "1935219444940488704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1983758655196639411",
+        "created_at": "2025-10-30T04:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983758655196639411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xiPoiEZBJD",
+              "end": 173,
+              "expanded_url": "https://x.com/mikagamihana/status/1983758655196639411/photo/1",
+              "media_key": "3_1983758650285096960",
+              "start": 150,
+              "url": "https://t.co/xiPoiEZBJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983758655196639411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 46075,
+          "like_count": 1659,
+          "quote_count": 9,
+          "reply_count": 155,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "經紀人「在正式打廣告前，你要先練習用推特」\n\n我「可是我沒有可以宣傳的東西，我要去跟其他Vtuber社交嗎🤯💥🪼」\n\n經紀人「不用，因為不會有同業理你」\n\n我「🤯」\n\n經紀人「這是我整理的推特觸及率攻略，每天照做，你的推文就會瘋狂流到別人TL上」\n\n我「可是🤯」\n\n經紀人「照做」\n\n他是對的🤯💥🪼 https://t.co/xiPoiEZBJD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8419,
+          "following_count": 973,
+          "like_count": 31912,
+          "listed_count": 19,
+          "media_count": 86,
+          "tweet_count": 20649
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T06:14:45.000Z",
+        "description": "Astra-群星-所屬 來自水星的魔法少女，期待跟地球的各位見面\n 🪄（@runLan_0329 )（@wa_Ta_ta__ ) \n\n【一般】#鏡華水月\n【FA】#水星創作部\n【R-18】#水星裏創作部\n【配信】#水星放送\n\n✨歌曲收錄→TAKUMI³",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "鏡華水月"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "水星創作部"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "水星裏創作部"
+              },
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "水星放送"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "runLan_0329"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "wa_Ta_ta__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mikagamihana",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@mikagamihana",
+                "start": 0,
+                "url": "https://t.co/b6LxeC6yb5"
+              }
+            ]
+          }
+        },
+        "id": "1935219444940488704",
+        "location": "mikagamihana@gmail.com",
+        "name": "水鏡華🪼Vtuber準備中",
+        "pinned_tweet_id": "1971514345205940644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935246164535951360/QEuVx438_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 248,
+          "like_count": 876,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1292
+        },
+        "url": "https://t.co/b6LxeC6yb5",
+        "username": "mikagamihana",
+        "verified": true
+      }
+    ]
+  }
+}

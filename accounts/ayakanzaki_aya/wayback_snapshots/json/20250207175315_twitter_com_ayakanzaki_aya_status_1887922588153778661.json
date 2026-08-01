@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1887721713783173306",
+    "created_at": "2025-02-07T17:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T18:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887922588153778661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1626998193593659392",
+          "start": 0,
+          "username": "Je_o_mo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887922588153778661",
+    "in_reply_to_user_id": "1626998193593659392",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887916208965697879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Je_o_mo !!!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1887721713783173306",
+        "created_at": "2025-02-07T17:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T18:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887922588153778661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1626998193593659392",
+              "start": 0,
+              "username": "Je_o_mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887922588153778661",
+        "in_reply_to_user_id": "1626998193593659392",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887916208965697879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je_o_mo !!!!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626998193593659392",
+        "conversation_id": "1887721713783173306",
+        "created_at": "2025-02-07T17:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T18:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887916208965697879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887916208965697879",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887721713783173306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 😚💛💛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4863,
+          "following_count": 991,
+          "like_count": 28489,
+          "listed_count": 10,
+          "media_count": 125,
+          "tweet_count": 18032
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-18T17:33:04.000Z",
+        "description": "숄더 - https://t.co/SXa5p0ouoG\nPixiv - https://t.co/aZoxvhWBMD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shoulder.fan/@Je_o_mo",
+                "end": 28,
+                "expanded_url": "https://shoulder.fan/@Je_o_mo",
+                "start": 5,
+                "url": "https://t.co/SXa5p0ouoG"
+              },
+              {
+                "display_url": "pixiv.net/users/34035974",
+                "end": 60,
+                "expanded_url": "https://pixiv.net/users/34035974",
+                "start": 37,
+                "url": "https://t.co/aZoxvhWBMD"
+              }
+            ]
+          }
+        },
+        "id": "1626998193593659392",
+        "name": "저모_JEO_MO",
+        "pinned_tweet_id": "1886618181495820329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838814301441888256/T3l27Dzw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113926,
+          "following_count": 782,
+          "like_count": 26390,
+          "listed_count": 355,
+          "media_count": 648,
+          "tweet_count": 8682
+        },
+        "username": "Je_o_mo",
+        "verified": true
+      }
+    ]
+  }
+}

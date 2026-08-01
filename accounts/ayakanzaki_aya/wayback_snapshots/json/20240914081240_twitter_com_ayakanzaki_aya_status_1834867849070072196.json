@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1834089434255401241",
+    "created_at": "2024-09-14T08:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T09:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834867849070072196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1693951748292100096",
+          "start": 0,
+          "username": "LING53062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834867849070072196",
+    "in_reply_to_user_id": "1693951748292100096",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834238785049297342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LING53062 嗯嗯！看到有人說了\n是overmorrow！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1834089434255401241",
+        "created_at": "2024-09-14T08:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T09:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834867849070072196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1693951748292100096",
+              "start": 0,
+              "username": "LING53062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834867849070072196",
+        "in_reply_to_user_id": "1693951748292100096",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834238785049297342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LING53062 嗯嗯！看到有人說了\n是overmorrow！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693951748292100096",
+        "conversation_id": "1834089434255401241",
+        "created_at": "2024-09-12T14:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T15:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834238785049297342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834238785049297342",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834089434255401241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 有喔 但是超級生僻冷門字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊イラストの依賴受付中✧ \n┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 82,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 59,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118,
+          "following_count": 983,
+          "like_count": 26107,
+          "listed_count": 9,
+          "tweet_count": 15552
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T11:42:34.000Z",
+        "description": "",
+        "id": "1693951748292100096",
+        "name": "靈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693952255920373761/JIMwhIWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 172,
+          "like_count": 3469,
+          "listed_count": 0,
+          "tweet_count": 399
+        },
+        "username": "LING53062",
+        "verified": false
+      }
+    ]
+  }
+}

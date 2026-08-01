@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1853319910945906925",
+    "created_at": "2024-11-06T08:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T09:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854075386386104769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1158766321774948352",
+          "start": 0,
+          "username": "DhydraDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854075386386104769",
+    "in_reply_to_user_id": "1158766321774948352",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853346704378212417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DhydraDD 我們的店沒有跟外送平台合作w 沒有買一送一 也沒有任何的優惠 有的就只有額外的delivery fee而已www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1853319910945906925",
+        "created_at": "2024-11-06T08:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T09:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854075386386104769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1158766321774948352",
+              "start": 0,
+              "username": "DhydraDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854075386386104769",
+        "in_reply_to_user_id": "1158766321774948352",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853346704378212417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DhydraDD 我們的店沒有跟外送平台合作w 沒有買一送一 也沒有任何的優惠 有的就只有額外的delivery fee而已www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158766321774948352",
+        "conversation_id": "1853319910945906925",
+        "created_at": "2024-11-04T08:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T09:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853346704378212417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853346704378212417",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853319910945906925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 外送平台有時候飲料會有買一送一，現場買反而沒有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1851840833923764641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4237,
+          "following_count": 980,
+          "like_count": 26957,
+          "listed_count": 10,
+          "tweet_count": 16491
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T15:46:34.000Z",
+        "description": "撇開現實生活的另一個生活圈，非常的舒服\n\nYT名稱：白麗菜 白色高麗菜\n\n結婚: @Ranger_636\n大單推貼貼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Ranger_636"
+              }
+            ]
+          }
+        },
+        "id": "1158766321774948352",
+        "name": "翠綠白菜",
+        "pinned_tweet_id": "1847309524216299532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640911300137226240/1RJe7n6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 1350,
+          "like_count": 54169,
+          "listed_count": 3,
+          "tweet_count": 16061
+        },
+        "username": "DhydraDD",
+        "verified": false
+      }
+    ]
+  }
+}

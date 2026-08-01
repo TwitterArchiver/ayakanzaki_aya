@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2018162621225066735",
+    "created_at": "2026-02-03T10:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T11:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018640119729942815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860492699822096384",
+          "start": 0,
+          "username": "fanfan_vtuber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018640119729942815",
+    "in_reply_to_user_id": "1860492699822096384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018188621472469395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanfan_vtuber 過來過來！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2018162621225066735",
+        "created_at": "2026-02-03T10:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018640119729942815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860492699822096384",
+              "start": 0,
+              "username": "fanfan_vtuber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018640119729942815",
+        "in_reply_to_user_id": "1860492699822096384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018188621472469395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanfan_vtuber 過來過來！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860492699822096384",
+        "conversation_id": "2018162621225066735",
+        "created_at": "2026-02-02T05:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018188621472469395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018188621472469395",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018162621225066735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 那是很有興趣了（搓手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011299487910666240/vr6sPNSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8449,
+          "following_count": 988,
+          "like_count": 32194,
+          "listed_count": 20,
+          "media_count": 101,
+          "tweet_count": 20962
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T01:16:52.000Z",
+        "description": "☆不善與人溝通的獵手☆中文⭕️/English 散裝/日本語 散裝☆Gamer(最愛APEX or FPS Game) / ☆馬麻：@yyla1757 / ☆tag帆帆 #帆帆快看 /☆Fans art #帆影點點/☆聯絡信箱：linfanfan0819@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "帆帆快看"
+              },
+              {
+                "end": 107,
+                "start": 102,
+                "tag": "帆影點點"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "yyla1757"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/Linfanfan",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/Linfanfan",
+                "start": 0,
+                "url": "https://t.co/I0pUKJ4OBd"
+              }
+            ]
+          }
+        },
+        "id": "1860492699822096384",
+        "name": "⭐️凌帆帆⚡️炒雞大盤子🥏",
+        "pinned_tweet_id": "2005503822857191697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005503182299107328/IwsAn-z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 641,
+          "like_count": 19575,
+          "listed_count": 2,
+          "media_count": 622,
+          "tweet_count": 6556
+        },
+        "url": "https://t.co/I0pUKJ4OBd",
+        "username": "fanfan_vtuber",
+        "verified": false
+      }
+    ]
+  }
+}

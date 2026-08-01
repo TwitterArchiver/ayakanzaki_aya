@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1904958330717516025",
+    "created_at": "2025-04-01T02:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T03:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906893328433467426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1760526318633152512",
+          "start": 0,
+          "username": "wjinho550099k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906893328433467426",
+    "in_reply_to_user_id": "1760526318633152512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905044248950649332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjinho550099k 蛤wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1904958330717516025",
+        "created_at": "2025-04-01T02:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T03:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906893328433467426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1760526318633152512",
+              "start": 0,
+              "username": "wjinho550099k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906893328433467426",
+        "in_reply_to_user_id": "1760526318633152512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905044248950649332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjinho550099k 蛤wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760526318633152512",
+        "conversation_id": "1904958330717516025",
+        "created_at": "2025-03-26T23:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T00:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905044248950649332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905044248950649332",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904958330717516025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 有人叫我來參加 抽一個🐘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6533,
+          "following_count": 982,
+          "like_count": 30079,
+          "listed_count": 18,
+          "media_count": 131,
+          "tweet_count": 19556
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T04:46:11.000Z",
+        "description": "是個怪人 看到有興趣的會去接觸 若有在哪裡覺得我很討厭的 歡迎B我或告知 不會去你的貼文出沒 演算法推給我什麼我就按 擴散希望 轉推 甚至YT 圖奇等追隨都歡迎 喜歡或欣賞的推會想互動很正常 但你雙標或者噁心人就不要怪別人對你不友善 尊重 友善 包容 是互相的 不是因為是公眾人物或主播就要接受你/妳任性妄為。（全適用）",
+        "id": "1760526318633152512",
+        "name": "吳建豪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760526462804000768/_n7FEAU2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 196,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 156
+        },
+        "username": "wjinho550099k",
+        "verified": false
+      }
+    ]
+  }
+}

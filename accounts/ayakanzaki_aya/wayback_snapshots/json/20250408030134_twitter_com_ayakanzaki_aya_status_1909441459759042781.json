@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1906811215994654794",
+    "created_at": "2025-04-08T03:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T04:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909441459759042781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1262311211049209856",
+          "start": 0,
+          "username": "DeadDice0209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909441459759042781",
+    "in_reply_to_user_id": "1262311211049209856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906950235047297201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeadDice0209 笑死全錯www\n答案是最後的那一句愚人節快樂啦w\n發文的當下加拿大還不是愚人節"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1906811215994654794",
+        "created_at": "2025-04-08T03:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T04:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909441459759042781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1262311211049209856",
+              "start": 0,
+              "username": "DeadDice0209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909441459759042781",
+        "in_reply_to_user_id": "1262311211049209856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906950235047297201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeadDice0209 笑死全錯www\n答案是最後的那一句愚人節快樂啦w\n發文的當下加拿大還不是愚人節"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262311211049209856",
+        "conversation_id": "1906811215994654794",
+        "created_at": "2025-04-01T06:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T07:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906950235047297201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906950235047297201",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906811215994654794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 基於今天是愚人節\n所以\n我要繼續幹\n要畫圖了\n要用推特\n大概1／3天左右吧\n不考生物跟數學\n今天大風雨還要上課"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1908696249852715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908035628488417280/CuOrfaUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6611,
+          "following_count": 984,
+          "like_count": 30161,
+          "listed_count": 18,
+          "media_count": 134,
+          "tweet_count": 19622
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T09:18:00.000Z",
+        "description": "會瑟瑟追蹤要想好喔!!!聊天英/中皆可,最愛的主播永遠是千層兔餅，絕對永遠不會變\n（Hello! You can call me Raka, I also can speak English/Chinese，my favorite Vtuber is binbin0707 from twitch",
+        "id": "1262311211049209856",
+        "name": "魚小唧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812880860070506496/E9dfiW7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 816,
+          "like_count": 12891,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 5155
+        },
+        "username": "DeadDice0209",
+        "verified": false
+      }
+    ]
+  }
+}

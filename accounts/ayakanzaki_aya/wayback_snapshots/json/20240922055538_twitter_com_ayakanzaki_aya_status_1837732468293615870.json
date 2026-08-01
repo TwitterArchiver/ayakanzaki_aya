@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-22T05:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837732468293615870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695992179058225152",
+          "start": 0,
+          "username": "Rakusei0605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837732468293615870",
+    "in_reply_to_user_id": "1695992179058225152",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837718417916547453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rakusei0605 感謝配合"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T05:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837732468293615870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695992179058225152",
+              "start": 0,
+              "username": "Rakusei0605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837732468293615870",
+        "in_reply_to_user_id": "1695992179058225152",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837718417916547453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rakusei0605 感謝配合"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695992179058225152",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T04:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T05:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837718417916547453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837718417916547453",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837718322931982735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好的（丟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26397,
+          "listed_count": 9,
+          "tweet_count": 15857
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T02:50:42.000Z",
+        "description": "台灣社團勢Vtuber 中○/英△/日△/台△粉絲名：星喵☆⁠ Fanart tag：#繪星（R18🚫）/ 萬用tag：#洛星貓 所屬社團：緣系 Enito @enito1211 圖奇：https://t.co/H1KY51kcMV YT在下方⬇️⬇️⬇️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 43,
+                "tag": "繪星"
+              },
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "洛星貓"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "enito1211"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/rakusei0605",
+                "end": 116,
+                "expanded_url": "http://twitch.tv/rakusei0605",
+                "start": 93,
+                "url": "https://t.co/H1KY51kcMV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@amane_rakusei…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@amane_rakusei?si=Zx52cOlftUSXIkfI",
+                "start": 0,
+                "url": "https://t.co/9gQIUQHGvg"
+              }
+            ]
+          }
+        },
+        "id": "1695992179058225152",
+        "name": "天音洛星☆⁠ 社團勢Vtuber 【初配信準備ing…】",
+        "pinned_tweet_id": "1793948976775061874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762665429359857664/LGbwLRDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 40,
+          "like_count": 8502,
+          "listed_count": 1,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/9gQIUQHGvg",
+        "username": "Rakusei0605",
+        "verified": false
+      }
+    ]
+  }
+}

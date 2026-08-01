@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1831241928018481348",
+    "created_at": "2024-09-06T03:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T04:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831899987518877961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "901610762958888961",
+          "start": 0,
+          "username": "life777nice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831899987518877961",
+    "in_reply_to_user_id": "901610762958888961",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831281959261139204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@life777nice 晚安！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1831241928018481348",
+        "created_at": "2024-09-06T03:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T04:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831899987518877961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "901610762958888961",
+              "start": 0,
+              "username": "life777nice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831899987518877961",
+        "in_reply_to_user_id": "901610762958888961",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831281959261139204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@life777nice 晚安！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901610762958888961",
+        "conversation_id": "1831241928018481348",
+        "created_at": "2024-09-04T10:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T11:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831281959261139204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831281959261139204",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831241928018481348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好好休息，晚安~~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4103,
+          "following_count": 982,
+          "like_count": 25943,
+          "listed_count": 9,
+          "tweet_count": 15405
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-27T01:02:11.000Z",
+        "description": "",
+        "id": "901610762958888961",
+        "name": "黑心豆漿（life777nice）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816700681119760386/qe0eqKoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 239,
+          "like_count": 4191,
+          "listed_count": 0,
+          "tweet_count": 2878
+        },
+        "username": "life777nice",
+        "verified": false
+      }
+    ]
+  }
+}

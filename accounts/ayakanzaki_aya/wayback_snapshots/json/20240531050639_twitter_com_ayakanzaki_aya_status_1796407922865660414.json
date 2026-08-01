@@ -1,0 +1,218 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1796033855754748207",
+    "created_at": "2024-05-31T05:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T06:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796407922865660414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1370268243420573700",
+          "start": 0,
+          "username": "turtle0622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796407922865660414",
+    "in_reply_to_user_id": "1370268243420573700",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796128040834986326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@turtle0622 這個我知道 還有附加效果：獲得岳父認同👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1796033855754748207",
+        "created_at": "2024-05-31T05:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T06:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796407922865660414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1370268243420573700",
+              "start": 0,
+              "username": "turtle0622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796407922865660414",
+        "in_reply_to_user_id": "1370268243420573700",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796128040834986326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@turtle0622 這個我知道 還有附加效果：獲得岳父認同👍🏻"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796128037563691008"
+          ]
+        },
+        "author_id": "1370268243420573700",
+        "conversation_id": "1796033855754748207",
+        "created_at": "2024-05-30T10:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T11:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796128040834986326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zFQnWlsa8D",
+              "end": 59,
+              "expanded_url": "https://twitter.com/turtle0622/status/1796128040834986326/photo/1",
+              "media_key": "3_1796128037563691008",
+              "start": 36,
+              "url": "https://t.co/zFQnWlsa8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796128040834986326",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796033855754748207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 毒藥我不知道，但是我知道過期春藥會變大 https://t.co/zFQnWlsa8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3858,
+          "following_count": 994,
+          "like_count": 23983,
+          "listed_count": 10,
+          "tweet_count": 13489
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T06:59:53.000Z",
+        "description": "1.謝謝大家跟我交朋友\n2.通常訓練的時候說幹話\n3.不是高富帥\n4.老胖廢宅窮，要做生意的小姐姐，預祝你們生意興隆，不過我沒辦法約\n5.本人早洩，陽痿，3公分，請不用約我，謝謝\n6.謝絕政治文，一律封鎖\n7.等我想到在補充，謝謝大家",
+        "id": "1370268243420573700",
+        "name": "烏龜先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708316521901281280/ep3F9s0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 1009,
+          "like_count": 10,
+          "listed_count": 0,
+          "tweet_count": 10242
+        },
+        "username": "turtle0622",
+        "verified": false
+      }
+    ]
+  }
+}

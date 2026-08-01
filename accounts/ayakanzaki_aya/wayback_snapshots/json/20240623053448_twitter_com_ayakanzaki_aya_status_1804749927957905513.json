@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1803712787958346201",
+    "created_at": "2024-06-23T05:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T06:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804749927957905513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1327220642",
+          "start": 0,
+          "username": "kakawai6683"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804749927957905513",
+    "in_reply_to_user_id": "1327220642",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804023280296202400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakawai6683 了～嗎～\n嗎～\n啊～\n～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1803712787958346201",
+        "created_at": "2024-06-23T05:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T06:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804749927957905513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1327220642",
+              "start": 0,
+              "username": "kakawai6683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804749927957905513",
+        "in_reply_to_user_id": "1327220642",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804023280296202400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakawai6683 了～嗎～\n嗎～\n啊～\n～"
+      },
+      {
+        "attachments": {},
+        "author_id": "1327220642",
+        "conversation_id": "1803712787958346201",
+        "created_at": "2024-06-21T05:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T06:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804023280296202400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804023280296202400",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803712787958346201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 了~嗎~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3890,
+          "following_count": 993,
+          "like_count": 24537,
+          "listed_count": 10,
+          "tweet_count": 14046
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-04T15:45:03.000Z",
+        "description": "希望可以叫我カイ 這只帳號偏生活文 追V 耍廢文 是個香港的DD 請多指教(´･ω･`) //カイと申します、香港人です、今は日本語を勉強します〜",
+        "id": "1327220642",
+        "location": "Taichung City, Taiwan",
+        "name": "kazuki/カイ🌕🍡/🔮🌕/🐰💛/🐳💙/📢💫/🧪/⚓️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753107413245603840/COFeP8Gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 307,
+          "like_count": 37849,
+          "listed_count": 1,
+          "tweet_count": 10735
+        },
+        "username": "kakawai6683",
+        "verified": false
+      }
+    ]
+  }
+}

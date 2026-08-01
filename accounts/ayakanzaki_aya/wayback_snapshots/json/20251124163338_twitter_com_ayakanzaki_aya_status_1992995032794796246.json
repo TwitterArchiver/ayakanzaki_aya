@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1992995032794796246",
+    "created_at": "2025-11-24T16:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T17:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992995032794796246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y8nsweett/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/y8nsweett/status/1992748551445897251",
+          "start": 26,
+          "url": "https://t.co/gqtOyaNY1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992995032794796246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992748551445897251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最近很喜歡的一個唱見！\n10000ておめでどい！！ https://t.co/gqtOyaNY1c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "3_1992748543539658752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6eqPghbwAAf6sc.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1992995032794796246",
+        "created_at": "2025-11-24T16:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992995032794796246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y8nsweett/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/y8nsweett/status/1992748551445897251",
+              "start": 26,
+              "url": "https://t.co/gqtOyaNY1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992995032794796246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992748551445897251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近很喜歡的一個唱見！\n10000ておめでどい！！ https://t.co/gqtOyaNY1c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992748543539658752"
+          ]
+        },
+        "author_id": "1555405033881337856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1992748551445897251",
+        "created_at": "2025-11-24T00:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T01:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992748551445897251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MParvinVCn",
+              "end": 72,
+              "expanded_url": "https://x.com/y8nsweett/status/1992748551445897251/photo/1",
+              "media_key": "3_1992748543539658752",
+              "start": 49,
+              "url": "https://t.co/MParvinVCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992748551445897251",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3239,
+          "like_count": 131,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "유튜브 구독자 1만명 감사합니다! 🤍\nThanks for 10K subscribers! https://t.co/MParvinVCn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8404,
+          "following_count": 976,
+          "like_count": 31981,
+          "listed_count": 20,
+          "media_count": 88,
+          "tweet_count": 20725
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T04:07:38.000Z",
+        "description": "https://t.co/7tHN6lEHWC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yoonsweet",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yoonsweet",
+                "start": 0,
+                "url": "https://t.co/7tHN6lEHWC"
+              }
+            ]
+          }
+        },
+        "id": "1555405033881337856",
+        "location": "gmssolove@naver.com",
+        "name": "윤단",
+        "pinned_tweet_id": "1987815431940526375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954365641781374976/1XpFwEBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 74,
+          "like_count": 3828,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 73
+        },
+        "username": "y8nsweett",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1889500495678493030",
+    "created_at": "2025-02-17T01:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T02:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891305197596491974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1330454576563171329",
+          "start": 0,
+          "username": "hoshino_tako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891305197596491974",
+    "in_reply_to_user_id": "1330454576563171329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889640883118641376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshino_tako 你在這講廢話能當飯吃嗎♪(´▽｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1889500495678493030",
+        "created_at": "2025-02-17T01:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T02:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891305197596491974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1330454576563171329",
+              "start": 0,
+              "username": "hoshino_tako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891305197596491974",
+        "in_reply_to_user_id": "1330454576563171329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889640883118641376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshino_tako 你在這講廢話能當飯吃嗎♪(´▽｀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330454576563171329",
+        "conversation_id": "1889500495678493030",
+        "created_at": "2025-02-12T11:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T12:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889640883118641376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889640883118641376",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889500495678493030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 畫圖能當飯吃嗎？一天天只會在那幹些沒意義的事（亞洲父母會說的那種話🤣）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6244,
+          "following_count": 970,
+          "like_count": 28821,
+          "listed_count": 16,
+          "media_count": 127,
+          "tweet_count": 18349
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-22T10:14:36.000Z",
+        "description": "前7-11店職員、foodpanda外送員，人生就是不斷的嘗試，才能找到屬於自己的跑道向前走！中文⭕️ 英文❌ 日文🔰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hoshinotako?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@hoshinotako?si=QqleizGErE7H943Y",
+                "start": 0,
+                "url": "https://t.co/cjTnWFXM0z"
+              }
+            ]
+          }
+        },
+        "id": "1330454576563171329",
+        "location": "Taichung City, Taiwan",
+        "name": "星野タコ / hoshinotako",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890404834538602496/TeYaIa-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 1532,
+          "like_count": 5164,
+          "listed_count": 11,
+          "media_count": 64,
+          "tweet_count": 3267
+        },
+        "url": "https://t.co/cjTnWFXM0z",
+        "username": "hoshino_tako",
+        "verified": false
+      }
+    ]
+  }
+}

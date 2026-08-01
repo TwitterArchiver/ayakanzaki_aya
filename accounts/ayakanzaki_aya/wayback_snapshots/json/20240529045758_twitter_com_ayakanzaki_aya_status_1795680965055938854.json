@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1794619009968845090",
+    "created_at": "2024-05-29T04:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T05:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795680965055938854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271740531572260867",
+          "start": 0,
+          "username": "X9yMVQXjuUTjFW2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795680965055938854",
+    "in_reply_to_user_id": "1271740531572260867",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795085780081164404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X9yMVQXjuUTjFW2 這個是一定會的！我推特經營非常開心✨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1794619009968845090",
+        "created_at": "2024-05-29T04:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T05:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795680965055938854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271740531572260867",
+              "start": 0,
+              "username": "X9yMVQXjuUTjFW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795680965055938854",
+        "in_reply_to_user_id": "1271740531572260867",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795085780081164404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X9yMVQXjuUTjFW2 這個是一定會的！我推特經營非常開心✨"
+      },
+      {
+        "attachments": {},
+        "author_id": "1271740531572260867",
+        "conversation_id": "1794619009968845090",
+        "created_at": "2024-05-27T13:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T14:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795085780081164404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795085780081164404",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794619009968845090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 尊重妳的選擇，但我希望還能像現在可以這樣打字聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3857,
+          "following_count": 994,
+          "like_count": 23903,
+          "listed_count": 10,
+          "tweet_count": 13411
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T09:45:57.000Z",
+        "description": "",
+        "id": "1271740531572260867",
+        "location": "新北市, 台灣",
+        "name": "李皓宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668040706999599104/VJEG3j6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 248,
+          "like_count": 407,
+          "listed_count": 1,
+          "tweet_count": 104
+        },
+        "username": "X9yMVQXjuUTjFW2",
+        "verified": false
+      }
+    ]
+  }
+}

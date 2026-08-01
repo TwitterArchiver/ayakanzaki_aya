@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1951130247773991362",
+    "created_at": "2025-08-03T08:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T09:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951927077327819261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588473679473582080",
+          "start": 0,
+          "username": "hohosan_107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951927077327819261",
+    "in_reply_to_user_id": "1588473679473582080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951144977305837669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hohosan_107 ヾ(≧▽≦*)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1951130247773991362",
+        "created_at": "2025-08-03T08:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951927077327819261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588473679473582080",
+              "start": 0,
+              "username": "hohosan_107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951927077327819261",
+        "in_reply_to_user_id": "1588473679473582080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951144977305837669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hohosan_107 ヾ(≧▽≦*)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588473679473582080",
+        "conversation_id": "1951130247773991362",
+        "created_at": "2025-08-01T04:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T05:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951144977305837669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951144977305837669",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951130247773991362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 構圖好神好好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8297,
+          "following_count": 996,
+          "like_count": 31506,
+          "listed_count": 19,
+          "media_count": 57,
+          "tweet_count": 20254
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T10:10:37.000Z",
+        "description": "喜歡Vtuber的學生 \n                                        主推是Nanashi Mumei\n興趣是看電影",
+        "id": "1588473679473582080",
+        "name": "呵呵🪶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681717427858726912/U2RXcjxE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 739,
+          "like_count": 8363,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 827
+        },
+        "username": "hohosan_107",
+        "verified": false
+      }
+    ]
+  }
+}

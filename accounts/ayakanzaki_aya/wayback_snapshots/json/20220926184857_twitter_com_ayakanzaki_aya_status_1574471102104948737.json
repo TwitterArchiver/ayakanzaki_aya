@@ -1,0 +1,346 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 26 18:48:57 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          14,
+          32
+        ],
+        "text": "絵柄が好みって人にフォローされたい"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/XfDtVy7twr",
+        "expanded_url": "https://twitter.com/late_exa/status/1574328922644582400/photo/1",
+        "id": 1574328918504767488,
+        "id_str": "1574328918504767488",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/Fdkjz2saAAAzpMi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Fdkjz2saAAAzpMi.jpg",
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 849
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 849
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 481
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1574328922644582400,
+        "source_status_id_str": "1574328922644582400",
+        "source_user_id": 1142556126,
+        "source_user_id_str": "1142556126",
+        "type": "photo",
+        "url": "https://t.co/XfDtVy7twr"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1142556126,
+        "id_str": "1142556126",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "5ma.(ごま)🍰",
+        "screen_name": "late_exa"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/XfDtVy7twr",
+        "expanded_url": "https://twitter.com/late_exa/status/1574328922644582400/photo/1",
+        "id": 1574328918504767488,
+        "id_str": "1574328918504767488",
+        "indices": [
+          52,
+          75
+        ],
+        "media_url": "http://pbs.twimg.com/media/Fdkjz2saAAAzpMi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Fdkjz2saAAAzpMi.jpg",
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 849
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 849
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 481
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1574328922644582400,
+        "source_status_id_str": "1574328922644582400",
+        "source_user_id": 1142556126,
+        "source_user_id_str": "1142556126",
+        "type": "photo",
+        "url": "https://t.co/XfDtVy7twr"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1574471102104948737,
+  "id_str": "1574471102104948737",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "ja",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 26 09:23:59 +0000 2022",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            18
+          ],
+          "text": "絵柄が好みって人にフォローされたい"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/XfDtVy7twr",
+          "expanded_url": "https://twitter.com/late_exa/status/1574328922644582400/photo/1",
+          "id": 1574328918504767488,
+          "id_str": "1574328918504767488",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fdkjz2saAAAzpMi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fdkjz2saAAAzpMi.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 849
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 849
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 481
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/XfDtVy7twr"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/XfDtVy7twr",
+          "expanded_url": "https://twitter.com/late_exa/status/1574328922644582400/photo/1",
+          "id": 1574328918504767488,
+          "id_str": "1574328918504767488",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fdkjz2saAAAzpMi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fdkjz2saAAAzpMi.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 849
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 849
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 481
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/XfDtVy7twr"
+        }
+      ]
+    },
+    "favorite_count": 7017,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1574328922644582400,
+    "id_str": "1574328922644582400",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "ja",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 6,
+    "reply_count": 10,
+    "retweet_count": 1177,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "#絵柄が好みって人にフォローされたい\nよろしくおねがいします꒰ᐢ•ᴗ•ᐢ꒱ https://t.co/XfDtVy7twr",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Feb 02 14:24:24 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "5ma./ごま\n◇お絵描きします：お仕事募集中です(11月～)\n◆skeb→ http://skeb.jp/@late_exa \n◆mail→ konkoncurry36@gmail.com\n◇contact→http://konkoncurry36.wixsite.com/goma5ma/contact",
+      "favourites_count": 37016,
+      "follow_request_sent": null,
+      "followers_count": 25006,
+      "following": null,
+      "friends_count": 174,
+      "geo_enabled": false,
+      "id": 1142556126,
+      "id_str": "1142556126",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 321,
+      "location": "詳細はHPにお願いいたします",
+      "name": "5ma.(ごま)🍰",
+      "notifications": null,
+      "profile_background_color": "888888",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1142556126/1662599030",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1451304224852037635/R6AEOzVn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1451304224852037635/R6AEOzVn_normal.jpg",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFEECC",
+      "profile_text_color": "19706D",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "late_exa",
+      "statuses_count": 55225,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://konkoncurry36.wixsite.com/goma5ma",
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @late_exa: #絵柄が好みって人にフォローされたい\nよろしくおねがいします꒰ᐢ•ᴗ•ᐢ꒱ https://t.co/XfDtVy7twr",
+  "timestamp_ms": "1664218137657",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Thu Mar 03 19:42:57 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "繪圖/讀書/遊戲 天才麻將少女aka加拿大屁孩です 委托請私∠( ᐛ 」∠)＿ IG⬇️",
+    "favourites_count": 649,
+    "follow_request_sent": null,
+    "followers_count": 47,
+    "following": null,
+    "friends_count": 107,
+    "geo_enabled": false,
+    "id": 1499470341734907907,
+    "id_str": "1499470341734907907",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": "家裏蹲",
+    "name": "神崎あやKanzaki Aya",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499470341734907907/1658374523",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1499471179329019915/oQnSnLAu_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499471179329019915/oQnSnLAu_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "ayakanzaki_aya",
+    "statuses_count": 549,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://instagram.com/ayakanzaki_aya/",
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1868565470036848802",
+    "created_at": "2024-12-17T14:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T15:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869028571572023383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2302524572",
+          "start": 0,
+          "username": "dc9130237"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869028571572023383",
+    "in_reply_to_user_id": "2302524572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868672665353171036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dc9130237 可惜（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1868565470036848802",
+        "created_at": "2024-12-17T14:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T15:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869028571572023383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2302524572",
+              "start": 0,
+              "username": "dc9130237"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869028571572023383",
+        "in_reply_to_user_id": "2302524572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868672665353171036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dc9130237 可惜（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2302524572",
+        "conversation_id": "1868565470036848802",
+        "created_at": "2024-12-16T15:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T16:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868672665353171036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868672665353171036",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868565470036848802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 最有可能就是開一些焦慮身心藥物\n\n讓你別想這麼多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1857345709181178184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4228,
+          "following_count": 981,
+          "like_count": 27470,
+          "listed_count": 10,
+          "media_count": 115,
+          "tweet_count": 17048
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-21T05:04:55.000Z",
+        "description": "Vtype 實況主 ， 興趣使然的剪輯新手與實況主",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC-qVt…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC-qVtPqXdfq5XsE7BELefDQ/featured",
+                "start": 0,
+                "url": "https://t.co/ZE5Y0QQNa8"
+              }
+            ]
+          }
+        },
+        "id": "2302524572",
+        "location": "虛擬世界中某處 醫療診所的卯咪",
+        "name": "RICO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592524705042309122/EJeY0ZHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 406,
+          "like_count": 32507,
+          "listed_count": 4,
+          "media_count": 1617,
+          "tweet_count": 19768
+        },
+        "url": "https://t.co/ZE5Y0QQNa8",
+        "username": "dc9130237",
+        "verified": false
+      }
+    ]
+  }
+}

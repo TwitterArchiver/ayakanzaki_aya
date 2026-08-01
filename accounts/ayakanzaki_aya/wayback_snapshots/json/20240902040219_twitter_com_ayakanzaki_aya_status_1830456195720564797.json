@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1829698222459060372",
+    "created_at": "2024-09-02T04:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T05:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830456195720564797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1729696501335572480",
+          "start": 0,
+          "username": "Koria_first"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830456195720564797",
+    "in_reply_to_user_id": "1729696501335572480",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829878177709375968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koria_first 陪我打遊戲的都是大師\n每次壓力都超大又有不好意思\n又菜又想打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1829698222459060372",
+        "created_at": "2024-09-02T04:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T05:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830456195720564797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1729696501335572480",
+              "start": 0,
+              "username": "Koria_first"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830456195720564797",
+        "in_reply_to_user_id": "1729696501335572480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829878177709375968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koria_first 陪我打遊戲的都是大師\n每次壓力都超大又有不好意思\n又菜又想打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729696501335572480",
+        "conversation_id": "1829698222459060372",
+        "created_at": "2024-08-31T13:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T14:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829878177709375968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829878177709375968",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829698222459060372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 感覺我也很有6號的潛質……\n但是跟我打遊戲的都一樣菜，應該不算浪費他們時間(✪ω✪)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3944,
+          "following_count": 980,
+          "like_count": 25843,
+          "listed_count": 10,
+          "tweet_count": 15309
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T02:59:32.000Z",
+        "description": "a normal student from China",
+        "id": "1729696501335572480",
+        "location": "Pluto",
+        "name": "a normal Koria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787494154219749376/a8vTbyz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 188,
+          "listed_count": 0,
+          "tweet_count": 69
+        },
+        "username": "Koria_first",
+        "verified": false
+      }
+    ]
+  }
+}

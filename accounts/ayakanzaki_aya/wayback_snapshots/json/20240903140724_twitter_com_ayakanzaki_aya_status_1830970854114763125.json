@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1830970854114763125",
+    "created_at": "2024-09-03T14:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T15:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830970854114763125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dacodaco_426/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/dacodaco_426/status/1830948452920107162",
+          "start": 22,
+          "url": "https://t.co/veVZ39NWKB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830970854114763125",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830948452920107162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好耶是本體！！\n所以說鴨主播要開台了沒（x https://t.co/veVZ39NWKB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1830970854114763125",
+        "created_at": "2024-09-03T14:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T15:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830970854114763125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dacodaco_426/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/dacodaco_426/status/1830948452920107162",
+              "start": 22,
+              "url": "https://t.co/veVZ39NWKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830970854114763125",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830948452920107162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶是本體！！\n所以說鴨主播要開台了沒（x https://t.co/veVZ39NWKB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830948165354430467"
+          ]
+        },
+        "author_id": "1287213071421726720",
+        "conversation_id": "1830948452920107162",
+        "created_at": "2024-09-03T12:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T13:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830948452920107162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "塗や集"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5agotxryrj",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Dacodaco_426/status/1830948452920107162/photo/1",
+              "media_key": "3_1830948165354430467",
+              "start": 46,
+              "url": "https://t.co/5agOTxRYRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830948452920107162",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#塗や集\n4000追恭喜\n這隻鴨太混了不知不覺被超車很多www\n本體帽子勉為其難的借妳吧! https://t.co/5agOTxRYRj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4088,
+          "following_count": 980,
+          "like_count": 25872,
+          "listed_count": 9,
+          "tweet_count": 15337
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T02:28:17.000Z",
+        "description": "一隻會彈琵琶、畫畫、唱歌、建模的鴨子自家孩子販售中 （女V有優惠） 各式連結還有標籤放在下面的網址了！歡迎委託～～相關Hashtag: 粉絲創作 #Dacofanart 直播相關 #Dacolive 想說的話 #鴨鴨偷偷說",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 73,
+                "tag": "Dacofanart"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "tag": "Dacolive"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "鴨鴨偷偷說"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/dacodaco426",
+                "end": 23,
+                "expanded_url": "https://lit.link/dacodaco426",
+                "start": 0,
+                "url": "https://t.co/6jYPIBJifn"
+              }
+            ]
+          }
+        },
+        "id": "1287213071421726720",
+        "location": "大鴨鴨澡堂",
+        "name": "呱鴨Daco🐣委託暫停開放",
+        "pinned_tweet_id": "1596078484593704960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775011501956562944/a2bi7fFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 962,
+          "like_count": 6702,
+          "listed_count": 12,
+          "tweet_count": 3503
+        },
+        "url": "https://t.co/6jYPIBJifn",
+        "username": "Dacodaco_426",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1835885912103727416",
+    "created_at": "2024-09-19T03:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T04:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836611971715633381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1262311211049209856",
+          "start": 0,
+          "username": "DeadDice0209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836611971715633381",
+    "in_reply_to_user_id": "1262311211049209856",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835901595588211103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeadDice0209 笑死 我對食物比較有興趣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1835885912103727416",
+        "created_at": "2024-09-19T03:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T04:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836611971715633381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1262311211049209856",
+              "start": 0,
+              "username": "DeadDice0209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836611971715633381",
+        "in_reply_to_user_id": "1262311211049209856",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835901595588211103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeadDice0209 笑死 我對食物比較有興趣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835901582850097152"
+          ]
+        },
+        "author_id": "1262311211049209856",
+        "conversation_id": "1835885912103727416",
+        "created_at": "2024-09-17T04:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T05:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835901595588211103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jzobkl3mo",
+              "end": 44,
+              "expanded_url": "https://twitter.com/DeadDice0209/status/1835901595588211103/photo/1",
+              "media_key": "3_1835901582850097152",
+              "start": 21,
+              "url": "https://t.co/7JZOBkL3mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835901595588211103",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835885912103727416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 看帥哥中 https://t.co/7JZOBkL3mo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆\n依賴受付中✧ よろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 981,
+          "like_count": 26199,
+          "listed_count": 9,
+          "tweet_count": 15660
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T09:18:00.000Z",
+        "description": "純繪圖愛好也喜歡唱歌（色狗一隻追蹤要想好喔 . 聊天英/中皆可,喜歡的V是千層兔餅，很可愛喔！\n（Hello! You can call me Raka, I also can speak English/Chinese，my favorite Vtuber is binbin0707 from twitch",
+        "id": "1262311211049209856",
+        "name": "魚小唧",
+        "pinned_tweet_id": "1809622558653968405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812880860070506496/E9dfiW7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 684,
+          "like_count": 8116,
+          "listed_count": 0,
+          "tweet_count": 3061
+        },
+        "username": "DeadDice0209",
+        "verified": false
+      }
+    ]
+  }
+}

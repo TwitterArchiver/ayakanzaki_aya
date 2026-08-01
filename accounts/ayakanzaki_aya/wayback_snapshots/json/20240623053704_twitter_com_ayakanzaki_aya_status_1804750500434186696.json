@@ -1,0 +1,245 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1803931208528568376",
+    "created_at": "2024-06-23T05:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T06:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804750500434186696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684421538454589440",
+          "start": 0,
+          "username": "ApexDasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804750500434186696",
+    "in_reply_to_user_id": "1684421538454589440",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804147119680557425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ApexDasa 沒辦法 人生tainan了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1803931208528568376",
+        "created_at": "2024-06-23T05:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T06:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804750500434186696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684421538454589440",
+              "start": 0,
+              "username": "ApexDasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804750500434186696",
+        "in_reply_to_user_id": "1684421538454589440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804147119680557425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ApexDasa 沒辦法 人生tainan了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1684421538454589440",
+        "conversation_id": "1803931208528568376",
+        "created_at": "2024-06-21T13:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T14:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804147119680557425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804147119680557425",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803931208528568376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 不可能，因為我本身就Taipei爛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3890,
+          "following_count": 993,
+          "like_count": 24545,
+          "listed_count": 10,
+          "tweet_count": 14055
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T04:33:15.000Z",
+        "description": "我是APEX實況主兼VT：Dasa｜粉絲名：暖包｜YT：https://t.co/e0rQ2MBZx7｜圖奇：https://t.co/uym9UUNjyn ｜IG：https://t.co/33ID8kguZx｜※嗚一醬繪圖絕大部分都是Midjourney AI｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@APEXDasa",
+                "end": 51,
+                "expanded_url": "https://youtube.com/@APEXDasa",
+                "start": 28,
+                "url": "https://t.co/e0rQ2MBZx7"
+              },
+              {
+                "display_url": "twitch.tv/dasabackfromap…",
+                "end": 78,
+                "expanded_url": "https://twitch.tv/dasabackfromapex",
+                "start": 55,
+                "url": "https://t.co/uym9UUNjyn"
+              },
+              {
+                "display_url": "instagram.com/dasa_apex",
+                "end": 106,
+                "expanded_url": "https://instagram.com/dasa_apex",
+                "start": 83,
+                "url": "https://t.co/33ID8kguZx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/apexdasa",
+                "end": 23,
+                "expanded_url": "https://lit.link/apexdasa",
+                "start": 0,
+                "url": "https://t.co/3tiDVBP0du"
+              }
+            ]
+          }
+        },
+        "id": "1684421538454589440",
+        "location": "Taiwan",
+        "name": "從APEX歸來的Dasa Ch. 個人勢.影片勢Vtuber",
+        "pinned_tweet_id": "1768453324670636052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760495040735199232/P_CA3fIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1081,
+          "like_count": 6653,
+          "listed_count": 1,
+          "tweet_count": 3514
+        },
+        "url": "https://t.co/3tiDVBP0du",
+        "username": "ApexDasa",
+        "verified": false
+      }
+    ]
+  }
+}

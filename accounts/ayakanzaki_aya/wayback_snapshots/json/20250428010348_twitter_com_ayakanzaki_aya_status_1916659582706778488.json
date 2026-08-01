@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1915804438255571314",
+    "created_at": "2025-04-28T01:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T02:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916659582706778488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1451505814032642048",
+          "start": 0,
+          "username": "YukoriSango"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916659582706778488",
+    "in_reply_to_user_id": "1451505814032642048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915906025976479945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukoriSango 沒 直接當著她的面翻譯就給過了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1915804438255571314",
+        "created_at": "2025-04-28T01:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T02:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916659582706778488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1451505814032642048",
+              "start": 0,
+              "username": "YukoriSango"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916659582706778488",
+        "in_reply_to_user_id": "1451505814032642048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915906025976479945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukoriSango 沒 直接當著她的面翻譯就給過了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451505814032642048",
+        "conversation_id": "1915804438255571314",
+        "created_at": "2025-04-25T23:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T00:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915906025976479945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915906025976479945",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915804438255571314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 老師是Asian 嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916243512862949376/CY_WHRnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6598,
+          "following_count": 988,
+          "like_count": 30529,
+          "listed_count": 18,
+          "media_count": 50,
+          "tweet_count": 19745
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T11:09:04.000Z",
+        "description": "🇨🇦🇹🇼｜2.0準備中\n🌊\n喜歡醫學但非專業\n🌊\n境界觸發者成癮造成的精障末期\n◇目前是個無皮在暫停活動的Vtuber\n◇ DM➡️推特私訊｜電子郵件：yurisnow950084@gmail.com",
+        "id": "1451505814032642048",
+        "location": "居住在誰人的魔法之中成長",
+        "name": "織海珊雪🪸 Vtuber 2.0維修準備中",
+        "pinned_tweet_id": "1892445775231119473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706521376453255168/pUtCmwjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 626,
+          "like_count": 23286,
+          "listed_count": 11,
+          "media_count": 784,
+          "tweet_count": 15450
+        },
+        "username": "YukoriSango",
+        "verified": false
+      }
+    ]
+  }
+}

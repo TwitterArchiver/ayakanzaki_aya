@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1801448112080208337",
+    "created_at": "2024-06-16T08:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T09:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802253246536302913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1228301646322528257",
+          "start": 0,
+          "username": "nathansan15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802253246536302913",
+    "in_reply_to_user_id": "1228301646322528257",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801541547453800666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nathansan15 那是我爸 與我無瓜 （撇清"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1801448112080208337",
+        "created_at": "2024-06-16T08:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T09:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802253246536302913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1228301646322528257",
+              "start": 0,
+              "username": "nathansan15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802253246536302913",
+        "in_reply_to_user_id": "1228301646322528257",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801541547453800666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nathansan15 那是我爸 與我無瓜 （撇清"
+      },
+      {
+        "attachments": {},
+        "author_id": "1228301646322528257",
+        "conversation_id": "1801448112080208337",
+        "created_at": "2024-06-14T09:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T10:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801541547453800666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801541547453800666",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801448112080208337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好嗆啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3882,
+          "following_count": 993,
+          "like_count": 24311,
+          "listed_count": 10,
+          "tweet_count": 13819
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T12:55:54.000Z",
+        "description": "中文：喜歡少戰，艦C，強襲魔女，愛上火車等acg作品，目前目標是讀到好大學，小小願望是到日本留學，也在當個小小youtuber，歡迎訂閲我的頻道 \n日本語：18↓ 香港人です。ガルパン、艦これ、まいてつ、ぼざろが大好きです。日本へ留学したい，いま日本語を勉強します。私のYoutube チャンネル：Nathan奈特",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3xxPuUk",
+                "end": 23,
+                "expanded_url": "https://bit.ly/3xxPuUk",
+                "start": 0,
+                "url": "https://t.co/LYvUZybz9v"
+              }
+            ]
+          }
+        },
+        "id": "1228301646322528257",
+        "location": "世界的某一個角落",
+        "name": "Nathan奈特💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1478025519606415364/w_BvCGms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 167,
+          "like_count": 15629,
+          "listed_count": 0,
+          "tweet_count": 10866
+        },
+        "url": "https://t.co/LYvUZybz9v",
+        "username": "nathansan15",
+        "verified": false
+      }
+    ]
+  }
+}

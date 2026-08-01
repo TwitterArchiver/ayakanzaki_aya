@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1812951499796062610",
+    "created_at": "2024-07-17T01:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T02:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813385808381927795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "748125927448580096",
+          "start": 0,
+          "username": "YingErJC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813385808381927795",
+    "in_reply_to_user_id": "748125927448580096",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812998708742791565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingErJC 打什麼www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1812951499796062610",
+        "created_at": "2024-07-17T01:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T02:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813385808381927795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "748125927448580096",
+              "start": 0,
+              "username": "YingErJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813385808381927795",
+        "in_reply_to_user_id": "748125927448580096",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812998708742791565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingErJC 打什麼www"
+      },
+      {
+        "attachments": {},
+        "author_id": "748125927448580096",
+        "conversation_id": "1812951499796062610",
+        "created_at": "2024-07-15T23:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T00:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812998708742791565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812998708742791565",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812951499796062610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 難道是打了沒？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3908,
+          "following_count": 995,
+          "like_count": 25099,
+          "listed_count": 10,
+          "tweet_count": 14580
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-29T12:08:15.000Z",
+        "description": "聲優控~\\(≧▽≦)/~",
+        "id": "748125927448580096",
+        "location": "Taiwan",
+        "name": "浦島未來",
+        "pinned_tweet_id": "783645483507998720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569607389737000962/up5FC3hE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 437,
+          "like_count": 500,
+          "listed_count": 20,
+          "tweet_count": 695
+        },
+        "username": "YingErJC",
+        "verified": false
+      }
+    ]
+  }
+}

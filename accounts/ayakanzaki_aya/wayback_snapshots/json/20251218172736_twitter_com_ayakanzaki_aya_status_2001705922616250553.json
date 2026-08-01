@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001552984409542656"
+      ],
+      "media_source_tweet_id": [
+        "2001553268821102915"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2001705922616250553",
+    "created_at": "2025-12-18T17:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T18:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001705922616250553"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 67,
+          "normalized_text": "Live2DWIP",
+          "probability": 0.5935,
+          "start": 59,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 58,
+          "tag": "Live2DWIP"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608466272299388932",
+          "start": 3,
+          "username": "Aloup925"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CYUNQZeE8Z",
+          "end": 92,
+          "expanded_url": "https://x.com/Aloup925/status/2001553268821102915/video/1",
+          "media_key": "13_2001552984409542656",
+          "start": 69,
+          "url": "https://t.co/CYUNQZeE8Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001705922616250553",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 325
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001553268821102915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aloup925: Add some light effects to the eye physics.\n\n#Live2DWIP https://t.co/CYUNQZeE8Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8323,
+        "height": 934,
+        "media_key": "13_2001552984409542656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001552984409542656/img/9WlqWUgKzYpqRrry.jpg",
+        "public_metrics": {
+          "view_count": 25945
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001552984409542656/vid/avc1/320x328/xe-gSD5iH0Abr6SN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001552984409542656/vid/avc1/480x494/S_Zyw0OuyvobYelx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001552984409542656/vid/avc1/720x742/vq1M5LcoViISY99i.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001552984409542656/pl/PvNpMa9g8aFpBzRb.m3u8?tag=14"
+          }
+        ],
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001552984409542656"
+          ],
+          "media_source_tweet_id": [
+            "2001553268821102915"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2001705922616250553",
+        "created_at": "2025-12-18T17:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001705922616250553"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "Live2DWIP",
+              "probability": 0.5935,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 58,
+              "tag": "Live2DWIP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608466272299388932",
+              "start": 3,
+              "username": "Aloup925"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYUNQZeE8Z",
+              "end": 92,
+              "expanded_url": "https://x.com/Aloup925/status/2001553268821102915/video/1",
+              "media_key": "13_2001552984409542656",
+              "start": 69,
+              "url": "https://t.co/CYUNQZeE8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001705922616250553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 325
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001553268821102915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aloup925: Add some light effects to the eye physics.\n\n#Live2DWIP https://t.co/CYUNQZeE8Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001552984409542656"
+          ]
+        },
+        "author_id": "1608466272299388932",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2001553268821102915",
+        "created_at": "2025-12-18T07:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001553268821102915"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "Live2DWIP",
+              "probability": 0.6193,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "Live2DWIP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYUNQZeE8Z",
+              "end": 78,
+              "expanded_url": "https://x.com/Aloup925/status/2001553268821102915/video/1",
+              "media_key": "13_2001552984409542656",
+              "start": 55,
+              "url": "https://t.co/CYUNQZeE8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001553268821102915",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1290,
+          "impression_count": 70990,
+          "like_count": 5924,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "Add some light effects to the eye physics.\n\n#Live2DWIP https://t.co/CYUNQZeE8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8388,
+          "following_count": 976,
+          "like_count": 32057,
+          "listed_count": 20,
+          "media_count": 85,
+          "tweet_count": 20812
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T14:14:16.000Z",
+        "description": "Live2D Rigger ‖ CN / EN / 其他语言使用翻译器 \n‖ 私信没回请联系📧aloup925@gmail.com \n‖ Commission closed 🔗https://t.co/nJaRACT1fs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Aloup",
+                "end": 111,
+                "expanded_url": "http://vgen.co/Aloup",
+                "start": 88,
+                "url": "https://t.co/nJaRACT1fs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aloupcms.carrd.co",
+                "end": 23,
+                "expanded_url": "http://aloupcms.carrd.co",
+                "start": 0,
+                "url": "https://t.co/09t2l0h5s2"
+              }
+            ]
+          }
+        },
+        "id": "1608466272299388932",
+        "name": "陆用发电",
+        "pinned_tweet_id": "1903794883607052496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960703237876801540/i5YAOIvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3747,
+          "following_count": 79,
+          "like_count": 283,
+          "listed_count": 43,
+          "media_count": 58,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/09t2l0h5s2",
+        "username": "Aloup925",
+        "verified": false
+      }
+    ]
+  }
+}

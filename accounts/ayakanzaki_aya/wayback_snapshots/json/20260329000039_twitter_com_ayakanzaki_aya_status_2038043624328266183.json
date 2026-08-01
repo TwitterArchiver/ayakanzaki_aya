@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2038043624328266183",
+    "created_at": "2026-03-29T00:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T01:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038043624328266183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZZZ_JP/status/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/ZZZ_JP/status/2037734913387184183",
+          "start": 13,
+          "url": "https://t.co/eh0YfG5Unn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038043624328266183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037734913387184183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "噢噢噢噢噢噢噢噢姐姐踩我 https://t.co/eh0YfG5Unn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17616,
+        "height": 2360,
+        "media_key": "13_2037630248095760385",
+        "preview_image_url": "https://pbs.twimg.com/media/HEcd-wHXUAI9n66.jpg",
+        "public_metrics": {
+          "view_count": 679309
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037630248095760385/vid/avc1/320x628/k1mbFydxUnLFi71a.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037630248095760385/vid/avc1/480x944/y9i9QtR9TNKvCLYQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037630248095760385/vid/avc1/720x1416/d6aQW-Rljd_sjuy6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037630248095760385/pl/ldYWCU202niazf2I.m3u8?tag=14"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2038043624328266183",
+        "created_at": "2026-03-29T00:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038043624328266183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZZZ_JP/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ZZZ_JP/status/2037734913387184183",
+              "start": 13,
+              "url": "https://t.co/eh0YfG5Unn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038043624328266183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037734913387184183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "噢噢噢噢噢噢噢噢姐姐踩我 https://t.co/eh0YfG5Unn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037630248095760385"
+          ]
+        },
+        "author_id": "1508389995228315662",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2037734913387184183",
+        "created_at": "2026-03-28T03:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:05:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037727628312912342",
+          "2037734913387184183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZzXA10N0d",
+              "end": 44,
+              "expanded_url": "https://x.com/ZZZ_JP/status/2037734913387184183/video/1",
+              "media_key": "13_2037630248095760385",
+              "start": 21,
+              "url": "https://t.co/mZzXA10N0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037734913387184183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3227,
+          "impression_count": 2010181,
+          "like_count": 42267,
+          "quote_count": 1538,
+          "reply_count": 204,
+          "retweet_count": 10112
+        },
+        "reply_settings": "everyone",
+        "text": "【声優発表】\n\nプロメイア役：鬼頭明里様 https://t.co/mZzXA10N0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8839,
+          "following_count": 982,
+          "like_count": 32433,
+          "listed_count": 20,
+          "media_count": 109,
+          "tweet_count": 21117
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T10:26:31.000Z",
+        "description": "PlayStation®5・iOS・Android・PC・Xbox | HoYoverseが贈る最新都市ファンタジーアクションRPG『ゼンレスゾーンゼロ』Ver.2.7「英雄は過去に死せず」リリース！\n\nシーズン2・アウトロまもなく開幕！\n\nYouTube∶ https://t.co/qcK0P8bYkZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ZZZ_JP",
+                "end": 153,
+                "expanded_url": "https://youtube.com/@ZZZ_JP",
+                "start": 130,
+                "url": "https://t.co/qcK0P8bYkZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 0,
+                "url": "https://t.co/BTRSmHr3N6"
+              }
+            ]
+          }
+        },
+        "id": "1508389995228315662",
+        "location": "新エリー都",
+        "name": "ゼンレスゾーンゼロ公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017149977798266880/8JHzHRqD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953530,
+          "following_count": 54,
+          "like_count": 32,
+          "listed_count": 3320,
+          "media_count": 1980,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/BTRSmHr3N6",
+        "username": "ZZZ_JP",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809983639687720961"
+      ],
+      "media_source_tweet_id": [
+        "1809983898493047001"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1810220286781866349",
+    "created_at": "2024-07-08T07:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T08:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810220286781866349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "256041277",
+          "start": 3,
+          "username": "zaku6584"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/J08FrOJPSE",
+          "end": 45,
+          "expanded_url": "https://twitter.com/zaku6584/status/1809983898493047001/photo/1",
+          "media_key": "3_1809983639687720961",
+          "start": 22,
+          "url": "https://t.co/J08FrOJPSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810220286781866349",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 650
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809983898493047001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zaku6584: 猫の小説家さん https://t.co/J08FrOJPSE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1809983639687720961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GR5ah9Ta8AEd-wy.jpg",
+        "width": 2121
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809983639687720961"
+          ],
+          "media_source_tweet_id": [
+            "1809983898493047001"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1810220286781866349",
+        "created_at": "2024-07-08T07:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T08:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810220286781866349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "256041277",
+              "start": 3,
+              "username": "zaku6584"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/J08FrOJPSE",
+              "end": 45,
+              "expanded_url": "https://twitter.com/zaku6584/status/1809983898493047001/photo/1",
+              "media_key": "3_1809983639687720961",
+              "start": 22,
+              "url": "https://t.co/J08FrOJPSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810220286781866349",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 650
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809983898493047001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zaku6584: 猫の小説家さん https://t.co/J08FrOJPSE"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809983639687720961"
+          ]
+        },
+        "author_id": "256041277",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1809983898493047001",
+        "created_at": "2024-07-07T16:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T17:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809983898493047001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/J08FrOJPSE",
+              "end": 31,
+              "expanded_url": "https://twitter.com/zaku6584/status/1809983898493047001/photo/1",
+              "media_key": "3_1809983639687720961",
+              "start": 8,
+              "url": "https://t.co/J08FrOJPSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809983898493047001",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 77697,
+          "like_count": 4684,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 650
+        },
+        "reply_settings": "everyone",
+        "text": "猫の小説家さん https://t.co/J08FrOJPSE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 24873,
+          "listed_count": 10,
+          "tweet_count": 14367
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-22T14:51:54.000Z",
+        "description": "イラストレーター\nライトノベルのお仕事中心に活動中\nPixiv■https://t.co/IXyYi9O2FI\nHP■https://t.co/5IER6JDD24",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/349264",
+                "end": 55,
+                "expanded_url": "https://www.pixiv.net/users/349264",
+                "start": 32,
+                "url": "https://t.co/IXyYi9O2FI"
+              },
+              {
+                "display_url": "xfolio.jp/portfolio/zaku…",
+                "end": 82,
+                "expanded_url": "https://xfolio.jp/portfolio/zaku6584",
+                "start": 59,
+                "url": "https://t.co/5IER6JDD24"
+              }
+            ]
+          }
+        },
+        "id": "256041277",
+        "location": "※イラストの無断転用禁止※",
+        "name": "すざく",
+        "pinned_tweet_id": "1808698778884714910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1478835836758425600/uU4fIdjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87599,
+          "following_count": 4121,
+          "like_count": 7499,
+          "listed_count": 791,
+          "tweet_count": 9036
+        },
+        "username": "zaku6584",
+        "verified": false
+      }
+    ]
+  }
+}

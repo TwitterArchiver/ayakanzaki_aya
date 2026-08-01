@@ -1,0 +1,218 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1792119420833108460",
+    "created_at": "2024-05-23T05:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T06:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793513362791477697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1407864778186379267",
+          "start": 0,
+          "username": "katsukiamaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793513362791477697",
+    "in_reply_to_user_id": "1407864778186379267",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793279122682114392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@katsukiamaru 是嗎www 那之後一起來打好了www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1792119420833108460",
+        "created_at": "2024-05-23T05:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T06:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793513362791477697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1407864778186379267",
+              "start": 0,
+              "username": "katsukiamaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793513362791477697",
+        "in_reply_to_user_id": "1407864778186379267",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793279122682114392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@katsukiamaru 是嗎www 那之後一起來打好了www"
+      },
+      {
+        "attachments": {},
+        "author_id": "1407864778186379267",
+        "conversation_id": "1792119420833108460",
+        "created_at": "2024-05-22T13:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T14:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793279122682114392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793279122682114392",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793249613438165310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 要我氣死應該是不至於 我對新手很包容友善的 畢竟欸配這遊戲居然還有新玩家來玩 必須好好珍惜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 993,
+          "like_count": 23672,
+          "listed_count": 10,
+          "tweet_count": 13197
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T00:55:08.000Z",
+        "description": "大家好 我是香月アマル 姑且算是個V 直播時間不固定 開台全看心情 平時主要直播遊戲 我也喜歡唱歌 畫畫 但唱歌唱的不太好 畫畫也是 我的推特主要會是紀錄我練習畫畫的過程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/katsukiamaru",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/katsukiamaru",
+                "start": 0,
+                "url": "https://t.co/HlC0gwQSeH"
+              }
+            ]
+          }
+        },
+        "id": "1407864778186379267",
+        "name": "香月アマル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787353263391821824/cdkXoK13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 566,
+          "like_count": 2578,
+          "listed_count": 0,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/HlC0gwQSeH",
+        "username": "katsukiamaru",
+        "verified": false
+      }
+    ]
+  }
+}

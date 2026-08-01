@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1812737995100803561",
+    "created_at": "2024-07-16T09:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T10:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813141474281766949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1757239981180157952",
+          "start": 0,
+          "username": "eatTBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813141474281766949",
+    "in_reply_to_user_id": "1757239981180157952",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812769362409083251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eatTBP 360度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1812737995100803561",
+        "created_at": "2024-07-16T09:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T10:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813141474281766949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1757239981180157952",
+              "start": 0,
+              "username": "eatTBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813141474281766949",
+        "in_reply_to_user_id": "1757239981180157952",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812769362409083251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eatTBP 360度"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757239981180157952",
+        "conversation_id": "1812737995100803561",
+        "created_at": "2024-07-15T08:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T09:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812769362409083251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812769362409083251",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812737995100803561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 肘擊的最佳角度？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 25058,
+          "listed_count": 10,
+          "tweet_count": 14541
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T03:07:31.000Z",
+        "description": "我是個懶人、舌頭沒壞的美食家、隨便寫寫的小說家、業餘攝影師、無情的劇本機器、專業幹話王、手遊歐皇、COCのKP ~DC：tbpkrt",
+        "id": "1757239981180157952",
+        "name": "スプーンの上に十豆加",
+        "pinned_tweet_id": "1759501774757765225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757240699504992256/mkqF00Hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 119,
+          "like_count": 4098,
+          "listed_count": 0,
+          "tweet_count": 881
+        },
+        "username": "eatTBP",
+        "verified": false
+      }
+    ]
+  }
+}

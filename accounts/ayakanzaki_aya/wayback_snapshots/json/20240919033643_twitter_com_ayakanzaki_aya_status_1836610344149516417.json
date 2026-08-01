@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1835535744988750303",
+    "created_at": "2024-09-19T03:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T04:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836610344149516417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1482393657039028224",
+          "start": 0,
+          "username": "POWorsomething"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836610344149516417",
+    "in_reply_to_user_id": "1482393657039028224",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835665067897241610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POWorsomething 聽過了 電波沒對上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1835535744988750303",
+        "created_at": "2024-09-19T03:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T04:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836610344149516417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1482393657039028224",
+              "start": 0,
+              "username": "POWorsomething"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836610344149516417",
+        "in_reply_to_user_id": "1482393657039028224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835665067897241610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POWorsomething 聽過了 電波沒對上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482393657039028224",
+        "conversation_id": "1835535744988750303",
+        "created_at": "2024-09-16T13:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T14:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835665067897241610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835665067897241610",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835535744988750303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 悠白的red asmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆\n依賴受付中✧ よろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 981,
+          "like_count": 26178,
+          "listed_count": 9,
+          "tweet_count": 15639
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T16:46:25.000Z",
+        "description": "",
+        "id": "1482393657039028224",
+        "location": "Taiwan",
+        "name": "POW2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804154803649679360/_SrqQbOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 54,
+          "like_count": 21862,
+          "listed_count": 0,
+          "tweet_count": 1333
+        },
+        "username": "POWorsomething",
+        "verified": false
+      }
+    ]
+  }
+}

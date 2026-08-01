@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969342937814413312"
+      ],
+      "media_source_tweet_id": [
+        "1969343639961653396"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1969408012105154775",
+    "created_at": "2025-09-20T14:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T15:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969408012105154775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "57277380",
+          "start": 3,
+          "username": "watakokyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PmMppPyupF",
+          "end": 45,
+          "expanded_url": "https://x.com/watakokyu/status/1969343639961653396/photo/1",
+          "media_key": "3_1969342937814413312",
+          "start": 22,
+          "url": "https://t.co/PmMppPyupF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969408012105154775",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969343639961653396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @watakokyu: 食べて遊んで https://t.co/PmMppPyupF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_1969342937814413312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SC98laMAAd_r-.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969342937814413312"
+          ],
+          "media_source_tweet_id": [
+            "1969343639961653396"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969408012105154775",
+        "created_at": "2025-09-20T14:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969408012105154775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "57277380",
+              "start": 3,
+              "username": "watakokyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmMppPyupF",
+              "end": 45,
+              "expanded_url": "https://x.com/watakokyu/status/1969343639961653396/photo/1",
+              "media_key": "3_1969342937814413312",
+              "start": 22,
+              "url": "https://t.co/PmMppPyupF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969408012105154775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969343639961653396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @watakokyu: 食べて遊んで https://t.co/PmMppPyupF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969342937814413312"
+          ]
+        },
+        "author_id": "57277380",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969343639961653396",
+        "created_at": "2025-09-20T10:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T11:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969343639961653396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmMppPyupF",
+              "end": 30,
+              "expanded_url": "https://x.com/watakokyu/status/1969343639961653396/photo/1",
+              "media_key": "3_1969342937814413312",
+              "start": 7,
+              "url": "https://t.co/PmMppPyupF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969343639961653396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 22051,
+          "like_count": 1395,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "食べて遊んで https://t.co/PmMppPyupF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326,
+          "following_count": 998,
+          "like_count": 31741,
+          "listed_count": 20,
+          "media_count": 73,
+          "tweet_count": 20478
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-16T08:05:26.000Z",
+        "description": "イラストレーター //  詳細⇒https://t.co/nf6mTUVBbY　✉ wabetto@gmail.com\npixiv  https://t.co/McS4kQAU9w\nFANBOX https://t.co/JYmEVqUvH6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/watakokyu",
+                "end": 39,
+                "expanded_url": "http://lit.link/watakokyu",
+                "start": 16,
+                "url": "https://t.co/nf6mTUVBbY"
+              },
+              {
+                "display_url": "pixiv.net/users/298647",
+                "end": 90,
+                "expanded_url": "http://pixiv.net/users/298647",
+                "start": 67,
+                "url": "https://t.co/McS4kQAU9w"
+              },
+              {
+                "display_url": "watakokyu.fanbox.cc",
+                "end": 121,
+                "expanded_url": "http://watakokyu.fanbox.cc",
+                "start": 98,
+                "url": "https://t.co/JYmEVqUvH6"
+              }
+            ]
+          }
+        },
+        "id": "57277380",
+        "location": "関東",
+        "name": "渡コキュー",
+        "pinned_tweet_id": "1918585924700782819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952571145619951617/6gZs5wG3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31325,
+          "following_count": 355,
+          "like_count": 986,
+          "listed_count": 323,
+          "media_count": 518,
+          "tweet_count": 5049
+        },
+        "username": "watakokyu",
+        "verified": false
+      }
+    ]
+  }
+}

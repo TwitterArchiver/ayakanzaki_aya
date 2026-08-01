@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897247087093538818"
+      ],
+      "media_source_tweet_id": [
+        "1897247093049491896"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1897285142663889215",
+    "created_at": "2025-03-05T13:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T14:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897285142663889215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1433823355413549056",
+          "start": 3,
+          "username": "FRIEREN_PR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zVBi7eeVBf",
+          "end": 48,
+          "expanded_url": "https://x.com/FRIEREN_PR/status/1897247093049491896/photo/1",
+          "media_key": "3_1897247087093538818",
+          "start": 25,
+          "url": "https://t.co/zVBi7eeVBf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897285142663889215",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25549
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897247093049491896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FRIEREN_PR: 速報のフリーレン https://t.co/zVBi7eeVBf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897247087093538818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRgLHVa4AI4Me8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897247087093538818"
+          ],
+          "media_source_tweet_id": [
+            "1897247093049491896"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1897285142663889215",
+        "created_at": "2025-03-05T13:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T14:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897285142663889215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1433823355413549056",
+              "start": 3,
+              "username": "FRIEREN_PR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVBi7eeVBf",
+              "end": 48,
+              "expanded_url": "https://x.com/FRIEREN_PR/status/1897247093049491896/photo/1",
+              "media_key": "3_1897247087093538818",
+              "start": 25,
+              "url": "https://t.co/zVBi7eeVBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897285142663889215",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25549
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897247093049491896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FRIEREN_PR: 速報のフリーレン https://t.co/zVBi7eeVBf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897247087093538818"
+          ]
+        },
+        "author_id": "1433823355413549056",
+        "conversation_id": "1897247093049491896",
+        "created_at": "2025-03-05T11:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T12:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897247093049491896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVBi7eeVBf",
+              "end": 32,
+              "expanded_url": "https://x.com/FRIEREN_PR/status/1897247093049491896/photo/1",
+              "media_key": "3_1897247087093538818",
+              "start": 9,
+              "url": "https://t.co/zVBi7eeVBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897247093049491896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1852,
+          "impression_count": 2303599,
+          "like_count": 98077,
+          "quote_count": 2272,
+          "reply_count": 527,
+          "retweet_count": 25549
+        },
+        "reply_settings": "everyone",
+        "text": "速報のフリーレン https://t.co/zVBi7eeVBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6424,
+          "following_count": 979,
+          "like_count": 29477,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18990
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:05:26.000Z",
+        "description": "週刊少年サンデー連載中『葬送のフリーレン』（原作：山田鐘人／作画：アベツカサ）の原作公式アカウントです。更新情報などを編集部員がつぶやきます。第14巻&特装版3月18日頃発売！TVアニメ第2期2026年1月放送決定。【アニメ公式】→@Anime_Frieren【ファンアートタグ】→#フリーレンFA",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 149,
+                "start": 141,
+                "tag": "フリーレンFA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 116,
+                "username": "Anime_Frieren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sunday-webry.com/detail.php?tit…",
+                "end": 23,
+                "expanded_url": "https://www.sunday-webry.com/detail.php?title_id=1093",
+                "start": 0,
+                "url": "https://t.co/JlxhhN3Z7w"
+              }
+            ]
+          }
+        },
+        "id": "1433823355413549056",
+        "location": "帝国領 帝都アイスベルク",
+        "name": "『葬送のフリーレン』公式",
+        "pinned_tweet_id": "1839990406161018954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736369630871203840/mFFVkd8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146046,
+          "following_count": 61,
+          "like_count": 1113,
+          "listed_count": 2052,
+          "media_count": 770,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/JlxhhN3Z7w",
+        "username": "FRIEREN_PR",
+        "verified": true
+      }
+    ]
+  }
+}

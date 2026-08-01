@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1828722506141765881",
+    "created_at": "2024-08-31T04:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T05:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829737579106685282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1222472034740867072",
+          "start": 0,
+          "username": "gavuriru6950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829737579106685282",
+    "in_reply_to_user_id": "1222472034740867072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829383319689015678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gavuriru6950 所以說我的零用錢呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1828722506141765881",
+        "created_at": "2024-08-31T04:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T05:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829737579106685282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1222472034740867072",
+              "start": 0,
+              "username": "gavuriru6950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829737579106685282",
+        "in_reply_to_user_id": "1222472034740867072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829383319689015678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gavuriru6950 所以說我的零用錢呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222472034740867072",
+        "conversation_id": "1828722506141765881",
+        "created_at": "2024-08-30T04:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T05:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829383319689015678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829383319689015678",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829381263192453133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 你這臭抖M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3924,
+          "following_count": 979,
+          "like_count": 25799,
+          "listed_count": 10,
+          "tweet_count": 15266
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-29T10:50:28.000Z",
+        "description": "我好累",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCvrBt…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCvrBt92om7zhpBsAY6-osIg",
+                "start": 0,
+                "url": "https://t.co/aevkvYC0gT"
+              }
+            ]
+          }
+        },
+        "id": "1222472034740867072",
+        "location": "Taiwan",
+        "name": "阿育",
+        "pinned_tweet_id": "1284349111798427649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818811773421862916/e2e1rNCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 649,
+          "like_count": 71304,
+          "listed_count": 2,
+          "tweet_count": 32414
+        },
+        "url": "https://t.co/aevkvYC0gT",
+        "username": "gavuriru6950",
+        "verified": false
+      }
+    ]
+  }
+}

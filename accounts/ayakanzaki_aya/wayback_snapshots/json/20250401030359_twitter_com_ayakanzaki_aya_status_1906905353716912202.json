@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1906550059539263740",
+    "created_at": "2025-04-01T03:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T04:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906905353716912202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1446550151984603137",
+          "start": 0,
+          "username": "Gamer_Wakama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906905353716912202",
+    "in_reply_to_user_id": "1446550151984603137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906555113403249075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gamer_Wakama 這個還是算了吧wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1906550059539263740",
+        "created_at": "2025-04-01T03:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T04:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906905353716912202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1446550151984603137",
+              "start": 0,
+              "username": "Gamer_Wakama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906905353716912202",
+        "in_reply_to_user_id": "1446550151984603137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906555113403249075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gamer_Wakama 這個還是算了吧wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446550151984603137",
+        "conversation_id": "1906550059539263740",
+        "created_at": "2025-03-31T03:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T04:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906555113403249075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906555113403249075",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906550059539263740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 推薦使用棍子\n不管是趕蚊子、打蚊子或擦拭高處血跡都很好用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6533,
+          "following_count": 982,
+          "like_count": 30120,
+          "listed_count": 18,
+          "media_count": 131,
+          "tweet_count": 19583
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T18:57:35.000Z",
+        "description": "在台灣(Taiwan)土生土長，司掌混亂、邪惡與一間玩具店的雨傘巴丹鸚鵡。 \n🦜fan ▻ #羽粉 🎨粉絲繪▻ #繪若馬  ▶️配信生放送▻ #鸚鵡放送局 🍳料理▻  #若馬Cooking 🧸玩具店快訊▻ #菲歐宅小屋",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "羽粉"
+              },
+              {
+                "end": 60,
+                "start": 56,
+                "tag": "繪若馬"
+              },
+              {
+                "end": 77,
+                "start": 71,
+                "tag": "鸚鵡放送局"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "tag": "若馬Cooking"
+              },
+              {
+                "end": 109,
+                "start": 103,
+                "tag": "菲歐宅小屋"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCRqpB…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCRqpB15OfxMdmCa2zB2YiWQ",
+                "start": 0,
+                "url": "https://t.co/0UKgtRSulW"
+              }
+            ]
+          }
+        },
+        "id": "1446550151984603137",
+        "location": "台灣的叢林都市",
+        "name": "- 若馬 - 🪶 超級玩具店長 Vtuber",
+        "pinned_tweet_id": "1873248065035128852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741520975882342400/G2nQa34x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 891,
+          "like_count": 33639,
+          "listed_count": 3,
+          "media_count": 2900,
+          "tweet_count": 30755
+        },
+        "url": "https://t.co/0UKgtRSulW",
+        "username": "Gamer_Wakama",
+        "verified": true
+      }
+    ]
+  }
+}

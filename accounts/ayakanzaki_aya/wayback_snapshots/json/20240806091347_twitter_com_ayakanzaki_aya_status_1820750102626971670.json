@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1819174381186417075",
+    "created_at": "2024-08-06T09:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T10:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820750102626971670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1342313271806685184",
+          "start": 0,
+          "username": "even38997474"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820750102626971670",
+    "in_reply_to_user_id": "1342313271806685184",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819312156468564273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@even38997474 新電影還沒看（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1819174381186417075",
+        "created_at": "2024-08-06T09:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T10:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820750102626971670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1342313271806685184",
+              "start": 0,
+              "username": "even38997474"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820750102626971670",
+        "in_reply_to_user_id": "1342313271806685184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819312156468564273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@even38997474 新電影還沒看（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1819312137686470658"
+          ]
+        },
+        "author_id": "1342313271806685184",
+        "conversation_id": "1819174381186417075",
+        "created_at": "2024-08-02T09:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T10:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819312156468564273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BhGZcdVN1q",
+              "end": 49,
+              "expanded_url": "https://twitter.com/even38997474/status/1819312156468564273/photo/1",
+              "media_key": "16_1819312137686470658",
+              "start": 26,
+              "url": "https://t.co/BhGZcdVN1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819312156468564273",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819174381186417075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 氣到要變成金剛狼了 https://t.co/BhGZcdVN1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3900,
+          "following_count": 997,
+          "like_count": 25390,
+          "listed_count": 10,
+          "tweet_count": 14880
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T03:37:00.000Z",
+        "description": "帶來一切混沌但是喜愛人類的物品",
+        "id": "1342313271806685184",
+        "name": "even（潘多拉的盒子）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342397401898741761/EkOCJxZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 379,
+          "like_count": 2952,
+          "listed_count": 0,
+          "tweet_count": 13409
+        },
+        "username": "even38997474",
+        "verified": false
+      }
+    ]
+  }
+}

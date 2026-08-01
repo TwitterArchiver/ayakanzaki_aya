@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-22T05:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837729202142916796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4497171461",
+          "start": 0,
+          "username": "o3_1415926nion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837729202142916796",
+    "in_reply_to_user_id": "4497171461",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837538092431122504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o3_1415926nion 謝謝我成功把腦子丟掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T05:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837729202142916796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4497171461",
+              "start": 0,
+              "username": "o3_1415926nion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837729202142916796",
+        "in_reply_to_user_id": "4497171461",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837538092431122504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o3_1415926nion 謝謝我成功把腦子丟掉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837538088572407810"
+          ]
+        },
+        "author_id": "4497171461",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-21T17:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T18:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837538092431122504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ge8y1uxjoi",
+              "end": 39,
+              "expanded_url": "https://twitter.com/o3_1415926nion/status/1837538092431122504/photo/1",
+              "media_key": "3_1837538088572407810",
+              "start": 16,
+              "url": "https://t.co/gE8y1uXjOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837538092431122504",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836990408175276060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/gE8y1uXjOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26370,
+          "listed_count": 9,
+          "tweet_count": 15831
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-15T23:59:16.000Z",
+        "description": "𝓨𝓸𝓾 𝓪𝓻𝓮 𝓽𝓱𝓮 𝓼𝓾𝓷𝓼𝓱𝓲𝓷𝓮 𝓲𝓷 𝓶𝔂 𝓭𝓪𝔂 𝓪𝓷𝓭 𝓽𝓱𝓮 𝓶𝓸𝓸𝓷𝓵𝓲𝓰𝓱𝓽 𝓸𝓯 𝓶𝔂 𝓷𝓲𝓰𝓱𝓽𝓼.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lf2.net",
+                "end": 23,
+                "expanded_url": "http://lf2.net",
+                "start": 0,
+                "url": "https://t.co/VWwL9jC4Vr"
+              }
+            ]
+          }
+        },
+        "id": "4497171461",
+        "location": "Taipei City, Taiwan",
+        "name": "古希臘掌管暈船的神",
+        "pinned_tweet_id": "1811494720650268789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836450486637203460/cHHp3j-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 178,
+          "like_count": 4485,
+          "listed_count": 0,
+          "tweet_count": 4969
+        },
+        "url": "https://t.co/VWwL9jC4Vr",
+        "username": "o3_1415926nion",
+        "verified": false
+      }
+    ]
+  }
+}

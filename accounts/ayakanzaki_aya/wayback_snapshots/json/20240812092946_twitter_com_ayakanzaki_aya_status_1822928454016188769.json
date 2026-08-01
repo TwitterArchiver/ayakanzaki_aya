@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1822142258000396435",
+    "created_at": "2024-08-12T09:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822928454016188769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606642467113033728",
+          "start": 0,
+          "username": "sana14913943"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822928454016188769",
+    "in_reply_to_user_id": "1606642467113033728",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822174290483069376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sana14913943 蠻多人都是這樣的 也不知道為什麼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-12T09:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822928454016188769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606642467113033728",
+              "start": 0,
+              "username": "sana14913943"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822928454016188769",
+        "in_reply_to_user_id": "1606642467113033728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822174290483069376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sana14913943 蠻多人都是這樣的 也不知道為什麼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606642467113033728",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-10T07:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T08:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822174290483069376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822174290483069376",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1151,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822142258000396435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我的也要錢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 998,
+          "like_count": 25493,
+          "listed_count": 10,
+          "tweet_count": 14966
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T13:26:47.000Z",
+        "description": "一隻經常口出暴言的粉切黃狐狸，是興趣使然的實況主，開台靠緣分。16人格：INTP；人類圖：投射者；生命靈數：9號人，玄學愛好者，生日：4/11，牡羊座。 #8964防廣告 FansName:#籠中狐徒，萬用:#飄櫻如夢，R18:#櫻該可以色色，錄音/影：#櫻該錄好了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 77,
+                "tag": "8964防廣告"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "籠中狐徒"
+              },
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "飄櫻如夢"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "tag": "櫻該可以色色"
+              },
+              {
+                "end": 133,
+                "start": 127,
+                "tag": "櫻該錄好了"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/yume953",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/yume953",
+                "start": 0,
+                "url": "https://t.co/84UFMOA7tt"
+              }
+            ]
+          }
+        },
+        "id": "1606642467113033728",
+        "location": "Taiwan",
+        "name": "幽狐櫻夢🌸暴言系惡女型Vtype",
+        "pinned_tweet_id": "1731668388446179356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808508180995227648/XRQ6IBOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 302,
+          "like_count": 5654,
+          "listed_count": 3,
+          "tweet_count": 5602
+        },
+        "url": "https://t.co/84UFMOA7tt",
+        "username": "sana14913943",
+        "verified": false
+      }
+    ]
+  }
+}

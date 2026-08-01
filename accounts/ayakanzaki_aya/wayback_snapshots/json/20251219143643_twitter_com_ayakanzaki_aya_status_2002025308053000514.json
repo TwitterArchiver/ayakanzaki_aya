@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2001713495142752498",
+    "created_at": "2025-12-19T14:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T15:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002025308053000514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1364173624324747270",
+          "start": 0,
+          "username": "Gemini_1007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002025308053000514",
+    "in_reply_to_user_id": "1364173624324747270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001807553769148852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gemini_1007 但我這個整理方式一直被朋友吐槽www\n他們都說沒看過人用顏色整理的w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2001713495142752498",
+        "created_at": "2025-12-19T14:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002025308053000514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1364173624324747270",
+              "start": 0,
+              "username": "Gemini_1007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002025308053000514",
+        "in_reply_to_user_id": "1364173624324747270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001807553769148852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gemini_1007 但我這個整理方式一直被朋友吐槽www\n他們都說沒看過人用顏色整理的w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364173624324747270",
+        "conversation_id": "2001713495142752498",
+        "created_at": "2025-12-19T00:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T01:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001807553769148852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001807553769148852",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001713495142752498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 真的超美的 話說可以整理的這麼整齊好佩服w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8421,
+          "following_count": 976,
+          "like_count": 32066,
+          "listed_count": 20,
+          "media_count": 86,
+          "tweet_count": 20820
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-23T11:22:01.000Z",
+        "description": "台湾出身です🇹🇼 中文/English/ちょど日本語　　日本語を勉強中です ゲームとVtuberが大好きです！ よろしくね～～",
+        "id": "1364173624324747270",
+        "location": "Taoyuan County, Taiwan",
+        "name": "雙子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839922289430994944/pstnaDNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 1333,
+          "like_count": 24429,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1431
+        },
+        "username": "Gemini_1007",
+        "verified": false
+      }
+    ]
+  }
+}

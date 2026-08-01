@@ -1,0 +1,691 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070721107232092160",
+          "name": "Yukari Tamura"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1269038123700215810",
+          "name": "Yume Miyamoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070721107232092160",
+          "name": "Yukari Tamura"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1269038123700215810",
+          "name": "Yume Miyamoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070721107232092160",
+          "name": "Yukari Tamura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1269038123700215810",
+          "name": "Yume Miyamoto"
+        }
+      }
+    ],
+    "conversation_id": "2038041570507673703",
+    "created_at": "2026-03-28T23:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T00:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038041570507673703"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 93,
+          "tag": "三浦千幸"
+        },
+        {
+          "end": 107,
+          "start": 102,
+          "tag": "宮本侑芽"
+        },
+        {
+          "end": 117,
+          "start": 111,
+          "tag": "永瀬アンナ"
+        },
+        {
+          "end": 127,
+          "start": 121,
+          "tag": "田村ゆかり"
+        },
+        {
+          "end": 135,
+          "start": 131,
+          "tag": "稲垣好"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1554025146645884930",
+          "start": 3,
+          "username": "shibouyugi_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtube.com/watch?v=oaHLU_…",
+          "end": 88,
+          "expanded_url": "https://www.youtube.com/watch?v=oaHLU_d2qbI",
+          "start": 65,
+          "status": 200,
+          "title": "- YouTube",
+          "unwound_url": "https://www.youtube.com/watch?v=oaHLU_d2qbI",
+          "url": "https://t.co/ZCV8Ri1bAz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038041570507673703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2909
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037711273572683921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shibouyugi_: ┈┈┈┈┈┈┈┈┈\n死亡遊戯で飯を食う。\n44:CLOUDY BEACH\n┈┈┈┈┈┈┈┈┈\n\nhttps://t.co/ZCV8Ri1bAz\n\n幽鬼 #三浦千幸\n藍里 #宮本侑芽　永世 #永瀬アンナ　古詠 #田村ゆかり\n日澄 #稲垣好　真熊…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30041,
+        "height": 1080,
+        "media_key": "13_2037704039039983616",
+        "preview_image_url": "https://pbs.twimg.com/media/HEdhd9yb0AAT-wC.jpg",
+        "public_metrics": {
+          "view_count": 186503
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037704039039983616/vid/avc1/480x270/h96yAPidGruyoUNf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037704039039983616/vid/avc1/640x360/RXdWFr2rVgXvIW93.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037704039039983616/vid/avc1/1280x720/geaaMHielEFfsIyH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037704039039983616/pl/oIRKLzt-YPJniobg.m3u8?v=248"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037704039039983616/vid/avc1/1920x1080/HC_Bh-ddFgx-DV1U.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          }
+        ],
+        "conversation_id": "2038041570507673703",
+        "created_at": "2026-03-28T23:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T00:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038041570507673703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "三浦千幸"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "宮本侑芽"
+            },
+            {
+              "end": 117,
+              "start": 111,
+              "tag": "永瀬アンナ"
+            },
+            {
+              "end": 127,
+              "start": 121,
+              "tag": "田村ゆかり"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "稲垣好"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1554025146645884930",
+              "start": 3,
+              "username": "shibouyugi_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtube.com/watch?v=oaHLU_…",
+              "end": 88,
+              "expanded_url": "https://www.youtube.com/watch?v=oaHLU_d2qbI",
+              "start": 65,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=oaHLU_d2qbI",
+              "url": "https://t.co/ZCV8Ri1bAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038041570507673703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2909
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037711273572683921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shibouyugi_: ┈┈┈┈┈┈┈┈┈\n死亡遊戯で飯を食う。\n44:CLOUDY BEACH\n┈┈┈┈┈┈┈┈┈\n\nhttps://t.co/ZCV8Ri1bAz\n\n幽鬼 #三浦千幸\n藍里 #宮本侑芽　永世 #永瀬アンナ　古詠 #田村ゆかり\n日澄 #稲垣好　真熊…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037704039039983616"
+          ]
+        },
+        "author_id": "1554025146645884930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070721107232092160",
+              "name": "Yukari Tamura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          }
+        ],
+        "conversation_id": "2037711273572683921",
+        "created_at": "2026-03-28T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037711273572683921"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "三浦千幸"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "宮本侑芽"
+            },
+            {
+              "end": 100,
+              "start": 94,
+              "tag": "永瀬アンナ"
+            },
+            {
+              "end": 110,
+              "start": 104,
+              "tag": "田村ゆかり"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "稲垣好"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "島田愛野"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "明智璃子"
+            },
+            {
+              "end": 146,
+              "start": 140,
+              "tag": "遠野ひかる"
+            },
+            {
+              "end": 177,
+              "start": 172,
+              "tag": "死亡遊戯"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtube.com/watch?v=oaHLU_…",
+              "end": 71,
+              "expanded_url": "https://www.youtube.com/watch?v=oaHLU_d2qbI",
+              "start": 48,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=oaHLU_d2qbI",
+              "url": "https://t.co/ZCV8Ri1bAz"
+            },
+            {
+              "display_url": "pic.x.com/CozC23OdX9",
+              "end": 201,
+              "expanded_url": "https://x.com/shibouyugi_/status/2037711273572683921/video/1",
+              "media_key": "13_2037704039039983616",
+              "start": 178,
+              "url": "https://t.co/CozC23OdX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037711273572683921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1402,
+          "impression_count": 623890,
+          "like_count": 10185,
+          "quote_count": 536,
+          "reply_count": 49,
+          "retweet_count": 2909
+        },
+        "reply_settings": "everyone",
+        "text": "┈┈┈┈┈┈┈┈┈\n死亡遊戯で飯を食う。\n44:CLOUDY BEACH\n┈┈┈┈┈┈┈┈┈\n\nhttps://t.co/ZCV8Ri1bAz\n\n幽鬼 #三浦千幸\n藍里 #宮本侑芽　永世 #永瀬アンナ　古詠 #田村ゆかり\n日澄 #稲垣好　真熊 #島田愛野　蜜羽 #明智璃子　海雲 #遠野ひかる\n\n2026年7月10日より 2週間限定上映決定\n\n#死亡遊戯 https://t.co/CozC23OdX9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8839,
+          "following_count": 982,
+          "like_count": 32432,
+          "listed_count": 20,
+          "media_count": 108,
+          "tweet_count": 21115
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T08:45:01.000Z",
+        "description": "アニメ➤《44:CLOUDY BEACH》2026年7月10日(金) 2週間限定劇場上映\n原作➤鵜飼有志×ねこめたる『このライトノベルがすごい！2024』新作1位 https://t.co/PeT18jOIPF\nコミック➤万歳寿大宴会。コンプエース連載中 https://t.co/ImzQvEdhXU\nタグ➤#死亡遊戯",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "死亡遊戯"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/gensaku",
+                "end": 105,
+                "expanded_url": "https://x.gd/gensaku",
+                "start": 82,
+                "url": "https://t.co/PeT18jOIPF"
+              },
+              {
+                "display_url": "x.gd/comics",
+                "end": 151,
+                "expanded_url": "https://x.gd/comics",
+                "start": 128,
+                "url": "https://t.co/ImzQvEdhXU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiboyugi-anime.com",
+                "end": 23,
+                "expanded_url": "http://shiboyugi-anime.com",
+                "start": 0,
+                "url": "https://t.co/miuZgZV2GX"
+              }
+            ]
+          }
+        },
+        "id": "1554025146645884930",
+        "location": "これは、とあるいかれた世界の話。",
+        "name": "『死亡遊戯で飯を食う。』公式",
+        "pinned_tweet_id": "2037707341123260718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037719231492661249/vQNJb8kn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86976,
+          "following_count": 30,
+          "like_count": 25264,
+          "listed_count": 255,
+          "media_count": 2088,
+          "tweet_count": 6620
+        },
+        "url": "https://t.co/miuZgZV2GX",
+        "username": "shibouyugi_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1800161038207463523",
+    "created_at": "2024-06-10T13:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T14:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800161038207463523"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1800161038207463523",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一個沒用的あや冷知識\n我是左撇子喔！\n不過因為小時候一直被老師矯正所以長大後就慢慢的變回用右手了\n但某些情況例如踢球扔飛碟還是維持著左撇子的習慣\n\nあや冷知識 我們下次不見(｡･ω･｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1800161038207463523",
+        "created_at": "2024-06-10T13:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T14:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800161038207463523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800161038207463523",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一個沒用的あや冷知識\n我是左撇子喔！\n不過因為小時候一直被老師矯正所以長大後就慢慢的變回用右手了\n但某些情況例如踢球扔飛碟還是維持著左撇子的習慣\n\nあや冷知識 我們下次不見(｡･ω･｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3862,
+          "following_count": 992,
+          "like_count": 24150,
+          "listed_count": 10,
+          "tweet_count": 13669
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

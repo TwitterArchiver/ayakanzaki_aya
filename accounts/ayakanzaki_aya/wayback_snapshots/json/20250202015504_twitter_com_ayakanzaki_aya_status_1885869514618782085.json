@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1885647980264317375",
+    "created_at": "2025-02-02T01:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T02:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885869514618782085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1419103108957753346",
+          "start": 0,
+          "username": "Lavanai_"
+        },
+        {
+          "end": 17,
+          "id": "1875785246773534720",
+          "start": 10,
+          "username": "secrri"
+        },
+        {
+          "end": 28,
+          "id": "1593104646838648832",
+          "start": 18,
+          "username": "Baily_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885869514618782085",
+    "in_reply_to_user_id": "1419103108957753346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885647980264317375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lavanai_ @secrri @Baily_ovo 初見安安！衣服好可愛！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1885647980264317375",
+        "created_at": "2025-02-02T01:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T02:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885869514618782085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1419103108957753346",
+              "start": 0,
+              "username": "Lavanai_"
+            },
+            {
+              "end": 17,
+              "id": "1875785246773534720",
+              "start": 10,
+              "username": "secrri"
+            },
+            {
+              "end": 28,
+              "id": "1593104646838648832",
+              "start": 18,
+              "username": "Baily_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885869514618782085",
+        "in_reply_to_user_id": "1419103108957753346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885647980264317375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lavanai_ @secrri @Baily_ovo 初見安安！衣服好可愛！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885646850817921024"
+          ]
+        },
+        "author_id": "1419103108957753346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1885647980264317375",
+        "created_at": "2025-02-01T11:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T12:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885647980264317375"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 87,
+              "tag": "菲娜Lana"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "菲art"
+            },
+            {
+              "end": 121,
+              "start": 115,
+              "tag": "菲live"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "菲娜日記"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "熊間回顧"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 160,
+              "id": "1875785246773534720",
+              "start": 153,
+              "username": "secrri"
+            },
+            {
+              "end": 177,
+              "id": "1593104646838648832",
+              "start": 167,
+              "username": "Baily_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7TwteN5uG",
+              "end": 201,
+              "expanded_url": "https://x.com/Lavanai_/status/1885647980264317375/photo/1",
+              "media_key": "3_1885646850817921024",
+              "start": 178,
+              "url": "https://t.co/u7TwteN5uG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885647980264317375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 844,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大家好吖～ 我是菈菲娜，是隻人類混血的北極熊🐻‍❄️\n因爲對人類世界充滿好奇而離開了故鄉北極雲國，決定來到人類世界做起了Vtuber！(⸝⸝&gt; ᴗ•⸝⸝)\n\n【All】#菲娜Lana\n【Fanart】#菲art\n【Live】#菲live\n【Daily】#菲娜日記\n【Clip】#熊間回顧\n\n繪師ママ：@secrri\n建模師パパ：@Baily_ovo https://t.co/u7TwteN5uG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 991,
+          "like_count": 28365,
+          "listed_count": 10,
+          "media_count": 123,
+          "tweet_count": 17923
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T01:12:48.000Z",
+        "description": "害羞和經常發呆的北極熊，喜歡畫畫，常玩的遊戲: 星界神話、休閒、解謎、模擬 歡迎連動私訊或email都可以唷～(ෆ˙ᵕ˙ෆ)♡┊Art tag: #菲art ┊Live tag: #菲live┊日常tag: #菲娜日記┊All tag: #菲娜Lana ┊粵語🌕En🌕國語🌗German🌘┊",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "菲art"
+              },
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "菲live"
+              },
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "菲娜日記"
+              },
+              {
+                "end": 126,
+                "start": 119,
+                "tag": "菲娜Lana"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/lavana",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/lavana",
+                "start": 0,
+                "url": "https://t.co/jq9hJGh0XW"
+              }
+            ]
+          }
+        },
+        "id": "1419103108957753346",
+        "location": "北極雲國",
+        "name": "Lavana菈菲娜☁️🐻‍❄️香港Vtuber ┊ 31/1 初配信成功～",
+        "pinned_tweet_id": "1885647980264317375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878742728025964544/vhwNlcpw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 255,
+          "like_count": 350,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/jq9hJGh0XW",
+        "username": "Lavanai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T06:03:59.000Z",
+        "description": "illustrator\n ／Only  for live2d-related commissions \n/📭：secrri666@gmail.com",
+        "id": "1875785246773534720",
+        "name": "夕喟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876075016724647936/2nBLa7z1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 138,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "secrri",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T04:52:09.000Z",
+        "description": "🌟 Live2D Commission Open! 🎨 Explore our unique character designs and high-quality rigging services at https://t.co/RKCDDwO0sq. Ready to bring your vision to life?",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bailyoxo.com",
+                "end": 125,
+                "expanded_url": "http://bailyoxo.com",
+                "start": 102,
+                "url": "https://t.co/RKCDDwO0sq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.gle/CdB1nce8TtbcXq…",
+                "end": 23,
+                "expanded_url": "https://forms.gle/CdB1nce8TtbcXqrp9",
+                "start": 0,
+                "url": "https://t.co/BiabffDvqh"
+              }
+            ]
+          }
+        },
+        "id": "1593104646838648832",
+        "location": "baily6678@gmail.com",
+        "name": "Baily Studio✨Live2D Artist✨COMM OPEN",
+        "pinned_tweet_id": "1808389988629074301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643878745139232768/Alh_Hhn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14674,
+          "following_count": 333,
+          "like_count": 335,
+          "listed_count": 138,
+          "media_count": 220,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/BiabffDvqh",
+        "username": "Baily_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

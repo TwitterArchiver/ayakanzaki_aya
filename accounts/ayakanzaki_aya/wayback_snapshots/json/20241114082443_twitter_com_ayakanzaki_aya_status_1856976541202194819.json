@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1856954231992848410",
+    "created_at": "2024-11-14T08:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T09:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856976541202194819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1573603779513307137",
+          "start": 0,
+          "username": "mao_eyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856976541202194819",
+    "in_reply_to_user_id": "1573603779513307137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856960616558153867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mao_eyu 我也想🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1856954231992848410",
+        "created_at": "2024-11-14T08:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T09:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856976541202194819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1573603779513307137",
+              "start": 0,
+              "username": "mao_eyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856976541202194819",
+        "in_reply_to_user_id": "1573603779513307137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856960616558153867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mao_eyu 我也想🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573603779513307137",
+        "conversation_id": "1856954231992848410",
+        "created_at": "2024-11-14T07:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T08:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856960616558153867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856960616558153867",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856954231992848410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我也要🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1851840833923764641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4227,
+          "following_count": 980,
+          "like_count": 27043,
+          "listed_count": 10,
+          "tweet_count": 16605
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T09:22:41.000Z",
+        "description": "初めまして✨ 俺の名前はマオエユだ！マヨもいいだよ～ あと！俺は300歳のショタ魔王様 今後もよろしく✨ （初次見面✨我的名字是瑪歐依幽，可以叫我麻油就好～還有我是300歲的正太魔王大人，今後也請多多指教✨）（日本語勉強中）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@maoeyu_ch.si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@maoeyu_ch.si=am1VqQ7m3zitEDdJ",
+                "start": 0,
+                "url": "https://t.co/ML4sGpXbOX"
+              }
+            ]
+          }
+        },
+        "id": "1573603779513307137",
+        "name": "瑪歐依幽 MaoEyu.ch（愛哭鬼魔王）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780475787113906176/sxHj751__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 3305,
+          "like_count": 22617,
+          "listed_count": 0,
+          "tweet_count": 21968
+        },
+        "url": "https://t.co/ML4sGpXbOX",
+        "username": "mao_eyu",
+        "verified": false
+      }
+    ]
+  }
+}

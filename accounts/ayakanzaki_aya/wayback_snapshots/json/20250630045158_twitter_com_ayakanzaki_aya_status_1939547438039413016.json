@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1938253957782212666",
+    "created_at": "2025-06-30T04:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T05:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939547438039413016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759437647355973632",
+          "start": 0,
+          "username": "nekoriyakawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939547438039413016",
+    "in_reply_to_user_id": "1759437647355973632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938297423283294516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekoriyakawaii 真的！！逛夜市的時候快死了wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1938253957782212666",
+        "created_at": "2025-06-30T04:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939547438039413016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759437647355973632",
+              "start": 0,
+              "username": "nekoriyakawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939547438039413016",
+        "in_reply_to_user_id": "1759437647355973632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938297423283294516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoriyakawaii 真的！！逛夜市的時候快死了wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759437647355973632",
+        "conversation_id": "1938253957782212666",
+        "created_at": "2025-06-26T18:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T19:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938297423283294516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938297423283294516",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938253957782212666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 現在來台灣要多喝水！因為超熱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7704,
+          "following_count": 996,
+          "like_count": 31017,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20000
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T04:40:07.000Z",
+        "description": "來自草莓園的小精靈卻意外的纏上了男大學生！？現居於這位學生的內心世界 準備把他污穢的內心打造成屬於自己的房間 來自學生的吶喊：不要理所當然的在別人的身體裡佈置房間啦！ 繪師：譚欣然 （@Tan_Xin_Ran ）建模師：阿默默（@amomoniji） DC: https://t.co/Z9WlPyHUdB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Tan_Xin_Ran"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "amomoniji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/x5EFFKtdMU",
+                "end": 153,
+                "expanded_url": "https://discord.gg/x5EFFKtdMU",
+                "start": 130,
+                "url": "https://t.co/Z9WlPyHUdB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/nekoriyakawaii",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/nekoriyakawaii",
+                "start": 0,
+                "url": "https://t.co/NupTHyBC8G"
+              }
+            ]
+          }
+        },
+        "id": "1759437647355973632",
+        "location": "腦中的房間",
+        "name": "奈可莉亞 偽娘系VT和其他133人",
+        "pinned_tweet_id": "1909805676647285149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870837188667269121/p-ZqVEgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 324,
+          "like_count": 13236,
+          "listed_count": 2,
+          "media_count": 491,
+          "tweet_count": 7271
+        },
+        "url": "https://t.co/NupTHyBC8G",
+        "username": "nekoriyakawaii",
+        "verified": true
+      }
+    ]
+  }
+}

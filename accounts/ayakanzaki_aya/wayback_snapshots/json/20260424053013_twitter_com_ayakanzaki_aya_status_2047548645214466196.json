@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2046858676560929131",
+    "created_at": "2026-04-24T05:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047548645214466196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1441694417400729601",
+          "start": 0,
+          "username": "Sumeragi_Noyaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047548645214466196",
+    "in_reply_to_user_id": "1441694417400729601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046871687791366542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sumeragi_Noyaru 謝謝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-24T05:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047548645214466196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1441694417400729601",
+              "start": 0,
+              "username": "Sumeragi_Noyaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047548645214466196",
+        "in_reply_to_user_id": "1441694417400729601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046871687791366542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sumeragi_Noyaru 謝謝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441694417400729601",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-22T08:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046871687791366542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046871687791366542",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046858676560929131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 恭喜9000追 ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9130,
+          "following_count": 985,
+          "like_count": 32697,
+          "listed_count": 22,
+          "media_count": 90,
+          "tweet_count": 21294
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-25T09:22:16.000Z",
+        "description": "喜愛遊戲、看V、聽歌。努力克服社恐的 i 貓...\n主食甜甜圈、紅茶拿鐵是水、甜食主義者\n(Vtuber準備中)\n最最喜歡崇拜的主推: 獅白ぼたん\n中文/日本語/English 聞言讀可能 \n常玩GAMES : Arknights/終末地/雀魂/SVWB/絕區零/SF6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCr6Uu…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCr6Uuq4-kBWfzQW5MF-pOnA",
+                "start": 0,
+                "url": "https://t.co/Amn22LPkvK"
+              }
+            ]
+          }
+        },
+        "id": "1441694417400729601",
+        "name": "皇 ノヤル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045025580471750656/7z6RCFE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 400,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/Amn22LPkvK",
+        "username": "Sumeragi_Noyaru",
+        "verified": false
+      }
+    ]
+  }
+}

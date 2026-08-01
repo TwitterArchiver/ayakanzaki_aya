@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2062397306486366347",
+    "created_at": "2026-06-04T04:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062397306486366347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayakanzaki_aya…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/ayakanzaki_aya/status/2037184356221956337",
+          "start": 57,
+          "url": "https://t.co/zTpxFQYB8X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062397306486366347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037184356221956337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "偷畫的犯人抓到了\n是資源班的學生\n偷的原因是因為喜歡我（沒在瞎掰）\n我整個蛤？？？？？？\n幹那幅畫我不想要回來了 https://t.co/zTpxFQYB8X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2062397306486366347",
+        "created_at": "2026-06-04T04:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062397306486366347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayakanzaki_aya…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/ayakanzaki_aya/status/2037184356221956337",
+              "start": 57,
+              "url": "https://t.co/zTpxFQYB8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062397306486366347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037184356221956337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "偷畫的犯人抓到了\n是資源班的學生\n偷的原因是因為喜歡我（沒在瞎掰）\n我整個蛤？？？？？？\n幹那幅畫我不想要回來了 https://t.co/zTpxFQYB8X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2037184356221956337",
+        "created_at": "2026-03-26T15:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037184356221956337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037184356221956337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 35175,
+          "like_count": 614,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "畫的畫被你拿去展覽然後被偷\n交的功課被你說沒交要我重做\n真的不知道你這種人是怎麼當上老師的\n快點拿完退休金滾蛋好嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。https://t.co/0bAP4M0U4a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 122,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 99,
+                "url": "https://t.co/0bAP4M0U4a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9638,
+          "following_count": 970,
+          "like_count": 32816,
+          "listed_count": 22,
+          "media_count": 90,
+          "tweet_count": 21425
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

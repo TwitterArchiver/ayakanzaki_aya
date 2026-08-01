@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1993761688521510975",
+    "created_at": "2025-11-27T14:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994048602038260101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906521022",
+          "start": 0,
+          "username": "blackfantasy510"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994048602038260101",
+    "in_reply_to_user_id": "906521022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993913566811050426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackfantasy510 庫洛魔法使的超可愛😭😭\n我也想要哪裡買的！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2296,
+        "media_key": "3_1993913515074289664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vNxxragAAPvh0.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1993761688521510975",
+        "created_at": "2025-11-27T14:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994048602038260101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906521022",
+              "start": 0,
+              "username": "blackfantasy510"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994048602038260101",
+        "in_reply_to_user_id": "906521022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993913566811050426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackfantasy510 庫洛魔法使的超可愛😭😭\n我也想要哪裡買的！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993913515074289664"
+          ]
+        },
+        "author_id": "906521022",
+        "conversation_id": "1993761688521510975",
+        "created_at": "2025-11-27T05:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993913566811050426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/55fPHN9Mlc",
+              "end": 44,
+              "expanded_url": "https://x.com/blackfantasy510/status/1993913566811050426/photo/1",
+              "media_key": "3_1993913515074289664",
+              "start": 21,
+              "url": "https://t.co/55fPHN9Mlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993913566811050426",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993761688521510975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 一起炫耀 https://t.co/55fPHN9Mlc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8399,
+          "following_count": 976,
+          "like_count": 31981,
+          "listed_count": 20,
+          "media_count": 89,
+          "tweet_count": 20729
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-26T18:29:55.000Z",
+        "description": "PC配線強者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@blackfantasy1…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@blackfantasy172002",
+                "start": 0,
+                "url": "https://t.co/DGmRRwZvUL"
+              }
+            ]
+          }
+        },
+        "id": "906521022",
+        "location": "臺灣 台北",
+        "name": "Key Wolf",
+        "pinned_tweet_id": "1579477912604282880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950577413928443904/_bjsao5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 5179,
+          "like_count": 25858,
+          "listed_count": 6,
+          "media_count": 921,
+          "tweet_count": 2304
+        },
+        "url": "https://t.co/DGmRRwZvUL",
+        "username": "blackfantasy510",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1978287406039060538",
+    "created_at": "2025-10-19T16:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T17:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979951276570898796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "576908849",
+          "start": 0,
+          "username": "juleepan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979951276570898796",
+    "in_reply_to_user_id": "576908849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978378940269142054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juleepan 我也很注意身材的啦www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1978287406039060538",
+        "created_at": "2025-10-19T16:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979951276570898796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "576908849",
+              "start": 0,
+              "username": "juleepan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979951276570898796",
+        "in_reply_to_user_id": "576908849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978378940269142054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juleepan 我也很注意身材的啦www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "576908849",
+        "conversation_id": "1978287406039060538",
+        "created_at": "2025-10-15T08:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T09:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978378940269142054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978378940269142054",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 683,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978287406039060538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我發現畫的方向男性很注重身材跟肌肉線條或陰影，女性很注重臉部細節跟外觀配件等等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8433,
+          "following_count": 971,
+          "like_count": 31873,
+          "listed_count": 19,
+          "media_count": 84,
+          "tweet_count": 20606
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-11T06:48:03.000Z",
+        "description": "Until Dawn",
+        "id": "576908849",
+        "name": "fun chulee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927977606068195332/HJdTxnkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 637,
+          "like_count": 31668,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1139
+        },
+        "username": "juleepan",
+        "verified": false
+      }
+    ]
+  }
+}

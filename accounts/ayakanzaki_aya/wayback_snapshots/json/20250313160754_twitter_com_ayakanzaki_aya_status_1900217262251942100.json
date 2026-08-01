@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1897111961256751299",
+    "created_at": "2025-03-13T16:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T17:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900217262251942100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1356232698461777921",
+          "start": 0,
+          "username": "sky17_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900217262251942100",
+    "in_reply_to_user_id": "1356232698461777921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897652553460125761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sky17_jp 謝謝（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1897111961256751299",
+        "created_at": "2025-03-13T16:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T17:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900217262251942100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1356232698461777921",
+              "start": 0,
+              "username": "sky17_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900217262251942100",
+        "in_reply_to_user_id": "1356232698461777921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897652553460125761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sky17_jp 謝謝（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356232698461777921",
+        "conversation_id": "1897111961256751299",
+        "created_at": "2025-03-06T14:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T15:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897652553460125761"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "恭喜",
+              "probability": 0.5212,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897652553460125761",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897111961256751299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 恭喜~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6505,
+          "following_count": 981,
+          "like_count": 29603,
+          "listed_count": 18,
+          "media_count": 129,
+          "tweet_count": 19118
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T13:27:45.000Z",
+        "description": "我們對他不太認識，但是我們敢保證 咲夜貓 超棒的。\n\n【Twitch 圖奇】https://t.co/P157sZt7vA\n【DC】https://t.co/yKk1SjEca3\n（ last：@sky17_tw ）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "sky17_tw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/sky17_jp",
+                "end": 61,
+                "expanded_url": "http://twitch.tv/sky17_jp",
+                "start": 38,
+                "url": "https://t.co/P157sZt7vA"
+              },
+              {
+                "display_url": "discord.gg/Bg2uUwjg7j",
+                "end": 89,
+                "expanded_url": "http://discord.gg/Bg2uUwjg7j",
+                "start": 66,
+                "url": "https://t.co/yKk1SjEca3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sky17_jp",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sky17_jp",
+                "start": 0,
+                "url": "https://t.co/G7zuOtXQbw"
+              }
+            ]
+          }
+        },
+        "id": "1356232698461777921",
+        "location": "妳家",
+        "name": "咲夜貓🔞一個懶惰的繪手",
+        "pinned_tweet_id": "1855543990810276270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840053927380955140/-RvJ71b2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 2912,
+          "like_count": 26533,
+          "listed_count": 12,
+          "media_count": 271,
+          "tweet_count": 12138
+        },
+        "url": "https://t.co/G7zuOtXQbw",
+        "username": "sky17_jp",
+        "verified": false
+      }
+    ]
+  }
+}

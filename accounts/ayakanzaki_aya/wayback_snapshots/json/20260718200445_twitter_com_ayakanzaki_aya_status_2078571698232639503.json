@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2077611538836279529",
+    "created_at": "2026-07-18T20:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T21:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078571698232639503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1178315738785800193",
+          "start": 0,
+          "username": "emiko9977"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078571698232639503",
+    "in_reply_to_user_id": "1178315738785800193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078035837921681476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emiko9977 算啊 印象裡梅子看我很久了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2077611538836279529",
+        "created_at": "2026-07-18T20:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078571698232639503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1178315738785800193",
+              "start": 0,
+              "username": "emiko9977"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078571698232639503",
+        "in_reply_to_user_id": "1178315738785800193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078035837921681476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emiko9977 算啊 印象裡梅子看我很久了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1178315738785800193",
+        "conversation_id": "2077611538836279529",
+        "created_at": "2026-07-17T08:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078035837921681476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078035837921681476",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077611538836279529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 只看推特算嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。：https://t.co/VcHIX9aINY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 123,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 100,
+                "url": "https://t.co/VcHIX9aINY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10588,
+          "following_count": 976,
+          "like_count": 32947,
+          "listed_count": 26,
+          "media_count": 97,
+          "tweet_count": 21535
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-29T14:29:13.000Z",
+        "description": "已登出國軍online 正在搜尋登出地球online",
+        "id": "1178315738785800193",
+        "location": "Taiwan",
+        "name": "江海子",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 168,
+          "like_count": 2028,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 4416
+        },
+        "url": "",
+        "username": "emiko9977",
+        "verified": false
+      }
+    ]
+  }
+}

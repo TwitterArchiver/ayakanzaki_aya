@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1837712712727490997",
+    "created_at": "2024-09-22T05:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837720067582071277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1637859109218435072",
+          "start": 0,
+          "username": "Barbatos112213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837720067582071277",
+    "in_reply_to_user_id": "1637859109218435072",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837713267843911738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Barbatos112213 那你就不要信了（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1837712712727490997",
+        "created_at": "2024-09-22T05:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837720067582071277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1637859109218435072",
+              "start": 0,
+              "username": "Barbatos112213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837720067582071277",
+        "in_reply_to_user_id": "1637859109218435072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837713267843911738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Barbatos112213 那你就不要信了（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637859109218435072",
+        "conversation_id": "1837712712727490997",
+        "created_at": "2024-09-22T04:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T05:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837713267843911738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837713267843911738",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837712712727490997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我不信\n除非發照片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26302,
+          "listed_count": 9,
+          "tweet_count": 15765
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T16:50:29.000Z",
+        "description": "身處此世，眾人皆有不同面貌，或喜、或怒、或哀、或樂；此面貌依託於人心，化身千萬，卻又同為一體；吾等亦如此，故吾等自命為千面，既為存於此世之代稱，也作為吾等行為之制約。",
+        "id": "1637859109218435072",
+        "name": "千面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637859336348368896/q9ELqsBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 384,
+          "like_count": 68,
+          "listed_count": 0,
+          "tweet_count": 252
+        },
+        "username": "Barbatos112213",
+        "verified": false
+      }
+    ]
+  }
+}

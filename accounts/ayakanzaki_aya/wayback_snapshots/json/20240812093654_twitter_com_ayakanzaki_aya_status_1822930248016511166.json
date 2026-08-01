@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1822142258000396435",
+    "created_at": "2024-08-12T09:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822930248016511166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626211191147343873",
+          "start": 0,
+          "username": "cj_blackmeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822930248016511166",
+    "in_reply_to_user_id": "1626211191147343873",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822584302766604400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cj_blackmeow 我的沒有QQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-12T09:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822930248016511166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626211191147343873",
+              "start": 0,
+              "username": "cj_blackmeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822930248016511166",
+        "in_reply_to_user_id": "1626211191147343873",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822584302766604400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cj_blackmeow 我的沒有QQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626211191147343873",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-11T10:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T11:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822584302766604400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822584302766604400",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822142258000396435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我一開始也以為是 \n結果滑到下面有ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3905,
+          "following_count": 998,
+          "like_count": 25518,
+          "listed_count": 10,
+          "tweet_count": 14991
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T13:25:53.000Z",
+        "description": "【毒舌的喵老大☕愛哭的喵寶😿】\n【語出驚人是日常，學習能力🈵】\n【第六感+幸運+易嚇♢點滿體質🍉】\n暴躁直球型女主播🔥腦回路總是抓不透\n-\n主打遊戲為主，可有3D暈(／_＼)\n語言：粵🌕國🌕英🌓日🌑\n-\n一般➥#菜雞黑喵\n精華➥#黑喵大佬\n公開處刑➥#喵吉拉喵哇\nFans➥#小弟投餵\nArt➥#喵手回春",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 105,
+                "tag": "菜雞黑喵"
+              },
+              {
+                "end": 119,
+                "start": 114,
+                "tag": "黑喵大佬"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "喵吉拉喵哇"
+              },
+              {
+                "end": 142,
+                "start": 137,
+                "tag": "小弟投餵"
+              },
+              {
+                "end": 152,
+                "start": 147,
+                "tag": "喵手回春"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/cjblackmeow",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/cjblackmeow",
+                "start": 0,
+                "url": "https://t.co/v9pMHS1QXO"
+              }
+            ]
+          }
+        },
+        "id": "1626211191147343873",
+        "name": "菜雞黑喵🐈| 毒舌系喵老大 | 歡迎連動🤍",
+        "pinned_tweet_id": "1816145750029656470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793892076150730752/fXJOnzV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 693,
+          "like_count": 43085,
+          "listed_count": 1,
+          "tweet_count": 9884
+        },
+        "url": "https://t.co/v9pMHS1QXO",
+        "username": "cj_blackmeow",
+        "verified": false
+      }
+    ]
+  }
+}

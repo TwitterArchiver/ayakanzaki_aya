@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2043484307583631509",
+    "created_at": "2026-04-14T01:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T02:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043863253139292378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1972321268621058049",
+          "start": 0,
+          "username": "yumira_yumian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043863253139292378",
+    "in_reply_to_user_id": "1972321268621058049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043484307583631509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumira_yumian 生日快樂！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2043484302428803072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvqJW5bEAAO_Ux.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2043484307583631509",
+        "created_at": "2026-04-14T01:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043863253139292378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972321268621058049",
+              "start": 0,
+              "username": "yumira_yumian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043863253139292378",
+        "in_reply_to_user_id": "1972321268621058049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043484307583631509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumira_yumian 生日快樂！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043484302428803072"
+          ]
+        },
+        "author_id": "1972321268621058049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2043484307583631509",
+        "created_at": "2026-04-13T00:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043484307583631509"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "擴散希望"
+            },
+            {
+              "end": 138,
+              "start": 129,
+              "tag": "新人Vtuber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HiwkLy6q4M",
+              "end": 162,
+              "expanded_url": "https://x.com/yumira_yumian/status/2043484307583631509/photo/1",
+              "media_key": "3_2043484302428803072",
+              "start": 139,
+              "url": "https://t.co/HiwkLy6q4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043484307583631509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4950,
+          "like_count": 297,
+          "quote_count": 0,
+          "reply_count": 151,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "噠啦～沒錯今天是我的生日唷o̴̶̷̤ o o̴̶̷̤\n有沒有人有猜到的\n看到有好多新朋友來認識真的超開心的(*¯︶¯*)\n為了避免洗版所以沒有每個人都進行回覆\n但每個跟我打招呼的朋友我都有看到唷🫶🏻\n不介意的話可以跟我說聲生日快樂一起沾沾喜氣\n\n#擴散希望 #新人Vtuber https://t.co/HiwkLy6q4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2038606993040998570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8953,
+          "following_count": 985,
+          "like_count": 32646,
+          "listed_count": 22,
+          "media_count": 89,
+          "tweet_count": 21253
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T15:23:39.000Z",
+        "description": "鈺眠｜尺玉豚｜流光鑑定者\n在這裡，我會記住有價值的人。\n🎮 Twitch 直播中｜初配信準備中\n💰 流光上繳中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/yumira_yumian",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/yumira_yumian",
+                "start": 0,
+                "url": "https://t.co/gUO1uRYm1q"
+              }
+            ]
+          }
+        },
+        "id": "1972321268621058049",
+        "name": "澄．鈺眠 Yumira🐬Vtuber 準備中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972322330081972224/n6i09jAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 49,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/gUO1uRYm1q",
+        "username": "yumira_yumian",
+        "verified": false
+      }
+    ]
+  }
+}

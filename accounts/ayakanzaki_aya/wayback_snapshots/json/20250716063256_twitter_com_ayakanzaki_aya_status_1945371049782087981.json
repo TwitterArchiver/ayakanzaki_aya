@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1944461683209982284",
+    "created_at": "2025-07-16T06:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T07:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945371049782087981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132535853996097536",
+          "start": 0,
+          "username": "bokuai_608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945371049782087981",
+    "in_reply_to_user_id": "1132535853996097536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944686308364087464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bokuai_608 謝謝你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1944461683209982284",
+        "created_at": "2025-07-16T06:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945371049782087981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132535853996097536",
+              "start": 0,
+              "username": "bokuai_608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945371049782087981",
+        "in_reply_to_user_id": "1132535853996097536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944686308364087464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bokuai_608 謝謝你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132535853996097536",
+        "conversation_id": "1944461683209982284",
+        "created_at": "2025-07-14T09:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T10:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944686308364087464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944686308364087464",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944461683209982284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 總之先按下追隨了!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7836,
+          "following_count": 990,
+          "like_count": 31301,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20108
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T06:36:03.000Z",
+        "description": "波塊bokuai（コウ） 、座標:嘉義/斗六 、遊戲:明日方舟(アークナイつ) 、台湾人",
+        "id": "1132535853996097536",
+        "location": "Chiayi City, Taiwan",
+        "name": "bokuai",
+        "pinned_tweet_id": "1632291317551333377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607374280937066496/0XVknFbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 1218,
+          "like_count": 22313,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 10087
+        },
+        "username": "bokuai_608",
+        "verified": false
+      }
+    ]
+  }
+}

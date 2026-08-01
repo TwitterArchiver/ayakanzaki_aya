@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1802931500054204722",
+    "created_at": "2024-06-19T07:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T08:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803335196994847114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1178315738785800193",
+          "start": 0,
+          "username": "emiko9977"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803335196994847114",
+    "in_reply_to_user_id": "1178315738785800193",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803002624851284221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emiko9977 有聲音www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1802931500054204722",
+        "created_at": "2024-06-19T07:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T08:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803335196994847114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1178315738785800193",
+              "start": 0,
+              "username": "emiko9977"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803335196994847114",
+        "in_reply_to_user_id": "1178315738785800193",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803002624851284221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emiko9977 有聲音www"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1803002609894301696"
+          ]
+        },
+        "author_id": "1178315738785800193",
+        "conversation_id": "1802931500054204722",
+        "created_at": "2024-06-18T09:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T10:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803002624851284221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gkCLM4gs2M",
+              "end": 42,
+              "expanded_url": "https://twitter.com/emiko9977/status/1803002624851284221/photo/1",
+              "media_key": "16_1803002609894301696",
+              "start": 19,
+              "url": "https://t.co/gkCLM4gs2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803002624851284221",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802931500054204722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 跳舞 https://t.co/gkCLM4gs2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3885,
+          "following_count": 993,
+          "like_count": 24409,
+          "listed_count": 10,
+          "tweet_count": 13923
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-29T14:29:13.000Z",
+        "description": "只是個苦命滅苦蘿老人",
+        "id": "1178315738785800193",
+        "location": "Taiwan",
+        "name": "江海子",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 117,
+          "like_count": 1018,
+          "listed_count": 0,
+          "tweet_count": 2834
+        },
+        "username": "emiko9977",
+        "verified": false
+      }
+    ]
+  }
+}

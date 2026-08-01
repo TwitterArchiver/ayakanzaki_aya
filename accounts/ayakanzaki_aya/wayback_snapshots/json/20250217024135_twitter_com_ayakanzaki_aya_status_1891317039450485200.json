@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1889887694358192576",
+    "created_at": "2025-02-17T02:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T03:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891317039450485200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1569934698637586433",
+          "start": 0,
+          "username": "Yuuuuuuuuuumi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891317039450485200",
+    "in_reply_to_user_id": "1569934698637586433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889936855883456842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuuuuuuuuumi_ 畫得好可愛！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1889887694358192576",
+        "created_at": "2025-02-17T02:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T03:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891317039450485200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1569934698637586433",
+              "start": 0,
+              "username": "Yuuuuuuuuuumi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891317039450485200",
+        "in_reply_to_user_id": "1569934698637586433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889936855883456842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuuuuuuuuumi_ 畫得好可愛！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569934698637586433",
+        "conversation_id": "1889887694358192576",
+        "created_at": "2025-02-13T07:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889936855883456842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889936855883456842",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889887694358192576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 自薦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6244,
+          "following_count": 970,
+          "like_count": 28851,
+          "listed_count": 16,
+          "media_count": 127,
+          "tweet_count": 18375
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T06:23:16.000Z",
+        "description": "◆個人勢繪師Vtuber\n\n◇委託開放中\n\n◆正比/Q版/V皮拆分/Live2D建模\n\n◇中文⭕ ENG🔼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/yuumi",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/yuumi",
+                "start": 0,
+                "url": "https://t.co/F04OM7HpYO"
+              }
+            ]
+          }
+        },
+        "id": "1569934698637586433",
+        "location": "Discord ➠ yuumi0529",
+        "name": "游彌🌊 ◆委託開放中◆",
+        "pinned_tweet_id": "1884891693872517437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883850363679477760/hC38qctz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 226,
+          "like_count": 6897,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/F04OM7HpYO",
+        "username": "Yuuuuuuuuuumi_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931573466437947392"
+      ],
+      "media_source_tweet_id": [
+        "1931905589640044806"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1931923358397956183",
+    "created_at": "2025-06-09T03:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T04:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931923358397956183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "933023097673748480",
+          "start": 3,
+          "username": "aroamoyasi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ILBwJP1Qry",
+          "end": 48,
+          "expanded_url": "https://x.com/aroamoyasi/status/1931905589640044806/photo/1",
+          "media_key": "3_1931573466437947392",
+          "start": 25,
+          "url": "https://t.co/ILBwJP1Qry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931923358397956183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931905589640044806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aroamoyasi: 秋の色に溶けた🍁 https://t.co/ILBwJP1Qry"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1771,
+        "media_key": "3_1931573466437947392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs5T1XSakAACXqg.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931573466437947392"
+          ],
+          "media_source_tweet_id": [
+            "1931905589640044806"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1931923358397956183",
+        "created_at": "2025-06-09T03:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T04:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931923358397956183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "933023097673748480",
+              "start": 3,
+              "username": "aroamoyasi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILBwJP1Qry",
+              "end": 48,
+              "expanded_url": "https://x.com/aroamoyasi/status/1931905589640044806/photo/1",
+              "media_key": "3_1931573466437947392",
+              "start": 25,
+              "url": "https://t.co/ILBwJP1Qry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931923358397956183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931905589640044806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aroamoyasi: 秋の色に溶けた🍁 https://t.co/ILBwJP1Qry"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931573466437947392"
+          ]
+        },
+        "author_id": "933023097673748480",
+        "conversation_id": "1931905589640044806",
+        "created_at": "2025-06-09T02:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T03:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931905589640044806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILBwJP1Qry",
+              "end": 32,
+              "expanded_url": "https://x.com/aroamoyasi/status/1931905589640044806/photo/1",
+              "media_key": "3_1931573466437947392",
+              "start": 9,
+              "url": "https://t.co/ILBwJP1Qry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931905589640044806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 8205,
+          "like_count": 891,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "秋の色に溶けた🍁 https://t.co/ILBwJP1Qry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6802,
+          "following_count": 996,
+          "like_count": 30763,
+          "listed_count": 20,
+          "media_count": 55,
+          "tweet_count": 19911
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-21T17:23:36.000Z",
+        "description": "フリーのイラストレーター/白髪と四季と儚い女の子が好き。電撃イラスト大賞受賞、ヴィレヴァンコラボ、電撃文庫『赤点魔女に異世界最強の個別指導を！』、ホロライブ、プロセカなど。【ご依頼はメールか下記HPにて 。】【✉メール】：aroa138938＠gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aroa138.tumblr.com/post/629297983…",
+                "end": 23,
+                "expanded_url": "https://aroa138.tumblr.com/post/629297983288197120/%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+                "start": 0,
+                "url": "https://t.co/8sdPwU4tBf"
+              }
+            ]
+          }
+        },
+        "id": "933023097673748480",
+        "location": "ご依頼＆過去の実績は下記ホームページから",
+        "name": "あろあ",
+        "pinned_tweet_id": "1774987618314551615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473247172607242242/XOzmltF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132966,
+          "following_count": 861,
+          "like_count": 4732,
+          "listed_count": 0,
+          "media_count": 586,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/8sdPwU4tBf",
+        "username": "aroamoyasi",
+        "verified": true
+      }
+    ]
+  }
+}

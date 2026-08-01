@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1382075171171749891",
+          "name": "Yoasobi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1382075171171749891",
+          "name": "Yoasobi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1382075171171749891",
+          "name": "Yoasobi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Boston",
+          "id": "855431757247545346",
+          "name": "Boston"
+        }
+      }
+    ],
+    "conversation_id": "1821680355260133391",
+    "created_at": "2024-08-08T22:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T23:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821680355260133391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoasobi_staff/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yoasobi_staff/status/1821665472770871410",
+          "start": 13,
+          "url": "https://t.co/sszEBLUspE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821680355260133391",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821665472770871410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "期待する！(*´∇｀*) https://t.co/sszEBLUspE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Boston",
+              "id": "855431757247545346",
+              "name": "Boston"
+            }
+          }
+        ],
+        "conversation_id": "1821680355260133391",
+        "created_at": "2024-08-08T22:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T23:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821680355260133391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoasobi_staff/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yoasobi_staff/status/1821665472770871410",
+              "start": 13,
+              "url": "https://t.co/sszEBLUspE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821680355260133391",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821665472770871410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "期待する！(*´∇｀*) https://t.co/sszEBLUspE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821665454408208384",
+            "3_1821665454517071872",
+            "3_1821665454412509184"
+          ]
+        },
+        "author_id": "1178872236351971328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Boston",
+              "id": "855431757247545346",
+              "name": "Boston"
+            }
+          }
+        ],
+        "conversation_id": "1821665472770871410",
+        "created_at": "2024-08-08T21:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T22:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821665472770871410"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "YOASOBI",
+              "probability": 0.448,
+              "start": 8,
+              "type": "Person"
+            },
+            {
+              "end": 24,
+              "normalized_text": "Boston",
+              "probability": 0.912,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Hall",
+              "probability": 0.3619,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 120,
+              "normalized_text": "US",
+              "probability": 0.8825,
+              "start": 119,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qi87l4kpzf",
+              "end": 164,
+              "expanded_url": "https://twitter.com/YOASOBI_staff/status/1821665472770871410/photo/1",
+              "media_key": "3_1821665454408208384",
+              "start": 141,
+              "url": "https://t.co/Qi87L4KPZF"
+            },
+            {
+              "display_url": "pic.x.com/qi87l4kpzf",
+              "end": 164,
+              "expanded_url": "https://twitter.com/YOASOBI_staff/status/1821665472770871410/photo/1",
+              "media_key": "3_1821665454517071872",
+              "start": 141,
+              "url": "https://t.co/Qi87L4KPZF"
+            },
+            {
+              "display_url": "pic.x.com/qi87l4kpzf",
+              "end": 164,
+              "expanded_url": "https://twitter.com/YOASOBI_staff/status/1821665472770871410/photo/1",
+              "media_key": "3_1821665454412509184",
+              "start": 141,
+              "url": "https://t.co/Qi87L4KPZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821665472770871410",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 31031,
+          "like_count": 935,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "Today!! YOASOBI in Boston@MGM Music Hall at Fenway🙌(Thank you sold out)\n\n⏰START 8PM\n🎁Merch👇\n\nFinal performance in this US tour!! Stay tuned💥 https://t.co/Qi87L4KPZF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3901,
+          "following_count": 998,
+          "like_count": 25440,
+          "listed_count": 10,
+          "tweet_count": 14933
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-01T03:20:23.000Z",
+        "description": "We are YOASOBI from JAPAN!Composer:Ayase→@Ayase_0404 Vocal:ikura→@ikutalilas Songs: https://t.co/iLAra1R7Me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Ayase_0404"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "ikutalilas"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "end": 107,
+                "expanded_url": "https://youtube.com/playlist?list=PLR48NTfP0M0Nv3uFq7ka52rndi7_KJE41",
+                "start": 84,
+                "url": "https://t.co/iLAra1R7Me"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yoasobi-music.jp",
+                "end": 23,
+                "expanded_url": "http://yoasobi-music.jp",
+                "start": 0,
+                "url": "https://t.co/SmLZtlpEnz"
+              }
+            ]
+          }
+        },
+        "id": "1178872236351971328",
+        "location": "NOVEL INTO MUSIC",
+        "name": "YOASOBI",
+        "pinned_tweet_id": "1820779506925478220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594468172853571585/bFpkDyef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127761,
+          "following_count": 112,
+          "like_count": 58289,
+          "listed_count": 3212,
+          "tweet_count": 6044
+        },
+        "url": "https://t.co/SmLZtlpEnz",
+        "username": "YOASOBI_staff",
+        "verified": true
+      }
+    ]
+  }
+}

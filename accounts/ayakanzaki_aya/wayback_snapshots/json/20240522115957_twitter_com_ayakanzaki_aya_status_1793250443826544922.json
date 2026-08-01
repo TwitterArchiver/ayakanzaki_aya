@@ -1,0 +1,231 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1792734111183876364",
+    "created_at": "2024-05-22T11:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T12:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793250443826544922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2725328653",
+          "start": 0,
+          "username": "louis117228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793250443826544922",
+    "in_reply_to_user_id": "2725328653",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792736058905702686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@louis117228 問題揭開了！！你是我的神！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1792734111183876364",
+        "created_at": "2024-05-22T11:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T12:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793250443826544922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2725328653",
+              "start": 0,
+              "username": "louis117228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793250443826544922",
+        "in_reply_to_user_id": "2725328653",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792736058905702686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@louis117228 問題揭開了！！你是我的神！！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792736053415325696"
+          ]
+        },
+        "author_id": "2725328653",
+        "conversation_id": "1792734111183876364",
+        "created_at": "2024-05-21T01:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T02:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792736058905702686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/EfLfyA4Mai",
+              "end": 48,
+              "expanded_url": "https://twitter.com/louis117228/status/1792736058905702686/photo/1",
+              "media_key": "3_1792736053415325696",
+              "start": 25,
+              "url": "https://t.co/EfLfyA4Mai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792736058905702686",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792734111183876364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 教育部辭典如是說 https://t.co/EfLfyA4Mai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 991,
+          "like_count": 23654,
+          "listed_count": 10,
+          "tweet_count": 13178
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-12T03:18:06.000Z",
+        "description": "台湾人です 中文○ Eng○  日本語Δ\n2/23 ~ 6/? 服兵役\n百合廚\n日麻雀歷2020.9~now\n懶翻茄字幕組↓組員\nhttps://t.co/hEwWqpSqxv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@rottensubtitl…",
+                "end": 88,
+                "expanded_url": "https://www.youtube.com/@rottensubtitles5402/",
+                "start": 65,
+                "url": "https://t.co/hEwWqpSqxv"
+              }
+            ]
+          }
+        },
+        "id": "2725328653",
+        "name": "湯圓桑（団子ちゃん）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1274674731946348546/cWi5wyqX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 2802,
+          "like_count": 49328,
+          "listed_count": 15,
+          "tweet_count": 4829
+        },
+        "username": "louis117228",
+        "verified": false
+      }
+    ]
+  }
+}

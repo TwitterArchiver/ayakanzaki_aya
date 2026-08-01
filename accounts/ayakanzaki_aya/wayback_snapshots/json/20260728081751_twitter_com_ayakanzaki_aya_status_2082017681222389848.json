@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082017670879133696"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "2082017681222389848",
+    "created_at": "2026-07-28T08:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082017681222389848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HyffcJydfi",
+          "end": 50,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/2082017681222389848/photo/1",
+          "media_key": "3_2082017670879133696",
+          "start": 27,
+          "url": "https://t.co/HyffcJydfi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082017681222389848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好奇這種類型的圖會有人想委嗎🤔\n一直都接不到委託捏… https://t.co/HyffcJydfi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082017670879133696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTQCmjWQAACCdx.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082017670879133696"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-28T08:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082017681222389848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HyffcJydfi",
+              "end": 50,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/2082017681222389848/photo/1",
+              "media_key": "3_2082017670879133696",
+              "start": 27,
+              "url": "https://t.co/HyffcJydfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082017681222389848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇這種類型的圖會有人想委嗎🤔\n一直都接不到委託捏… https://t.co/HyffcJydfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。：https://t.co/VcHIX9aINY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 123,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 100,
+                "url": "https://t.co/VcHIX9aINY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10589,
+          "following_count": 975,
+          "like_count": 32947,
+          "listed_count": 26,
+          "media_count": 99,
+          "tweet_count": 21544
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

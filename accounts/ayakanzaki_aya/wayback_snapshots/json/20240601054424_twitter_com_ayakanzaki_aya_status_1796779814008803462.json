@@ -1,0 +1,226 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1796402903990804634",
+    "created_at": "2024-06-01T05:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T06:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796779814008803462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1137022749824626689",
+          "start": 0,
+          "username": "Akame04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796779814008803462",
+    "in_reply_to_user_id": "1137022749824626689",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796408437049590045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akame04 加幣喔（小聲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1796402903990804634",
+        "created_at": "2024-06-01T05:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T06:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796779814008803462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1137022749824626689",
+              "start": 0,
+              "username": "Akame04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796779814008803462",
+        "in_reply_to_user_id": "1137022749824626689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796408437049590045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akame04 加幣喔（小聲"
+      },
+      {
+        "attachments": {},
+        "author_id": "1137022749824626689",
+        "conversation_id": "1796402903990804634",
+        "created_at": "2024-05-31T05:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T06:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796408437049590045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796408437049590045",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796402903990804634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya Aya 的水壺 20元收（舉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3861,
+          "following_count": 993,
+          "like_count": 23993,
+          "listed_count": 10,
+          "tweet_count": 13504
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-07T15:45:23.000Z",
+        "description": "人格分裂｜宣洩文｜對可愛的女孩子沒抵抗力｜分享各種動物梗圖｜擁有垃圾佔有慾｜ESFJ-A | #彰化 #23y #牡羊",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 47,
+                "tag": "彰化"
+              },
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "23y"
+              },
+              {
+                "end": 59,
+                "start": 56,
+                "tag": "牡羊"
+              }
+            ]
+          }
+        },
+        "id": "1137022749824626689",
+        "location": "Taichung City, Taiwan",
+        "name": "薛丁格的鯨虎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792241482025652226/qmIDML1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 100,
+          "like_count": 3265,
+          "listed_count": 3,
+          "tweet_count": 1771
+        },
+        "username": "Akame04",
+        "verified": false
+      }
+    ]
+  }
+}

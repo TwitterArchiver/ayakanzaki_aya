@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941349383406039040"
+      ],
+      "media_source_tweet_id": [
+        "1941349391396372922"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1941748142350925988",
+    "created_at": "2025-07-06T06:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T07:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941748142350925988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "939390319",
+          "start": 3,
+          "username": "gigzagu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B3TIDTjUuy",
+          "end": 41,
+          "expanded_url": "https://x.com/gigzagu123/status/1941349391396372922/photo/1",
+          "media_key": "3_1941349383406039040",
+          "start": 18,
+          "url": "https://t.co/B3TIDTjUuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941748142350925988",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1899
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941349391396372922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gigzagu123: 🌘 https://t.co/B3TIDTjUuy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3999,
+        "media_key": "3_1941349383406039040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvEO-n7XMAA5SjT.jpg",
+        "width": 2564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941349383406039040"
+          ],
+          "media_source_tweet_id": [
+            "1941349391396372922"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1941748142350925988",
+        "created_at": "2025-07-06T06:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T07:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941748142350925988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "939390319",
+              "start": 3,
+              "username": "gigzagu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3TIDTjUuy",
+              "end": 41,
+              "expanded_url": "https://x.com/gigzagu123/status/1941349391396372922/photo/1",
+              "media_key": "3_1941349383406039040",
+              "start": 18,
+              "url": "https://t.co/B3TIDTjUuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941748142350925988",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1899
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941349391396372922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gigzagu123: 🌘 https://t.co/B3TIDTjUuy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941349383406039040"
+          ]
+        },
+        "author_id": "939390319",
+        "conversation_id": "1941349391396372922",
+        "created_at": "2025-07-05T04:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T05:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941349391396372922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3TIDTjUuy",
+              "end": 25,
+              "expanded_url": "https://x.com/gigzagu123/status/1941349391396372922/photo/1",
+              "media_key": "3_1941349383406039040",
+              "start": 2,
+              "url": "https://t.co/B3TIDTjUuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941349391396372922",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2029,
+          "impression_count": 277021,
+          "like_count": 22215,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 1899
+        },
+        "reply_settings": "everyone",
+        "text": "🌘 https://t.co/B3TIDTjUuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7718,
+          "following_count": 989,
+          "like_count": 31193,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20066
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-10T16:13:32.000Z",
+        "description": "◾︎お絵描きする人。最近は主に自創作【#NumberMira】🌙✉️お仕事のご連絡は以下のforiio プロフィールからご確認下さい（現在企業様のみ）◾画集 玄光社「emergence」 ︎",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 19,
+                "tag": "NumberMira"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fori.io/gigzagu123",
+                "end": 23,
+                "expanded_url": "https://fori.io/gigzagu123",
+                "start": 0,
+                "url": "https://t.co/XqCX7vidln"
+              }
+            ]
+          }
+        },
+        "id": "939390319",
+        "name": "がわこ",
+        "pinned_tweet_id": "1937802864723902685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641999581457309697/YmwDy38I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352371,
+          "following_count": 664,
+          "like_count": 29211,
+          "listed_count": 2470,
+          "media_count": 3704,
+          "tweet_count": 60872
+        },
+        "url": "https://t.co/XqCX7vidln",
+        "username": "gigzagu123",
+        "verified": true
+      }
+    ]
+  }
+}

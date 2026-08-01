@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1843504335654654132",
+    "created_at": "2024-10-09T05:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T06:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843891216590811407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775975996585623552",
+          "start": 0,
+          "username": "zhyn643792"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843891216590811407",
+    "in_reply_to_user_id": "1775975996585623552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843558175364288954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhyn643792 放心只要你不是智障沒做個是正常人的👌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1843504335654654132",
+        "created_at": "2024-10-09T05:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T06:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843891216590811407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1775975996585623552",
+              "start": 0,
+              "username": "zhyn643792"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843891216590811407",
+        "in_reply_to_user_id": "1775975996585623552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843558175364288954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhyn643792 放心只要你不是智障沒做個是正常人的👌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775975996585623552",
+        "conversation_id": "1843504335654654132",
+        "created_at": "2024-10-08T07:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T08:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843558175364288954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843558175364288954",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843504335654654132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 人一生最瘋的時段就是學生了\n現在回想起來，我居然沒做過這件事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1838823866614923552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4257,
+          "following_count": 979,
+          "like_count": 26659,
+          "listed_count": 10,
+          "tweet_count": 16123
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T19:58:12.000Z",
+        "description": "",
+        "id": "1775975996585623552",
+        "name": "稚燕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775976182321950720/kM2oEdTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 732,
+          "like_count": 27159,
+          "listed_count": 0,
+          "tweet_count": 2803
+        },
+        "username": "zhyn643792",
+        "verified": false
+      }
+    ]
+  }
+}

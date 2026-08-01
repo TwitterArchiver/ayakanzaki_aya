@@ -1,0 +1,234 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1812737995100803561",
+    "created_at": "2024-07-16T09:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T10:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813144064805511403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1159111829802504192",
+          "start": 0,
+          "username": "sunyikaiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813144064805511403",
+    "in_reply_to_user_id": "1159111829802504192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812798319577690594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunyikaiiiii 為什麼我看的第一眼感覺聽到了chibichaba（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1812737995100803561",
+        "created_at": "2024-07-16T09:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T10:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813144064805511403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1159111829802504192",
+              "start": 0,
+              "username": "sunyikaiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813144064805511403",
+        "in_reply_to_user_id": "1159111829802504192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812798319577690594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunyikaiiiii 為什麼我看的第一眼感覺聽到了chibichaba（x"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1812798304188801024"
+          ]
+        },
+        "author_id": "1159111829802504192",
+        "conversation_id": "1812737995100803561",
+        "created_at": "2024-07-15T10:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T11:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812798319577690594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ElB4ZA7EK7",
+              "end": 52,
+              "expanded_url": "https://twitter.com/sunyikaiiiii/status/1812798319577690594/photo/1",
+              "media_key": "16_1812798304188801024",
+              "start": 29,
+              "url": "https://t.co/ElB4ZA7EK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812798319577690594",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812737995100803561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya ε(っ=•  ω•=)っ https://t.co/ElB4ZA7EK7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 25068,
+          "listed_count": 10,
+          "tweet_count": 14550
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T14:39:30.000Z",
+        "description": "也能叫我「天黑」/台灣人【20歲的普通大二生】現在只是一個路過的航星者兼獄員\nε(っ=•  ⊥•=)っ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Tanlai1126mim…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Tanlai1126mimimi",
+                "start": 0,
+                "url": "https://t.co/7Pridh6KqW"
+              }
+            ]
+          }
+        },
+        "id": "1159111829802504192",
+        "location": "Taichung City, Taiwan",
+        "name": "天雷【小貓熊】",
+        "pinned_tweet_id": "1757237092500000998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783284146229723137/vDH6mj7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 515,
+          "like_count": 33141,
+          "listed_count": 0,
+          "tweet_count": 5301
+        },
+        "url": "https://t.co/7Pridh6KqW",
+        "username": "sunyikaiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

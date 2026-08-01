@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2039947205075722466",
+    "created_at": "2026-04-03T14:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040076392574910660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1704261395762860032",
+          "start": 0,
+          "username": "lngy133314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040076392574910660",
+    "in_reply_to_user_id": "1704261395762860032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040010596125667528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngy133314 5, 6, 8, 14, 16, 39（Bonus：11）\n加拿大3月11的不用謝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2039947205075722466",
+        "created_at": "2026-04-03T14:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040076392574910660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1704261395762860032",
+              "start": 0,
+              "username": "lngy133314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040076392574910660",
+        "in_reply_to_user_id": "1704261395762860032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040010596125667528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngy133314 5, 6, 8, 14, 16, 39（Bonus：11）\n加拿大3月11的不用謝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704261395762860032",
+        "conversation_id": "2039947205075722466",
+        "created_at": "2026-04-03T10:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040010596125667528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040010596125667528",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039947205075722466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 樂透頭獎號碼是多少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2038606993040998570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8888,
+          "following_count": 984,
+          "like_count": 32478,
+          "listed_count": 20,
+          "media_count": 111,
+          "tweet_count": 21167
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T22:29:32.000Z",
+        "description": "原本是光靈天使，因為想成為療癒人心的偶像而來到人界，以偶像培訓生的模樣展開活動\n但隨著接觸人類久了開始抽象化，可能哪天變成惡魔\n同時也是後室F版ZH分部的活躍寫手：Lulin Sivina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Lingyu_vtuber",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Lingyu_vtuber",
+                "start": 0,
+                "url": "https://t.co/Rp4FxSMZUE"
+              }
+            ]
+          }
+        },
+        "id": "1704261395762860032",
+        "name": "泠語Lingyu✨天使系偶像培訓生vtuber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797612726598139904/Z_d4l0KU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 187,
+          "like_count": 10223,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 2279
+        },
+        "url": "https://t.co/Rp4FxSMZUE",
+        "username": "lngy133314",
+        "verified": false
+      }
+    ]
+  }
+}

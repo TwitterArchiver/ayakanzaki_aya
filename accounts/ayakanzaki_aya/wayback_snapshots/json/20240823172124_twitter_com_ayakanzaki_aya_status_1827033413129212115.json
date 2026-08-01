@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1826815294565744978",
+    "created_at": "2024-08-23T17:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T18:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827033413129212115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "969157356008325120",
+          "start": 0,
+          "username": "windyday117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827033413129212115",
+    "in_reply_to_user_id": "969157356008325120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826971025868996931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@windyday117 FF的這三天都會有！\n想要的話可以到我的dc群和群裡的npc喬個時間去領～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1826815294565744978",
+        "created_at": "2024-08-23T17:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T18:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827033413129212115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "969157356008325120",
+              "start": 0,
+              "username": "windyday117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827033413129212115",
+        "in_reply_to_user_id": "969157356008325120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826971025868996931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@windyday117 FF的這三天都會有！\n想要的話可以到我的dc群和群裡的npc喬個時間去領～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "969157356008325120",
+        "conversation_id": "1826815294565744978",
+        "created_at": "2024-08-23T13:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T14:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826971025868996931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826971025868996931",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826815294565744978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 請問週日還有嗎👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3917,
+          "following_count": 997,
+          "like_count": 25692,
+          "listed_count": 10,
+          "tweet_count": 15166
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-01T10:28:14.000Z",
+        "description": "赤瞳小雪狐；並沒有要出道的拉 / 主要活動空間在推特跟DC / in台灣；英文日文很破喔喔喔喔/會出現在FF CWT PF之類的地方",
+        "id": "969157356008325120",
+        "location": "Hsinchu County, Taiwan",
+        "name": "青楓🍶🍁",
+        "pinned_tweet_id": "1726802865363333612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820500276769427457/2j5zQqPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 1009,
+          "like_count": 33155,
+          "listed_count": 1,
+          "tweet_count": 17129
+        },
+        "username": "windyday117",
+        "verified": false
+      }
+    ]
+  }
+}

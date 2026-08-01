@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1912433113390518616",
+    "created_at": "2025-04-23T14:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T15:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915052106429665599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "826718230525808641",
+          "start": 0,
+          "username": "hoolu_vtuber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915052106429665599",
+    "in_reply_to_user_id": "826718230525808641",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912433907506741736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoolu_vtuber ？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1912433113390518616",
+        "created_at": "2025-04-23T14:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T15:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915052106429665599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "826718230525808641",
+              "start": 0,
+              "username": "hoolu_vtuber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915052106429665599",
+        "in_reply_to_user_id": "826718230525808641",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912433907506741736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoolu_vtuber ？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "826718230525808641",
+        "conversation_id": "1912433113390518616",
+        "created_at": "2025-04-16T09:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T10:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912433907506741736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912433907506741736",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912433113390518616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 瑪莎拉蒂嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911316096814047232/pJ9dNDMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6600,
+          "following_count": 985,
+          "like_count": 30440,
+          "listed_count": 18,
+          "media_count": 50,
+          "tweet_count": 19721
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-01T09:06:00.000Z",
+        "description": "《睡覺打呼嚕💤肚餓咕嚕嚕🤤開運找虎嚕🐯》｜ 👩‍🎨繪師麻麻：@MuCheng_tw ｜粉絲名：福糰🍡｜☯️専業：正五行八字｜🔮服務：命盤諮詢/各式開運儀式/ 開運商品/風水佈局/化小人/占卜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "MuCheng_tw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hoolu.lu?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hoolu.lu?igsh=MW4wMWJicWRsdWNrYQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/82xdZpJiOx"
+              }
+            ]
+          }
+        },
+        "id": "826718230525808641",
+        "location": "明知山",
+        "name": "🐯虎嚕命理🐾命理係Vtype",
+        "pinned_tweet_id": "1898752258625749119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799066907485831168/9lS5qG6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 5273,
+          "like_count": 46309,
+          "listed_count": 9,
+          "media_count": 1597,
+          "tweet_count": 15288
+        },
+        "url": "https://t.co/82xdZpJiOx",
+        "username": "hoolu_vtuber",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2046858676560929131",
+    "created_at": "2026-04-24T05:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047548595541266641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1492835977462960133",
+          "start": 0,
+          "username": "agxhhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047548595541266641",
+    "in_reply_to_user_id": "1492835977462960133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046867352445411586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@agxhhg 謝謝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-24T05:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047548595541266641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1492835977462960133",
+              "start": 0,
+              "username": "agxhhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047548595541266641",
+        "in_reply_to_user_id": "1492835977462960133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046867352445411586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agxhhg 謝謝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492835977462960133",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-22T08:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046867352445411586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046867352445411586",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046858676560929131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 恭喜9000追！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9130,
+          "following_count": 985,
+          "like_count": 32695,
+          "listed_count": 22,
+          "media_count": 90,
+          "tweet_count": 21291
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T12:20:31.000Z",
+        "description": "自介:安安(〃'▽'〃)\n零音一名業餘V精華剪輯\n也是個重度妹控的哥哥\n時常有天馬行空的創意\n喜歡到處DD\n喜歡廣泛交友ヽ( ° ▽°)ノ\n再來V的方面\n目前是還沒好 好了會再說的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@dd.ch.4073?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@dd.ch.4073?si=SbnPfqSjY7XUf9t1",
+                "start": 0,
+                "url": "https://t.co/wgyEO0BHge"
+              }
+            ]
+          }
+        },
+        "id": "1492835977462960133",
+        "name": "冰零音一定不PON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937114437615312896/anJ1APFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 4029,
+          "like_count": 30791,
+          "listed_count": 1,
+          "media_count": 1322,
+          "tweet_count": 9296
+        },
+        "url": "https://t.co/wgyEO0BHge",
+        "username": "agxhhg",
+        "verified": false
+      }
+    ]
+  }
+}

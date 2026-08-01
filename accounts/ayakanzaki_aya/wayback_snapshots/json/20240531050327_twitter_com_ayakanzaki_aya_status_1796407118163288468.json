@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1796033855754748207",
+    "created_at": "2024-05-31T05:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T06:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796407118163288468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1431640698403450882",
+          "start": 0,
+          "username": "WU_Bing_Wei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796407118163288468",
+    "in_reply_to_user_id": "1431640698403450882",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796075345424101553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WU_Bing_Wei 我 我還想活久億點www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1796033855754748207",
+        "created_at": "2024-05-31T05:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T06:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796407118163288468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1431640698403450882",
+              "start": 0,
+              "username": "WU_Bing_Wei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796407118163288468",
+        "in_reply_to_user_id": "1431640698403450882",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796075345424101553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WU_Bing_Wei 我 我還想活久億點www"
+      },
+      {
+        "attachments": {},
+        "author_id": "1431640698403450882",
+        "conversation_id": "1796033855754748207",
+        "created_at": "2024-05-30T07:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T08:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796075345424101553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796075345424101553",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796033855754748207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 試喝？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3858,
+          "following_count": 994,
+          "like_count": 23975,
+          "listed_count": 10,
+          "tweet_count": 13480
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T15:32:12.000Z",
+        "description": "野狗___就算再短，每天也要留一段跟自己對話的時間。\n《2024/01至2024/04神隱；2024/12/31終止》",
+        "id": "1431640698403450882",
+        "name": "WU Bing Wei",
+        "pinned_tweet_id": "1558323862840156160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579641957588291584/K1z0jEDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 29,
+          "like_count": 10781,
+          "listed_count": 0,
+          "tweet_count": 10184
+        },
+        "username": "WU_Bing_Wei",
+        "verified": false
+      }
+    ]
+  }
+}

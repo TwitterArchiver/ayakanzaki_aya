@@ -1,0 +1,224 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1802967743597011182",
+    "created_at": "2024-06-19T07:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T08:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803331357281521828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871972012",
+          "start": 0,
+          "username": "s950123s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803331357281521828",
+    "in_reply_to_user_id": "1871972012",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802967743597011182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s950123s 這裡歡迎aya相認"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1802967743597011182",
+        "created_at": "2024-06-19T07:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T08:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803331357281521828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871972012",
+              "start": 0,
+              "username": "s950123s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803331357281521828",
+        "in_reply_to_user_id": "1871972012",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802967743597011182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s950123s 這裡歡迎aya相認"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802967539296927745"
+          ]
+        },
+        "author_id": "1871972012",
+        "conversation_id": "1802967743597011182",
+        "created_at": "2024-06-18T07:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T08:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802967743597011182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FeqwHuBx3G",
+              "end": 38,
+              "expanded_url": "https://twitter.com/s950123s/status/1802967743597011182/photo/1",
+              "media_key": "3_1802967539296927745",
+              "start": 15,
+              "url": "https://t.co/FeqwHuBx3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802967743597011182",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10072,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看你啦 我也是跟很多人撞名😂 https://t.co/FeqwHuBx3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3885,
+          "following_count": 993,
+          "like_count": 24371,
+          "listed_count": 10,
+          "tweet_count": 13886
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-16T15:02:19.000Z",
+        "description": "莫名被大家稱月老 棉花糖:https://t.co/NgyUGBKsKX… 綠界: https://t.co/xBuqQojNHC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/s950123s?utm_m",
+                "end": 36,
+                "expanded_url": "http://marshmallow-qa.com/s950123s?utm_m",
+                "start": 13,
+                "url": "https://t.co/NgyUGBKsKX"
+              },
+              {
+                "display_url": "payment.ecpay.com.tw/Broadcaster/Do…",
+                "end": 65,
+                "expanded_url": "https://payment.ecpay.com.tw/Broadcaster/Donate/35499E9EF8219A358A6251D56F070153",
+                "start": 42,
+                "url": "https://t.co/xBuqQojNHC"
+              }
+            ]
+          }
+        },
+        "id": "1871972012",
+        "name": "阿發發",
+        "pinned_tweet_id": "1697623155425329153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640428027757862912/GHkVuICM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30123,
+          "following_count": 2366,
+          "like_count": 397782,
+          "listed_count": 37,
+          "tweet_count": 132151
+        },
+        "username": "s950123s",
+        "verified": true
+      }
+    ]
+  }
+}

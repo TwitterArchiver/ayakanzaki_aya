@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1831899374957609266",
+    "created_at": "2024-09-09T04:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T05:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833000367916748948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776440575841243136",
+          "start": 0,
+          "username": "HappyGutouMan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833000367916748948",
+    "in_reply_to_user_id": "1776440575841243136",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832076974082449620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyGutouMan (;´༎ຶД༎ຶ`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1831899374957609266",
+        "created_at": "2024-09-09T04:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T05:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833000367916748948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776440575841243136",
+              "start": 0,
+              "username": "HappyGutouMan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833000367916748948",
+        "in_reply_to_user_id": "1776440575841243136",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832076974082449620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyGutouMan (;´༎ຶД༎ຶ`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776440575841243136",
+        "conversation_id": "1831899374957609266",
+        "created_at": "2024-09-06T15:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T16:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832076974082449620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832076974082449620",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831899374957609266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 開學辛苦哩٩(｡・ω・｡)و"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4101,
+          "following_count": 983,
+          "like_count": 25987,
+          "listed_count": 9,
+          "tweet_count": 15448
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T02:43:45.000Z",
+        "description": "希望大家都能開心 (ᗒᗨᗕ)/\n這是YT  https://t.co/UJUADz0ejA\n超厲害的繪師ママ@gigigi0423\n超猛的Live2Dパパ@Archimou_L2DH\n讓我看看 #骨的看的\nFanArt #方阿頭\n中文👍/台語👍/日文🤏/英文🤏",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "骨的看的"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "方阿頭"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "gigigi0423"
+              },
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Archimou_L2DH"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@happygutouman2",
+                "end": 45,
+                "expanded_url": "http://www.youtube.com/@happygutouman2",
+                "start": 22,
+                "url": "https://t.co/UJUADz0ejA"
+              }
+            ]
+          }
+        },
+        "id": "1776440575841243136",
+        "name": "骨頭Man☠️ Vtuber準備中",
+        "pinned_tweet_id": "1808141944130097582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776442456407699456/fTfElKXs_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 313,
+          "like_count": 3167,
+          "listed_count": 1,
+          "tweet_count": 2350
+        },
+        "username": "HappyGutouMan",
+        "verified": true
+      }
+    ]
+  }
+}

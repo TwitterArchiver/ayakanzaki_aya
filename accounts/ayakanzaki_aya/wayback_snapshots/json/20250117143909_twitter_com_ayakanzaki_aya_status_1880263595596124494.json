@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1879067824452428229",
+    "created_at": "2025-01-17T14:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880263595596124494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1180762484300382209",
+          "start": 0,
+          "username": "weier0211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880263595596124494",
+    "in_reply_to_user_id": "1180762484300382209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879139262018584624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weier0211 第一印象：是鴨那邊的人！\n我腦海中你的暱稱：其實那個字我不會唸（（\n親密度等級【1-10】：7\n讓我想起你的顏色：黃色\n給你一個表情符號：🐣\n\n鴨子萬歲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1879067824452428229",
+        "created_at": "2025-01-17T14:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880263595596124494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1180762484300382209",
+              "start": 0,
+              "username": "weier0211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880263595596124494",
+        "in_reply_to_user_id": "1180762484300382209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879139262018584624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weier0211 第一印象：是鴨那邊的人！\n我腦海中你的暱稱：其實那個字我不會唸（（\n親密度等級【1-10】：7\n讓我想起你的顏色：黃色\n給你一個表情符號：🐣\n\n鴨子萬歲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180762484300382209",
+        "conversation_id": "1879067824452428229",
+        "created_at": "2025-01-14T12:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T13:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879139262018584624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879139262018584624",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879067824452428229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 🪻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4273,
+          "following_count": 987,
+          "like_count": 27950,
+          "listed_count": 10,
+          "media_count": 120,
+          "tweet_count": 17537
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-06T08:31:39.000Z",
+        "description": "是個北極星、露軍、USER",
+        "id": "1180762484300382209",
+        "name": "葦兒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707641269160476672/kTBQOFGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 453,
+          "like_count": 58465,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1380
+        },
+        "username": "weier0211",
+        "verified": false
+      }
+    ]
+  }
+}

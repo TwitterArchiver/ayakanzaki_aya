@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1977261549749186789",
+    "created_at": "2025-10-12T06:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T07:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977261549749186789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aogumo_aho/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/aogumo_aho/status/1976972772741181471",
+          "start": 10,
+          "url": "https://t.co/lmasGM4DP5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977261549749186789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976972772741181471",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可愛… 我戀愛了 https://t.co/lmasGM4DP5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20833,
+        "height": 720,
+        "media_key": "13_1976972708526407683",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976972708526407683/img/F8j77n8wZS7a9PX9.jpg",
+        "public_metrics": {
+          "view_count": 108991
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976972708526407683/vid/avc1/480x270/0Wro8rM7iTeWNneE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976972708526407683/vid/avc1/640x360/glDeXeEchCmBw8WW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976972708526407683/vid/avc1/1280x720/iOO0C-ywvNXE1_d4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976972708526407683/pl/ZBjVU2dL4-08mpGI.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1977261549749186789",
+        "created_at": "2025-10-12T06:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977261549749186789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aogumo_aho/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/aogumo_aho/status/1976972772741181471",
+              "start": 10,
+              "url": "https://t.co/lmasGM4DP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977261549749186789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976972772741181471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可愛… 我戀愛了 https://t.co/lmasGM4DP5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976972708526407683"
+          ]
+        },
+        "author_id": "1717482569208655872",
+        "conversation_id": "1976972772741181471",
+        "created_at": "2025-10-11T11:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T12:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976972772741181471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "冬の魔法"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "Aogumo"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "曲作ってみた"
+            },
+            {
+              "end": 57,
+              "start": 50,
+              "tag": "オリジナル曲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0cQIEwugwV",
+              "end": 81,
+              "expanded_url": "https://x.com/aogumo_aho/status/1976972772741181471/video/1",
+              "media_key": "13_1976972708526407683",
+              "start": 58,
+              "url": "https://t.co/0cQIEwugwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976972772741181471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1250,
+          "impression_count": 208343,
+          "like_count": 8642,
+          "quote_count": 65,
+          "reply_count": 45,
+          "retweet_count": 664
+        },
+        "reply_settings": "everyone",
+        "text": "今日が寒くてよかった。\n君に近づくための口実ができる。\n#冬の魔法　#Aogumo #曲作ってみた　#オリジナル曲 https://t.co/0cQIEwugwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8361,
+          "following_count": 969,
+          "like_count": 31826,
+          "listed_count": 19,
+          "media_count": 81,
+          "tweet_count": 20556
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T10:05:48.000Z",
+        "description": "Aogumoです。デジタルタトゥーを刻んでます。 お仕事こちらって言ってみたかった→ aogumo.aoikumo@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@aogumo_aoikumo",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@aogumo_aoikumo",
+                "start": 0,
+                "url": "https://t.co/8vhNnYXkhk"
+              }
+            ]
+          }
+        },
+        "id": "1717482569208655872",
+        "location": "海賊王になりたい。",
+        "name": "Aogumo",
+        "pinned_tweet_id": "1961374270350921761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926474210001424384/eBqFuCJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11470,
+          "following_count": 686,
+          "like_count": 3890,
+          "listed_count": 19,
+          "media_count": 84,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/8vhNnYXkhk",
+        "username": "aogumo_aho",
+        "verified": false
+      }
+    ]
+  }
+}

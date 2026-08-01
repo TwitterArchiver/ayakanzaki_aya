@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1833729547142881364",
+    "created_at": "2024-09-12T04:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T05:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834091822269751652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829267338742657025",
+          "start": 0,
+          "username": "Zezezeyabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834091822269751652",
+    "in_reply_to_user_id": "829267338742657025",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833736961376583912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zezezeyabe 還好啦 把頭髮放下來蓋住就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1833729547142881364",
+        "created_at": "2024-09-12T04:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T05:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834091822269751652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829267338742657025",
+              "start": 0,
+              "username": "Zezezeyabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834091822269751652",
+        "in_reply_to_user_id": "829267338742657025",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833736961376583912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zezezeyabe 還好啦 把頭髮放下來蓋住就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829267338742657025",
+        "conversation_id": "1833729547142881364",
+        "created_at": "2024-09-11T05:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T06:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833736961376583912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833736961376583912",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833729547142881364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 不能見人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊イラストの依賴受付中✧ \n┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 82,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 59,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118,
+          "following_count": 984,
+          "like_count": 26064,
+          "listed_count": 9,
+          "tweet_count": 15514
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T09:55:15.000Z",
+        "description": "退休( ´∀｀)",
+        "id": "829267338742657025",
+        "location": "West Virginia, USA",
+        "name": "Hayam Kosho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534934098128515072/PC8zshKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 2011,
+          "like_count": 37368,
+          "listed_count": 26,
+          "tweet_count": 6954
+        },
+        "username": "Zezezeyabe",
+        "verified": false
+      }
+    ]
+  }
+}

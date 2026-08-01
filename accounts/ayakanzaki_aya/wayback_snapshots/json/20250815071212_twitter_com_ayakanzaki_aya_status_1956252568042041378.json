@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955291950388744200"
+      ],
+      "media_source_tweet_id": [
+        "1955947516756942966"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1956252568042041378",
+    "created_at": "2025-08-15T07:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T08:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956252568042041378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3143045040",
+          "start": 3,
+          "username": "L0WR15E"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DPelHOwFlj",
+          "end": 36,
+          "expanded_url": "https://x.com/L0WR15E/status/1955947516756942966/photo/1",
+          "media_key": "3_1955291950388744200",
+          "start": 13,
+          "url": "https://t.co/DPelHOwFlj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956252568042041378",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 467
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955947516756942966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L0WR15E: https://t.co/DPelHOwFlj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1955291950388744200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKXq1caEAgCyiy.jpg",
+        "width": 2147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955291950388744200"
+          ],
+          "media_source_tweet_id": [
+            "1955947516756942966"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1956252568042041378",
+        "created_at": "2025-08-15T07:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956252568042041378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3143045040",
+              "start": 3,
+              "username": "L0WR15E"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPelHOwFlj",
+              "end": 36,
+              "expanded_url": "https://x.com/L0WR15E/status/1955947516756942966/photo/1",
+              "media_key": "3_1955291950388744200",
+              "start": 13,
+              "url": "https://t.co/DPelHOwFlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956252568042041378",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 467
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955947516756942966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L0WR15E: https://t.co/DPelHOwFlj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955291950388744200"
+          ]
+        },
+        "author_id": "3143045040",
+        "conversation_id": "1955947516756942966",
+        "created_at": "2025-08-14T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955947516756942966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPelHOwFlj",
+              "end": 23,
+              "expanded_url": "https://x.com/L0WR15E/status/1955947516756942966/photo/1",
+              "media_key": "3_1955291950388744200",
+              "start": 0,
+              "url": "https://t.co/DPelHOwFlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955947516756942966",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 878,
+          "impression_count": 119728,
+          "like_count": 5563,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 467
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DPelHOwFlj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1955085681811763314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8351,
+          "following_count": 996,
+          "like_count": 31527,
+          "listed_count": 19,
+          "media_count": 62,
+          "tweet_count": 20291
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-07T08:20:48.000Z",
+        "description": "フリーランスイラストレーター\nご連絡▷l0wr15egm@gmail.com\nCommission▷https://t.co/rBUUTHfAqA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@L0WR15E",
+                "end": 73,
+                "expanded_url": "https://skeb.jp/@L0WR15E",
+                "start": 50,
+                "url": "https://t.co/rBUUTHfAqA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4810960",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/4810960",
+                "start": 0,
+                "url": "https://t.co/bYd4c3yvK7"
+              }
+            ]
+          }
+        },
+        "id": "3143045040",
+        "location": "l0wr15egm@gmail.com",
+        "name": "LOWRISE",
+        "pinned_tweet_id": "1941104445837991981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659933864008220673/hCrwciaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104364,
+          "following_count": 160,
+          "like_count": 193,
+          "listed_count": 1143,
+          "media_count": 324,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/bYd4c3yvK7",
+        "username": "L0WR15E",
+        "verified": true
+      }
+    ]
+  }
+}

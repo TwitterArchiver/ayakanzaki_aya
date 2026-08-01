@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1651283736695013376",
+    "created_at": "2023-04-27T13:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-27T13:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1651576154380288000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1367090075801055245",
+          "start": 0,
+          "username": "FBMW_Leo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1651576154380288000",
+    "in_reply_to_user_id": "1367090075801055245",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1651529887168237568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FBMW_Leo 你好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1651283736695013376",
+        "created_at": "2023-04-27T13:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-27T13:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1651576154380288000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1367090075801055245",
+              "start": 0,
+              "username": "FBMW_Leo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1651576154380288000",
+        "in_reply_to_user_id": "1367090075801055245",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1651529887168237568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FBMW_Leo 你好！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1367090075801055245",
+        "conversation_id": "1651283736695013376",
+        "created_at": "2023-04-27T10:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-27T10:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1651529887168237568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1651529887168237568",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1651283736695013376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 嗨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "✧神崎あやKanzaki Aya✧｜學生/女的/畫圖/中文超爛｜努力尋找自我🐾｜委託相關請點下方連結🪴｜我婆@Dacodaco_426🐣｜よろしくね⸜(* ॑꒳ ॑* )⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "Dacodaco_426"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki0224.wixsite.com/ayadesu",
+                "end": 23,
+                "expanded_url": "https://ayakanzaki0224.wixsite.com/ayadesu",
+                "start": 0,
+                "url": "https://t.co/5d3aNRmx4n"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya✧快來委託我啦✧",
+        "pinned_tweet_id": "1645627973779836929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631459651970650119/7D1yV38E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 452,
+          "listed_count": 3,
+          "tweet_count": 2509
+        },
+        "url": "https://t.co/5d3aNRmx4n",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-03T12:31:08.000Z",
+        "description": "自稱是北齋玩家，但3代北齋是真的可悲/紳士小綿羊/Unite閃焰王牌/廢推、廢推跟....廢推",
+        "id": "1367090075801055245",
+        "name": "Leo_PT🦑斯普拉遁 米法顏色力量派🐙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647296598903508992/GrRbD4oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 1224,
+          "listed_count": 2,
+          "tweet_count": 400
+        },
+        "username": "FBMW_Leo",
+        "verified": false
+      }
+    ]
+  }
+}

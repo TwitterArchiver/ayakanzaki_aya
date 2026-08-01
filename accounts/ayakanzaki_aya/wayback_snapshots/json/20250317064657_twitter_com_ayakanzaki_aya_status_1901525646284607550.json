@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1897111961256751299",
+    "created_at": "2025-03-17T06:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T07:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901525646284607550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431908843085197319",
+          "start": 0,
+          "username": "kMyZXyq0qC3KEy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901525646284607550",
+    "in_reply_to_user_id": "1431908843085197319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899972409467556186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kMyZXyq0qC3KEy1 自爆式傷害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1897111961256751299",
+        "created_at": "2025-03-17T06:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T07:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901525646284607550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431908843085197319",
+              "start": 0,
+              "username": "kMyZXyq0qC3KEy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901525646284607550",
+        "in_reply_to_user_id": "1431908843085197319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899972409467556186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kMyZXyq0qC3KEy1 自爆式傷害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431908843085197319",
+        "conversation_id": "1897111961256751299",
+        "created_at": "2025-03-12T23:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T00:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899972409467556186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899972409467556186",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897111961256751299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 說著說著就哭了\n傷敵800，自損1000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6502,
+          "following_count": 981,
+          "like_count": 29758,
+          "listed_count": 18,
+          "media_count": 129,
+          "tweet_count": 19267
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T09:17:50.000Z",
+        "description": "",
+        "id": "1431908843085197319",
+        "name": "夜凜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431908943530381316/0-Kxj7e7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 40,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 470
+        },
+        "username": "kMyZXyq0qC3KEy1",
+        "verified": false
+      }
+    ]
+  }
+}

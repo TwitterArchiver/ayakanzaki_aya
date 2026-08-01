@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1967744642646237450",
+    "created_at": "2025-09-16T00:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T01:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967744642646237450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GOLDENHEAD_JP/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/GOLDENHEAD_JP/status/1967528821982159327",
+          "start": 29,
+          "url": "https://t.co/6lIrfMN00D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967744642646237450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967528821982159327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "買了...兩百多加幣\n錢錢沒有消失只是變成了我喜歡的樣子 https://t.co/6lIrfMN00D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_1962786244796321792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz03sLsbkAA-_I2.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1967744642646237450",
+        "created_at": "2025-09-16T00:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T01:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967744642646237450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GOLDENHEAD_JP/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/GOLDENHEAD_JP/status/1967528821982159327",
+              "start": 29,
+              "url": "https://t.co/6lIrfMN00D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967744642646237450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967528821982159327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "買了...兩百多加幣\n錢錢沒有消失只是變成了我喜歡的樣子 https://t.co/6lIrfMN00D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962786244796321792"
+          ]
+        },
+        "author_id": "1478914761085845505",
+        "conversation_id": "1967528821982159327",
+        "created_at": "2025-09-15T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967528821982159327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 97,
+              "id": "1478914761085845505",
+              "start": 83,
+              "username": "GOLDENHEAD_JP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2lCSuDCg3r",
+              "end": 207,
+              "expanded_url": "https://x.com/GOLDENHEAD_JP/status/1967528821982159327/photo/1",
+              "media_key": "3_1962786244796321792",
+              "start": 184,
+              "url": "https://t.co/2lCSuDCg3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967528821982159327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 193,
+                "start": 186,
+                "tag": "rurudo"
+              },
+              {
+                "end": 206,
+                "start": 198,
+                "tag": "プレゼント企画"
+              },
+              {
+                "end": 219,
+                "start": 207,
+                "tag": "プレゼントキャンペーン"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "id": "1478914761085845505",
+                "start": 79,
+                "username": "GOLDENHEAD_JP"
+              }
+            ]
+          },
+          "text": "✉️【フォロー&RPキャンペーン】✉️\n    好評予約受付中「ラビ」のフィギュアを\n 1️⃣名様にプレゼント❗️\n \n    【応募方法】\n    1. （@GOLDENHEAD_JP）をフォロー\n    2. 本ポストをリポスト\n    【締切】\n    9/28（日) 23:59 迄\n    当選は10月末ごろまでにDMでの発表とさせていただきます。\n \n    #rurudo\n    #プレゼント企画　#プレゼントキャンペーン"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 66260,
+          "like_count": 1473,
+          "quote_count": 13,
+          "reply_count": 64,
+          "retweet_count": 3228
+        },
+        "reply_settings": "everyone",
+        "text": "✉️【フォロー&amp;RPキャンペーン】✉️\n    好評予約受付中「ラビ」のフィギュアを\n 1️⃣名様にプレゼント❗️\n \n    【応募方法】\n    1. （@GOLDENHEAD_JP）をフォロー\n    2. 本ポストをリポスト\n    【締切】\n    9/28（日) 23:59 迄\n    当選は10月末ごろまでにDMでの発表とさせていただきます。 https://t.co/2lCSuDCg3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1964117804090544489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8322,
+          "following_count": 996,
+          "like_count": 31720,
+          "listed_count": 20,
+          "media_count": 71,
+          "tweet_count": 20449
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T02:22:39.000Z",
+        "description": "フィギュアブランド・ゴールデンヘッドプラスのX公式アカウントです。\nユーザーのみなさまに愛されるフィギュアを展開してまいります。\n最新情報・商品情報などをお知らせしますので、\nぜひチェックしてみてください！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goldenhead.net",
+                "end": 23,
+                "expanded_url": "https://goldenhead.net/",
+                "start": 0,
+                "url": "https://t.co/oeRF6MYWCj"
+              }
+            ]
+          }
+        },
+        "id": "1478914761085845505",
+        "location": "新宿",
+        "name": "ゴールデンヘッドプラス",
+        "pinned_tweet_id": "1964877800864940222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651768768224444416/7doTizAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40821,
+          "following_count": 65,
+          "like_count": 2051,
+          "listed_count": 177,
+          "media_count": 430,
+          "tweet_count": 1527
+        },
+        "url": "https://t.co/oeRF6MYWCj",
+        "username": "GOLDENHEAD_JP",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2039947205075722466",
+    "created_at": "2026-04-05T01:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T02:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040609369570619441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1634133442219868167",
+          "start": 0,
+          "username": "RaoDD_tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040609369570619441",
+    "in_reply_to_user_id": "1634133442219868167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040285169249403119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RaoDD_tw 資訊量太大豬腦過載了（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2039947205075722466",
+        "created_at": "2026-04-05T01:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040609369570619441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1634133442219868167",
+              "start": 0,
+              "username": "RaoDD_tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040609369570619441",
+        "in_reply_to_user_id": "1634133442219868167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040285169249403119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RaoDD_tw 資訊量太大豬腦過載了（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634133442219868167",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "2039947205075722466",
+        "created_at": "2026-04-04T04:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040285169249403119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040285169249403119",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039947205075722466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 你知道嗎 英國曾派了一艘滿載🙋🏿‍♂️的船到長崎(因為當時日本只開放長崎一口通商)去貿易 後稱黑船事件 因為黑色吸輻射熱 結果當地直接飆升至6000°C 進而導致了二戰的結束"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2038606993040998570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8881,
+          "following_count": 983,
+          "like_count": 32558,
+          "listed_count": 20,
+          "media_count": 111,
+          "tweet_count": 21216
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T10:06:03.000Z",
+        "description": "嘿你好👋 我是嘎抓遊蕩中 叫我嘎抓就好\n🪳\n🦊主推:\n@ReireiFuyoko\n🎑副推:\n@Dr1090a\n😺家貓(母三花)卡式爐 會後空翻\n本人曾被鋼筋刺穿左胸 筆插進右肺 斷過雙邊脛骨 經醫生搶救 奇蹟般無後遺症無疤痕🤯 因為太屌了望周知\n超愛聽ASMR\n\n以上 各位晚安💤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "ReireiFuyoko"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "Dr1090a"
+              }
+            ]
+          }
+        },
+        "id": "1634133442219868167",
+        "location": "隨機刷新",
+        "name": "嘎抓遊蕩中_我愛狐狐",
+        "pinned_tweet_id": "2038067400101523595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027959519981277187/L8cOwrWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 676,
+          "like_count": 19728,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 545
+        },
+        "username": "RaoDD_tw",
+        "verified": false
+      }
+    ]
+  }
+}

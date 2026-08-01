@@ -1,0 +1,198 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1662946919889485826",
+    "created_at": "2023-05-29T11:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2023-05-29T11:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1663144921434316801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489847068591943681",
+          "start": 0,
+          "username": "jaysu0722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1663144921434316801",
+    "in_reply_to_user_id": "1489847068591943681",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1663105486181527552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaysu0722 表達感謝之情：幹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1662946919889485826",
+        "created_at": "2023-05-29T11:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-29T11:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1663144921434316801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489847068591943681",
+              "start": 0,
+              "username": "jaysu0722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1663144921434316801",
+        "in_reply_to_user_id": "1489847068591943681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1663105486181527552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaysu0722 表達感謝之情：幹"
+      },
+      {
+        "attachments": {},
+        "author_id": "1489847068591943681",
+        "conversation_id": "1662946919889485826",
+        "created_at": "2023-05-29T08:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-29T09:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1663105486181527552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1663105486181527552",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1662946919889485826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 覺得Aya可愛:幹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "✧神崎あやKanzaki Aya✧｜學生/女的/畫圖/廢文/中文超爛｜日本語を勉強中💦｜努力尋找自我🍁｜🪴委託開放中 Commission Open｜我婆@Dacodaco_426🐣｜よろしくね⸜(* ॑꒳ ॑* )⸝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Dacodaco_426"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki0224.wixsite.com/ayadesu",
+                "end": 23,
+                "expanded_url": "https://ayakanzaki0224.wixsite.com/ayadesu",
+                "start": 0,
+                "url": "https://t.co/5d3aNRmx4n"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya✧快來委託我啦✧",
+        "pinned_tweet_id": "1645627973779836929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631459651970650119/7D1yV38E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 534,
+          "listed_count": 10,
+          "tweet_count": 3572
+        },
+        "url": "https://t.co/5d3aNRmx4n",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T06:23:41.000Z",
+        "description": "有馬佳奈一生推",
+        "id": "1489847068591943681",
+        "location": "Taiwan",
+        "name": "蘇某",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662266350692335616/U89uHtmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 109,
+          "listed_count": 0,
+          "tweet_count": 343
+        },
+        "username": "jaysu0722",
+        "verified": false
+      }
+    ]
+  }
+}

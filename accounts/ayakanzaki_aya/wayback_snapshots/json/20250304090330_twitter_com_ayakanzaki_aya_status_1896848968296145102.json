@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893941232998498597",
+    "created_at": "2025-03-04T09:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T10:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896848968296145102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1276422685388505088",
+          "start": 0,
+          "username": "killeryou0415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896848968296145102",
+    "in_reply_to_user_id": "1276422685388505088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895545010529190192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@killeryou0415 好欸謝謝你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-03-04T09:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T10:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896848968296145102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1276422685388505088",
+              "start": 0,
+              "username": "killeryou0415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896848968296145102",
+        "in_reply_to_user_id": "1276422685388505088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895545010529190192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@killeryou0415 好欸謝謝你！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276422685388505088",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-28T18:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T19:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895545010529190192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895545010529190192",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893941232998498597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我在這裡補一次生日快樂好了（？\n生日快樂~~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896765932292206592/zKWnC5mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6354,
+          "following_count": 979,
+          "like_count": 29417,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18932
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-26T07:51:14.000Z",
+        "description": "20y ♈ 頭像繪師：*黑糖*\nDD就是我四處遊走台V圈\n目前跟台：夢娜 RC RSD2 哈鹿 各種CP\n－－－－－－－－\n珍惜當下 能追V的時候趕快追\n沒有人可以保證 隔天會不會還在\n不留遺憾 最重要  不要最後才後悔\nDC:killeryou415",
+        "id": "1276422685388505088",
+        "name": "【專業DD 】killer戰魂暴怒",
+        "pinned_tweet_id": "1874533505050562913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867130301161545729/nWqdmvqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 271,
+          "like_count": 30216,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 6487
+        },
+        "username": "killeryou0415",
+        "verified": false
+      }
+    ]
+  }
+}

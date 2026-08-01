@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1822142258000396435",
+    "created_at": "2024-08-12T09:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822928967445192753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1221403856346611712",
+          "start": 0,
+          "username": "H0sib15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822928967445192753",
+    "in_reply_to_user_id": "1221403856346611712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822252937273360508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H0sib15 我發這麼多的廢文他還分析不出來(╯°□°）╯︵ ┻━┻\n這什麼爛ai\n蛋雕啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-12T09:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822928967445192753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1221403856346611712",
+              "start": 0,
+              "username": "H0sib15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822928967445192753",
+        "in_reply_to_user_id": "1221403856346611712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822252937273360508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H0sib15 我發這麼多的廢文他還分析不出來(╯°□°）╯︵ ┻━┻\n這什麼爛ai\n蛋雕啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1221403856346611712",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-10T12:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T13:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822252937273360508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1402120146500558849",
+              "start": 0,
+              "username": "HrDk0521"
+            },
+            {
+              "end": 25,
+              "id": "1499470341734907907",
+              "start": 10,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822252937273360508",
+        "in_reply_to_user_id": "1402120146500558849",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822143755396194305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HrDk0521 @ayakanzaki_aya 不曉得哪裡出問題，但我去試了好幾個人的，國外的也試了幾個\n\n得出幾個結論，AI抓不到或沒抓到Aya的貼文，所以沒他沒辦法分析\n\n或者AI他分析不出來aya，但我覺得這個可能性超低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 998,
+          "like_count": 25498,
+          "listed_count": 10,
+          "tweet_count": 14972
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-26T12:06:16.000Z",
+        "description": "",
+        "id": "1221403856346611712",
+        "name": "lily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473232072215240715/_45Am19b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 286,
+          "like_count": 3427,
+          "listed_count": 0,
+          "tweet_count": 865
+        },
+        "username": "H0sib15",
+        "verified": false
+      }
+    ]
+  }
+}

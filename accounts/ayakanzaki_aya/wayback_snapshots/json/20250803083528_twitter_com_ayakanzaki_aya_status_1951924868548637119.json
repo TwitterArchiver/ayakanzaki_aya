@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1950394759836835889",
+    "created_at": "2025-08-03T08:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T09:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951924868548637119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1424651396872228867",
+          "start": 0,
+          "username": "Zaneyu74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951924868548637119",
+    "in_reply_to_user_id": "1424651396872228867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950397195230073103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zaneyu74 那倒確實wwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 669,
+        "media_key": "3_1950397189823614980",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxEz6RZbUAQX4RE.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1950394759836835889",
+        "created_at": "2025-08-03T08:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951924868548637119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1424651396872228867",
+              "start": 0,
+              "username": "Zaneyu74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951924868548637119",
+        "in_reply_to_user_id": "1424651396872228867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950397195230073103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zaneyu74 那倒確實wwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950397189823614980"
+          ]
+        },
+        "author_id": "1424651396872228867",
+        "conversation_id": "1950394759836835889",
+        "created_at": "2025-07-30T03:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950397195230073103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3pPhb7cES",
+              "end": 47,
+              "expanded_url": "https://x.com/Zaneyu74/status/1950397195230073103/photo/1",
+              "media_key": "3_1950397189823614980",
+              "start": 24,
+              "url": "https://t.co/c3pPhb7cES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950397195230073103",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1116,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950394759836835889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我一直在看著呀 https://t.co/c3pPhb7cES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8297,
+          "following_count": 996,
+          "like_count": 31427,
+          "listed_count": 19,
+          "media_count": 57,
+          "tweet_count": 20223
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T08:39:04.000Z",
+        "description": "底邊原神實況主，一個想做很多事但是精神不足以支撐我去做的可憐天使 C'est triste\n\n萬粉衝刺中，目前進度(7104/10000)\n\n沒在用的紫色學校(圖奇) https://t.co/wy2wZva6h4\n藍色學校(B站) https://t.co/Ou3J4mah5I \n18y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/zaneyu_74",
+                "end": 107,
+                "expanded_url": "https://www.twitch.tv/zaneyu_74",
+                "start": 84,
+                "url": "https://t.co/wy2wZva6h4"
+              },
+              {
+                "display_url": "b23.tv/F66oXoc",
+                "end": 140,
+                "expanded_url": "https://b23.tv/F66oXoc",
+                "start": 117,
+                "url": "https://t.co/Ou3J4mah5I"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/F66oXoc",
+                "end": 23,
+                "expanded_url": "https://b23.tv/F66oXoc",
+                "start": 0,
+                "url": "https://t.co/Ou3J4mah5I"
+              }
+            ]
+          }
+        },
+        "id": "1424651396872228867",
+        "location": "Taiwan",
+        "name": "秋水 (𝑮𝒆𝒏𝒔𝒉𝒊𝒏實況主)",
+        "pinned_tweet_id": "1932974269698617587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929933980222316544/Fw3n-Ftz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 568,
+          "like_count": 23732,
+          "listed_count": 3,
+          "media_count": 1835,
+          "tweet_count": 12329
+        },
+        "url": "https://t.co/Ou3J4mah5I",
+        "username": "Zaneyu74",
+        "verified": false
+      }
+    ]
+  }
+}

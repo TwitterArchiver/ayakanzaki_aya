@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045821032028905472"
+      ],
+      "media_source_tweet_id": [
+        "2045821103260745732"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046295284809109945",
+    "created_at": "2026-04-20T18:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T19:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046295284809109945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "62410803",
+          "start": 3,
+          "username": "minato_k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pdIS14bPeH",
+          "end": 37,
+          "expanded_url": "https://x.com/minato_k/status/2045821103260745732/video/1",
+          "media_key": "13_2045821032028905472",
+          "start": 14,
+          "url": "https://t.co/pdIS14bPeH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046295284809109945",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11222
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045821103260745732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minato_k: https://t.co/pdIS14bPeH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8080,
+        "height": 1080,
+        "media_key": "13_2045821032028905472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045821032028905472/img/mQqz1a6FHb55c59m.jpg",
+        "public_metrics": {
+          "view_count": 274425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045821032028905472/pl/oLzq-Z4HQnpnE9Ad.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045821032028905472/vid/avc1/1920x1080/rJ2d2rzt8-9tYahk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045821032028905472/vid/avc1/1280x720/9dAn4CL5p0_yUvNR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045821032028905472/vid/avc1/640x360/Xo7axZiSv9gTzH2E.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045821032028905472/vid/avc1/480x270/2bwBf_GFquYyXGsq.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045821032028905472"
+          ],
+          "media_source_tweet_id": [
+            "2045821103260745732"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046295284809109945",
+        "created_at": "2026-04-20T18:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046295284809109945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "62410803",
+              "start": 3,
+              "username": "minato_k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdIS14bPeH",
+              "end": 37,
+              "expanded_url": "https://x.com/minato_k/status/2045821103260745732/video/1",
+              "media_key": "13_2045821032028905472",
+              "start": 14,
+              "url": "https://t.co/pdIS14bPeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046295284809109945",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11222
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045821103260745732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minato_k: https://t.co/pdIS14bPeH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045821032028905472"
+          ]
+        },
+        "author_id": "62410803",
+        "conversation_id": "2045821103260745732",
+        "created_at": "2026-04-19T11:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045821103260745732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdIS14bPeH",
+              "end": 23,
+              "expanded_url": "https://x.com/minato_k/status/2045821103260745732/video/1",
+              "media_key": "13_2045821032028905472",
+              "start": 0,
+              "url": "https://t.co/pdIS14bPeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045821103260745732",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4728,
+          "impression_count": 1908866,
+          "like_count": 32510,
+          "quote_count": 3083,
+          "reply_count": 153,
+          "retweet_count": 11222
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pdIS14bPeH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9007,
+          "following_count": 984,
+          "like_count": 32660,
+          "listed_count": 22,
+          "media_count": 90,
+          "tweet_count": 21278
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-03T02:15:52.000Z",
+        "description": "美容オタク系ミュージシャン\n作詞・作曲・編曲・歌・ボカロなど\n楽曲提供 → AKB48、欅坂46、NO NAME、22/7、名探偵コナンOP・ED、青の祓魔師ED\nボカロ → magnet、SPICE！、Soar、RIP=RELEASE\nお仕事ご依頼は🔗より\ni,h → 火種さん",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tolie",
+                "end": 23,
+                "expanded_url": "https://lit.link/tolie",
+                "start": 0,
+                "url": "https://t.co/jXJHUmjEjk"
+              }
+            ]
+          }
+        },
+        "id": "62410803",
+        "location": "Chouette.",
+        "name": "湊貴大｜トゥライ",
+        "pinned_tweet_id": "2045821103260745732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741659531351130112/IUoK-ESs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40063,
+          "following_count": 458,
+          "like_count": 17335,
+          "listed_count": 1929,
+          "media_count": 795,
+          "tweet_count": 12066
+        },
+        "url": "https://t.co/jXJHUmjEjk",
+        "username": "minato_k",
+        "verified": true
+      }
+    ]
+  }
+}

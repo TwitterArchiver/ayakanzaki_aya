@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1882086772617945117",
+    "created_at": "2025-01-26T17:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T18:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883570934122209428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1494368202046177280",
+          "start": 0,
+          "username": "chenshi00759102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883570934122209428",
+    "in_reply_to_user_id": "1494368202046177280",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882381988122030509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenshi00759102 🫠🫠🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-26T17:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T18:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883570934122209428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1494368202046177280",
+              "start": 0,
+              "username": "chenshi00759102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883570934122209428",
+        "in_reply_to_user_id": "1494368202046177280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882381988122030509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenshi00759102 🫠🫠🫠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1882381977925701632"
+          ]
+        },
+        "author_id": "1494368202046177280",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T10:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T11:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882381988122030509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZoWrKVYlA1",
+              "end": 39,
+              "expanded_url": "https://x.com/chenshi00759102/status/1882381988122030509/photo/1",
+              "media_key": "16_1882381977925701632",
+              "start": 16,
+              "url": "https://t.co/ZoWrKVYlA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882381988122030509",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882086772617945117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/ZoWrKVYlA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 991,
+          "like_count": 28266,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17827
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T17:48:57.000Z",
+        "description": "國民黨民眾黨拜託死一死",
+        "id": "1494368202046177280",
+        "name": "xx",
+        "pinned_tweet_id": "1882977731966906414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871864061094490112/2Lz1q-vx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 35,
+          "like_count": 4119,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2190
+        },
+        "username": "chenshi00759102",
+        "verified": false
+      }
+    ]
+  }
+}

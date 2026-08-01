@@ -1,0 +1,233 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1811942974734897238",
+    "created_at": "2024-07-14T07:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T08:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812391427097203090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695992179058225152",
+          "start": 0,
+          "username": "Rakusei0605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812391427097203090",
+    "in_reply_to_user_id": "1695992179058225152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811952366121549847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rakusei0605 rick roll無處不在w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1811942974734897238",
+        "created_at": "2024-07-14T07:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T08:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812391427097203090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695992179058225152",
+              "start": 0,
+              "username": "Rakusei0605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812391427097203090",
+        "in_reply_to_user_id": "1695992179058225152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811952366121549847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rakusei0605 rick roll無處不在w"
+      },
+      {
+        "attachments": {},
+        "author_id": "1695992179058225152",
+        "conversation_id": "1811942974734897238",
+        "created_at": "2024-07-13T02:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T03:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811952366121549847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811952366121549847",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811943271389675905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 直接寫在鞋子上\n虧你想得到www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 24986,
+          "listed_count": 10,
+          "tweet_count": 14469
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T02:50:42.000Z",
+        "description": "台灣社團勢Vtuber\n中文 〇 / 英文 △ / 日文 △ / 台語△\n直播內容：雜談、遊戲、歌回、繪圖\n我在YT和TC都有頻道\n歡迎按下訂閱～\n粉絲名：星喵☆⁠\nFanart tag：#繪星 / 萬用tag：#洛星貓 / 實況tag ：#星實況\n所屬社團：緣系 Enito @enito1211",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "繪星"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "洛星貓"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "星實況"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 139,
+                "username": "enito1211"
+              }
+            ]
+          }
+        },
+        "id": "1695992179058225152",
+        "name": "天音洛星☆⁠ 社團勢Vtuber 【初配信準備ing…】",
+        "pinned_tweet_id": "1793948976775061874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762665429359857664/LGbwLRDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 40,
+          "like_count": 6668,
+          "listed_count": 1,
+          "tweet_count": 896
+        },
+        "username": "Rakusei0605",
+        "verified": false
+      }
+    ]
+  }
+}

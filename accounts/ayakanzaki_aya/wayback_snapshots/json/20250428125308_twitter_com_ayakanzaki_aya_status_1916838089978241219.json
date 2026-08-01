@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1909059591641485382",
+    "created_at": "2025-04-28T12:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T13:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916838089978241219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2823653917",
+          "start": 0,
+          "username": "ooppmmvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916838089978241219",
+    "in_reply_to_user_id": "2823653917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909632082072195473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooppmmvv 可以降低手和螢幕的摩擦\n畫線會更漂亮喔！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1909059591641485382",
+        "created_at": "2025-04-28T12:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T13:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916838089978241219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2823653917",
+              "start": 0,
+              "username": "ooppmmvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916838089978241219",
+        "in_reply_to_user_id": "2823653917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909632082072195473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooppmmvv 可以降低手和螢幕的摩擦\n畫線會更漂亮喔！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2823653917",
+        "conversation_id": "1909059591641485382",
+        "created_at": "2025-04-08T15:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T16:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909632082072195473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909632082072195473",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909448595859726469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 怎麼說!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916243512862949376/CY_WHRnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6597,
+          "following_count": 988,
+          "like_count": 30537,
+          "listed_count": 18,
+          "media_count": 51,
+          "tweet_count": 19752
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-21T07:03:09.000Z",
+        "description": "«V皮👌正比👌Q版👌» \n\n📧歡迎直接私訊🤩可提供合約 保證權益💍\n\nDiscord tenma_80\n繪帳 @tenma_80\n\n價目表 https://t.co/G7O3KIumxM\n主頻道 https://t.co/Myi2XHLZ5B",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "tenma_80"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tclea666.wixsite.com/tenma80",
+                "end": 93,
+                "expanded_url": "https://tclea666.wixsite.com/tenma80",
+                "start": 70,
+                "url": "https://t.co/G7O3KIumxM"
+              },
+              {
+                "display_url": "twitch.tv/tenma_80",
+                "end": 121,
+                "expanded_url": "https://www.twitch.tv/tenma_80",
+                "start": 98,
+                "url": "https://t.co/Myi2XHLZ5B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/tenma80",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/tenma80",
+                "start": 0,
+                "url": "https://t.co/gzKC6Ie6TF"
+              }
+            ]
+          }
+        },
+        "id": "2823653917",
+        "location": "Taiwan",
+        "name": "天馬白凜TenMa. 🌠委託開放中🌠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856604677569425409/gVPrkzKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 1161,
+          "like_count": 8929,
+          "listed_count": 14,
+          "media_count": 307,
+          "tweet_count": 6522
+        },
+        "url": "https://t.co/gzKC6Ie6TF",
+        "username": "ooppmmvv",
+        "verified": false
+      }
+    ]
+  }
+}

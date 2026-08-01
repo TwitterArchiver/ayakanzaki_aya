@@ -1,0 +1,293 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1798506316673229115",
+    "created_at": "2024-06-07T04:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T05:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798932729498828853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4397826253",
+          "start": 0,
+          "username": "TakatsukiNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798932729498828853",
+    "in_reply_to_user_id": "4397826253",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798506528426823865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakatsukiNagi 新的劇情看到我瘋掉！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1798506316673229115",
+        "created_at": "2024-06-07T04:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T05:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798932729498828853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4397826253",
+              "start": 0,
+              "username": "TakatsukiNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798932729498828853",
+        "in_reply_to_user_id": "4397826253",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798506528426823865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakatsukiNagi 新的劇情看到我瘋掉！！！"
+      },
+      {
+        "attachments": {},
+        "author_id": "4397826253",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1798506316673229115",
+        "created_at": "2024-06-06T00:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T01:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798506528426823865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798506528426823865",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798506316673229115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 原神~啟動！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 993,
+          "like_count": 24103,
+          "listed_count": 10,
+          "tweet_count": 13619
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-29T09:58:11.000Z",
+        "description": "Hi，我是希耶，可以叫我Ca\n個人勢 台灣Vtuber\n本體為看板娘的寵物\n看板娘-米希：繪師媽媽：片可夫斯基( @yoyosogood ) / L2D媽媽：葵葵( @AoiHinata419 )\n本寵物-希耶：繪師/L2D媽媽：葵葵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yoyosogood"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "AoiHinata419"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/ca0510",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/ca0510",
+                "start": 0,
+                "url": "https://t.co/arsiRtJIGW"
+              }
+            ]
+          }
+        },
+        "id": "4397826253",
+        "location": "Taiwan",
+        "name": "希耶 | 動物系Vtuber",
+        "pinned_tweet_id": "1656588417583693824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710968642836590592/-zySLdW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 4730,
+          "like_count": 4012,
+          "listed_count": 29,
+          "tweet_count": 5962
+        },
+        "url": "https://t.co/arsiRtJIGW",
+        "username": "TakatsukiNagi",
+        "verified": false
+      }
+    ]
+  }
+}

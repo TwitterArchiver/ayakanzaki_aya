@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1803931208528568376",
+    "created_at": "2024-06-25T08:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T09:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805516302959731029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1300767869504901120",
+          "start": 0,
+          "username": "queen_freesia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805516302959731029",
+    "in_reply_to_user_id": "1300767869504901120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804462030235066555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@queen_freesia 如果是台灣人的話我相信是真的ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1803931208528568376",
+        "created_at": "2024-06-25T08:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T09:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805516302959731029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1300767869504901120",
+              "start": 0,
+              "username": "queen_freesia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805516302959731029",
+        "in_reply_to_user_id": "1300767869504901120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804462030235066555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@queen_freesia 如果是台灣人的話我相信是真的ww"
+      },
+      {
+        "attachments": {},
+        "author_id": "1300767869504901120",
+        "conversation_id": "1803931208528568376",
+        "created_at": "2024-06-22T10:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T11:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804462030235066555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804462030235066555",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803931208528568376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 這可能關係到種族存續與基因遺傳(不要亂講"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3891,
+          "following_count": 993,
+          "like_count": 24604,
+          "listed_count": 10,
+          "tweet_count": 14113
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T12:10:14.000Z",
+        "description": "”靜待枯萎的花朵，在墨藍的深淵中囈語。”\n\n原創/寫手/繪手/玩家/INFP-T\n\n⚠未經同意不可商用、轉載或讓AI學習我的作品\nDo not commercial use, repose or use AI learning my work without my permission.\n\n中文&English🆗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Queesia",
+                "end": 23,
+                "expanded_url": "https://lit.link/Queesia",
+                "start": 0,
+                "url": "https://t.co/SKXbW2SE96"
+              }
+            ]
+          }
+        },
+        "id": "1300767869504901120",
+        "location": "點擊下方網址可進入我的個人主頁",
+        "name": "小蒼蘭❃課業忙碌緩更中",
+        "pinned_tweet_id": "1792114222413017387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804437177239306240/BtWtFI5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 734,
+          "like_count": 57727,
+          "listed_count": 1,
+          "tweet_count": 27286
+        },
+        "url": "https://t.co/SKXbW2SE96",
+        "username": "queen_freesia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1829698222459060372",
+    "created_at": "2024-09-02T04:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T05:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830458998501355939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660820678621409280",
+          "start": 0,
+          "username": "NekoCocoBBQlife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830458998501355939",
+    "in_reply_to_user_id": "1660820678621409280",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830185049159057824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoCocoBBQlife 🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1829698222459060372",
+        "created_at": "2024-09-02T04:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T05:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830458998501355939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660820678621409280",
+              "start": 0,
+              "username": "NekoCocoBBQlife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830458998501355939",
+        "in_reply_to_user_id": "1660820678621409280",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830185049159057824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoCocoBBQlife 🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660820678621409280",
+        "conversation_id": "1829698222459060372",
+        "created_at": "2024-09-01T10:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T11:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830185049159057824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830185049159057824",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829698222459060372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 除8以外這根本我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3944,
+          "following_count": 980,
+          "like_count": 25865,
+          "listed_count": 10,
+          "tweet_count": 15328
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T01:31:44.000Z",
+        "description": "用愛發電的字幕師/大學生/超級DD\n正在學習與人類溝通的公貓\n僞聲練習兩年半\nINFP-T\n在意當下你提供的情緒價值\n再大的錯都能原諒\n不喜歡開玩笑請第一時間告訴我\n喜歡黑色幽默和瑟瑟的東西\n#涅蔻心說 :說一些內心話\n#涅laxybrain :我覺得燒腦的內容\n不喜歡我這種很躁又很鬱抓不到情緒的左轉離開歐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "涅蔻心說"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "tag": "涅laxybrain"
+              }
+            ]
+          }
+        },
+        "id": "1660820678621409280",
+        "location": "檸檬花之城的精神世界",
+        "name": "蕾檬•史塔蕾克森•涅蔻理希絲🍋₊໒꒱ིྀ༝⁺💛",
+        "pinned_tweet_id": "1774687555038118268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794067173629128704/fT6IXxAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 662,
+          "like_count": 11698,
+          "listed_count": 0,
+          "tweet_count": 7883
+        },
+        "username": "NekoCocoBBQlife",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1895539825803215184",
+    "created_at": "2025-03-04T09:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T10:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896850999882690856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1163318298315878405",
+          "start": 0,
+          "username": "Heaven1750"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896850999882690856",
+    "in_reply_to_user_id": "1163318298315878405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895680313009062168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Heaven1750 確實 一切都是資本主義的錯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1895539825803215184",
+        "created_at": "2025-03-04T09:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T10:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896850999882690856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1163318298315878405",
+              "start": 0,
+              "username": "Heaven1750"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896850999882690856",
+        "in_reply_to_user_id": "1163318298315878405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895680313009062168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heaven1750 確實 一切都是資本主義的錯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1163318298315878405",
+        "conversation_id": "1895539825803215184",
+        "created_at": "2025-03-01T03:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T04:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895680313009062168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895680313009062168",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895539825803215184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 這樣一天慣老闆就會要我們工作24小時了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896765932292206592/zKWnC5mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6354,
+          "following_count": 979,
+          "like_count": 29445,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18955
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-19T05:14:42.000Z",
+        "description": "我在夢中想你，在現實想你，但你似乎並不這麼想。\n於是，你曾說不會丟下我，而我信了，你仍然走了。",
+        "id": "1163318298315878405",
+        "name": "落羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895663606920069127/Qkipi-Fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 452,
+          "like_count": 653,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 201
+        },
+        "username": "Heaven1750",
+        "verified": false
+      }
+    ]
+  }
+}

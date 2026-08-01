@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1944461683209982284",
+    "created_at": "2025-07-24T12:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T13:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948365109513892258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3041109000",
+          "start": 0,
+          "username": "awsd741852"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948365109513892258",
+    "in_reply_to_user_id": "3041109000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945463885277856053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awsd741852 看上去好好吃！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945463874313990144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-tFg_XMAAKKP6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1944461683209982284",
+        "created_at": "2025-07-24T12:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T13:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948365109513892258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3041109000",
+              "start": 0,
+              "username": "awsd741852"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948365109513892258",
+        "in_reply_to_user_id": "3041109000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945463885277856053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awsd741852 看上去好好吃！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945463874313990144"
+          ]
+        },
+        "author_id": "3041109000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1944461683209982284",
+        "created_at": "2025-07-16T12:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945463885277856053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUyYQ9uSsP",
+              "end": 63,
+              "expanded_url": "https://x.com/awsd741852/status/1945463885277856053/photo/1",
+              "media_key": "3_1945463874313990144",
+              "start": 40,
+              "url": "https://t.co/DUyYQ9uSsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945463885277856053",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944461683209982284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 應該不用言語確認關係 順其自然就好了\n獻上祭品 https://t.co/DUyYQ9uSsP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7837,
+          "following_count": 993,
+          "like_count": 31322,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 20132
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-25T10:50:02.000Z",
+        "description": "台灣人です 日文苦手,普通の聽力 /台中人/單/努力健身中💪 /料理小當家/美食愛好者（踩地雷）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/6180435",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/6180435",
+                "start": 0,
+                "url": "https://t.co/ewSi1yMg35"
+              }
+            ]
+          }
+        },
+        "id": "3041109000",
+        "location": "台中市, 台灣",
+        "name": "亮",
+        "pinned_tweet_id": "1471523639279632387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662484539921551361/t-QCRRhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 2208,
+          "like_count": 305588,
+          "listed_count": 3,
+          "media_count": 2125,
+          "tweet_count": 15519
+        },
+        "url": "https://t.co/ewSi1yMg35",
+        "username": "awsd741852",
+        "verified": false
+      }
+    ]
+  }
+}

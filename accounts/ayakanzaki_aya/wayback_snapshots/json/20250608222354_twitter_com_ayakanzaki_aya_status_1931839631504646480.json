@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1928184344998212080",
+    "created_at": "2025-06-08T22:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T23:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931839631504646480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1958597372",
+          "start": 0,
+          "username": "LeisureTime777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931839631504646480",
+    "in_reply_to_user_id": "1958597372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928296843710013717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeisureTime777 游戲人生我超喜歡！！！尤其是那場文字接龍和劇場版，每次都好佩服作者是怎麽想到這樣的劇情的！！！！這才是好的轉生龍傲天啊！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1928184344998212080",
+        "created_at": "2025-06-08T22:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T23:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931839631504646480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1958597372",
+              "start": 0,
+              "username": "LeisureTime777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931839631504646480",
+        "in_reply_to_user_id": "1958597372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928296843710013717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeisureTime777 游戲人生我超喜歡！！！尤其是那場文字接龍和劇場版，每次都好佩服作者是怎麽想到這樣的劇情的！！！！這才是好的轉生龍傲天啊！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958597372",
+        "conversation_id": "1928184344998212080",
+        "created_at": "2025-05-30T03:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T04:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928296843710013717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928296843710013717",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928184344998212080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 啊⋯魔禁算複雜嗎？\n那遊戲人生或問題兒童那類型的怎辦，\n裡面遊戲設定規則更多欸，雖然內容也是挺精彩，不看會錯過很多好作品！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6771,
+          "following_count": 999,
+          "like_count": 30723,
+          "listed_count": 19,
+          "media_count": 55,
+          "tweet_count": 19895
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-13T12:16:05.000Z",
+        "description": "一直認為作家就是魔法師，能將心情見聞轉換成為文字使人感同身受，希望能有朝一日能夠分享出自己構想的世界與故事，能夠用文字分享給人們快樂。",
+        "id": "1958597372",
+        "location": "台中市, 台灣",
+        "name": "悠閒時光 (ゆう)",
+        "pinned_tweet_id": "1814274867224826028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814242929797713920/148-Ep5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 219,
+          "like_count": 10046,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 5435
+        },
+        "username": "LeisureTime777",
+        "verified": false
+      }
+    ]
+  }
+}

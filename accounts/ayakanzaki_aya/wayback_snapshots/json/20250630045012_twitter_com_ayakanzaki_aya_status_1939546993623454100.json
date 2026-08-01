@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1938253957782212666",
+    "created_at": "2025-06-30T04:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T05:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939546993623454100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1244139853358358529",
+          "start": 0,
+          "username": "NYaa71_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939546993623454100",
+    "in_reply_to_user_id": "1244139853358358529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938471901053010295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NYaa71_ 吃了！很爽很好吃！但好熱！www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1938253957782212666",
+        "created_at": "2025-06-30T04:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939546993623454100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1244139853358358529",
+              "start": 0,
+              "username": "NYaa71_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939546993623454100",
+        "in_reply_to_user_id": "1244139853358358529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938471901053010295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NYaa71_ 吃了！很爽很好吃！但好熱！www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244139853358358529",
+        "conversation_id": "1938253957782212666",
+        "created_at": "2025-06-27T05:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T06:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938471901053010295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938471901053010295",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938253957782212666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 歡迎~可以把夜市吃一遍再回去🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7705,
+          "following_count": 996,
+          "like_count": 31027,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20002
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T05:50:49.000Z",
+        "description": "🇹🇼 | 🔥祝我天天開心，生活順利🩷✨",
+        "id": "1244139853358358529",
+        "location": "Taiwan",
+        "name": "納亞🥸🌾",
+        "pinned_tweet_id": "1932067714107052391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898357903301767168/fpEoRiHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 84,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 476
+        },
+        "username": "NYaa71_",
+        "verified": false
+      }
+    ]
+  }
+}

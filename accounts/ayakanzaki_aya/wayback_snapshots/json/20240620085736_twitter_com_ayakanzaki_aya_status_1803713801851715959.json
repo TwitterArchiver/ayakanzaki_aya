@@ -1,0 +1,241 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1803332133768880591",
+    "created_at": "2024-06-20T08:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T09:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803713801851715959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1046890588153380864",
+          "start": 0,
+          "username": "HaKa_YuKi123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803713801851715959",
+    "in_reply_to_user_id": "1046890588153380864",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803333213760397688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaKa_YuKi123 早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1803332133768880591",
+        "created_at": "2024-06-20T08:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T09:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803713801851715959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1046890588153380864",
+              "start": 0,
+              "username": "HaKa_YuKi123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803713801851715959",
+        "in_reply_to_user_id": "1046890588153380864",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803333213760397688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaKa_YuKi123 早"
+      },
+      {
+        "attachments": {},
+        "author_id": "1046890588153380864",
+        "conversation_id": "1803332133768880591",
+        "created_at": "2024-06-19T07:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T08:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803333213760397688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803333213760397688",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803332133768880591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 早安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3890,
+          "following_count": 993,
+          "like_count": 24423,
+          "listed_count": 10,
+          "tweet_count": 13938
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-01T22:32:21.000Z",
+        "description": "個人勢天使系Vtuber&Vwriter\n\n中文/英文/日文\n\n團體：黑白萊悠\n\n粉絲名稱：希望\n\n二創：#希奇古怪(禁止R18創作)\n\n直播：#希望有你\n\nlogo：羽夏悠希\n\n立繪&建模：11畝工作室   @11_Elevenmu\n\n連動邀約請私訊或信箱：layu9118@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "希奇古怪"
+              },
+              {
+                "end": 77,
+                "start": 72,
+                "tag": "希望有你"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "11_Elevenmu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Haka_Yuki",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Haka_Yuki",
+                "start": 0,
+                "url": "https://t.co/bveqrKyOMA"
+              }
+            ]
+          }
+        },
+        "id": "1046890588153380864",
+        "location": "澈滅界",
+        "name": "羽夏悠希はかゆきHakayuki/天使系 Vtuber/Vwriter",
+        "pinned_tweet_id": "1802372319945638192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802361631625842688/g_ft-89v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3966,
+          "following_count": 5218,
+          "like_count": 109056,
+          "listed_count": 51,
+          "tweet_count": 56987
+        },
+        "url": "https://t.co/bveqrKyOMA",
+        "username": "HaKa_YuKi123",
+        "verified": true
+      }
+    ]
+  }
+}

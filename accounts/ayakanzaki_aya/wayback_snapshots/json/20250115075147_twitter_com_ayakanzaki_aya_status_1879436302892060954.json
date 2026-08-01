@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1879436302892060954",
+    "created_at": "2025-01-15T07:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T08:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879436302892060954"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1879436302892060954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "學校功課我想做一個動畫，想找人配音，要説英文，口音不要太嚴重，男聲，完事後會免費給你畫一張圖，頭像/半身/人物設計，什麽類型的都可以，有興趣的麻煩私訊我，麻煩了，感謝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1879436302892060954",
+        "created_at": "2025-01-15T07:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T08:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879436302892060954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879436302892060954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "學校功課我想做一個動畫，想找人配音，要説英文，口音不要太嚴重，男聲，完事後會免費給你畫一張圖，頭像/半身/人物設計，什麽類型的都可以，有興趣的麻煩私訊我，麻煩了，感謝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4271,
+          "following_count": 987,
+          "like_count": 27927,
+          "listed_count": 10,
+          "media_count": 120,
+          "tweet_count": 17510
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

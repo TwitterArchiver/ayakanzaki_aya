@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1957598313361940539",
+    "created_at": "2025-08-27T04:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T05:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960552869129822533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1422903637110448135",
+          "start": 0,
+          "username": "Topdion_Editor"
+        },
+        {
+          "end": 28,
+          "id": "4834469920",
+          "start": 16,
+          "username": "LiangyuanTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960552869129822533",
+    "in_reply_to_user_id": "1422903637110448135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958858097297965560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Topdion_Editor @LiangyuanTw 信你個鬼www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1957598313361940539",
+        "created_at": "2025-08-27T04:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960552869129822533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1422903637110448135",
+              "start": 0,
+              "username": "Topdion_Editor"
+            },
+            {
+              "end": 28,
+              "id": "4834469920",
+              "start": 16,
+              "username": "LiangyuanTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960552869129822533",
+        "in_reply_to_user_id": "1422903637110448135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958858097297965560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Topdion_Editor @LiangyuanTw 信你個鬼www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422903637110448135",
+        "conversation_id": "1957598313361940539",
+        "created_at": "2025-08-22T11:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958858097297965560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            },
+            {
+              "end": 28,
+              "id": "4834469920",
+              "start": 16,
+              "username": "LiangyuanTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958858097297965560",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958857757966176559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya @LiangyuanTw 小龍蝦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1958347848430342624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8345,
+          "following_count": 1000,
+          "like_count": 31590,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 20347
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T12:54:12.000Z",
+        "description": "半退休剪輯 在讀大學\n剪輯仔,偶爾烤個肉\nAI擺爛 FATE新手\n\n喜歡GL 並全能27歲虛弱烤肉man社交阿呆\n\n喜歡DD 長髮\nTwitch:\n\n主推大姐@wanwan_voice\n老師@AvelineVtuber\n水母@Fuli_Valerie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "wanwan_voice"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "AvelineVtuber"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "Fuli_Valerie"
+              }
+            ]
+          }
+        },
+        "id": "1422903637110448135",
+        "name": "Fallen《委託無限延期》",
+        "pinned_tweet_id": "1937632179271696525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925414621894385665/Co9KvPub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 923,
+          "like_count": 5260,
+          "listed_count": 2,
+          "media_count": 504,
+          "tweet_count": 7173
+        },
+        "username": "Topdion_Editor",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-22T06:35:59.000Z",
+        "description": "打遊戲跟經營實況，我比較喜歡打遊戲。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/liangyuan",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/liangyuan",
+                "start": 0,
+                "url": "https://t.co/QupJhikiGK"
+              }
+            ]
+          }
+        },
+        "id": "4834469920",
+        "location": "Taiwan",
+        "name": "🧊涼圓🧊我支持所有的主播！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842925349623234560/shtO_KHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 365,
+          "like_count": 6709,
+          "listed_count": 1,
+          "media_count": 611,
+          "tweet_count": 3816
+        },
+        "url": "https://t.co/QupJhikiGK",
+        "username": "LiangyuanTw",
+        "verified": false
+      }
+    ]
+  }
+}

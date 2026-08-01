@@ -1,0 +1,156 @@
+{
+  "data": {
+    "author_id": "1499470341734907907",
+    "conversation_id": "1843504335654654132",
+    "created_at": "2024-10-12T07:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-12T08:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1845009278752415968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "930579879086587905",
+          "start": 0,
+          "username": "Yue_Tu0905"
+        }
+      ]
+    },
+    "id": "1845009278752415968",
+    "in_reply_to_user_id": "930579879086587905",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844269870642508168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yue_Tu0905 那不要看手機了（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1499470341734907907",
+        "conversation_id": "1843504335654654132",
+        "created_at": "2024-10-12T07:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-12T08:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1845009278752415968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "930579879086587905",
+              "start": 0,
+              "username": "Yue_Tu0905"
+            }
+          ]
+        },
+        "id": "1845009278752415968",
+        "in_reply_to_user_id": "930579879086587905",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844269870642508168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yue_Tu0905 那不要看手機了（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1857345709181178184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4240,
+          "following_count": 982,
+          "like_count": 27195,
+          "listed_count": 10,
+          "tweet_count": 16770
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-14T23:35:07.000Z",
+        "description": "流浪各地的兔兔 在麥塊的某草原上專屬設備、建築、機關擔當 想到才會丟日常，遊戲相關文章w 頭像繪師 @SosetsuNoAkari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "SosetsuNoAkari"
+              }
+            ]
+          }
+        },
+        "id": "930579879086587905",
+        "location": "未知",
+        "name": "玥兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662003151439020034/vCi-hy-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 1578,
+          "like_count": 10624,
+          "listed_count": 0,
+          "tweet_count": 2293
+        },
+        "username": "Yue_Tu0905",
+        "verified": false
+      }
+    ]
+  }
+}

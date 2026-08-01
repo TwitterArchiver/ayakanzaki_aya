@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-22T04:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T05:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837716641263554738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "909103523320565760",
+          "start": 0,
+          "username": "Anshaer_TW_TYC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837716641263554738",
+    "in_reply_to_user_id": "909103523320565760",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836999660432678972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anshaer_TW_TYC 14歲懷孕是板上釘釘\n但不清楚是不是女同\n那是她自己講的\n我更傾向她是男女通吃\n在學校是出了名的玩咖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T04:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T05:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837716641263554738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "909103523320565760",
+              "start": 0,
+              "username": "Anshaer_TW_TYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837716641263554738",
+        "in_reply_to_user_id": "909103523320565760",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836999660432678972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anshaer_TW_TYC 14歲懷孕是板上釘釘\n但不清楚是不是女同\n那是她自己講的\n我更傾向她是男女通吃\n在學校是出了名的玩咖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909103523320565760",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-20T05:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T06:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836999660432678972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836999660432678972",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1575,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836990408175276060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 女同 懷孕 14歲😱資訊量有點大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26271,
+          "listed_count": 9,
+          "tweet_count": 15734
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-16T17:15:45.000Z",
+        "description": "台灣人\n本業薪水小偷 兼職會計、兼職律師、兼職電腦代組、兼職油畫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/anshaer-t",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/anshaer-t",
+                "start": 0,
+                "url": "https://t.co/GRfpfBOZne"
+              }
+            ]
+          }
+        },
+        "id": "909103523320565760",
+        "location": "North Adelaide",
+        "name": "anshaer(王杯杯）",
+        "pinned_tweet_id": "1833255664287944828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820323218647048192/8rG4m8G-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 3815,
+          "like_count": 6081,
+          "listed_count": 4,
+          "tweet_count": 1796
+        },
+        "url": "https://t.co/GRfpfBOZne",
+        "username": "Anshaer_TW_TYC",
+        "verified": false
+      }
+    ]
+  }
+}

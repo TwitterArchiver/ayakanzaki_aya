@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1902209044024111413",
+    "created_at": "2025-03-24T03:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T04:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904020253723463691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2570173735",
+          "start": 0,
+          "username": "LaiWink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904020253723463691",
+    "in_reply_to_user_id": "2570173735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902329183952630056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaiWink 台灣也還是冷的嗎wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1902209044024111413",
+        "created_at": "2025-03-24T03:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T04:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904020253723463691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2570173735",
+              "start": 0,
+              "username": "LaiWink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904020253723463691",
+        "in_reply_to_user_id": "2570173735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902329183952630056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaiWink 台灣也還是冷的嗎wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2570173735",
+        "conversation_id": "1902209044024111413",
+        "created_at": "2025-03-19T11:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T12:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902329183952630056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902329183952630056",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902209044024111413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 早安，現在的我，冷到發抖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6531,
+          "following_count": 980,
+          "like_count": 29908,
+          "listed_count": 18,
+          "media_count": 131,
+          "tweet_count": 19408
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-16T03:42:54.000Z",
+        "description": "A man come from Taiwan\n\n過著灰頭土臉的人生",
+        "id": "2570173735",
+        "name": "Wink Lai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803870258559856640/4U9fxoAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 95,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1274
+        },
+        "username": "LaiWink",
+        "verified": false
+      }
+    ]
+  }
+}

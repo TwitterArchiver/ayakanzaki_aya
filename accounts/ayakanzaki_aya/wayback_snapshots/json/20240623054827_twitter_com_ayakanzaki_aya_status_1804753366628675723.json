@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1803931208528568376",
+    "created_at": "2024-06-23T05:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T06:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804753366628675723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630522378223751168",
+          "start": 0,
+          "username": "polyse1220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804753366628675723",
+    "in_reply_to_user_id": "1630522378223751168",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804379306090729797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@polyse1220 好的（倒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1803931208528568376",
+        "created_at": "2024-06-23T05:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T06:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804753366628675723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630522378223751168",
+              "start": 0,
+              "username": "polyse1220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804753366628675723",
+        "in_reply_to_user_id": "1630522378223751168",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804379306090729797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@polyse1220 好的（倒"
+      },
+      {
+        "attachments": {},
+        "author_id": "1630522378223751168",
+        "conversation_id": "1803931208528568376",
+        "created_at": "2024-06-22T05:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T06:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804379306090729797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804379306090729797",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803931208528568376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 放棄思考吧⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3892,
+          "following_count": 993,
+          "like_count": 24580,
+          "listed_count": 10,
+          "tweet_count": 14089
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T10:56:57.000Z",
+        "description": "愛畫畫的國中生～ FB日常使用 推特發很多廢文～ 歡迎大家追蹤 有ig但完全沒在用連廢文都沒有喔 還有Pixiv跟Wattpad呦～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/p/NnKFwu…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/p/NnKFwuz3vq9fRrvD/",
+                "start": 0,
+                "url": "https://t.co/eKz3rTXb7J"
+              }
+            ]
+          }
+        },
+        "id": "1630522378223751168",
+        "location": "New Taipei City, Taiwan",
+        "name": "Polyse",
+        "pinned_tweet_id": "1803747999023329744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804077815773696003/I4l5hflY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 156,
+          "like_count": 1241,
+          "listed_count": 1,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/eKz3rTXb7J",
+        "username": "polyse1220",
+        "verified": false
+      }
+    ]
+  }
+}

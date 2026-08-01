@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2040856253572808997",
+    "created_at": "2026-04-06T20:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T21:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041247705209462896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1356118178795937793",
+          "start": 0,
+          "username": "R1ko_uwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041247705209462896",
+    "in_reply_to_user_id": "1356118178795937793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040869539177718001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1ko_uwu 點進去搜死亡游戲就有了\n但我之前用我朋友的賬號跟店家溝通過然後被封鎖了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2040856253572808997",
+        "created_at": "2026-04-06T20:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T21:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041247705209462896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1356118178795937793",
+              "start": 0,
+              "username": "R1ko_uwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041247705209462896",
+        "in_reply_to_user_id": "1356118178795937793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040869539177718001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1ko_uwu 點進去搜死亡游戲就有了\n但我之前用我朋友的賬號跟店家溝通過然後被封鎖了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356118178795937793",
+        "conversation_id": "2040856253572808997",
+        "created_at": "2026-04-05T19:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T20:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040869539177718001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040869539177718001",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1250,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040856253572808997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 老師你好 請問這個被下架了嗎 我想檢舉但找不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2038606993040998570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8905,
+          "following_count": 983,
+          "like_count": 32596,
+          "listed_count": 21,
+          "media_count": 112,
+          "tweet_count": 21228
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T05:53:21.000Z",
+        "description": "‼️AI學習禁止‼️ 貴客您好，歡迎光臨我的床底 魔法研究室，我是璃子，今天有甚麼需要的嗎？我有糖果包裝 棉絮 毛球 飯友...\n頭像&封面: @MZovowo，看板娘:@Ayana_owO\n🎨璃子不甜-小窩傳送門 歡迎聯絡！✉️Riko20061209@gmail.com\n☁️BlueSky : riko1209",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 72,
+                "username": "MZovowo"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ayana_owO"
+              }
+            ]
+          }
+        },
+        "id": "1356118178795937793",
+        "location": "房間裡自己挖的小洞",
+        "name": "🎨璃子不甜 🌷別拉我的領帶！",
+        "pinned_tweet_id": "2008912378340282855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039655287746162688/YcRYLDd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 5066,
+          "like_count": 55089,
+          "listed_count": 5,
+          "media_count": 1341,
+          "tweet_count": 35370
+        },
+        "username": "R1ko_uwu",
+        "verified": false
+      }
+    ]
+  }
+}

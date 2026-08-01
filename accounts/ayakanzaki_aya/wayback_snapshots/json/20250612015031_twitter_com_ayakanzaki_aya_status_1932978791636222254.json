@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1932761891639808249",
+    "created_at": "2025-06-12T01:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T02:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932978791636222254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1408404725595131909",
+          "start": 0,
+          "username": "Jieshu0315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932978791636222254",
+    "in_reply_to_user_id": "1408404725595131909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932761891639808249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jieshu0315 喜歡我嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_1932761839370448896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKMpxcbMAAlIW7.png",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1932761891639808249",
+        "created_at": "2025-06-12T01:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T02:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932978791636222254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1408404725595131909",
+              "start": 0,
+              "username": "Jieshu0315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932978791636222254",
+        "in_reply_to_user_id": "1408404725595131909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932761891639808249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jieshu0315 喜歡我嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932761839370448896"
+          ]
+        },
+        "author_id": "1408404725595131909",
+        "conversation_id": "1932761891639808249",
+        "created_at": "2025-06-11T11:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T12:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932761891639808249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "跟風"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cA4dUrH99Y",
+              "end": 27,
+              "expanded_url": "https://x.com/Jieshu0315/status/1932761891639808249/photo/1",
+              "media_key": "3_1932761839370448896",
+              "start": 4,
+              "url": "https://t.co/cA4dUrH99Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932761891639808249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#跟風 https://t.co/cA4dUrH99Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6840,
+          "following_count": 995,
+          "like_count": 30767,
+          "listed_count": 19,
+          "media_count": 55,
+          "tweet_count": 19917
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-25T12:40:38.000Z",
+        "description": "早安午安晚安初見安安 \n我是潔舒，可以叫我衛生紙，不是舒潔\n歡迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/nt6cHMnDEh",
+                "end": 23,
+                "expanded_url": "http://discord.gg/nt6cHMnDEh",
+                "start": 0,
+                "url": "https://t.co/PTGIUQBoZL"
+              }
+            ]
+          }
+        },
+        "id": "1408404725595131909",
+        "location": "Taipei City, Taiwan",
+        "name": "潔舒 Jieshu",
+        "pinned_tweet_id": "1564111818405974016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573172251205464064/PzkDuF7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 3566,
+          "like_count": 6534,
+          "listed_count": 6,
+          "media_count": 108,
+          "tweet_count": 8105
+        },
+        "url": "https://t.co/PTGIUQBoZL",
+        "username": "Jieshu0315",
+        "verified": false
+      }
+    ]
+  }
+}

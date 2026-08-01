@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1983353371999240380",
+    "created_at": "2025-11-05T19:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T20:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986160387121651727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550078479391080448",
+          "start": 0,
+          "username": "to_die750713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986160387121651727",
+    "in_reply_to_user_id": "1550078479391080448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983452217383477585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@to_die750713 有喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1983353371999240380",
+        "created_at": "2025-11-05T19:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T20:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986160387121651727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550078479391080448",
+              "start": 0,
+              "username": "to_die750713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986160387121651727",
+        "in_reply_to_user_id": "1550078479391080448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983452217383477585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@to_die750713 有喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550078479391080448",
+        "conversation_id": "1983353371999240380",
+        "created_at": "2025-10-29T08:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983452217383477585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983452217383477585",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983353371999240380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 有嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8422,
+          "following_count": 974,
+          "like_count": 31930,
+          "listed_count": 20,
+          "media_count": 86,
+          "tweet_count": 20674
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T11:21:45.000Z",
+        "description": "［天河娛樂Shiryouko Studio］所屬音樂製作人\n擅長的東西：中醫學、台語與日文\n學習力與記憶力超前且想像力驚人的地獄使者\n\nOne day we'll all be gone.\nsomeday we'llall meet.\n寧願最後徒勞無功\n也不選擇無動於衷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@aliciachen2064",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@aliciachen2064",
+                "start": 0,
+                "url": "https://t.co/DAHTQyCjTv"
+              }
+            ]
+          }
+        },
+        "id": "1550078479391080448",
+        "name": "［天河娛樂Shiryouko Studio］SHINO希洛，來自地獄的使者",
+        "pinned_tweet_id": "1983852266785534040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984686325136834562/9nJVo_3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 4020,
+          "like_count": 72885,
+          "listed_count": 5,
+          "media_count": 1114,
+          "tweet_count": 58280
+        },
+        "url": "https://t.co/DAHTQyCjTv",
+        "username": "to_die750713",
+        "verified": false
+      }
+    ]
+  }
+}

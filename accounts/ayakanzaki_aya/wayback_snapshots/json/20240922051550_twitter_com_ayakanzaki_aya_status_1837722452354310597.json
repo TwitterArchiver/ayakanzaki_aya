@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-22T05:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837722452354310597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "735476321023729664",
+          "start": 0,
+          "username": "Noah_Aeroeater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837722452354310597",
+    "in_reply_to_user_id": "735476321023729664",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837189264343486779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noah_Aeroeater 我覺得是雙性戀\n（個人想法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T05:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837722452354310597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "735476321023729664",
+              "start": 0,
+              "username": "Noah_Aeroeater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837722452354310597",
+        "in_reply_to_user_id": "735476321023729664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837189264343486779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noah_Aeroeater 我覺得是雙性戀\n（個人想法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "735476321023729664",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-20T17:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T18:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837189264343486779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837189264343486779",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836990408175276060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 就女同那部分比較難懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26318,
+          "listed_count": 9,
+          "tweet_count": 15780
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-25T14:23:14.000Z",
+        "description": "ツイ廃（現在要叫好X廢）。沒有網什麼都不用談啦幹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/noah_cerberus1…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/noah_cerberus14?utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/etP1eMYnXJ"
+              }
+            ]
+          }
+        },
+        "id": "735476321023729664",
+        "location": "Hong Kong",
+        "name": "Noah Aeroeater🦉 空喰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423905296108294145/w7OQ4cM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 766,
+          "like_count": 150927,
+          "listed_count": 2,
+          "tweet_count": 51802
+        },
+        "url": "https://t.co/etP1eMYnXJ",
+        "username": "Noah_Aeroeater",
+        "verified": false
+      }
+    ]
+  }
+}

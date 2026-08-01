@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1817499119805399049",
+    "created_at": "2024-08-01T05:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T06:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818888986196123961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1276022886482841600",
+          "start": 0,
+          "username": "foxfishhhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818888986196123961",
+    "in_reply_to_user_id": "1276022886482841600",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817533165873082627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foxfishhhhh 笑死ww 珍惜生命啊大哥www\n朋友：那我呢（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1817499119805399049",
+        "created_at": "2024-08-01T05:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T06:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818888986196123961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1276022886482841600",
+              "start": 0,
+              "username": "foxfishhhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818888986196123961",
+        "in_reply_to_user_id": "1276022886482841600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817533165873082627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxfishhhhh 笑死ww 珍惜生命啊大哥www\n朋友：那我呢（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276022886482841600",
+        "conversation_id": "1817499119805399049",
+        "created_at": "2024-07-28T12:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T13:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817533165873082627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817533165873082627",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817499119805399049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我不知道他怎麼死的，但我在他旁邊我會先自殺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3899,
+          "following_count": 995,
+          "like_count": 25322,
+          "listed_count": 10,
+          "tweet_count": 14806
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-25T05:22:37.000Z",
+        "description": "我是一隻呱呱，叫聲像綿羊，正躺在風鈴草上\n日語怎麼這麼難啊啊啊（半放棄中\n音遊小廢廢\n似乎會點畫畫的樣子\n不能吃\n其他帳號：@foxfishhhhhh\n\n防bot(雖然沒啥用的樣子):六四天安門事件、習維尼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "foxfishhhhhh"
+              }
+            ]
+          }
+        },
+        "id": "1276022886482841600",
+        "name": "狐魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742163708351246336/uMMDfNmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 3707,
+          "like_count": 29371,
+          "listed_count": 1,
+          "tweet_count": 15916
+        },
+        "username": "foxfishhhhh",
+        "verified": false
+      }
+    ]
+  }
+}

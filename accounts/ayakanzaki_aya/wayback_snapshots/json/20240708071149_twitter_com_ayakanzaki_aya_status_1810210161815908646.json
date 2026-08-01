@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1808815935085539462",
+    "created_at": "2024-07-08T07:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T08:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810210161815908646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2336243971",
+          "start": 0,
+          "username": "apple578682312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810210161815908646",
+    "in_reply_to_user_id": "2336243971",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809210801129152585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apple578682312 主要是因為那個同事是老闆的女兒ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1808815935085539462",
+        "created_at": "2024-07-08T07:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T08:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810210161815908646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2336243971",
+              "start": 0,
+              "username": "apple578682312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810210161815908646",
+        "in_reply_to_user_id": "2336243971",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809210801129152585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apple578682312 主要是因為那個同事是老闆的女兒ww"
+      },
+      {
+        "attachments": {},
+        "author_id": "2336243971",
+        "conversation_id": "1808815935085539462",
+        "created_at": "2024-07-05T13:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T14:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809210801129152585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809210801129152585",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808815935085539462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好好喔🥹\n以前做服務業已經打烊時間了，我都關燈在結帳了還有人衝進來說要買，但店長說要讓客人買😡\n我就改好幾次帳，最後整張重寫超火大😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 24829,
+          "listed_count": 10,
+          "tweet_count": 14321
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-10T07:07:44.000Z",
+        "description": "台湾人です。日本語はまだ上手ではありません、何か失礼なことを言ったら、ご了承ください。\n暇があったら、ゲーム実況をやります、興味がある人はぜひ見てください。\n正式版V皮還在準備中，目前會使用幾個模板委託的版本，媽媽會很多位🥳\n---✤---✤---✤---\n中文⭕∣日本語⭕∣English❌∣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/apple578682312",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/apple578682312",
+                "start": 0,
+                "url": "https://t.co/xrhPLEusWJ"
+              }
+            ]
+          }
+        },
+        "id": "2336243971",
+        "location": "Taiwan",
+        "name": "琉歌.TW／Vtype《準備中》",
+        "pinned_tweet_id": "1809185031396676092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808143910042304512/9jYy-uXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 243,
+          "like_count": 7290,
+          "listed_count": 0,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/xrhPLEusWJ",
+        "username": "apple578682312",
+        "verified": false
+      }
+    ]
+  }
+}

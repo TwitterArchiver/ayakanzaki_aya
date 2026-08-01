@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1927215898189767171",
+    "created_at": "2025-05-28T02:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T03:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927548222550982896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1573603779513307137",
+          "start": 0,
+          "username": "mao_eyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927548222550982896",
+    "in_reply_to_user_id": "1573603779513307137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 163,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927216795485602169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mao_eyu 莫名其妙的被誇了\n好耶！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1927215898189767171",
+        "created_at": "2025-05-28T02:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T03:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927548222550982896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1573603779513307137",
+              "start": 0,
+              "username": "mao_eyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927548222550982896",
+        "in_reply_to_user_id": "1573603779513307137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927216795485602169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mao_eyu 莫名其妙的被誇了\n好耶！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573603779513307137",
+        "conversation_id": "1927215898189767171",
+        "created_at": "2025-05-27T04:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T05:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927216795485602169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927216795485602169",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927215898189767171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 不愧是我推的阿雅！！！\n阿雅真的好乖好厲害😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6646,
+          "following_count": 996,
+          "like_count": 30647,
+          "listed_count": 18,
+          "media_count": 54,
+          "tweet_count": 19858
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T09:22:41.000Z",
+        "description": "我的名字叫瑪歐依幽，年齡未知。住在台北市東北部的住宅區一帶，未婚。我沒有工作，還在唸書明年準備考研。每天去上課的路上一定會聽25時的歌。我不抽煙，酒僅止於淺嚐。晚上11點睡，每天要睡足8個小時。睡前，我一定看台，上了床，看到一半睡著。一覺到天亮，決不把疲勞和壓力留到第二天。醫生都說我很正常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/maoeyu",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/maoeyu",
+                "start": 0,
+                "url": "https://t.co/LSdgO2ReKV"
+              }
+            ]
+          }
+        },
+        "id": "1573603779513307137",
+        "location": "你的床上",
+        "name": "瑪歐依幽 MaoEyu.ch 您最喜歡的虛擬小男娘❤️已愛上勝者的早餐🥞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914108833750024192/fRSdrd8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 1923,
+          "like_count": 25026,
+          "listed_count": 1,
+          "media_count": 1614,
+          "tweet_count": 24852
+        },
+        "url": "https://t.co/LSdgO2ReKV",
+        "username": "mao_eyu",
+        "verified": false
+      }
+    ]
+  }
+}

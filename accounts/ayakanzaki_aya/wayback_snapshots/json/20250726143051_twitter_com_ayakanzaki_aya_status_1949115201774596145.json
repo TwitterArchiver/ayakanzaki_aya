@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1947821376498188519",
+    "created_at": "2025-07-26T14:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T15:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949115201774596145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1559728976070774784",
+          "start": 0,
+          "username": "raindoh123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949115201774596145",
+    "in_reply_to_user_id": "1559728976070774784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948369301779493124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raindoh123 喔喔！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_1948369299451883520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwn_jhEbMAAvmYp.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1947821376498188519",
+        "created_at": "2025-07-26T14:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T15:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949115201774596145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1559728976070774784",
+              "start": 0,
+              "username": "raindoh123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949115201774596145",
+        "in_reply_to_user_id": "1559728976070774784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948369301779493124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raindoh123 喔喔！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948369299451883520"
+          ]
+        },
+        "author_id": "1559728976070774784",
+        "conversation_id": "1947821376498188519",
+        "created_at": "2025-07-24T13:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T14:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948369301779493124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDOCjO6Mlp",
+              "end": 45,
+              "expanded_url": "https://x.com/raindoh123/status/1948369301779493124/photo/1",
+              "media_key": "3_1948369299451883520",
+              "start": 22,
+              "url": "https://t.co/zDOCjO6Mlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948369301779493124",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948365452763115734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 大概長這樣 https://t.co/zDOCjO6Mlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7832,
+          "following_count": 993,
+          "like_count": 31379,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 20189
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T02:29:39.000Z",
+        "description": "愛心、轉發、靜音、森日快樂、恭喜中獎、感謝抽獎、加油、💤、🤍🥦🐩、預祝平安順利（有抱歉沒有抱抱）\n\nそう 君は友達",
+        "id": "1559728976070774784",
+        "location": "台灣",
+        "name": "raindoh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746764981948096512/KHudOc9l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 3816,
+          "like_count": 45638,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 15465
+        },
+        "username": "raindoh123",
+        "verified": false
+      }
+    ]
+  }
+}

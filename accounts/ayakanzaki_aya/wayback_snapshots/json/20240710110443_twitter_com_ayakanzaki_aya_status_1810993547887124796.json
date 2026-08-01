@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1810537897029746747",
+    "created_at": "2024-07-10T11:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-10T12:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810993547887124796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "830060392072110080",
+          "start": 0,
+          "username": "dingzne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810993547887124796",
+    "in_reply_to_user_id": "830060392072110080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810541867987271736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingzne 但有趣的幾乎都是我身邊的人wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1810537897029746747",
+        "created_at": "2024-07-10T11:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T12:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810993547887124796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "830060392072110080",
+              "start": 0,
+              "username": "dingzne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810993547887124796",
+        "in_reply_to_user_id": "830060392072110080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810541867987271736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingzne 但有趣的幾乎都是我身邊的人wwww"
+      },
+      {
+        "attachments": {},
+        "author_id": "830060392072110080",
+        "conversation_id": "1810537897029746747",
+        "created_at": "2024-07-09T05:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T06:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810541867987271736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810541867987271736",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810537897029746747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 很會畫圖 日常挺有趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 24899,
+          "listed_count": 10,
+          "tweet_count": 14395
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T14:26:34.000Z",
+        "description": "",
+        "id": "830060392072110080",
+        "name": "古雷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656071270516269056/pkqFMDWW_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1720,
+          "like_count": 4312,
+          "listed_count": 1,
+          "tweet_count": 3669
+        },
+        "username": "dingzne",
+        "verified": false
+      }
+    ]
+  }
+}

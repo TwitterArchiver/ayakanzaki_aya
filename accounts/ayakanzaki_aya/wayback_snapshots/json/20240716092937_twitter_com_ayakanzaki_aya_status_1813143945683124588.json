@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1812737995100803561",
+    "created_at": "2024-07-16T09:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T10:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813143945683124588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "265254937",
+          "start": 0,
+          "username": "jky1230cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813143945683124588",
+    "in_reply_to_user_id": "265254937",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812797156862132662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jky1230cm 我要謝謝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1812737995100803561",
+        "created_at": "2024-07-16T09:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T10:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813143945683124588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "265254937",
+              "start": 0,
+              "username": "jky1230cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813143945683124588",
+        "in_reply_to_user_id": "265254937",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812797156862132662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jky1230cm 我要謝謝"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812797090109820928"
+          ]
+        },
+        "author_id": "265254937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1812737995100803561",
+        "created_at": "2024-07-15T10:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T11:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812797156862132662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/evcroWO3Qj",
+              "end": 53,
+              "expanded_url": "https://twitter.com/jky1230cm/status/1812797156862132662/photo/1",
+              "media_key": "3_1812797090109820928",
+              "start": 30,
+              "url": "https://t.co/evcroWO3Qj"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0039bc7a30aaa885"
+        },
+        "id": "1812797156862132662",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812737995100803561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 要不要來份焗烤漢堡排www https://t.co/evcroWO3Qj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 25068,
+          "listed_count": 10,
+          "tweet_count": 14549
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-13T07:39:28.000Z",
+        "description": "LUNLUN",
+        "id": "265254937",
+        "location": "台灣",
+        "name": "林敬倫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/628275465782824961/d2c5d_3-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 1537,
+          "like_count": 13779,
+          "listed_count": 0,
+          "tweet_count": 447
+        },
+        "username": "jky1230cm",
+        "verified": false
+      }
+    ]
+  }
+}

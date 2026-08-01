@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1828722506141765881",
+    "created_at": "2024-08-30T04:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T05:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829380291070132537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1322585970600935424",
+          "start": 0,
+          "username": "KiyoyumeWataru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829380291070132537",
+    "in_reply_to_user_id": "1322585970600935424",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828724817652265266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiyoyumeWataru 些些…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1828722506141765881",
+        "created_at": "2024-08-30T04:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T05:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829380291070132537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1322585970600935424",
+              "start": 0,
+              "username": "KiyoyumeWataru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829380291070132537",
+        "in_reply_to_user_id": "1322585970600935424",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828724817652265266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiyoyumeWataru 些些…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322585970600935424",
+        "conversation_id": "1828722506141765881",
+        "created_at": "2024-08-28T09:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T10:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828724817652265266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828724817652265266",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828722506141765881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 這到底什麼蠢得可愛的生物wwww（給冰枕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 979,
+          "like_count": 25766,
+          "listed_count": 10,
+          "tweet_count": 15234
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-31T17:08:37.000Z",
+        "description": "幽鬼與靈狐的混血孩子，獨自居住在虛實世界間的夢亭生活，現在來到現世成為一名vtuber探索中！#VTuber #TW_VTuber #個人勢\nThreads：https://t.co/Amirc4sUIe\n歡迎繪創tagFANART：#夢之亭",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 47,
+                "tag": "VTuber"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "tag": "TW_VTuber"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "個人勢"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "夢之亭"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "threads.net/@kiyoyume0404",
+                "end": 102,
+                "expanded_url": "https://www.threads.net/@kiyoyume0404",
+                "start": 79,
+                "url": "https://t.co/Amirc4sUIe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/wataru_kiyoyume",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/wataru_kiyoyume",
+                "start": 0,
+                "url": "https://t.co/cZSwi8xZEU"
+              }
+            ]
+          }
+        },
+        "id": "1322585970600935424",
+        "location": "夢之亭",
+        "name": "渡清夢/自以為清純系圖奇個人VT",
+        "pinned_tweet_id": "1494353395338993667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752575067018674176/RMNJJ2gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 2669,
+          "like_count": 24541,
+          "listed_count": 17,
+          "tweet_count": 11238
+        },
+        "url": "https://t.co/cZSwi8xZEU",
+        "username": "KiyoyumeWataru",
+        "verified": false
+      }
+    ]
+  }
+}

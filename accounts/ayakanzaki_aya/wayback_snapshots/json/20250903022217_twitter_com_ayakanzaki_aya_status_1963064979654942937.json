@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1963064979654942937",
+    "created_at": "2025-09-03T02:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T03:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963064979654942937"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 0,
+          "tag": "關於我的十個冷知識"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963064979654942937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#關於我的十個冷知識 \n\n1.雙性戀\n2.對畫圖更多的是執著而不是喜歡\n3.非常扭曲\n4.很會也很喜歡裝可愛\n5.喜歡對熟人撒嬌\n6.有很多件外套和白T\n7.樂子人\n8.有過不止一次自殺的念頭\n9.寫過不少短篇小説\n10.不會愛人也不懂得怎麽回應別人的愛意\n\n這些我應該都沒有講過吧...?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1963064979654942937",
+        "created_at": "2025-09-03T02:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T03:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963064979654942937"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "關於我的十個冷知識"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963064979654942937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#關於我的十個冷知識 \n\n1.雙性戀\n2.對畫圖更多的是執著而不是喜歡\n3.非常扭曲\n4.很會也很喜歡裝可愛\n5.喜歡對熟人撒嬌\n6.有很多件外套和白T\n7.樂子人\n8.有過不止一次自殺的念頭\n9.寫過不少短篇小説\n10.不會愛人也不懂得怎麽回應別人的愛意\n\n這些我應該都沒有講過吧...?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1958347848430342624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8334,
+          "following_count": 993,
+          "like_count": 31649,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 20410
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1800161038207463523",
+    "created_at": "2024-06-12T04:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T05:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800751761189179632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1116693421731618817",
+          "start": 0,
+          "username": "KuroNeko_Elisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800751761189179632",
+    "in_reply_to_user_id": "1116693421731618817",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800605359155134783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuroNeko_Elisa 我因為蠻小時候就被糾正了所以沒有這個問題\n但就是某些情況還是比較習慣用左手就是了www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1800161038207463523",
+        "created_at": "2024-06-12T04:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T05:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800751761189179632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1116693421731618817",
+              "start": 0,
+              "username": "KuroNeko_Elisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800751761189179632",
+        "in_reply_to_user_id": "1116693421731618817",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800605359155134783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuroNeko_Elisa 我因為蠻小時候就被糾正了所以沒有這個問題\n但就是某些情況還是比較習慣用左手就是了www"
+      },
+      {
+        "attachments": {},
+        "author_id": "1116693421731618817",
+        "conversation_id": "1800161038207463523",
+        "created_at": "2024-06-11T19:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T20:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800605359155134783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800605359155134783",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800161038207463523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 這好像跟我一樣欸w\n但我是被我媽改成右手的\n硬改的結果就是很常做什麼事都不順手\n長大後自己把除了寫字以外都改回左手了😂\n寫字因為習慣太久是真的改不回來\n雖然字寫的還是有點歪就是🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3867,
+          "following_count": 992,
+          "like_count": 24213,
+          "listed_count": 10,
+          "tweet_count": 13727
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-12T13:23:53.000Z",
+        "description": "是隻有著狐狸尾巴的黑色卯咪！\n圖奇開台中，歡迎大家來找我聊天一起玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/kuroneko_elisa",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/kuroneko_elisa",
+                "start": 0,
+                "url": "https://t.co/ie8IN7hoCv"
+              }
+            ]
+          }
+        },
+        "id": "1116693421731618817",
+        "name": "黒猫エリサ🐱遊戲出BUG事故系",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647174739511869441/O85oxJxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 1010,
+          "like_count": 80321,
+          "listed_count": 3,
+          "tweet_count": 5069
+        },
+        "url": "https://t.co/ie8IN7hoCv",
+        "username": "KuroNeko_Elisa",
+        "verified": false
+      }
+    ]
+  }
+}

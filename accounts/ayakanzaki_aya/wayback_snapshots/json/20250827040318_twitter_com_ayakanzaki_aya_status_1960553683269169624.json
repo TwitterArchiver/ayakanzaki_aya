@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1960181619429421516",
+    "created_at": "2025-08-27T04:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T05:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960553683269169624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1515029714808631296",
+          "start": 0,
+          "username": "blufish1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960553683269169624",
+    "in_reply_to_user_id": "1515029714808631296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960187338610638940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blufish1234 還活著嗎（；´д｀）ゞ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1960181619429421516",
+        "created_at": "2025-08-27T04:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960553683269169624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1515029714808631296",
+              "start": 0,
+              "username": "blufish1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960553683269169624",
+        "in_reply_to_user_id": "1515029714808631296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960187338610638940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blufish1234 還活著嗎（；´д｀）ゞ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515029714808631296",
+        "conversation_id": "1960181619429421516",
+        "created_at": "2025-08-26T03:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960187338610638940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960187338610638940",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960181619429421516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我已經開學了⋯\n已經死翹翹了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1958347848430342624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8345,
+          "following_count": 1000,
+          "like_count": 31606,
+          "listed_count": 20,
+          "media_count": 64,
+          "tweet_count": 20362
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T18:10:42.000Z",
+        "description": "VRChatter | PyPyDancer\n是一隻狐狐\n裏帳：@blufish_cdr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "blufish_cdr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aikomizuki.me",
+                "end": 23,
+                "expanded_url": "https://aikomizuki.me/",
+                "start": 0,
+                "url": "https://t.co/toXepXW0eL"
+              }
+            ]
+          }
+        },
+        "id": "1515029714808631296",
+        "location": "VRChat",
+        "name": "藍凌-blufish",
+        "pinned_tweet_id": "1847844988941631820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927196325394677760/wFnC-oug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 695,
+          "like_count": 56542,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 7654
+        },
+        "url": "https://t.co/toXepXW0eL",
+        "username": "blufish1234",
+        "verified": true
+      }
+    ]
+  }
+}

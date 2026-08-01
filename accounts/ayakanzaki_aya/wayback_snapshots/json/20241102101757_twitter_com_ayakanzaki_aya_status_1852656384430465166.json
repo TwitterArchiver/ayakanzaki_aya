@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1851840833923764641",
+    "created_at": "2024-11-02T10:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T11:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852656384430465166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1958597372",
+          "start": 0,
+          "username": "LeisureTime777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852656384430465166",
+    "in_reply_to_user_id": "1958597372",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851846809448255719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeisureTime777 萬聖節快樂！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1851840833923764641",
+        "created_at": "2024-11-02T10:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T11:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852656384430465166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1958597372",
+              "start": 0,
+              "username": "LeisureTime777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852656384430465166",
+        "in_reply_to_user_id": "1958597372",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851846809448255719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeisureTime777 萬聖節快樂！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958597372",
+        "conversation_id": "1851840833923764641",
+        "created_at": "2024-10-31T04:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T05:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851846809448255719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851846809448255719",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851840833923764641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 萬聖節快樂🎃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1851840833923764641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4240,
+          "following_count": 978,
+          "like_count": 26919,
+          "listed_count": 10,
+          "tweet_count": 16446
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-13T12:16:05.000Z",
+        "description": "一直認為作家就是魔法師，能將心情見聞轉換成為文字使人感同身受，希望能有朝一日能夠分享出自己構想的世界與故事，能夠用文字分享給人們快樂。",
+        "id": "1958597372",
+        "location": "台中市, 台灣",
+        "name": "悠閒時光 (ゆう)",
+        "pinned_tweet_id": "1814274867224826028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814242929797713920/148-Ep5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 198,
+          "like_count": 7828,
+          "listed_count": 0,
+          "tweet_count": 4275
+        },
+        "username": "LeisureTime777",
+        "verified": false
+      }
+    ]
+  }
+}

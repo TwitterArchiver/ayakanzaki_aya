@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1960555388056608781",
+    "created_at": "2025-09-01T05:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962384921789374798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1365557056741068800",
+          "start": 0,
+          "username": "riolionrock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962384921789374798",
+    "in_reply_to_user_id": "1365557056741068800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960562822456467654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riolionrock 等一下！！也差太遠wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1960555388056608781",
+        "created_at": "2025-09-01T05:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962384921789374798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1365557056741068800",
+              "start": 0,
+              "username": "riolionrock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962384921789374798",
+        "in_reply_to_user_id": "1365557056741068800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960562822456467654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riolionrock 等一下！！也差太遠wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365557056741068800",
+        "conversation_id": "1960555388056608781",
+        "created_at": "2025-08-27T04:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960562822456467654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960562822456467654",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960555388056608781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 100塊的碎石要打磨嗎？　(≧∀≦)？\n10塊美金的話要實物喔～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1958347848430342624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8333,
+          "following_count": 994,
+          "like_count": 31612,
+          "listed_count": 20,
+          "media_count": 65,
+          "tweet_count": 20382
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T06:59:19.000Z",
+        "description": "🇭🇰 #香港vtuber 獅子山 Rio 🦁⛰♌ 入面既人係一個大叔 內容主要都係講下電腦野🖥️，經驗及技術分享同埋打下機咁 目的係要上來悶死晒大家。 v=.=v Tag全般: #獅子山博物館 FF14 Server: Alexander (Gaia)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 3,
+                "tag": "香港vtuber"
+              },
+              {
+                "end": 96,
+                "start": 89,
+                "tag": "獅子山博物館"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/RioChannelHK",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/RioChannelHK",
+                "start": 0,
+                "url": "https://t.co/2ZbbXmf3fK"
+              }
+            ]
+          }
+        },
+        "id": "1365557056741068800",
+        "location": "香港",
+        "name": "獅子山 Rio 🦁⛰♌",
+        "pinned_tweet_id": "1555052259473469440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792886329858265088/gnqddauy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262,
+          "following_count": 431,
+          "like_count": 21516,
+          "listed_count": 7,
+          "media_count": 1120,
+          "tweet_count": 16078
+        },
+        "url": "https://t.co/2ZbbXmf3fK",
+        "username": "riolionrock",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1930611606120993140",
+    "created_at": "2025-06-16T07:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T08:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934518240576737737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791133026627502080",
+          "start": 0,
+          "username": "03_raccoon_SeeU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934518240576737737",
+    "in_reply_to_user_id": "1791133026627502080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930731797710782806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@03_raccoon_SeeU 確實 選你正解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1930611606120993140",
+        "created_at": "2025-06-16T07:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934518240576737737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791133026627502080",
+              "start": 0,
+              "username": "03_raccoon_SeeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934518240576737737",
+        "in_reply_to_user_id": "1791133026627502080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930731797710782806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@03_raccoon_SeeU 確實 選你正解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791133026627502080",
+        "conversation_id": "1930611606120993140",
+        "created_at": "2025-06-05T21:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T22:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930731797710782806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930731797710782806",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930611606120993140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 反過來想就知道吧\n說別人畫的不好看、未經同意提出意見都會被炎\n誇好看最省事啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 996,
+          "like_count": 30808,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19931
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T15:46:14.000Z",
+        "description": "22y↑｜🇹🇼｜夢大好き🩵無言フォロー失礼します｜雜食無差什麼都喜｜🏐好き｜最近深陷覆面＋肌肉＋巨男巨女中，覆面最好的覆德就是臉永遠不露｜浣熊非常好→也是個浣熊分享bot 🫡",
+        "id": "1791133026627502080",
+        "name": "🦝二酸化の炭素🦝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791136271097815040/k6iyVys1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 483,
+          "like_count": 10338,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 1570
+        },
+        "username": "03_raccoon_SeeU",
+        "verified": false
+      }
+    ]
+  }
+}

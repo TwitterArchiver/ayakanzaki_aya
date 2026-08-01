@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1948201717298008197",
+    "created_at": "2025-07-26T11:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T12:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949074856483393920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1696179442106970112",
+          "start": 0,
+          "username": "YaoYang_1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949074856483393920",
+    "in_reply_to_user_id": "1696179442106970112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948653187512369510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaoYang_1003 大概乘6，7200港紙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1948201717298008197",
+        "created_at": "2025-07-26T11:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T12:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949074856483393920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1696179442106970112",
+              "start": 0,
+              "username": "YaoYang_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949074856483393920",
+        "in_reply_to_user_id": "1696179442106970112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948653187512369510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaoYang_1003 大概乘6，7200港紙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696179442106970112",
+        "conversation_id": "1948201717298008197",
+        "created_at": "2025-07-25T07:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T08:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948653187512369510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948653187512369510",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948201717298008197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 唔太識睇=香港幾$？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7832,
+          "following_count": 992,
+          "like_count": 31374,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 20183
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T15:14:51.000Z",
+        "description": "YAOYANG(香港人)\n在twitch直播 (宅男?)\nAPEX Name : YAOYANG_Twitch\n請和我交朋友！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/yaoyang1003",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/yaoyang1003",
+                "start": 0,
+                "url": "https://t.co/ipLFCb4qL8"
+              }
+            ]
+          }
+        },
+        "id": "1696179442106970112",
+        "name": "耀楊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696180635185086464/eqwBqGp5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 413,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/ipLFCb4qL8",
+        "username": "YaoYang_1003",
+        "verified": false
+      }
+    ]
+  }
+}

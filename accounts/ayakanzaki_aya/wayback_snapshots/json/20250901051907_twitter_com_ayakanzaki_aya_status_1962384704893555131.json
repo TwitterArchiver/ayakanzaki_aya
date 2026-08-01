@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1960555388056608781",
+    "created_at": "2025-09-01T05:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962384704893555131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1456962125784838145",
+          "start": 0,
+          "username": "Fazhe1211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962384704893555131",
+    "in_reply_to_user_id": "1456962125784838145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960556099133956394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fazhe1211 台幣啦！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1960555388056608781",
+        "created_at": "2025-09-01T05:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962384704893555131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1456962125784838145",
+              "start": 0,
+              "username": "Fazhe1211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962384704893555131",
+        "in_reply_to_user_id": "1456962125784838145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960556099133956394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fazhe1211 台幣啦！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456962125784838145",
+        "conversation_id": "1960555388056608781",
+        "created_at": "2025-08-27T04:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960556099133956394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960556099133956394",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960555388056608781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 給你台幣還我美金嗎？\n確實划算～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1958347848430342624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8333,
+          "following_count": 994,
+          "like_count": 31607,
+          "listed_count": 20,
+          "media_count": 65,
+          "tweet_count": 20378
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T12:30:24.000Z",
+        "description": "叫我法喆就好 ~ 主要在圖奇開台 未來YT會放精華，有空可以來掛台 語言:中文⭕ 繪師媽媽 ➤ @uni_majominarai 可愛海膽(X 建模媽媽 ➤@kamiya_uyuki 可愛三尾狼 FanArt ➤#星圖法喆(可能會作為素材 圖奇連結➤ https://t.co/F02QuFILQt DC連結➤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "星圖法喆"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "uni_majominarai"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "kamiya_uyuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/fazhe1211",
+                "end": 149,
+                "expanded_url": "http://twitch.tv/fazhe1211",
+                "start": 126,
+                "url": "https://t.co/F02QuFILQt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hfdsVJrAUw",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hfdsVJrAUw",
+                "start": 0,
+                "url": "https://t.co/a6yML22n1w"
+              }
+            ]
+          }
+        },
+        "id": "1456962125784838145",
+        "location": "Taiwan",
+        "name": "法喆 Fazhe 圖奇隨緣直播魔人",
+        "pinned_tweet_id": "1683112789462900736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704444256105140224/bEVS4p2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 817,
+          "like_count": 12475,
+          "listed_count": 2,
+          "media_count": 739,
+          "tweet_count": 6459
+        },
+        "url": "https://t.co/a6yML22n1w",
+        "username": "Fazhe1211",
+        "verified": false
+      }
+    ]
+  }
+}

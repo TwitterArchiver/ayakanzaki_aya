@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1632252261622509568",
+    "created_at": "2023-03-05T07:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-05T08:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1632285061293670401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1222472034740867072",
+          "start": 0,
+          "username": "gavuriru6950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1632285061293670401",
+    "in_reply_to_user_id": "1222472034740867072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1632283969873125376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gavuriru6950 就叫你多扶老太太過馬路吼（X\n沒有啦w 我也懂這種感覺，在成為家裡蹲之前也很常遇到這類的人，久而久之就放棄與人社交了w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1632252261622509568",
+        "created_at": "2023-03-05T07:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-05T08:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1632285061293670401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1222472034740867072",
+              "start": 0,
+              "username": "gavuriru6950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1632285061293670401",
+        "in_reply_to_user_id": "1222472034740867072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1632283969873125376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gavuriru6950 就叫你多扶老太太過馬路吼（X\n沒有啦w 我也懂這種感覺，在成為家裡蹲之前也很常遇到這類的人，久而久之就放棄與人社交了w"
+      },
+      {
+        "attachments": {},
+        "author_id": "1222472034740867072",
+        "conversation_id": "1632252261622509568",
+        "created_at": "2023-03-05T07:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-05T08:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1632283969873125376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1632283969873125376",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1632281618885877763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 那我可能更爛 每天打開都一堆這種人 臉都垮成白痴ಠ╭╮ಠ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "我是あや🎐、神崎あやKanzaki Aya(｀・ω・´)✨ 喜歡畫圖、唱歌的貓系女子🎐 努力尋找自我中🐾… 最喜歡的歐內醬～@Dacodaco_426🐣 聴說點一下跟隨會有好事發生喔(*´∀｀*)🍀✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "Dacodaco_426"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ayakanzaki_aya/",
+                "end": 23,
+                "expanded_url": "https://instagram.com/ayakanzaki_aya/",
+                "start": 0,
+                "url": "https://t.co/0g5RExmX0Z"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🎐",
+        "pinned_tweet_id": "1631086705301225472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631459651970650119/7D1yV38E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 379,
+          "listed_count": 2,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/0g5RExmX0Z",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-29T10:50:28.000Z",
+        "description": "我好累",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCvrBt…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCvrBt92om7zhpBsAY6-osIg",
+                "start": 0,
+                "url": "https://t.co/aevkvYC0gT"
+              }
+            ]
+          }
+        },
+        "id": "1222472034740867072",
+        "location": "Taiwan",
+        "name": "阿育",
+        "pinned_tweet_id": "1284349111798427649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1317150909667815424/oXRwFtia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 458,
+          "listed_count": 1,
+          "tweet_count": 19820
+        },
+        "url": "https://t.co/aevkvYC0gT",
+        "username": "gavuriru6950",
+        "verified": false
+      }
+    ]
+  }
+}

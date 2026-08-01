@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965281439152254976"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1965282513615814895",
+    "created_at": "2025-09-09T05:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T06:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965282513615814895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7h6POGJuv",
+          "end": 66,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/1965282513615814895/photo/1",
+          "media_key": "3_1965281439152254976",
+          "start": 43,
+          "url": "https://t.co/U7h6POGJuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965282513615814895",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "パリオ\n蝶を同類とみなす、正体不明の少女。\n死よりも遠い彼方――永遠を切望している。 https://t.co/U7h6POGJuv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3606,
+        "media_key": "3_1965281439152254976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YVDnBWsAABhVG.jpg",
+        "width": 2964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965281439152254976"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1965282513615814895",
+        "created_at": "2025-09-09T05:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T06:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965282513615814895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7h6POGJuv",
+              "end": 66,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/1965282513615814895/photo/1",
+              "media_key": "3_1965281439152254976",
+              "start": 43,
+              "url": "https://t.co/U7h6POGJuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965282513615814895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "パリオ\n蝶を同類とみなす、正体不明の少女。\n死よりも遠い彼方――永遠を切望している。 https://t.co/U7h6POGJuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1964117804090544489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8332,
+          "following_count": 993,
+          "like_count": 31710,
+          "listed_count": 20,
+          "media_count": 70,
+          "tweet_count": 20438
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

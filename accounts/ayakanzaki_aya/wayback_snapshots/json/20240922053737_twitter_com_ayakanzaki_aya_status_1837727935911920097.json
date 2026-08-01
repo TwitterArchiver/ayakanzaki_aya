@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-22T05:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837727935911920097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1447504366739415042",
+          "start": 0,
+          "username": "k1a2r1a4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837727935911920097",
+    "in_reply_to_user_id": "1447504366739415042",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837500967258149078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k1a2r1a4 不排除這種可能\n畢竟我跟她沒那麼熟\n只是碰巧上課坐在一起講到\n但她講的時候是滿臉笑容雲淡風輕的\n而且她本人也是個玩咖 大麻電子煙全都沾\n每天也是跟男生膩在一起\n在學校算是滿有名的\n其他的就不清楚了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T05:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837727935911920097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447504366739415042",
+              "start": 0,
+              "username": "k1a2r1a4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837727935911920097",
+        "in_reply_to_user_id": "1447504366739415042",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837500967258149078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k1a2r1a4 不排除這種可能\n畢竟我跟她沒那麼熟\n只是碰巧上課坐在一起講到\n但她講的時候是滿臉笑容雲淡風輕的\n而且她本人也是個玩咖 大麻電子煙全都沾\n每天也是跟男生膩在一起\n在學校算是滿有名的\n其他的就不清楚了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1447504366739415042",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-21T14:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T15:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837500967258149078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837500967258149078",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836990408175276060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 會不會有種可能，她是被強%"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26356,
+          "listed_count": 9,
+          "tweet_count": 15817
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T10:08:54.000Z",
+        "description": "YouTube：✝️ Selene.Kara.Lisa✝️\n只畫OC 跟自己喜歡的CP （左右固定",
+        "id": "1447504366739415042",
+        "location": "Taiwan",
+        "name": "Selene.Kara.Lisa",
+        "pinned_tweet_id": "1837059532444553324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837484625486368768/V2FVPWgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 232,
+          "like_count": 62258,
+          "listed_count": 1,
+          "tweet_count": 6908
+        },
+        "username": "k1a2r1a4",
+        "verified": false
+      }
+    ]
+  }
+}

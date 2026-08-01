@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893941232998498597",
+    "created_at": "2025-02-25T01:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T02:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894196202763157634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1266380734060613632",
+          "start": 0,
+          "username": "baozi1203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894196202763157634",
+    "in_reply_to_user_id": "1266380734060613632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893943913095823533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozi1203 謝謝包子！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-25T01:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894196202763157634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1266380734060613632",
+              "start": 0,
+              "username": "baozi1203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894196202763157634",
+        "in_reply_to_user_id": "1266380734060613632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893943913095823533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozi1203 謝謝包子！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266380734060613632",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-24T08:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893943913095823533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893943913095823533",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893941232998498597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 生日快樂樂！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 976,
+          "like_count": 29153,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18661
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T14:48:05.000Z",
+        "description": "🌸可以來委託呦🌸 🫶媽咪：@SAKURIN_VTlive 中文😊/English🤔/日本語😫 委託表單及價目表：https://t.co/a2Ap0weFid 我專屬的DC群：https://t.co/vUUMxmOktG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "SAKURIN_VTlive"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/Rer2Ag",
+                "end": 79,
+                "expanded_url": "https://reurl.cc/Rer2Ag",
+                "start": 56,
+                "url": "https://t.co/a2Ap0weFid"
+              },
+              {
+                "display_url": "discord.gg/rxcBNbCUB4",
+                "end": 111,
+                "expanded_url": "http://discord.gg/rxcBNbCUB4",
+                "start": 88,
+                "url": "https://t.co/vUUMxmOktG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/bun1203baozi?s…",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/bun1203baozi?sr=a",
+                "start": 0,
+                "url": "https://t.co/zofsYJnxbw"
+              }
+            ]
+          }
+        },
+        "id": "1266380734060613632",
+        "location": "包子王國-柯基之家",
+        "name": "那顆包子/×/爆肝系繪師主播",
+        "pinned_tweet_id": "1766795203707617472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890737664934223872/X5ILtmEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1427,
+          "like_count": 67401,
+          "listed_count": 1,
+          "media_count": 1788,
+          "tweet_count": 24426
+        },
+        "url": "https://t.co/zofsYJnxbw",
+        "username": "baozi1203",
+        "verified": false
+      }
+    ]
+  }
+}

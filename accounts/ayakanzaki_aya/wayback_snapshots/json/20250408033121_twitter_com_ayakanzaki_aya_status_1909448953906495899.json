@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1904373321933668721",
+    "created_at": "2025-04-08T03:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T04:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909448953906495899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2570173735",
+          "start": 0,
+          "username": "LaiWink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909448953906495899",
+    "in_reply_to_user_id": "2570173735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909441748679721330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaiWink 開眼界了www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1904373321933668721",
+        "created_at": "2025-04-08T03:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T04:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909448953906495899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2570173735",
+              "start": 0,
+              "username": "LaiWink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909448953906495899",
+        "in_reply_to_user_id": "2570173735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909441748679721330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaiWink 開眼界了www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2570173735",
+        "conversation_id": "1904373321933668721",
+        "created_at": "2025-04-08T03:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T04:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909441748679721330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Find local businesses, view maps and get driving directions in Google Maps.",
+              "display_url": "maps.app.goo.gl/hNjCfetGoMpZzc…",
+              "end": 39,
+              "expanded_url": "https://maps.app.goo.gl/hNjCfetGoMpZzcQ8A?g_st=ac",
+              "start": 16,
+              "status": 200,
+              "title": "台灣鹽酥雞 樂華店【永和樂華夜市網友推薦美食】網友激推鹽酥雞｜推薦雞排｜必吃宵夜｜宵夜首選｜鹽酥雞推薦",
+              "unwound_url": "https://www.google.com/maps/place/%E5%8F%B0%E7%81%A3%E9%B9%BD%E9%85%A5%E9%9B%9E%E5%89%B5%E5%A7%8B%E7%B8%BD%E5%BA%97+%E6%A8%82%E8%8F%AF%E5%BA%97/data=!3m5!1e2!3m3!1sAF1QipP3fZdi7oSVji6aqTGC47Uwd-QIZBW9CH5d_kcP!2e10!6shttps:%2F%2Fgz0.googleusercontent.com%2Fp%2FAF1QipP3fZdi7oSVji6aqTGC47Uwd-QIZBW9CH5d_kcP%3Dk-no-!4m7!3m6!1s0x3442a9c27e33b13b:0xdd669bd6371c277d!8m2!3d25.009095!4d121.51396799999999!10e5!16s%2Fg%2F11df1tz0tp?g_ep=CAESBzI1LjE0LjAYACDmiAsqYyw5NDIyMzI5OSw5NDIxNjQxMyw5NDIxMjQ5Niw5NDIwNzM5NCw5NDIwNzUwNiw5NDIwODUwNiw5NDIxNzUyMyw5NDIxODY1Myw5NDIyOTgzOSw0NzA4NDM5Myw5NDIxMzIwMEICVFc%3D&skid=f0a4ed90-68a0-4deb-8c1a-86b7f6e1ccb5&g_st=ac",
+              "url": "https://t.co/CvrCwgWE17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909441748679721330",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909438729460072712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/CvrCwgWE17\n\n看看這精美的菜單"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1908696249852715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908035628488417280/CuOrfaUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6611,
+          "following_count": 984,
+          "like_count": 30333,
+          "listed_count": 18,
+          "media_count": 134,
+          "tweet_count": 19695
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-16T03:42:54.000Z",
+        "description": "A man come from Taiwan\n\n過著灰頭土臉的人生",
+        "id": "2570173735",
+        "name": "Wink Lai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803870258559856640/4U9fxoAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 95,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1288
+        },
+        "username": "LaiWink",
+        "verified": false
+      }
+    ]
+  }
+}

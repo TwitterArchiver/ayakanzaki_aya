@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2060775220051427374",
+    "created_at": "2026-05-30T17:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060775220051427374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "匿名のメッセージを受け付けています。畫圖兼開直播",
+          "display_url": "marshmallow-qa.com/kecvyyhxx40ofr…",
+          "end": 73,
+          "expanded_url": "https://marshmallow-qa.com/kecvyyhxx40ofrb?t=7tWJZe&utm_medium=url_text&utm_source=promotion",
+          "start": 50,
+          "status": 200,
+          "title": "kanzaki_ayaにマシュマロを投げる | マシュマロ",
+          "unwound_url": "https://marshmallow-qa.com/kecvyyhxx40ofrb?t=7tWJZe&utm_medium=url_text&utm_source=promotion",
+          "url": "https://t.co/7zR0gqfb74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060775220051427374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "弄了棉花糖！下周來重唱初配信的歌兼吃棉花糖\n然後明天台灣時間晚上九點跟呱鴨一起畫圖貼貼預計一個小時\nhttps://t.co/7zR0gqfb74"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2060775220051427374",
+        "created_at": "2026-05-30T17:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060775220051427374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "匿名のメッセージを受け付けています。畫圖兼開直播",
+              "display_url": "marshmallow-qa.com/kecvyyhxx40ofr…",
+              "end": 73,
+              "expanded_url": "https://marshmallow-qa.com/kecvyyhxx40ofrb?t=7tWJZe&utm_medium=url_text&utm_source=promotion",
+              "start": 50,
+              "status": 200,
+              "title": "kanzaki_ayaにマシュマロを投げる | マシュマロ",
+              "unwound_url": "https://marshmallow-qa.com/kecvyyhxx40ofrb?t=7tWJZe&utm_medium=url_text&utm_source=promotion",
+              "url": "https://t.co/7zR0gqfb74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060775220051427374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弄了棉花糖！下周來重唱初配信的歌兼吃棉花糖\n然後明天台灣時間晚上九點跟呱鴨一起畫圖貼貼預計一個小時\nhttps://t.co/7zR0gqfb74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "気づいてくれてありがと。\n高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH┊FANBOX：https://t.co/yhbghbkFby",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 51,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 105,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 82,
+                "url": "https://t.co/yhbghbkFby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2058393230731829716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9576,
+          "following_count": 971,
+          "like_count": 32803,
+          "listed_count": 22,
+          "media_count": 88,
+          "tweet_count": 21405
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

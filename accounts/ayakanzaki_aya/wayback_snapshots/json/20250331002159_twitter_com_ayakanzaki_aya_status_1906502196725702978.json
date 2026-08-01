@@ -1,0 +1,799 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "TBSほかで放送、あいだいろさんによる漫画が原作のアニメ",
+          "id": "10058122908",
+          "name": "地縛少年 花子くん"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Tokyo Broadcasting System Television (TBSテレビ)",
+          "id": "1034890409514655745",
+          "name": "Tokyo Broadcasting System Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tokyo Broadcasting System Television (TBSテレビ)",
+          "id": "1034890409514655745",
+          "name": "Tokyo Broadcasting System Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297310092857995264",
+          "name": "Toilet-Bound Hanako-kun"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "1906502196725702978",
+    "created_at": "2025-03-31T00:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T01:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906502196725702978"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "#地縛少年花子くん２",
+          "probability": 0.7236,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 86,
+          "normalized_text": "あいだいろ先生",
+          "probability": 0.3653,
+          "start": 80,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "地縛少年花子くん２"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1100331780496715776",
+          "start": 3,
+          "username": "hanakokun_info"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906502196725702978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11367
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906254448089034903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanakokun_info: /／ \n👻TVアニメ『#地縛少年花子くん２』の\n続編放送が決定！\n \\＼  \n\n第2期続編放送が決定しました！\nさらにあいだいろ先生描き下ろしのティザービジュアルを公開！     \n\n 📺続編放送\n2025年7月TBS系全国28局ネットに…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1906254440358907904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnRgUFEakAATow-.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TBSほかで放送、あいだいろさんによる漫画が原作のアニメ",
+              "id": "10058122908",
+              "name": "地縛少年 花子くん"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Tokyo Broadcasting System Television (TBSテレビ)",
+              "id": "1034890409514655745",
+              "name": "Tokyo Broadcasting System Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tokyo Broadcasting System Television (TBSテレビ)",
+              "id": "1034890409514655745",
+              "name": "Tokyo Broadcasting System Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297310092857995264",
+              "name": "Toilet-Bound Hanako-kun"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1906502196725702978",
+        "created_at": "2025-03-31T00:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T01:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906502196725702978"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "#地縛少年花子くん２",
+              "probability": 0.7236,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "あいだいろ先生",
+              "probability": 0.3653,
+              "start": 80,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "地縛少年花子くん２"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1100331780496715776",
+              "start": 3,
+              "username": "hanakokun_info"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906502196725702978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11367
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906254448089034903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanakokun_info: /／ \n👻TVアニメ『#地縛少年花子くん２』の\n続編放送が決定！\n \\＼  \n\n第2期続編放送が決定しました！\nさらにあいだいろ先生描き下ろしのティザービジュアルを公開！     \n\n 📺続編放送\n2025年7月TBS系全国28局ネットに…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906254440358907904"
+          ]
+        },
+        "author_id": "1100331780496715776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TBSほかで放送、あいだいろさんによる漫画が原作のアニメ",
+              "id": "10058122908",
+              "name": "地縛少年 花子くん"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Tokyo Broadcasting System Television (TBSテレビ)",
+              "id": "1034890409514655745",
+              "name": "Tokyo Broadcasting System Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tokyo Broadcasting System Television (TBSテレビ)",
+              "id": "1034890409514655745",
+              "name": "Tokyo Broadcasting System Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297310092857995264",
+              "name": "Toilet-Bound Hanako-kun"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1906254448089034903",
+        "created_at": "2025-03-30T07:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T08:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906254448089034903"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "#地縛少年花子くん２",
+              "probability": 0.7407,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "あいだいろ先生",
+              "probability": 0.3825,
+              "start": 60,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "地縛少年花子くん２"
+            }
+          ],
+          "urls": [
+            {
+              "description": "月刊Gファンタジーで連載中「地縛少年花子くん」アニメプロジェクト第3弾、「地縛少年花子くん２」の公式サイトです。",
+              "display_url": "hanakokun.com/2nd/news/news2…",
+              "end": 172,
+              "expanded_url": "https://hanakokun.com/2nd/news/news20250330/",
+              "start": 149,
+              "status": 200,
+              "title": "最新情報 | TVアニメ『地縛少年花子くん２』公式サイト",
+              "unwound_url": "https://hanakokun.com/2nd/news/news20250330/",
+              "url": "https://t.co/QxoyuTuC4T"
+            },
+            {
+              "display_url": "pic.x.com/zDmWWmutT5",
+              "end": 196,
+              "expanded_url": "https://x.com/hanakokun_info/status/1906254448089034903/photo/1",
+              "media_key": "3_1906254440358907904",
+              "start": 173,
+              "url": "https://t.co/zDmWWmutT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906254448089034903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 11,
+                "tag": "地縛少年花子くん２"
+              },
+              {
+                "end": 180,
+                "start": 175,
+                "tag": "花子くん"
+              },
+              {
+                "end": 189,
+                "start": 181,
+                "tag": "花子くんアニメ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hanakokun.com/2nd/news/news2…",
+                "end": 172,
+                "expanded_url": "https://hanakokun.com/2nd/news/news20250330/",
+                "start": 149,
+                "url": "https://t.co/pAAHfRACQ8"
+              }
+            ]
+          },
+          "text": "/／ \n👻TVアニメ『#地縛少年花子くん２』の\n続編放送が決定！\n \\＼  \n\n第2期続編放送が決定しました！\nさらにあいだいろ先生描き下ろしのティザービジュアルを公開！     \n\n 📺続編放送\n2025年7月TBS系全国28局ネットにて毎週日曜ごご4時30分から放送開始  \n\n詳細はこちら👇\nhttps://t.co/pAAHfRACQ8\n\n #花子くん #花子くんアニメ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2275,
+          "impression_count": 1806748,
+          "like_count": 46139,
+          "quote_count": 2310,
+          "reply_count": 252,
+          "retweet_count": 11367
+        },
+        "reply_settings": "everyone",
+        "text": "/／ \n👻TVアニメ『#地縛少年花子くん２』の\n続編放送が決定！\n \\＼  \n\n第2期続編放送が決定しました！\nさらにあいだいろ先生描き下ろしのティザービジュアルを公開！     \n\n 📺続編放送\n2025年7月TBS系全国28局ネットにて毎週日曜ごご4時30分から放送開始  \n\n詳細はこちら👇\nhttps://t.co/QxoyuTuC4T https://t.co/zDmWWmutT5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6534,
+          "following_count": 982,
+          "like_count": 29956,
+          "listed_count": 18,
+          "media_count": 131,
+          "tweet_count": 19455
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-26T09:48:34.000Z",
+        "description": "「地縛少年花子くん」の総合公式アカウントです。原作：あいだいろ（月刊Gファンタジーにて連載中）原作最新23巻発売中『地縛少年花子くん２』2025年1月12日（日）ごご4時30分からTBS系全国28局ネットにて放送開始！ハッシュタグ #花子くん #花子くんアニメ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 116,
+                "tag": "花子くん"
+              },
+              {
+                "end": 130,
+                "start": 122,
+                "tag": "花子くんアニメ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanakokun.com",
+                "end": 23,
+                "expanded_url": "https://hanakokun.com/",
+                "start": 0,
+                "url": "https://t.co/ZXSDF44973"
+              }
+            ]
+          }
+        },
+        "id": "1100331780496715776",
+        "location": "旧校舎女子トイレ3番目",
+        "name": "「地縛少年花子くん」公式",
+        "pinned_tweet_id": "1906254448089034903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851897614796759040/YyoaEb2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341214,
+          "following_count": 44,
+          "like_count": 745,
+          "listed_count": 923,
+          "media_count": 1297,
+          "tweet_count": 4185
+        },
+        "url": "https://t.co/ZXSDF44973",
+        "username": "hanakokun_info",
+        "verified": true
+      }
+    ]
+  }
+}

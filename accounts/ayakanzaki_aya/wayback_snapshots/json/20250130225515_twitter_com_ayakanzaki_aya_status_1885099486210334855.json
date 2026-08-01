@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1882086772617945117",
+    "created_at": "2025-01-30T22:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T23:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885099486210334855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1252219256277622784",
+          "start": 0,
+          "username": "dire_29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885099486210334855",
+    "in_reply_to_user_id": "1252219256277622784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882708883501875248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dire_29 他無視的話也沒用啊（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-30T22:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T23:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885099486210334855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1252219256277622784",
+              "start": 0,
+              "username": "dire_29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885099486210334855",
+        "in_reply_to_user_id": "1252219256277622784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882708883501875248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dire_29 他無視的話也沒用啊（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252219256277622784",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-24T08:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T09:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882708883501875248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882708883501875248",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882086772617945117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 說好的禁止飲食呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4343,
+          "following_count": 989,
+          "like_count": 28305,
+          "listed_count": 10,
+          "media_count": 122,
+          "tweet_count": 17867
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-20T12:55:18.000Z",
+        "description": "\\ヘブンバ大好き/\\音ゲー大好き/\\百合最高/ \n無言フォロー失礼します |||\n🇹🇼 其實很想在推特跟很多日本人討論聊天鍛鍊日文 雖然我日文很爛\n||| maimai華舞舞持ち",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@dire29",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@dire29",
+                "start": 0,
+                "url": "https://t.co/qaBw1d8JYf"
+              }
+            ]
+          }
+        },
+        "id": "1252219256277622784",
+        "location": "台灣的某哥布林窟",
+        "name": "ニヤッ@ヘブンバ、Arcaea",
+        "pinned_tweet_id": "1879847281421357141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869062729983737859/2mQXlOJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 569,
+          "like_count": 6300,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/qaBw1d8JYf",
+        "username": "dire_29",
+        "verified": false
+      }
+    ]
+  }
+}

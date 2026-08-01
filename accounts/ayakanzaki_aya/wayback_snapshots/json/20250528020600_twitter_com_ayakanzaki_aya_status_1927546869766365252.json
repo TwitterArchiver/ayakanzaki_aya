@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1923969597725638945",
+    "created_at": "2025-05-28T02:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T03:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927546869766365252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572591116993851392",
+          "start": 0,
+          "username": "tata3698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927546869766365252",
+    "in_reply_to_user_id": "1572591116993851392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924322999123202487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tata3698 繼續努力www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1923969597725638945",
+        "created_at": "2025-05-28T02:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T03:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927546869766365252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572591116993851392",
+              "start": 0,
+              "username": "tata3698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927546869766365252",
+        "in_reply_to_user_id": "1572591116993851392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924322999123202487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tata3698 繼續努力www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572591116993851392",
+        "conversation_id": "1923969597725638945",
+        "created_at": "2025-05-19T04:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T05:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924322999123202487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924322999123202487",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924296793279299645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 不會ㄚ\n只是會有點違和感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6623,
+          "following_count": 995,
+          "like_count": 30606,
+          "listed_count": 18,
+          "media_count": 53,
+          "tweet_count": 19837
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-21T14:18:48.000Z",
+        "description": "我會用自己獨特的世界觀\n看見一些不一樣的事情\n不談是非只做評論\n事情沒有對與錯\n只有你怎麼想",
+        "id": "1572591116993851392",
+        "name": "塔塔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784426395739054080/DORfcA4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 6,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 6222
+        },
+        "username": "tata3698",
+        "verified": false
+      }
+    ]
+  }
+}

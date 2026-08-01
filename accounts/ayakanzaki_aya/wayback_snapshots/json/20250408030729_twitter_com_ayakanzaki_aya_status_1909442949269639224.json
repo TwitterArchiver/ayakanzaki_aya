@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1908034393630707770",
+    "created_at": "2025-04-08T03:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T04:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909442949269639224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1598674452",
+          "start": 0,
+          "username": "Akiraka_Yuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909442949269639224",
+    "in_reply_to_user_id": "1598674452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908100257340412334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiraka_Yuu 可以wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1908034393630707770",
+        "created_at": "2025-04-08T03:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T04:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909442949269639224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598674452",
+              "start": 0,
+              "username": "Akiraka_Yuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909442949269639224",
+        "in_reply_to_user_id": "1598674452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908100257340412334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiraka_Yuu 可以wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598674452",
+        "conversation_id": "1908034393630707770",
+        "created_at": "2025-04-04T10:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T11:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908100257340412334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908100257340412334",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908034393630707770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 可以演奏春日影嗎ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1908696249852715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908035628488417280/CuOrfaUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6612,
+          "following_count": 984,
+          "like_count": 30185,
+          "listed_count": 18,
+          "media_count": 134,
+          "tweet_count": 19642
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-16T15:48:28.000Z",
+        "description": "イラスト：@ameko_suisui 先生\n----------\nおいっす〜言語交換するのは大歓迎です。\n台湾華語・台湾語・ボロボロ日本語",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "ameko_suisui"
+              }
+            ]
+          }
+        },
+        "id": "1598674452",
+        "location": "台湾",
+        "name": "⚜️🐬アキラカ昱(Akiraka_Yuu)🐋LiSAッ子-台湾｜星詠み☄️🥚🌏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814297836663812096/2OiqmIr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 1356,
+          "like_count": 30320,
+          "listed_count": 1,
+          "media_count": 607,
+          "tweet_count": 3361
+        },
+        "username": "Akiraka_Yuu",
+        "verified": false
+      }
+    ]
+  }
+}

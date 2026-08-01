@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1943973150292586710",
+    "created_at": "2025-07-16T06:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T07:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945369775426634120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1110132829239676928",
+          "start": 0,
+          "username": "kumo_l_tsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945369775426634120",
+    "in_reply_to_user_id": "1110132829239676928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944042033284624547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumo_l_tsuki 沒去看他推特.. 可惡失策"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1943973150292586710",
+        "created_at": "2025-07-16T06:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945369775426634120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1110132829239676928",
+              "start": 0,
+              "username": "kumo_l_tsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945369775426634120",
+        "in_reply_to_user_id": "1110132829239676928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944042033284624547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumo_l_tsuki 沒去看他推特.. 可惡失策"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1110132829239676928",
+        "conversation_id": "1943973150292586710",
+        "created_at": "2025-07-12T14:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T15:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944042033284624547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944042033284624547",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943973150292586710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 還好我在阿北母雞卡的時候就看到他主頁掛神椿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7836,
+          "following_count": 990,
+          "like_count": 31224,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20087
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-25T10:54:26.000Z",
+        "description": "我補藥延畢😭",
+        "id": "1110132829239676928",
+        "location": "幻想鄉",
+        "name": "雲と月",
+        "pinned_tweet_id": "1941013126326976878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641099428726714369/gx-Pe77a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 2382,
+          "like_count": 42107,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 9403
+        },
+        "username": "kumo_l_tsuki",
+        "verified": false
+      }
+    ]
+  }
+}

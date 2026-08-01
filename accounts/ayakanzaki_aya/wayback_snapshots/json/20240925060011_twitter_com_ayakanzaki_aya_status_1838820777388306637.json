@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1838820777388306637",
+    "created_at": "2024-09-25T06:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T07:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838820777388306637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756233854007099392",
+          "start": 3,
+          "username": "Intokashiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838820777388306637",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838806080241143859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Intokashiya: 🎉兔兔生日企劃-七日繪🎉\n\n來了！！ 接下來到兔兔生日當天會連續舉行七天的生日賀圖祝福，希望能在倒數的日子裡一起欣賞生日賀圖之外，也準備一起迎接我們氣質女神兔兔生日宴會吧~\n\n我們的第一張是由我們的浮雲店員所委託的一起來欣賞吧~\n感謝 @/ay…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1838820777388306637",
+        "created_at": "2024-09-25T06:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T07:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838820777388306637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756233854007099392",
+              "start": 3,
+              "username": "Intokashiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838820777388306637",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838806080241143859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Intokashiya: 🎉兔兔生日企劃-七日繪🎉\n\n來了！！ 接下來到兔兔生日當天會連續舉行七天的生日賀圖祝福，希望能在倒數的日子裡一起欣賞生日賀圖之外，也準備一起迎接我們氣質女神兔兔生日宴會吧~\n\n我們的第一張是由我們的浮雲店員所委託的一起來欣賞吧~\n感謝 @/ay…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838805814431354884"
+          ]
+        },
+        "author_id": "1756233854007099392",
+        "conversation_id": "1838806080241143859",
+        "created_at": "2024-09-25T05:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T06:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838806080241143859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 149,
+              "start": 144,
+              "tag": "依起分享"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "依起畫畫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzkhcxnxgz",
+              "end": 179,
+              "expanded_url": "https://twitter.com/Intokashiya/status/1838806080241143859/photo/1",
+              "media_key": "3_1838805814431354884",
+              "start": 156,
+              "url": "https://t.co/wZKHcXnXgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838806080241143859",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 51,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🎉兔兔生日企劃-七日繪🎉\n\n來了！！ 接下來到兔兔生日當天會連續舉行七天的生日賀圖祝福，希望能在倒數的日子裡一起欣賞生日賀圖之外，也準備一起迎接我們氣質女神兔兔生日宴會吧~\n\n我們的第一張是由我們的浮雲店員所委託的一起來欣賞吧~\n感謝 @/ayakanzaki_aya  あや老師繪製🥰\n#依起分享\n#依起畫畫 https://t.co/wZKHcXnXgZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆\n✧お仕事の依頼DMください\nよろしくお願いします꜀(^.  ̫  .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4229,
+          "following_count": 980,
+          "like_count": 26429,
+          "listed_count": 9,
+          "tweet_count": 15898
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T08:29:47.000Z",
+        "description": "「歡迎光臨，今天想買點什麼呢」 這邊是一群喜愛與支持依兔的櫻花糬所開設的菓子屋，之後也會辦各種粉絲向企劃與活動，且一切企劃將通過ME同意與遵守二創下執行，歡迎大家來菓子屋坐坐～",
+        "id": "1756233854007099392",
+        "name": "櫻兔菓子屋",
+        "pinned_tweet_id": "1834564830419951828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775665397322440704/81rNHBlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 65,
+          "like_count": 1117,
+          "listed_count": 0,
+          "tweet_count": 558
+        },
+        "username": "Intokashiya",
+        "verified": true
+      }
+    ]
+  }
+}

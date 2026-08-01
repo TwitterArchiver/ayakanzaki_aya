@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948671106531160064",
+        "3_1948671106535378944",
+        "3_1948671106552135686",
+        "3_1948671106568818688"
+      ],
+      "media_source_tweet_id": [
+        "1948672429766906134",
+        "1948672429766906134",
+        "1948672429766906134",
+        "1948672429766906134"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1948708501842247892",
+    "created_at": "2025-07-25T11:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T12:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948708501842247892"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "857173942586441729",
+          "start": 3,
+          "username": "kieed23232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2pkYDnDoOC",
+          "end": 58,
+          "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+          "media_key": "3_1948671106531160064",
+          "start": 35,
+          "url": "https://t.co/2pkYDnDoOC"
+        },
+        {
+          "display_url": "pic.x.com/2pkYDnDoOC",
+          "end": 58,
+          "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+          "media_key": "3_1948671106535378944",
+          "start": 35,
+          "url": "https://t.co/2pkYDnDoOC"
+        },
+        {
+          "display_url": "pic.x.com/2pkYDnDoOC",
+          "end": 58,
+          "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+          "media_key": "3_1948671106552135686",
+          "start": 35,
+          "url": "https://t.co/2pkYDnDoOC"
+        },
+        {
+          "display_url": "pic.x.com/2pkYDnDoOC",
+          "end": 58,
+          "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+          "media_key": "3_1948671106568818688",
+          "start": 35,
+          "url": "https://t.co/2pkYDnDoOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948708501842247892",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 528
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948672429766906134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kieed23232: Kasane Teto！ #重音テト https://t.co/2pkYDnDoOC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_1948671106531160064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsSDADbcAA90v1.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2500,
+        "media_key": "3_1948671106535378944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsSDAEb0AAe8UA.jpg",
+        "width": 2237
+      },
+      {
+        "height": 2500,
+        "media_key": "3_1948671106552135686",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsSDAIbgAYsOHL.jpg",
+        "width": 1302
+      },
+      {
+        "height": 2500,
+        "media_key": "3_1948671106568818688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsSDAMaEAA0tt4.jpg",
+        "width": 1238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948671106531160064",
+            "3_1948671106535378944",
+            "3_1948671106552135686",
+            "3_1948671106568818688"
+          ],
+          "media_source_tweet_id": [
+            "1948672429766906134",
+            "1948672429766906134",
+            "1948672429766906134",
+            "1948672429766906134"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1948708501842247892",
+        "created_at": "2025-07-25T11:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T12:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948708501842247892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "857173942586441729",
+              "start": 3,
+              "username": "kieed23232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pkYDnDoOC",
+              "end": 58,
+              "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+              "media_key": "3_1948671106531160064",
+              "start": 35,
+              "url": "https://t.co/2pkYDnDoOC"
+            },
+            {
+              "display_url": "pic.x.com/2pkYDnDoOC",
+              "end": 58,
+              "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+              "media_key": "3_1948671106535378944",
+              "start": 35,
+              "url": "https://t.co/2pkYDnDoOC"
+            },
+            {
+              "display_url": "pic.x.com/2pkYDnDoOC",
+              "end": 58,
+              "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+              "media_key": "3_1948671106552135686",
+              "start": 35,
+              "url": "https://t.co/2pkYDnDoOC"
+            },
+            {
+              "display_url": "pic.x.com/2pkYDnDoOC",
+              "end": 58,
+              "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+              "media_key": "3_1948671106568818688",
+              "start": 35,
+              "url": "https://t.co/2pkYDnDoOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948708501842247892",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 528
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948672429766906134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kieed23232: Kasane Teto！ #重音テト https://t.co/2pkYDnDoOC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948671106531160064",
+            "3_1948671106535378944",
+            "3_1948671106552135686",
+            "3_1948671106568818688"
+          ]
+        },
+        "author_id": "857173942586441729",
+        "conversation_id": "1948672429766906134",
+        "created_at": "2025-07-25T09:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T10:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948672429766906134"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pkYDnDoOC",
+              "end": 42,
+              "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+              "media_key": "3_1948671106531160064",
+              "start": 19,
+              "url": "https://t.co/2pkYDnDoOC"
+            },
+            {
+              "display_url": "pic.x.com/2pkYDnDoOC",
+              "end": 42,
+              "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+              "media_key": "3_1948671106535378944",
+              "start": 19,
+              "url": "https://t.co/2pkYDnDoOC"
+            },
+            {
+              "display_url": "pic.x.com/2pkYDnDoOC",
+              "end": 42,
+              "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+              "media_key": "3_1948671106552135686",
+              "start": 19,
+              "url": "https://t.co/2pkYDnDoOC"
+            },
+            {
+              "display_url": "pic.x.com/2pkYDnDoOC",
+              "end": 42,
+              "expanded_url": "https://x.com/kieed23232/status/1948672429766906134/photo/1",
+              "media_key": "3_1948671106568818688",
+              "start": 19,
+              "url": "https://t.co/2pkYDnDoOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948672429766906134",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 546,
+          "impression_count": 37111,
+          "like_count": 3283,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 528
+        },
+        "reply_settings": "everyone",
+        "text": "Kasane Teto！ #重音テト https://t.co/2pkYDnDoOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7833,
+          "following_count": 992,
+          "like_count": 31366,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 20176
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-26T10:06:08.000Z",
+        "description": "Illustrator\nNO AI🚫 didn`t use AI \nPainting Live Streaming &screen recording 作画直播/作画录屏→https://t.co/wLGByCrKGP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/25589919",
+                "end": 109,
+                "expanded_url": "https://space.bilibili.com/25589919",
+                "start": 86,
+                "url": "https://t.co/wLGByCrKGP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11525066",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/11525066",
+                "start": 0,
+                "url": "https://t.co/iHBM2GcLZQ"
+              }
+            ]
+          }
+        },
+        "id": "857173942586441729",
+        "name": "kieed",
+        "pinned_tweet_id": "1829852267304140916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908705750075060224/ciddanZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289132,
+          "following_count": 495,
+          "like_count": 261,
+          "listed_count": 1868,
+          "media_count": 184,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/iHBM2GcLZQ",
+        "username": "kieed23232",
+        "verified": false
+      }
+    ]
+  }
+}

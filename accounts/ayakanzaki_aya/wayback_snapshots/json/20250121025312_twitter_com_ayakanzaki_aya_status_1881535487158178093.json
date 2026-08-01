@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1879436302892060954",
+    "created_at": "2025-01-21T02:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T03:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881535487158178093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "265254937",
+          "start": 0,
+          "username": "jky1230cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881535487158178093",
+    "in_reply_to_user_id": "265254937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880415123669729555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jky1230cm 我也不知道\n但規則就是規則 哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1879436302892060954",
+        "created_at": "2025-01-21T02:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T03:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881535487158178093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "265254937",
+              "start": 0,
+              "username": "jky1230cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881535487158178093",
+        "in_reply_to_user_id": "265254937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880415123669729555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jky1230cm 我也不知道\n但規則就是規則 哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "265254937",
+        "conversation_id": "1879436302892060954",
+        "created_at": "2025-01-18T00:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T01:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880415123669729555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880415123669729555",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880270349688009047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 超可惜的( ´･ω･` )\n老師在想什麼……\n外援也是未來重要的實力啊！( ˘･A･)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4277,
+          "following_count": 990,
+          "like_count": 28073,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17657
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-13T07:39:28.000Z",
+        "description": "LUNLUN",
+        "id": "265254937",
+        "location": "台灣",
+        "name": "林敬倫【LUNLUN】",
+        "pinned_tweet_id": "1871528343566430354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/628275465782824961/d2c5d_3-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 1617,
+          "like_count": 17760,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 617
+        },
+        "username": "jky1230cm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1930665622888673476",
+    "created_at": "2025-06-16T07:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T08:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934518074620657990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1246663091766431749",
+          "start": 0,
+          "username": "getsuyohonodera"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934518074620657990",
+    "in_reply_to_user_id": "1246663091766431749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930681128580735391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@getsuyohonodera 可能國外的不一樣（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1930665622888673476",
+        "created_at": "2025-06-16T07:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934518074620657990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1246663091766431749",
+              "start": 0,
+              "username": "getsuyohonodera"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934518074620657990",
+        "in_reply_to_user_id": "1246663091766431749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930681128580735391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@getsuyohonodera 可能國外的不一樣（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1246663091766431749",
+        "conversation_id": "1930665622888673476",
+        "created_at": "2025-06-05T17:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T18:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930681128580735391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930681128580735391",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930665622888673476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 你們有胎豬解剖？我中六時候只有老鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 996,
+          "like_count": 30801,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19928
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-05T04:57:07.000Z",
+        "description": "👹 個人勢 #HKVTuber 🇭🇰\n👹 地獄鬼神四天王，烈鬼組組長 - 月陽炎寺（也被稱爲月腸）\n👹 廣東話 國語 ENG 〇 日本語 X 👹 \n👹 サブ垢：@honoderagetsuyo  繪帳：@HonoDraw0623\n炎奈是雌墮形態但很可愛的\n出道日 2021/6/15",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 6,
+                "tag": "HKVTuber"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "honoderagetsuyo"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "HonoDraw0623"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/GetsuyoHonod…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/GetsuyoHonodera",
+                "start": 0,
+                "url": "https://t.co/C9Kz1ASZBR"
+              }
+            ]
+          }
+        },
+        "id": "1246663091766431749",
+        "location": "地獄 - 烈鬼組總部",
+        "name": "月陽炎寺 + 炎奈👹鬼神VTuber ",
+        "pinned_tweet_id": "1846145771386671238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884181760478695424/NnKvwj1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 717,
+          "like_count": 59320,
+          "listed_count": 9,
+          "media_count": 2367,
+          "tweet_count": 13678
+        },
+        "url": "https://t.co/C9Kz1ASZBR",
+        "username": "getsuyohonodera",
+        "verified": false
+      }
+    ]
+  }
+}

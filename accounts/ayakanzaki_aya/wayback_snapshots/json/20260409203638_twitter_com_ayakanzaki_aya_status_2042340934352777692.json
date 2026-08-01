@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2042335170246873218",
+    "created_at": "2026-04-09T20:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T21:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042340934352777692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1287213071421726720",
+          "start": 0,
+          "username": "Dacodaco_426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042340934352777692",
+    "in_reply_to_user_id": "1287213071421726720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042335170246873218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dacodaco_426 你賭對了不是嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042335163129217024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfVApabQAAncsJ.jpg",
+        "width": 1419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2042335170246873218",
+        "created_at": "2026-04-09T20:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042340934352777692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1287213071421726720",
+              "start": 0,
+              "username": "Dacodaco_426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042340934352777692",
+        "in_reply_to_user_id": "1287213071421726720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042335170246873218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dacodaco_426 你賭對了不是嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042335163129217024"
+          ]
+        },
+        "author_id": "1287213071421726720",
+        "conversation_id": "2042335170246873218",
+        "created_at": "2026-04-09T20:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042335170246873218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8OFnzoCj6",
+              "end": 52,
+              "expanded_url": "https://x.com/Dacodaco_426/status/2042335170246873218/photo/1",
+              "media_key": "3_2042335163129217024",
+              "start": 29,
+              "url": "https://t.co/N8OFnzoCj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042335170246873218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其實我不是繪師\n我是賭徒\n每一筆都在賭它畫下去會不會好看 https://t.co/N8OFnzoCj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2038606993040998570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 983,
+          "like_count": 32621,
+          "listed_count": 21,
+          "media_count": 106,
+          "tweet_count": 21245
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T02:28:17.000Z",
+        "description": "是個繪師 喜歡唱歌/委託歡迎私訊 ai🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/dacodaco426",
+                "end": 23,
+                "expanded_url": "https://lit.link/dacodaco426",
+                "start": 0,
+                "url": "https://t.co/6jYPIBJifn"
+              }
+            ]
+          }
+        },
+        "id": "1287213071421726720",
+        "location": "大鴨鴨澡堂",
+        "name": "呱鴨Daco🐣",
+        "pinned_tweet_id": "1926144313638928607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926145107658416128/7w3V8roV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2919,
+          "following_count": 995,
+          "like_count": 7876,
+          "listed_count": 13,
+          "media_count": 444,
+          "tweet_count": 4195
+        },
+        "url": "https://t.co/6jYPIBJifn",
+        "username": "Dacodaco_426",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,952 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Liquor and spirits",
+          "id": "847866073693081601",
+          "name": "Liquor and spirits"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Liqueur",
+          "id": "860608201539993600",
+          "name": "Liqueur"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Liquor and spirits",
+          "id": "847866073693081601",
+          "name": "Liquor and spirits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Liquor and spirits",
+          "id": "847866073693081601",
+          "name": "Liquor and spirits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Liqueur",
+          "id": "860608201539993600",
+          "name": "Liqueur"
+        }
+      }
+    ],
+    "conversation_id": "2029583767770132645",
+    "created_at": "2026-03-05T15:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T16:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029583767770132645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1197173528",
+          "start": 3,
+          "username": "rurudo_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "イラストレーター「rurudo」とコラボしたオリジナル酒が登場！   バラの華やかな香りとさくらんぼの甘酸っぱさが繊細なハーモニーを奏でる、麗しいピンク色のリキュールです。ラベルに描かれているのは、お酒の甘美な味わいをイメージして描き下ろされた、オリジナルイラストです。   購入特典は、「オリジナルマドラー」1個です。",
+          "display_url": "kurand.jp/products/rurud…",
+          "end": 88,
+          "expanded_url": "https://kurand.jp/products/rurudot",
+          "images": [
+            {
+              "height": 1500,
+              "url": "https://pbs.twimg.com/news_img/2029474567396147200/eltsabyT?format=jpg&name=orig",
+              "width": 1500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2029474567396147200/eltsabyT?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 65,
+          "status": 200,
+          "title": "Rose & Cherry Muse - rurudo’s selection -",
+          "unwound_url": "https://kurand.jp/products/rurudot",
+          "url": "https://t.co/EL011XwRz9"
+        },
+        {
+          "description": "building conversational AI. formerly Bland, Meta, Twitter, Google",
+          "display_url": "x.com/cg",
+          "end": 139,
+          "expanded_url": "https://x.com/cg",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2022898106694799362/Lj-nhNue?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2022898106694799362/Lj-nhNue?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "@cg (@cg) on X",
+          "unwound_url": "https://twitter.com/cg",
+          "url": "https://t.co/c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029583767770132645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 957
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029497156600840499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurudo_: なんと！クランドさま×rurudoのコラボ酒が発売🍒\nイヴをイメージした、バラとサクランボのお酒です🥂\nhttps://t.co/EL011XwRz9\n\n味もとってもおいしいのでラベルと一緒に楽しんでもらえると嬉しいです🎶 https://t.co/c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_2029483792893923328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCoswcja0AAXwWR.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Liqueur",
+              "id": "860608201539993600",
+              "name": "Liqueur"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Liqueur",
+              "id": "860608201539993600",
+              "name": "Liqueur"
+            }
+          }
+        ],
+        "conversation_id": "2029583767770132645",
+        "created_at": "2026-03-05T15:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029583767770132645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1197173528",
+              "start": 3,
+              "username": "rurudo_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "イラストレーター「rurudo」とコラボしたオリジナル酒が登場！   バラの華やかな香りとさくらんぼの甘酸っぱさが繊細なハーモニーを奏でる、麗しいピンク色のリキュールです。ラベルに描かれているのは、お酒の甘美な味わいをイメージして描き下ろされた、オリジナルイラストです。   購入特典は、「オリジナルマドラー」1個です。",
+              "display_url": "kurand.jp/products/rurud…",
+              "end": 88,
+              "expanded_url": "https://kurand.jp/products/rurudot",
+              "images": [
+                {
+                  "height": 1500,
+                  "url": "https://pbs.twimg.com/news_img/2029474567396147200/eltsabyT?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2029474567396147200/eltsabyT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "Rose & Cherry Muse - rurudo’s selection -",
+              "unwound_url": "https://kurand.jp/products/rurudot",
+              "url": "https://t.co/EL011XwRz9"
+            },
+            {
+              "description": "building conversational AI. formerly Bland, Meta, Twitter, Google",
+              "display_url": "x.com/cg",
+              "end": 139,
+              "expanded_url": "https://x.com/cg",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2022898106694799362/Lj-nhNue?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022898106694799362/Lj-nhNue?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "@cg (@cg) on X",
+              "unwound_url": "https://twitter.com/cg",
+              "url": "https://t.co/c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029583767770132645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029497156600840499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurudo_: なんと！クランドさま×rurudoのコラボ酒が発売🍒\nイヴをイメージした、バラとサクランボのお酒です🥂\nhttps://t.co/EL011XwRz9\n\n味もとってもおいしいのでラベルと一緒に楽しんでもらえると嬉しいです🎶 https://t.co/c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029483792893923328"
+          ]
+        },
+        "author_id": "1197173528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Liqueur",
+              "id": "860608201539993600",
+              "name": "Liqueur"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Liqueur",
+              "id": "860608201539993600",
+              "name": "Liqueur"
+            }
+          }
+        ],
+        "conversation_id": "2029497156600840499",
+        "created_at": "2026-03-05T10:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029497156600840499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "イラストレーター「rurudo」とコラボしたオリジナル酒が登場！   バラの華やかな香りとさくらんぼの甘酸っぱさが繊細なハーモニーを奏でる、麗しいピンク色のリキュールです。ラベルに描かれているのは、お酒の甘美な味わいをイメージして描き下ろされた、オリジナルイラストです。   購入特典は、「オリジナルマドラー」1個です。",
+              "display_url": "kurand.jp/products/rurud…",
+              "end": 75,
+              "expanded_url": "https://kurand.jp/products/rurudot",
+              "images": [
+                {
+                  "height": 1500,
+                  "url": "https://pbs.twimg.com/news_img/2029474567396147200/eltsabyT?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2029474567396147200/eltsabyT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "Rose & Cherry Muse - rurudo’s selection -",
+              "unwound_url": "https://kurand.jp/products/rurudot",
+              "url": "https://t.co/EL011XwRz9"
+            },
+            {
+              "display_url": "pic.x.com/cyAEsiVrhU",
+              "end": 135,
+              "expanded_url": "https://x.com/rurudo_/status/2029497156600840499/photo/1",
+              "media_key": "3_2029483792893923328",
+              "start": 112,
+              "url": "https://t.co/cyAEsiVrhU"
+            },
+            {
+              "display_url": "x.com/KURAND_INFO/st…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/KURAND_INFO/status/2029474495375827403",
+              "start": 136,
+              "url": "https://t.co/hlU9gNC46G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029497156600840499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 815,
+          "impression_count": 185974,
+          "like_count": 6548,
+          "quote_count": 31,
+          "reply_count": 27,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029474495375827403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "なんと！クランドさま×rurudoのコラボ酒が発売🍒\nイヴをイメージした、バラとサクランボのお酒です🥂\nhttps://t.co/EL011XwRz9\n\n味もとってもおいしいのでラベルと一緒に楽しんでもらえると嬉しいです🎶 https://t.co/cyAEsiVrhU https://t.co/hlU9gNC46G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011299487910666240/vr6sPNSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8648,
+          "following_count": 996,
+          "like_count": 32305,
+          "listed_count": 21,
+          "media_count": 104,
+          "tweet_count": 21029
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-19T13:30:56.000Z",
+        "description": "たまにお絵描き🎨┊https://t.co/p9aXC7cEcm┊画集→https://t.co/3pro1mx2cO┊♠️公式info @rurudo_info┊👾@tokoyamitowa┊ごく稀に→🦁https://t.co/0ytd5qttYg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "rurudo_info"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "tokoyamitowa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25760573",
+                "end": 32,
+                "expanded_url": "https://www.pixiv.net/users/25760573",
+                "start": 9,
+                "url": "https://t.co/p9aXC7cEcm"
+              },
+              {
+                "display_url": "amzn.asia/d/7UdfiyQ",
+                "end": 59,
+                "expanded_url": "https://amzn.asia/d/7UdfiyQ",
+                "start": 36,
+                "url": "https://t.co/3pro1mx2cO"
+              },
+              {
+                "display_url": "youtube.com/@rurudo_LION",
+                "end": 126,
+                "expanded_url": "https://www.youtube.com/@rurudo_LION",
+                "start": 103,
+                "url": "https://t.co/0ytd5qttYg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rurudot.net",
+                "end": 23,
+                "expanded_url": "https://rurudot.net/",
+                "start": 0,
+                "url": "https://t.co/BKJ1BLQj3N"
+              }
+            ]
+          }
+        },
+        "id": "1197173528",
+        "location": "rurudot",
+        "name": "rurudo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994623585256968199/I7Q5StQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884760,
+          "following_count": 651,
+          "like_count": 6455,
+          "listed_count": 7251,
+          "media_count": 154,
+          "tweet_count": 4568
+        },
+        "url": "https://t.co/BKJ1BLQj3N",
+        "username": "rurudo_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2043721283595379029",
+    "created_at": "2026-04-14T01:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T02:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043862728838623450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522833347352961029",
+          "start": 0,
+          "username": "Yanglingggg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043862728838623450",
+    "in_reply_to_user_id": "1522833347352961029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043721283595379029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanglingggg 生日快樂！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2043721144063463424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzBjWvbkAAcZxS.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2043721283595379029",
+        "created_at": "2026-04-14T01:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043862728838623450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522833347352961029",
+              "start": 0,
+              "username": "Yanglingggg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043862728838623450",
+        "in_reply_to_user_id": "1522833347352961029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043721283595379029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanglingggg 生日快樂！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043721144063463424"
+          ]
+        },
+        "author_id": "1522833347352961029",
+        "conversation_id": "2043721283595379029",
+        "created_at": "2026-04-13T16:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043721283595379029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4eiuf8Pso",
+              "end": 59,
+              "expanded_url": "https://x.com/Yanglingggg/status/2043721283595379029/photo/1",
+              "media_key": "3_2043721144063463424",
+              "start": 36,
+              "url": "https://t.co/s4eiuf8Pso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043721283595379029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3854,
+          "like_count": 341,
+          "quote_count": 1,
+          "reply_count": 134,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "去年的圖再用一年\n\n今天我生日！跟我說生日快樂我們就是朋友ㄌ！！（？） https://t.co/s4eiuf8Pso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2038606993040998570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8953,
+          "following_count": 985,
+          "like_count": 32645,
+          "listed_count": 22,
+          "media_count": 89,
+          "tweet_count": 21251
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T07:00:31.000Z",
+        "description": "🎐 個人勢Vtuber\n🎐LIVE #風吹鈴響屋閻下\n🎐FANART #鈴異照片  (可能作為封面、直播素材使用)\n🎐meme #閻上風波\n🎐棉花糖 https://t.co/juB2iR5Mff\n🎐最愛的馬麻 @lezon_re\n🎐合作邀約 yanglingvtuber@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 18,
+                "tag": "風吹鈴響屋閻下"
+              },
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "鈴異照片"
+              },
+              {
+                "end": 69,
+                "start": 64,
+                "tag": "閻上風波"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "lezon_re"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/Lm67D7",
+                "end": 98,
+                "expanded_url": "http://reurl.cc/Lm67D7",
+                "start": 75,
+                "url": "https://t.co/juB2iR5Mff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/YangLing",
+                "end": 23,
+                "expanded_url": "https://lit.link/YangLing",
+                "start": 0,
+                "url": "https://t.co/Vfm3NZrdJq"
+              }
+            ]
+          }
+        },
+        "id": "1522833347352961029",
+        "location": "閻鈴的地獄駐人間大使館",
+        "name": "閻鈴🎐有老闆的個人勢Vtuber 《言靈‧拔舌地獄》熱映中 來自地獄的閻王繼承人",
+        "pinned_tweet_id": "1674825836896358400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042634843964739585/lcaJF89j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9463,
+          "following_count": 448,
+          "like_count": 2445,
+          "listed_count": 29,
+          "media_count": 2723,
+          "tweet_count": 12644
+        },
+        "url": "https://t.co/Vfm3NZrdJq",
+        "username": "Yanglingggg",
+        "verified": false
+      }
+    ]
+  }
+}

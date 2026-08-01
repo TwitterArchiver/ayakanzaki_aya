@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-22T05:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837725286789468193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1015965967036248064",
+          "start": 0,
+          "username": "MAXMark46892248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837725286789468193",
+    "in_reply_to_user_id": "1015965967036248064",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837397621188841968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MAXMark46892248 海綿寶寶真的是無處不在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T05:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837725286789468193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1015965967036248064",
+              "start": 0,
+              "username": "MAXMark46892248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837725286789468193",
+        "in_reply_to_user_id": "1015965967036248064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837397621188841968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MAXMark46892248 海綿寶寶真的是無處不在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015965967036248064",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-21T07:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T08:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837397621188841968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "嘻哈酷老頭 太勁爆了 超勁爆 ! 乾~~~啦! 海綿寶寶的那個拍汽水廣告的那個嘻哈酷老頭兒",
+              "display_url": "youtu.be/oj-9n4Ujabc?si…",
+              "end": 57,
+              "expanded_url": "https://youtu.be/oj-9n4Ujabc?si=zh5pYQGfX06z7V4o",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1837397663761027073/b8sN1Dam?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1837397663761027073/b8sN1Dam?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "海綿寶寶-嘻哈酷老頭 超勁爆!!",
+              "unwound_url": "https://www.youtube.com/watch?si=zh5pYQGfX06z7V4o&v=oj-9n4Ujabc&feature=youtu.be",
+              "url": "https://t.co/0vw7dOaoWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837397621188841968",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 268,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837386290053906828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 海綿寶寶\n拍汽水廣告的嘻哈酷老頭\n\nhttps://t.co/0vw7dOaoWx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26336,
+          "listed_count": 9,
+          "tweet_count": 15797
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T14:28:57.000Z",
+        "description": "一個在諾曼第登陸58週年出生的人，現在是個會看台v與歐美v的DD/歷史迷/貓奴逮灣郎🇹🇼",
+        "id": "1015965967036248064",
+        "name": "MAX Mark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753718997089234944/YNXzJAoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 2186,
+          "like_count": 145961,
+          "listed_count": 27,
+          "tweet_count": 42240
+        },
+        "username": "MAXMark46892248",
+        "verified": false
+      }
+    ]
+  }
+}

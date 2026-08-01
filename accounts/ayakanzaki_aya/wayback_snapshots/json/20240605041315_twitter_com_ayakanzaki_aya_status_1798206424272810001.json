@@ -1,0 +1,218 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1797513633267921167",
+    "created_at": "2024-06-05T04:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T05:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798206424272810001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1525847628767821824",
+          "start": 0,
+          "username": "Gazzalo0420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798206424272810001",
+    "in_reply_to_user_id": "1525847628767821824",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797669008839430460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gazzalo0420 這個想法我到未來應該也不會改變\n工作是為了生活\n但我想不到學習是為了什麼\n除了給我媽看那張該死的成績單\n而且一樣都是要處理人際關係、付出勞動\n工作還有錢拿 不香嗎\n（當然前提是工資給夠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1797513633267921167",
+        "created_at": "2024-06-05T04:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T05:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798206424272810001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1525847628767821824",
+              "start": 0,
+              "username": "Gazzalo0420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798206424272810001",
+        "in_reply_to_user_id": "1525847628767821824",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797669008839430460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gazzalo0420 這個想法我到未來應該也不會改變\n工作是為了生活\n但我想不到學習是為了什麼\n除了給我媽看那張該死的成績單\n而且一樣都是要處理人際關係、付出勞動\n工作還有錢拿 不香嗎\n（當然前提是工資給夠"
+      },
+      {
+        "attachments": {},
+        "author_id": "1525847628767821824",
+        "conversation_id": "1797513633267921167",
+        "created_at": "2024-06-03T16:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T17:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797669008839430460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797669008839430460",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797513633267921167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 確實ㄟ 在學時期很容易會有這種想法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3862,
+          "following_count": 993,
+          "like_count": 24060,
+          "listed_count": 10,
+          "tweet_count": 13573
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T14:36:47.000Z",
+        "description": "廢文用帳號 在逃被祖慣犯\n\n偶爾打電動、沒在開台：https://t.co/AXLspnbcsx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@gazzalo8449",
+                "end": 48,
+                "expanded_url": "https://www.youtube.com/@gazzalo8449",
+                "start": 25,
+                "url": "https://t.co/AXLspnbcsx"
+              }
+            ]
+          }
+        },
+        "id": "1525847628767821824",
+        "name": "Gazzalo",
+        "pinned_tweet_id": "1612482383277875205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544968881596289025/llhpVLep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 824,
+          "listed_count": 0,
+          "tweet_count": 874
+        },
+        "username": "Gazzalo0420",
+        "verified": false
+      }
+    ]
+  }
+}

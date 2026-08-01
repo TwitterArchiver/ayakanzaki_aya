@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2044340226487919088",
+    "created_at": "2026-04-15T14:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044421515400073606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1313090775077449730",
+          "start": 0,
+          "username": "_uz_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044421515400073606",
+    "in_reply_to_user_id": "1313090775077449730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044340226487919088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_uz_owo 生日快樂！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2044340221547048960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF70maFa8AA-Hdk.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2044340226487919088",
+        "created_at": "2026-04-15T14:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044421515400073606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1313090775077449730",
+              "start": 0,
+              "username": "_uz_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044421515400073606",
+        "in_reply_to_user_id": "1313090775077449730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044340226487919088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_uz_owo 生日快樂！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044340221547048960"
+          ]
+        },
+        "author_id": "1313090775077449730",
+        "conversation_id": "2044340226487919088",
+        "created_at": "2026-04-15T09:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044340226487919088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kav9ftwAji",
+              "end": 27,
+              "expanded_url": "https://x.com/_uz_owo/status/2044340226487919088/photo/1",
+              "media_key": "3_2044340221547048960",
+              "start": 4,
+              "url": "https://t.co/kav9ftwAji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044340226487919088",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3013,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 83,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "🎈🎈🎈 https://t.co/kav9ftwAji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8955,
+          "following_count": 985,
+          "like_count": 32642,
+          "listed_count": 22,
+          "media_count": 90,
+          "tweet_count": 21259
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T12:17:01.000Z",
+        "description": "Taiwan 20 ↑｜我叫紆織/ㄩㄓ｜一點L2D｜套皮繪師｜委託請加dc伺服器｜聯絡信箱：goldfish0275@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/_uz_owo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/_uz_owo",
+                "start": 0,
+                "url": "https://t.co/UyCQoajwzI"
+              }
+            ]
+          }
+        },
+        "id": "1313090775077449730",
+        "name": "紆織@v皮委託開放中",
+        "pinned_tweet_id": "1927007946598146482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037602072015835136/YyPqaDDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3318,
+          "following_count": 973,
+          "like_count": 25929,
+          "listed_count": 12,
+          "media_count": 1417,
+          "tweet_count": 9300
+        },
+        "url": "https://t.co/UyCQoajwzI",
+        "username": "_uz_owo",
+        "verified": false
+      }
+    ]
+  }
+}

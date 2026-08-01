@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1932990038553382912"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1932990160666296536",
+    "created_at": "2025-06-12T02:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T03:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932990160666296536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KGHjmzu8vX",
+          "end": 68,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/1932990160666296536/video/1",
+          "media_key": "13_1932990038553382912",
+          "start": 45,
+          "url": "https://t.co/KGHjmzu8vX"
+        },
+        {
+          "display_url": "x.com/elwin221039/st…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/elwin221039/status/1932801990628946070",
+          "start": 69,
+          "url": "https://t.co/gXmjNittzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932990160666296536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932801990628946070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前接的泳裝驚喜包\n謝謝委托人讓我畫百合！！！\n順便附上繪圖過程( •̀ ω •́ )✧ https://t.co/KGHjmzu8vX https://t.co/gXmjNittzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60000,
+        "height": 1280,
+        "media_key": "13_1932990038553382912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932990038553382912/img/Khn8ah4rzuFfyRec.jpg",
+        "public_metrics": {},
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932990038553382912/vid/avc1/320x424/UYTA68EBObqUMbCa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932990038553382912/vid/avc1/480x638/51WxQZ2xhLxxgRRW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932990038553382912/vid/avc1/720x958/JdDTQi0ME0-mRBaQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932990038553382912/pl/ltQAUmaCT_KLqYgV.m3u8?tag=14"
+          }
+        ],
+        "width": 962
+      },
+      {
+        "height": 3119,
+        "media_key": "3_1932801189307183104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKwcPYbcAAJVUo.jpg",
+        "width": 2342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932990038553382912"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1932990160666296536",
+        "created_at": "2025-06-12T02:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T03:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932990160666296536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGHjmzu8vX",
+              "end": 68,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/1932990160666296536/video/1",
+              "media_key": "13_1932990038553382912",
+              "start": 45,
+              "url": "https://t.co/KGHjmzu8vX"
+            },
+            {
+              "display_url": "x.com/elwin221039/st…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/elwin221039/status/1932801990628946070",
+              "start": 69,
+              "url": "https://t.co/gXmjNittzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932990160666296536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932801990628946070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前接的泳裝驚喜包\n謝謝委托人讓我畫百合！！！\n順便附上繪圖過程( •̀ ω •́ )✧ https://t.co/KGHjmzu8vX https://t.co/gXmjNittzy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932801189307183104"
+          ]
+        },
+        "author_id": "2777957826",
+        "conversation_id": "1932801990628946070",
+        "created_at": "2025-06-11T14:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932801990628946070"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "水縹色に染まる"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "くれ花畑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMtDVAIM13",
+              "end": 62,
+              "expanded_url": "https://x.com/elwin221039/status/1932801990628946070/photo/1",
+              "media_key": "3_1932801189307183104",
+              "start": 39,
+              "url": "https://t.co/KMtDVAIM13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932801990628946070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "夏日熱辣辣~又到了穿泳衣去玩水的時候了!!~\n\n#水縹色に染まる\n#くれ花畑 https://t.co/KMtDVAIM13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6840,
+          "following_count": 995,
+          "like_count": 30768,
+          "listed_count": 19,
+          "media_count": 56,
+          "tweet_count": 19918
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-29T07:28:36.000Z",
+        "description": "",
+        "id": "2777957826",
+        "name": "elwin221039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844009588158566400/mCiOIW6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 163,
+          "like_count": 5637,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 668
+        },
+        "username": "elwin221039",
+        "verified": true
+      }
+    ]
+  }
+}

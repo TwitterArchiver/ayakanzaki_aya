@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1868713068475334887",
+    "created_at": "2024-12-19T13:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T14:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869744033071001813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1456560008272179201",
+          "start": 0,
+          "username": "IShiKuMason"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869744033071001813",
+    "in_reply_to_user_id": "1456560008272179201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869338540259344636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IShiKuMason 笑死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1868713068475334887",
+        "created_at": "2024-12-19T13:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T14:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869744033071001813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1456560008272179201",
+              "start": 0,
+              "username": "IShiKuMason"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869744033071001813",
+        "in_reply_to_user_id": "1456560008272179201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869338540259344636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IShiKuMason 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456560008272179201",
+        "conversation_id": "1868713068475334887",
+        "created_at": "2024-12-18T11:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869338540259344636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869338540259344636",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868713068475334887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya ㄐㄐ----&gt;我常打的廢文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4253,
+          "following_count": 982,
+          "like_count": 27517,
+          "listed_count": 10,
+          "media_count": 116,
+          "tweet_count": 17095
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T09:52:43.000Z",
+        "description": "個人勢 Vtuber ， 87歲賽博犀牛人 FanArt #Ishillust 實況TAG #MaStream 人設/繪師@IShiKuMason 繪師/校正@sumii_0610 LiVe2D @anonymousKyoRyu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 29,
+                "tag": "Ishillust"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "tag": "MaStream"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "IShiKuMason"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "sumii_0610"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "username": "anonymousKyoRyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@IShiKuMason",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@IShiKuMason",
+                "start": 0,
+                "url": "https://t.co/N5noI0oOkv"
+              }
+            ]
+          }
+        },
+        "id": "1456560008272179201",
+        "location": "http://lit.link/en/IShiKuMason",
+        "name": "犀牛梅森IShiKuMason🦏外鄉人Vtuber",
+        "pinned_tweet_id": "1865414085380354319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741828616957366272/CohfGqab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 2005,
+          "like_count": 67416,
+          "listed_count": 5,
+          "media_count": 2350,
+          "tweet_count": 12570
+        },
+        "url": "https://t.co/N5noI0oOkv",
+        "username": "IShiKuMason",
+        "verified": true
+      }
+    ]
+  }
+}

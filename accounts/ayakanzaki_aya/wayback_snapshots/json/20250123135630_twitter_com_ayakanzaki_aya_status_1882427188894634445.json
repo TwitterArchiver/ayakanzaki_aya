@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1882086772617945117",
+    "created_at": "2025-01-23T13:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T14:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882427188894634445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "47288497",
+          "start": 0,
+          "username": "foxglove1109"
+        },
+        {
+          "end": 27,
+          "id": "1338346455283593216",
+          "start": 14,
+          "username": "Justacat1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882427188894634445",
+    "in_reply_to_user_id": "47288497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882319437417807957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foxglove1109 @Justacat1024 的確w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T13:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T14:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882427188894634445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "47288497",
+              "start": 0,
+              "username": "foxglove1109"
+            },
+            {
+              "end": 27,
+              "id": "1338346455283593216",
+              "start": 14,
+              "username": "Justacat1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882427188894634445",
+        "in_reply_to_user_id": "47288497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882319437417807957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxglove1109 @Justacat1024 的確w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "47288497",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T06:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T07:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882319437417807957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            },
+            {
+              "end": 29,
+              "id": "1338346455283593216",
+              "start": 16,
+              "username": "Justacat1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882319437417807957",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 534,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882140123946745886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya @Justacat1024 不是進到胃裡就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4313,
+          "following_count": 992,
+          "like_count": 28164,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17725
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-15T08:01:14.000Z",
+        "description": "",
+        "id": "47288497",
+        "name": "毛地黃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1306146006812094464/n4CXy9ln_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 513,
+          "like_count": 23052,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 6261
+        },
+        "username": "foxglove1109",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-14T04:54:53.000Z",
+        "description": "hOi, I aM A cAT",
+        "id": "1338346455283593216",
+        "name": "就一隻貓咪罷了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338346876454674433/XiQHd3xv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 215,
+          "like_count": 7046,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 236
+        },
+        "username": "Justacat1024",
+        "verified": false
+      }
+    ]
+  }
+}

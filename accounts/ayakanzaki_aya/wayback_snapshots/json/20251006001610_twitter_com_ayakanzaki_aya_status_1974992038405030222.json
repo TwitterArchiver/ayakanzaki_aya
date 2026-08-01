@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1972483563196203149",
+    "created_at": "2025-10-06T00:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T01:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974992038405030222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1514632777526054912",
+          "start": 0,
+          "username": "bulade6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974992038405030222",
+    "in_reply_to_user_id": "1514632777526054912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972645738170732758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bulade6 畫到死的蝴蝶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1972483563196203149",
+        "created_at": "2025-10-06T00:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T01:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974992038405030222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1514632777526054912",
+              "start": 0,
+              "username": "bulade6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974992038405030222",
+        "in_reply_to_user_id": "1514632777526054912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972645738170732758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bulade6 畫到死的蝴蝶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514632777526054912",
+        "conversation_id": "1972483563196203149",
+        "created_at": "2025-09-29T12:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972645738170732758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972645738170732758",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972483563196203149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好漂亮喔，是蝴蝶欸~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8317,
+          "following_count": 965,
+          "like_count": 31820,
+          "listed_count": 19,
+          "media_count": 80,
+          "tweet_count": 20546
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T15:53:04.000Z",
+        "description": "小小的繪師&live2D模型師 \n中文○/日本語△/ENG△\nEmail：sx38350624@gmail.com\nyoutube：https://t.co/KragpGTJzI\nPIXIV：https://t.co/NJj8bgd2ij",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@brad_TW",
+                "end": 89,
+                "expanded_url": "http://youtube.com/@brad_TW",
+                "start": 66,
+                "url": "https://t.co/KragpGTJzI"
+              },
+              {
+                "display_url": "pixiv.net/users/40320127",
+                "end": 119,
+                "expanded_url": "http://pixiv.net/users/40320127",
+                "start": 96,
+                "url": "https://t.co/NJj8bgd2ij"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clibo.tw/commissions/QY…",
+                "end": 23,
+                "expanded_url": "https://clibo.tw/commissions/QY3A9N",
+                "start": 0,
+                "url": "https://t.co/IUvj9j7yL5"
+              }
+            ]
+          }
+        },
+        "id": "1514632777526054912",
+        "location": "Taiwan",
+        "name": "布拉德Brad🪶繪圖、L2D委託開放中~",
+        "pinned_tweet_id": "1936767751353434424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835907974331764736/0DHNdWmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 464,
+          "like_count": 5245,
+          "listed_count": 13,
+          "media_count": 267,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/IUvj9j7yL5",
+        "username": "bulade6",
+        "verified": true
+      }
+    ]
+  }
+}

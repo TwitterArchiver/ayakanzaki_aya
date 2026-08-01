@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1899463584825888774",
+    "created_at": "2025-03-17T06:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T07:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901521931720868074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4603188854",
+          "start": 0,
+          "username": "0hakuei0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901521931720868074",
+    "in_reply_to_user_id": "4603188854",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899745680786329836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0hakuei0 考不及格！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1899463584825888774",
+        "created_at": "2025-03-17T06:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T07:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901521931720868074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4603188854",
+              "start": 0,
+              "username": "0hakuei0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901521931720868074",
+        "in_reply_to_user_id": "4603188854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899745680786329836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0hakuei0 考不及格！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4603188854",
+        "conversation_id": "1899463584825888774",
+        "created_at": "2025-03-12T08:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T09:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899745680786329836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899745680786329836",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899463584825888774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 老師：為什麼要...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6502,
+          "following_count": 981,
+          "like_count": 29703,
+          "listed_count": 18,
+          "media_count": 129,
+          "tweet_count": 19219
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-19T12:58:09.000Z",
+        "description": "1.▷涅菈非官方Discord粉絲群：https://t.co/RRishPaxWM◁\n\n2.▷可愛涅菈魔王大人的頻道:https://t.co/ChJy6M0095◁",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/zRfuZQzz9n",
+                "end": 42,
+                "expanded_url": "https://discord.gg/zRfuZQzz9n",
+                "start": 19,
+                "url": "https://t.co/RRishPaxWM"
+              },
+              {
+                "display_url": "youtube.com/@Nera_Reverie",
+                "end": 83,
+                "expanded_url": "https://www.youtube.com/@Nera_Reverie",
+                "start": 60,
+                "url": "https://t.co/ChJy6M0095"
+              }
+            ]
+          }
+        },
+        "id": "4603188854",
+        "location": "Taichung City, Taiwan",
+        "name": "♦️☄️白纓 ☄️♦️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889189562720931840/CWpDmpKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 1736,
+          "like_count": 40166,
+          "listed_count": 4,
+          "media_count": 2641,
+          "tweet_count": 17283
+        },
+        "username": "0hakuei0",
+        "verified": false
+      }
+    ]
+  }
+}

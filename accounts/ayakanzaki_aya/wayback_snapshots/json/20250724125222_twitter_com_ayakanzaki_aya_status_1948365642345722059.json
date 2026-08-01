@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1947821376498188519",
+    "created_at": "2025-07-24T12:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T13:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948365642345722059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1493677043053072385",
+          "start": 0,
+          "username": "mizuki_star102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948365642345722059",
+    "in_reply_to_user_id": "1493677043053072385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947834102025167048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuki_star102 試過噴香水但沒用（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1947821376498188519",
+        "created_at": "2025-07-24T12:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T13:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948365642345722059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493677043053072385",
+              "start": 0,
+              "username": "mizuki_star102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948365642345722059",
+        "in_reply_to_user_id": "1493677043053072385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947834102025167048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuki_star102 試過噴香水但沒用（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493677043053072385",
+        "conversation_id": "1947821376498188519",
+        "created_at": "2025-07-23T01:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T02:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947834102025167048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947834102025167048",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947821376498188519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 來點好來牙膏 薄荷除臭很強\n除味就是用更強的味道壓過去 當然要先找喜歡的味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7837,
+          "following_count": 993,
+          "like_count": 31332,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 20139
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T20:02:40.000Z",
+        "description": "我浠多了\n從此踏上追V跟台之路的糊塗大學生\n喜歡唱歌 有時會紀錄一下\n子午箱推人（在其他台看到我也很正常就是了，DDDD）\n🦊🤍🦜💛🦊💜🦝🩵🐆🩷🐿🧡🐈‍⬛💜🧊💙😇💙👿❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hear_my_voice…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@hear_my_voice?si=C-wjXKniiLDcLk3w",
+                "start": 0,
+                "url": "https://t.co/JZLFLtKAvg"
+              }
+            ]
+          }
+        },
+        "id": "1493677043053072385",
+        "location": "Taiwan",
+        "name": "浠裡糊塗🦊🦝🐆🧊",
+        "pinned_tweet_id": "1768652249402896714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1493677632285593604/hNn6OmNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 3341,
+          "like_count": 39652,
+          "listed_count": 5,
+          "media_count": 536,
+          "tweet_count": 6691
+        },
+        "url": "https://t.co/JZLFLtKAvg",
+        "username": "mizuki_star102",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1908696249852715445",
+    "created_at": "2025-04-08T03:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T04:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909443696002515240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462619358262280192",
+          "start": 0,
+          "username": "axd4780158"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909443696002515240",
+    "in_reply_to_user_id": "1462619358262280192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908715941036540262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axd4780158 可以可以！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1908696249852715445",
+        "created_at": "2025-04-08T03:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T04:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909443696002515240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462619358262280192",
+              "start": 0,
+              "username": "axd4780158"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909443696002515240",
+        "in_reply_to_user_id": "1462619358262280192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908715941036540262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axd4780158 可以可以！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462619358262280192",
+        "conversation_id": "1908696249852715445",
+        "created_at": "2025-04-06T02:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T03:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908715941036540262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908715941036540262",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908696249852715445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 感謝活動~~抽抽!\n可以抽到再私人設嗎?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1908696249852715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908035628488417280/CuOrfaUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6611,
+          "following_count": 984,
+          "like_count": 30219,
+          "listed_count": 18,
+          "media_count": 134,
+          "tweet_count": 19655
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-22T03:10:26.000Z",
+        "description": "因為喜歡看遊戲女兒被畫出來的樣子，但自己沒有習得繪圖技能，所以不定時會用錢錢砸繪師。\n頭貼繪師： @RRyiup\n橫幅繪師： @Feather_OuO\n小熊维尼习近平罪该万死  六四天安门事件",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 49,
+                "username": "RRyiup"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "Feather_OuO"
+              }
+            ]
+          }
+        },
+        "id": "1462619358262280192",
+        "location": "Taiwan",
+        "name": "好人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898603140930527232/S8IY2Fof_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 522,
+          "like_count": 607,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 512
+        },
+        "username": "axd4780158",
+        "verified": false
+      }
+    ]
+  }
+}

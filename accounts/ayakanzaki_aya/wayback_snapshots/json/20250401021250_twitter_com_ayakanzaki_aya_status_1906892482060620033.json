@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1904958330717516025",
+    "created_at": "2025-04-01T02:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T03:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906892482060620033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772252786685890560",
+          "start": 0,
+          "username": "my2379195872052"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906892482060620033",
+    "in_reply_to_user_id": "1772252786685890560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905035210510770391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@my2379195872052 蛤w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 359,
+        "media_key": "3_1905035208363323392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnALbb8bsAA3KzO.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1904958330717516025",
+        "created_at": "2025-04-01T02:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T03:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906892482060620033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1772252786685890560",
+              "start": 0,
+              "username": "my2379195872052"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906892482060620033",
+        "in_reply_to_user_id": "1772252786685890560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905035210510770391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@my2379195872052 蛤w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905035208363323392"
+          ]
+        },
+        "author_id": "1772252786685890560",
+        "conversation_id": "1904958330717516025",
+        "created_at": "2025-03-26T23:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T00:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905035210510770391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NdzK8Q82U",
+              "end": 49,
+              "expanded_url": "https://x.com/my2379195872052/status/1905035210510770391/photo/1",
+              "media_key": "3_1905035208363323392",
+              "start": 26,
+              "url": "https://t.co/8NdzK8Q82U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905035210510770391",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904958330717516025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 老師抽我 用力的抽 https://t.co/8NdzK8Q82U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6533,
+          "following_count": 982,
+          "like_count": 30060,
+          "listed_count": 18,
+          "media_count": 131,
+          "tweet_count": 19550
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T13:23:00.000Z",
+        "description": "我是超可愛的睡魔熊熊！泱姆！\n是個長期準備中的vtuber 兼菜鳥繪師！\n泱姆好朋朋：@cindy_liu65371\n經紀人熊哥：@koooorikuma\n我的v女兒：@utopia_mis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "cindy_liu65371"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "koooorikuma"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "utopia_mis"
+              }
+            ]
+          }
+        },
+        "id": "1772252786685890560",
+        "name": "泱姆。4/1號一周年。台V預備中//暫不接委託",
+        "pinned_tweet_id": "1905577048003019066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906890280521048064/btD8WID1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 337,
+          "like_count": 8114,
+          "listed_count": 5,
+          "media_count": 536,
+          "tweet_count": 3712
+        },
+        "username": "my2379195872052",
+        "verified": false
+      }
+    ]
+  }
+}

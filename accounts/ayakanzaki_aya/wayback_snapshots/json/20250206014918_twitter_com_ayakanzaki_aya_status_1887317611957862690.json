@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1886263232102375678",
+    "created_at": "2025-02-06T01:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T02:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887317611957862690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "128546316",
+          "start": 0,
+          "username": "sm_japan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887317611957862690",
+    "in_reply_to_user_id": "128546316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886727393936884203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sm_japan 我已經放棄了wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1886263232102375678",
+        "created_at": "2025-02-06T01:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T02:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887317611957862690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "128546316",
+              "start": 0,
+              "username": "sm_japan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887317611957862690",
+        "in_reply_to_user_id": "128546316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886727393936884203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sm_japan 我已經放棄了wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "128546316",
+        "conversation_id": "1886263232102375678",
+        "created_at": "2025-02-04T10:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T11:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886727393936884203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886727393936884203",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886263232102375678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 真扯，就算分期也要拼還完呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4489,
+          "following_count": 990,
+          "like_count": 28444,
+          "listed_count": 10,
+          "media_count": 124,
+          "tweet_count": 17991
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-01T12:51:27.000Z",
+        "description": "ゲーム大好きなスライムメテオです、よろしく～(≧∇≦)b ゲームプログラマーとして、いろんなゲームを研究している。 日本語も一生懸命勉強します( ･ิω･ิ)✧ English is also okay. (Icon by @siitake_hat）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "siitake_hat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "slimemeteor.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://slimemeteor.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/u5DLf9gSET"
+              }
+            ]
+          }
+        },
+        "id": "128546316",
+        "location": "Taiwan, Taipei",
+        "name": "Slime Meteor",
+        "pinned_tweet_id": "1873694394655875285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790026936078798848/aCjDVnn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 2677,
+          "like_count": 97910,
+          "listed_count": 7,
+          "media_count": 2803,
+          "tweet_count": 13443
+        },
+        "url": "https://t.co/u5DLf9gSET",
+        "username": "sm_japan",
+        "verified": true
+      }
+    ]
+  }
+}

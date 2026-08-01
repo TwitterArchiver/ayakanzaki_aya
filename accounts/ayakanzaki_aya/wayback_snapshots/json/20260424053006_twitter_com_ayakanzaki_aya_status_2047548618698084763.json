@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2046858676560929131",
+    "created_at": "2026-04-24T05:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047548618698084763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "214099728",
+          "start": 0,
+          "username": "Lozeson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047548618698084763",
+    "in_reply_to_user_id": "214099728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046868721734664479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lozeson 謝謝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-24T05:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047548618698084763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "214099728",
+              "start": 0,
+              "username": "Lozeson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047548618698084763",
+        "in_reply_to_user_id": "214099728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046868721734664479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lozeson 謝謝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "214099728",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-22T08:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046868721734664479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046868721734664479",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046858676560929131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 恭喜9000追！🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9130,
+          "following_count": 985,
+          "like_count": 32696,
+          "listed_count": 22,
+          "media_count": 90,
+          "tweet_count": 21292
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-10T15:26:47.000Z",
+        "description": "aka Lozeson(ロゼソン) & 七夜商，#LoKK團 所屬。\n\n喜歡畫圖（❌AI）與遊戲，偶爾會寫文作詩的社畜（ISFP-O-C），\n雖然在某天錯過了那個絕無僅有、足以震撼自己內心的景色，\n但仍關注著有興趣的人事物，只是偶爾會帶點負能量。\n頭圖：@nakinaki0412、3D/Q版：@sora6024123",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "LoKK團"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 127,
+                "username": "nakinaki0412"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "sora6024123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lozeson",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@lozeson",
+                "start": 0,
+                "url": "https://t.co/ck4gfDfTcp"
+              }
+            ]
+          }
+        },
+        "id": "214099728",
+        "location": "https://www.twitch.tv/lozeson",
+        "name": "Kenji Sai",
+        "pinned_tweet_id": "2045366116982436330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043030983495315456/5rZC_562_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 264,
+          "like_count": 106586,
+          "listed_count": 3,
+          "media_count": 2001,
+          "tweet_count": 14815
+        },
+        "url": "https://t.co/ck4gfDfTcp",
+        "username": "Lozeson",
+        "verified": false
+      }
+    ]
+  }
+}

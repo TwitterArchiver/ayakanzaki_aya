@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2039947205075722466",
+    "created_at": "2026-04-03T14:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040076430302712234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987086427302338562",
+          "start": 0,
+          "username": "EllylanNec20726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040076430302712234",
+    "in_reply_to_user_id": "1987086427302338562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040060504484553151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EllylanNec20726 喜歡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2039947205075722466",
+        "created_at": "2026-04-03T14:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040076430302712234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987086427302338562",
+              "start": 0,
+              "username": "EllylanNec20726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040076430302712234",
+        "in_reply_to_user_id": "1987086427302338562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040060504484553151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EllylanNec20726 喜歡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987086427302338562",
+        "conversation_id": "2039947205075722466",
+        "created_at": "2026-04-03T13:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040060504484553151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040060504484553151",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039947205075722466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya Aya喜歡bl嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2038606993040998570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8888,
+          "following_count": 984,
+          "like_count": 32480,
+          "listed_count": 20,
+          "media_count": 111,
+          "tweet_count": 21168
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T09:15:25.000Z",
+        "description": "腐女一枚\n中/En OK!\n日文會用翻譯\n壁紙from :@blackseek10904",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "blackseek10904"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyolab.com/accountCenter/…",
+                "end": 23,
+                "expanded_url": "https://www.hoyolab.com/accountCenter/postList?id=390246528",
+                "start": 0,
+                "url": "https://t.co/m0AhGJg3Bd"
+              }
+            ]
+          }
+        },
+        "id": "1987086427302338562",
+        "name": "小喵依莉藍Neco EllyLan",
+        "pinned_tweet_id": "2039712917751570617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024127522276040704/QA7IGIHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 18,
+          "like_count": 3738,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/m0AhGJg3Bd",
+        "username": "EllylanNec20726",
+        "verified": false
+      }
+    ]
+  }
+}

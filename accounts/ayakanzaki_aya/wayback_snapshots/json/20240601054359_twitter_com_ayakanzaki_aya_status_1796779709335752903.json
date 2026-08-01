@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1796033855754748207",
+    "created_at": "2024-06-01T05:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T06:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796779709335752903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1480040257588690944",
+          "start": 0,
+          "username": "chazi96349674"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796779709335752903",
+    "in_reply_to_user_id": "1480040257588690944",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796407097573421532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chazi96349674 原來如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1796033855754748207",
+        "created_at": "2024-06-01T05:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T06:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796779709335752903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1480040257588690944",
+              "start": 0,
+              "username": "chazi96349674"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796779709335752903",
+        "in_reply_to_user_id": "1480040257588690944",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796407097573421532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chazi96349674 原來如此"
+      },
+      {
+        "attachments": {},
+        "author_id": "1480040257588690944",
+        "conversation_id": "1796033855754748207",
+        "created_at": "2024-05-31T05:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T06:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796407097573421532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796407097573421532",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796405303464091942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 氰化鉀跟二氧化碳接觸會緩慢形成氰化氫，氰化氫沸點是26攝氏度左右，應該是會緩慢揮發🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3861,
+          "following_count": 993,
+          "like_count": 23992,
+          "listed_count": 10,
+          "tweet_count": 13502
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-09T04:54:46.000Z",
+        "description": "一個躺在家裡等委託自己掉下來的佛系剪輯師，喜歡嗑糖，有空會開個台雖然不知道要幹嘛 聯絡方式:DC .chazi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ChaziBVS",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ChaziBVS",
+                "start": 0,
+                "url": "https://t.co/m0KU44CRfu"
+              }
+            ]
+          }
+        },
+        "id": "1480040257588690944",
+        "name": "茶梓CHAZI【PR退休/AE學習中】",
+        "pinned_tweet_id": "1793641854308938028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756504077041819648/FnmFcqwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 1350,
+          "like_count": 53087,
+          "listed_count": 1,
+          "tweet_count": 6324
+        },
+        "url": "https://t.co/m0KU44CRfu",
+        "username": "chazi96349674",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040856246903861248"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "2040856253572808997",
+    "created_at": "2026-04-05T18:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040856253572808997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "shop1782942778.v.weidian.com/?userid=178294…",
+          "end": 79,
+          "expanded_url": "https://shop1782942778.v.weidian.com/?userid=1782942778&share_relation=10470742f7656013_1816677137_1&wfr=BuyercopyURL",
+          "start": 56,
+          "status": 200,
+          "title": "页面未找到-微店",
+          "unwound_url": "https://h5.weidian.com/m/abnormal/404.html",
+          "url": "https://t.co/REjlOSsnOz"
+        },
+        {
+          "display_url": "pic.x.com/GoV1rBPwjX",
+          "end": 103,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/2040856253572808997/photo/1",
+          "media_key": "3_2040856246903861248",
+          "start": 80,
+          "url": "https://t.co/GoV1rBPwjX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040856253572808997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "圖被盜了\n麻煩大家幫我檢舉下架🙏🏻\n\n講個無關的我有點好奇成品長什麼樣\n我自己拿去印的話應該不會那麼便宜（x\n\nhttps://t.co/REjlOSsnOz https://t.co/GoV1rBPwjX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040856246903861248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFKT8ZJXcAAV0eS.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040856246903861248"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "2040856253572808997",
+        "created_at": "2026-04-05T18:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040856253572808997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "shop1782942778.v.weidian.com/?userid=178294…",
+              "end": 79,
+              "expanded_url": "https://shop1782942778.v.weidian.com/?userid=1782942778&share_relation=10470742f7656013_1816677137_1&wfr=BuyercopyURL",
+              "start": 56,
+              "status": 200,
+              "title": "页面未找到-微店",
+              "unwound_url": "https://h5.weidian.com/m/abnormal/404.html",
+              "url": "https://t.co/REjlOSsnOz"
+            },
+            {
+              "display_url": "pic.x.com/GoV1rBPwjX",
+              "end": 103,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/2040856253572808997/photo/1",
+              "media_key": "3_2040856246903861248",
+              "start": 80,
+              "url": "https://t.co/GoV1rBPwjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040856253572808997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圖被盜了\n麻煩大家幫我檢舉下架🙏🏻\n\n講個無關的我有點好奇成品長什麼樣\n我自己拿去印的話應該不會那麼便宜（x\n\nhttps://t.co/REjlOSsnOz https://t.co/GoV1rBPwjX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2038606993040998570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8876,
+          "following_count": 983,
+          "like_count": 32593,
+          "listed_count": 20,
+          "media_count": 112,
+          "tweet_count": 21225
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

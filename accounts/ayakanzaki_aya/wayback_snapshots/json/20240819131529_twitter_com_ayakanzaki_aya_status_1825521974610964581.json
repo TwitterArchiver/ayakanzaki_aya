@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1825278474124161024",
+        "3_1825278474115768320"
+      ],
+      "media_source_tweet_id": [
+        "1825278479572595165",
+        "1825278479572595165"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1825521974610964581",
+    "created_at": "2024-08-19T13:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T14:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825521974610964581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1499470341734907907",
+          "start": 3,
+          "username": "ayakanzaki_aya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vq64bi7xfh",
+          "end": 46,
+          "expanded_url": "https://twitter.com/ayakanzaki_aya/status/1825278479572595165/photo/1",
+          "media_key": "3_1825278474124161024",
+          "start": 23,
+          "url": "https://t.co/vQ64bi7XFH"
+        },
+        {
+          "display_url": "pic.x.com/vq64bi7xfh",
+          "end": 46,
+          "expanded_url": "https://twitter.com/ayakanzaki_aya/status/1825278479572595165/photo/1",
+          "media_key": "3_1825278474115768320",
+          "start": 23,
+          "url": "https://t.co/vQ64bi7XFH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825521974610964581",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825278479572595165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayakanzaki_aya: 🐰💜 https://t.co/vQ64bi7XFH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1825278474124161024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVSxGfpWcAAJwNu.jpg",
+        "width": 691
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1825278474115768320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVSxGfnWYAAAUWR.jpg",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825278474124161024",
+            "3_1825278474115768320"
+          ],
+          "media_source_tweet_id": [
+            "1825278479572595165",
+            "1825278479572595165"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1825521974610964581",
+        "created_at": "2024-08-19T13:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T14:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825521974610964581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1499470341734907907",
+              "start": 3,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vq64bi7xfh",
+              "end": 46,
+              "expanded_url": "https://twitter.com/ayakanzaki_aya/status/1825278479572595165/photo/1",
+              "media_key": "3_1825278474124161024",
+              "start": 23,
+              "url": "https://t.co/vQ64bi7XFH"
+            },
+            {
+              "display_url": "pic.x.com/vq64bi7xfh",
+              "end": 46,
+              "expanded_url": "https://twitter.com/ayakanzaki_aya/status/1825278479572595165/photo/1",
+              "media_key": "3_1825278474115768320",
+              "start": 23,
+              "url": "https://t.co/vQ64bi7XFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825521974610964581",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825278479572595165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayakanzaki_aya: 🐰💜 https://t.co/vQ64bi7XFH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825278474124161024",
+            "3_1825278474115768320"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1825278479572595165",
+        "created_at": "2024-08-18T21:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T22:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825278479572595165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vq64bi7xfh",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ayakanzaki_aya/status/1825278479572595165/photo/1",
+              "media_key": "3_1825278474124161024",
+              "start": 3,
+              "url": "https://t.co/vQ64bi7XFH"
+            },
+            {
+              "display_url": "pic.x.com/vq64bi7xfh",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ayakanzaki_aya/status/1825278479572595165/photo/1",
+              "media_key": "3_1825278474115768320",
+              "start": 3,
+              "url": "https://t.co/vQ64bi7XFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825278479572595165",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1449,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "🐰💜 https://t.co/vQ64bi7XFH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3910,
+          "following_count": 997,
+          "like_count": 25637,
+          "listed_count": 10,
+          "tweet_count": 15112
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

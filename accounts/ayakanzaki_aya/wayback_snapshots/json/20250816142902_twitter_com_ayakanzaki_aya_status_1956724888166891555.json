@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1956717591495671940",
+    "created_at": "2025-08-16T14:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T15:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956724888166891555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1478171776295514113",
+          "start": 0,
+          "username": "DDrefuge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956724888166891555",
+    "in_reply_to_user_id": "1478171776295514113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956717591495671940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDrefuge 這邊有興趣，作品都可以在我推特看得到！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1956717591495671940",
+        "created_at": "2025-08-16T14:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956724888166891555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1478171776295514113",
+              "start": 0,
+              "username": "DDrefuge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956724888166891555",
+        "in_reply_to_user_id": "1478171776295514113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956717591495671940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDrefuge 這邊有興趣，作品都可以在我推特看得到！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478171776295514113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "1956717591495671940",
+        "created_at": "2025-08-16T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956717591495671940"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "匿名發言4431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956717591495671940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "匿名發言4431"
+              }
+            ]
+          },
+          "text": "#匿名發言4431\n\n【委託徵人｜女性VTuber繪師＆建模師】\n\n 尋找擅長16歲白髮少女風格的繪師＆建模師\n 需要角色設計＋立繪＋Live2D建模\n\n 總預算：3～5萬台幣\n 一條龍🆗　繪師/建模師單接🆗\n\n希望最晚2026年3月前能排單\n\n 有興趣請附上作品集＆報價，感謝大家與幫忙審文的朋友們🙏\n順便想問～大家平常都是怎麼找到合適的繪師或建模師委託的呢？也歡迎推薦你喜歡的老師！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#匿名發言4431\n\n【委託徵人｜女性VTuber繪師＆建模師】\n\n 尋找擅長16歲白髮少女風格的繪師＆建模師\n 需要角色設計＋立繪＋Live2D建模\n\n 總預算：3～5萬台幣\n 一條龍🆗　繪師/建模師單接🆗\n\n希望最晚2026年3月前能排單\n\n 有興趣請附上作品集＆報價，感謝大家與幫忙審文的朋友們🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1955085681811763314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8350,
+          "following_count": 997,
+          "like_count": 31532,
+          "listed_count": 19,
+          "media_count": 62,
+          "tweet_count": 20292
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T01:10:55.000Z",
+        "description": "新創Discord伺服器歡迎大家加入！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ez6NjF9J2n",
+                "end": 23,
+                "expanded_url": "https://discord.gg/ez6NjF9J2n",
+                "start": 0,
+                "url": "https://t.co/BXjZXgXi7q"
+              }
+            ]
+          }
+        },
+        "id": "1478171776295514113",
+        "location": "台灣",
+        "name": "避難所",
+        "pinned_tweet_id": "1914701923309248853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660249958761779203/PndKmNAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16619,
+          "following_count": 50,
+          "like_count": 7173,
+          "listed_count": 21,
+          "media_count": 2191,
+          "tweet_count": 6377
+        },
+        "url": "https://t.co/BXjZXgXi7q",
+        "username": "DDrefuge",
+        "verified": true
+      }
+    ]
+  }
+}

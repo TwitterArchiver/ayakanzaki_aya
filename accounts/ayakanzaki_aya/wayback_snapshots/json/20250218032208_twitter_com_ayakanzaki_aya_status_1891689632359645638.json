@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1890218473189695882",
+    "created_at": "2025-02-18T03:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T04:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891689632359645638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1344803850771812352",
+          "start": 0,
+          "username": "shueiyuehi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891689632359645638",
+    "in_reply_to_user_id": "1344803850771812352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890333304517169271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shueiyuehi 我會的少數日文（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1890218473189695882",
+        "created_at": "2025-02-18T03:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T04:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891689632359645638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1344803850771812352",
+              "start": 0,
+              "username": "shueiyuehi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891689632359645638",
+        "in_reply_to_user_id": "1344803850771812352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890333304517169271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shueiyuehi 我會的少數日文（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344803850771812352",
+        "conversation_id": "1890218473189695882",
+        "created_at": "2025-02-14T09:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T10:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890333304517169271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890333304517169271",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890218473189695882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 看翻譯才知道意思，不然我一直在想這是什麼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6244,
+          "following_count": 971,
+          "like_count": 28896,
+          "listed_count": 16,
+          "media_count": 127,
+          "tweet_count": 18419
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-01T00:33:29.000Z",
+        "description": "是名不務正業的軍師，國家大事應該不重要吧，下次再北伐好了",
+        "id": "1344803850771812352",
+        "location": "Taiwan",
+        "name": "朱葛臥龍👻shueiyue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827131557876002817/3XN5Gv2M_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 210,
+          "like_count": 12783,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 625
+        },
+        "username": "shueiyuehi",
+        "verified": true
+      }
+    ]
+  }
+}

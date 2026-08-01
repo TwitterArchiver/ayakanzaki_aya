@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1939188159432270234",
+    "created_at": "2025-07-02T02:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T03:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940230898584363178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735017994080899074",
+          "start": 0,
+          "username": "shiro_laby0424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940230898584363178",
+    "in_reply_to_user_id": "1735017994080899074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939547740276752604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiro_laby0424 什麼鬼啦wwwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 194,
+        "media_key": "3_1939547738275770368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuqoZEzW8AAv-e1.jpg",
+        "width": 259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1939188159432270234",
+        "created_at": "2025-07-02T02:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T03:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940230898584363178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735017994080899074",
+              "start": 0,
+              "username": "shiro_laby0424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940230898584363178",
+        "in_reply_to_user_id": "1735017994080899074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939547740276752604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiro_laby0424 什麼鬼啦wwwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939547738275770368"
+          ]
+        },
+        "author_id": "1735017994080899074",
+        "conversation_id": "1939188159432270234",
+        "created_at": "2025-06-30T04:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939547740276752604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2vN4dyGGq",
+              "end": 39,
+              "expanded_url": "https://x.com/shiro_laby0424/status/1939547740276752604/photo/1",
+              "media_key": "3_1939547738275770368",
+              "start": 16,
+              "url": "https://t.co/N2vN4dyGGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939547740276752604",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939188159432270234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/N2vN4dyGGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7725,
+          "following_count": 998,
+          "like_count": 31140,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20030
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:25:42.000Z",
+        "description": "來自台灣的撿角小孩會不定期的開小破台。sub: ()\n避難用: @shirolaby_inai\n\n歡迎來玩，但跟我混你不會變聰明\n不定期配信する台湾の大学生です\n今日本語勉強中、一緒に遊びたいの人大歓迎!!（悪い人だよもしあなたが私に傷つけられたのなら、私に知らせてほしい，本心ではないからだ。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "shirolaby_inai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/shiro_laby",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/shiro_laby",
+                "start": 0,
+                "url": "https://t.co/UbhcbPz33Y"
+              }
+            ]
+          }
+        },
+        "id": "1735017994080899074",
+        "location": "マイクラスキン作りたい人DMで相談做麥快skinDM我",
+        "name": "稱呼隨你叫(shiro_laby)",
+        "pinned_tweet_id": "1907945829979283744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735022501569384451/w7WggCJs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 5027,
+          "like_count": 72553,
+          "listed_count": 11,
+          "media_count": 830,
+          "tweet_count": 35858
+        },
+        "url": "https://t.co/UbhcbPz33Y",
+        "username": "shiro_laby0424",
+        "verified": false
+      }
+    ]
+  }
+}

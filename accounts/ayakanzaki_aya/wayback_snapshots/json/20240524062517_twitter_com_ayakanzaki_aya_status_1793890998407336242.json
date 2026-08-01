@@ -1,0 +1,243 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1793610942900842905",
+    "created_at": "2024-05-24T06:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T07:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793890998407336242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "421828043",
+          "start": 0,
+          "username": "Inumura_Aru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793890998407336242",
+    "in_reply_to_user_id": "421828043",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793622776055812585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inumura_Aru 還會有一個動漫包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1793610942900842905",
+        "created_at": "2024-05-24T06:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T07:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793890998407336242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "421828043",
+              "start": 0,
+              "username": "Inumura_Aru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793890998407336242",
+        "in_reply_to_user_id": "421828043",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793622776055812585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inumura_Aru 還會有一個動漫包"
+      },
+      {
+        "attachments": {},
+        "author_id": "421828043",
+        "conversation_id": "1793610942900842905",
+        "created_at": "2024-05-23T12:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T13:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793622776055812585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793622776055812585",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793610942900842905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我不知道\n但我知道如果砸在牛頓頭上的是拳頭\n他一定會有心裡創傷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 993,
+          "like_count": 23707,
+          "listed_count": 10,
+          "tweet_count": 13233
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-26T12:42:38.000Z",
+        "description": "ESTJ-T｜台灣個人勢 Vtuber｜生誕日 3月27日牡羊｜台灣中文⭕｜日本語⭕｜鬼方カヨコ推し｜星詠み💫｜illus&Logo&Live2D 完全自製 ｜合作、連動大歡迎 DC: inumura_aru｜FA #犬村的希望 ｜精華 #犬村的寶藏｜週表 #值班表 ｜直播通知 #值勤中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 108,
+                "tag": "犬村的希望"
+              },
+              {
+                "end": 125,
+                "start": 119,
+                "tag": "犬村的寶藏"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "值班表"
+              },
+              {
+                "end": 144,
+                "start": 140,
+                "tag": "值勤中"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/aruinumura",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/aruinumura",
+                "start": 0,
+                "url": "https://t.co/6d2wdsSrBo"
+              }
+            ]
+          }
+        },
+        "id": "421828043",
+        "location": "Taiwan",
+        "name": "｜犬村亜柳 個人勢 Vtuber｜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793455529572073472/XDS8Mrnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 477,
+          "like_count": 44257,
+          "listed_count": 38,
+          "tweet_count": 15474
+        },
+        "url": "https://t.co/6d2wdsSrBo",
+        "username": "Inumura_Aru",
+        "verified": false
+      }
+    ]
+  }
+}

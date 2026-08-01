@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931176594162462720"
+      ],
+      "media_source_tweet_id": [
+        "1931176603012501917"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1931437182855627019",
+    "created_at": "2025-06-07T19:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T20:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931437182855627019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684871914769305601",
+          "start": 3,
+          "username": "N_ekobouzaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgOGwIlmtG",
+          "end": 41,
+          "expanded_url": "https://x.com/N_ekobouzaki/status/1931176603012501917/photo/1",
+          "media_key": "3_1931176594162462720",
+          "start": 18,
+          "url": "https://t.co/fgOGwIlmtG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931437182855627019",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1300
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931176603012501917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N_ekobouzaki: https://t.co/fgOGwIlmtG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1931176594162462720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gszq4W2aMAAtH5w.jpg",
+        "width": 3955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931176594162462720"
+          ],
+          "media_source_tweet_id": [
+            "1931176603012501917"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1931437182855627019",
+        "created_at": "2025-06-07T19:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T20:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931437182855627019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684871914769305601",
+              "start": 3,
+              "username": "N_ekobouzaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgOGwIlmtG",
+              "end": 41,
+              "expanded_url": "https://x.com/N_ekobouzaki/status/1931176603012501917/photo/1",
+              "media_key": "3_1931176594162462720",
+              "start": 18,
+              "url": "https://t.co/fgOGwIlmtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931437182855627019",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1300
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931176603012501917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N_ekobouzaki: https://t.co/fgOGwIlmtG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931176594162462720"
+          ]
+        },
+        "author_id": "1684871914769305601",
+        "conversation_id": "1931176603012501917",
+        "created_at": "2025-06-07T02:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T03:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931176603012501917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgOGwIlmtG",
+              "end": 23,
+              "expanded_url": "https://x.com/N_ekobouzaki/status/1931176603012501917/photo/1",
+              "media_key": "3_1931176594162462720",
+              "start": 0,
+              "url": "https://t.co/fgOGwIlmtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931176603012501917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4319,
+          "impression_count": 330828,
+          "like_count": 19621,
+          "quote_count": 26,
+          "reply_count": 12,
+          "retweet_count": 1300
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fgOGwIlmtG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6722,
+          "following_count": 999,
+          "like_count": 30686,
+          "listed_count": 19,
+          "media_count": 55,
+          "tweet_count": 19878
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T10:22:31.000Z",
+        "description": "ねこ大好き🐈  ɪʟʟᴜsᴛʀᴀᴛᴏʀ : https://t.co/3VYBAOoFjO / ғᴀɴʙᴏx→https://t.co/At1CMKh9Se /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42653439",
+                "end": 45,
+                "expanded_url": "https://www.pixiv.net/users/42653439",
+                "start": 22,
+                "url": "https://t.co/3VYBAOoFjO"
+              },
+              {
+                "display_url": "inubouzaki.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://inubouzaki.fanbox.cc/",
+                "start": 55,
+                "url": "https://t.co/At1CMKh9Se"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/inubouzaki",
+                "end": 23,
+                "expanded_url": "https://lit.link/inubouzaki",
+                "start": 0,
+                "url": "https://t.co/xi3rhKPBrC"
+              }
+            ]
+          }
+        },
+        "id": "1684871914769305601",
+        "location": "C105 月曜 西ふ38b",
+        "name": "犬吠埼いつき",
+        "pinned_tweet_id": "1908821987981738239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738496050502238208/WbwcXNc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25811,
+          "following_count": 38,
+          "like_count": 3201,
+          "listed_count": 233,
+          "media_count": 33,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/xi3rhKPBrC",
+        "username": "N_ekobouzaki",
+        "verified": false
+      }
+    ]
+  }
+}

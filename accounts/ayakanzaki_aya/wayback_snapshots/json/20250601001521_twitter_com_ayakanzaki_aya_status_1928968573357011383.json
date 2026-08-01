@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928375936468348928"
+      ],
+      "media_source_tweet_id": [
+        "1928376017573335119"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "1928968573357011383",
+    "created_at": "2025-06-01T00:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T01:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928968573357011383"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 78,
+          "tag": "歌ってみた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655251444172460032",
+          "start": 3,
+          "username": "_saaaari"
+        }
+      ],
+      "urls": [
+        {
+          "description": "☽꙳⋆ ┈┈┈┈┈┈┈┈┈┈さりとて喜びとは 比べ往くでしょう┈┈┈┈┈┈┈┈┈┈ ☽꙳⋆ナナホシ管弦楽団さまの抜錨を歌わせていただきました。original：ナナホシ管弦楽団さまhttps://youtu.be/C7h6-jU1DCA?si=X4fSHp68ps2tnfouvocal & movie：さりhtt...",
+          "display_url": "youtu.be/Bt1jS7uF3fg",
+          "end": 76,
+          "expanded_url": "https://youtu.be/Bt1jS7uF3fg",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1928376060611100672/TlLbHLLD?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1928376060611100672/TlLbHLLD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 53,
+          "status": 200,
+          "title": "抜錨 /ナナホシ管弦楽団 covered by さり 歌ってみた 【オリジナルMV】",
+          "unwound_url": "https://www.youtube.com/watch?v=Bt1jS7uF3fg&feature=youtu.be",
+          "url": "https://t.co/XYSSPfdCQp"
+        },
+        {
+          "display_url": "pic.x.com/eiEuZKvspc",
+          "end": 124,
+          "expanded_url": "https://x.com/_saaaari/status/1928376017573335119/video/1",
+          "media_key": "13_1928375936468348928",
+          "start": 101,
+          "url": "https://t.co/eiEuZKvspc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928968573357011383",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928376017573335119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_saaaari: ☽꙳⋆ ┈┈┈┈┈┈┈┈┈┈\n\n抜錨 /ナナホシ管弦楽団\n\n🪽  Full. https://t.co/XYSSPfdCQp\n\n#歌ってみた\n\n┈┈┈┈┈┈┈┈┈┈ ☽꙳⋆ https://t.co/eiEuZKvspc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41291,
+        "height": 720,
+        "media_key": "13_1928375936468348928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928375936468348928/img/VMM2dgDW-V7VnFAu.jpg",
+        "public_metrics": {
+          "view_count": 1079
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928375936468348928/vid/avc1/480x270/z2PgqutSX2IDML3a.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928375936468348928/vid/avc1/640x360/g8osE5DGecNwUt_M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928375936468348928/vid/avc1/1280x720/NCQQY09Rmg_ihTZ5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928375936468348928/pl/FtYIjrgzh9gAONPG.m3u8?v=8f7"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928375936468348928"
+          ],
+          "media_source_tweet_id": [
+            "1928376017573335119"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1928968573357011383",
+        "created_at": "2025-06-01T00:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T01:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928968573357011383"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 78,
+              "tag": "歌ってみた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655251444172460032",
+              "start": 3,
+              "username": "_saaaari"
+            }
+          ],
+          "urls": [
+            {
+              "description": "☽꙳⋆ ┈┈┈┈┈┈┈┈┈┈さりとて喜びとは 比べ往くでしょう┈┈┈┈┈┈┈┈┈┈ ☽꙳⋆ナナホシ管弦楽団さまの抜錨を歌わせていただきました。original：ナナホシ管弦楽団さまhttps://youtu.be/C7h6-jU1DCA?si=X4fSHp68ps2tnfouvocal & movie：さりhtt...",
+              "display_url": "youtu.be/Bt1jS7uF3fg",
+              "end": 76,
+              "expanded_url": "https://youtu.be/Bt1jS7uF3fg",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1928376060611100672/TlLbHLLD?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1928376060611100672/TlLbHLLD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "抜錨 /ナナホシ管弦楽団 covered by さり 歌ってみた 【オリジナルMV】",
+              "unwound_url": "https://www.youtube.com/watch?v=Bt1jS7uF3fg&feature=youtu.be",
+              "url": "https://t.co/XYSSPfdCQp"
+            },
+            {
+              "display_url": "pic.x.com/eiEuZKvspc",
+              "end": 124,
+              "expanded_url": "https://x.com/_saaaari/status/1928376017573335119/video/1",
+              "media_key": "13_1928375936468348928",
+              "start": 101,
+              "url": "https://t.co/eiEuZKvspc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928968573357011383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928376017573335119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_saaaari: ☽꙳⋆ ┈┈┈┈┈┈┈┈┈┈\n\n抜錨 /ナナホシ管弦楽団\n\n🪽  Full. https://t.co/XYSSPfdCQp\n\n#歌ってみた\n\n┈┈┈┈┈┈┈┈┈┈ ☽꙳⋆ https://t.co/eiEuZKvspc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928375936468348928"
+          ]
+        },
+        "author_id": "1655251444172460032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1928376017573335119",
+        "created_at": "2025-05-30T09:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928376017573335119"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "歌ってみた"
+            }
+          ],
+          "urls": [
+            {
+              "description": "☽꙳⋆ ┈┈┈┈┈┈┈┈┈┈さりとて喜びとは 比べ往くでしょう┈┈┈┈┈┈┈┈┈┈ ☽꙳⋆ナナホシ管弦楽団さまの抜錨を歌わせていただきました。original：ナナホシ管弦楽団さまhttps://youtu.be/C7h6-jU1DCA?si=X4fSHp68ps2tnfouvocal & movie：さりhtt...",
+              "display_url": "youtu.be/Bt1jS7uF3fg",
+              "end": 62,
+              "expanded_url": "https://youtu.be/Bt1jS7uF3fg",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1928376060611100672/TlLbHLLD?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1928376060611100672/TlLbHLLD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "抜錨 /ナナホシ管弦楽団 covered by さり 歌ってみた 【オリジナルMV】",
+              "unwound_url": "https://www.youtube.com/watch?v=Bt1jS7uF3fg&feature=youtu.be",
+              "url": "https://t.co/XYSSPfdCQp"
+            },
+            {
+              "display_url": "pic.x.com/eiEuZKvspc",
+              "end": 110,
+              "expanded_url": "https://x.com/_saaaari/status/1928376017573335119/video/1",
+              "media_key": "13_1928375936468348928",
+              "start": 87,
+              "url": "https://t.co/eiEuZKvspc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928376017573335119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7098,
+          "like_count": 41,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "☽꙳⋆ ┈┈┈┈┈┈┈┈┈┈\n\n抜錨 /ナナホシ管弦楽団\n\n🪽  Full. https://t.co/XYSSPfdCQp\n\n#歌ってみた\n\n┈┈┈┈┈┈┈┈┈┈ ☽꙳⋆ https://t.co/eiEuZKvspc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6678,
+          "following_count": 996,
+          "like_count": 30652,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 19863
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T16:41:21.000Z",
+        "description": "マイペースに歌うひと！┊歌と星と海がすき┊︎etc.描いたり書いたり音や動画にさわったり☁️ྀི┊︎ icon 宇佐川さん┊︎ https://t.co/bRGDGa4FS8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@_saaaari?si=8…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/@_saaaari?si=86Yn496eff-1grJ9",
+                "start": 64,
+                "url": "https://t.co/bRGDGa4FS8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/saaaari",
+                "end": 23,
+                "expanded_url": "https://lit.link/saaaari",
+                "start": 0,
+                "url": "https://t.co/UQ3uTUfhu2"
+              }
+            ]
+          }
+        },
+        "id": "1655251444172460032",
+        "location": "ご依頼等はDMからお願いします✉️",
+        "name": "さり / sari",
+        "pinned_tweet_id": "1928376017573335119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758890092666798080/uyiH89LA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 89,
+          "like_count": 2033,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/UQ3uTUfhu2",
+        "username": "_saaaari",
+        "verified": false
+      }
+    ]
+  }
+}

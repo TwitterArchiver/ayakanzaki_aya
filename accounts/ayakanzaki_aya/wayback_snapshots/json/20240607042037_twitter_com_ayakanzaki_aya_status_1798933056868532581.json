@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1798506316673229115",
+    "created_at": "2024-06-07T04:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T05:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798933056868532581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "929308464110739456",
+          "start": 0,
+          "username": "h_looke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798933056868532581",
+    "in_reply_to_user_id": "929308464110739456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798528976216101005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h_looke ？？這個時間都夠我打深淵了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1798506316673229115",
+        "created_at": "2024-06-07T04:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T05:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798933056868532581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "929308464110739456",
+              "start": 0,
+              "username": "h_looke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798933056868532581",
+        "in_reply_to_user_id": "929308464110739456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798528976216101005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h_looke ？？這個時間都夠我打深淵了"
+      },
+      {
+        "attachments": {},
+        "author_id": "929308464110739456",
+        "conversation_id": "1798506316673229115",
+        "created_at": "2024-06-06T01:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T02:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798528976216101005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798528976216101005",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798506316673229115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 你知道嗎\n好快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 993,
+          "like_count": 24108,
+          "listed_count": 10,
+          "tweet_count": 13623
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-11T11:22:58.000Z",
+        "description": "我的所有連結\nhttps://t.co/Ek0o393Vam",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/HLooke",
+                "end": 30,
+                "expanded_url": "https://lit.link/HLooke",
+                "start": 7,
+                "url": "https://t.co/Ek0o393Vam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/hlooke",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/hlooke",
+                "start": 0,
+                "url": "https://t.co/2FeJ94onS9"
+              }
+            ]
+          }
+        },
+        "id": "929308464110739456",
+        "name": "HLooke 經營實況主中",
+        "pinned_tweet_id": "1770692873375125882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768147471514099712/dUk8yd_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 4443,
+          "like_count": 57238,
+          "listed_count": 28,
+          "tweet_count": 54947
+        },
+        "url": "https://t.co/2FeJ94onS9",
+        "username": "h_looke",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1939188159432270234",
+    "created_at": "2025-07-02T02:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T03:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940230602688725336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909527865302937600",
+          "start": 0,
+          "username": "leka_saan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940230602688725336",
+    "in_reply_to_user_id": "1909527865302937600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939546309024964736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leka_saan 感覺台灣的比較苦（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1939188159432270234",
+        "created_at": "2025-07-02T02:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T03:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940230602688725336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909527865302937600",
+              "start": 0,
+              "username": "leka_saan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940230602688725336",
+        "in_reply_to_user_id": "1909527865302937600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939546309024964736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leka_saan 感覺台灣的比較苦（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909527865302937600",
+        "conversation_id": "1939188159432270234",
+        "created_at": "2025-06-30T04:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939546309024964736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939546309024964736",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939188159432270234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 喔！配方會不一樣嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7725,
+          "following_count": 998,
+          "like_count": 31131,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20024
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T08:45:10.000Z",
+        "description": "✨嗨～這裡是來自異世界的料理學徒！\n你願意成為Scallionauts，和我一起踏上這趟未知的旅程嗎？（泰腐是我的命！\n✦主標|| #食界觀察瀬記",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 66,
+                "tag": "食界觀察瀬記"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@LekaSaan",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@LekaSaan",
+                "start": 0,
+                "url": "https://t.co/5VljWEVLM6"
+              }
+            ]
+          }
+        },
+        "id": "1909527865302937600",
+        "name": "瀬卡•紗 Leka Saan 料理系 💚🍜🍳 || 7/25初配",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938950373022302208/4iAxsAfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 202,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/5VljWEVLM6",
+        "username": "leka_saan",
+        "verified": false
+      }
+    ]
+  }
+}

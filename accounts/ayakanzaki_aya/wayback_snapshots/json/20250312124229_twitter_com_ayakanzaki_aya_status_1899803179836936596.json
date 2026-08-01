@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1897111961256751299",
+    "created_at": "2025-03-12T12:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T13:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899803179836936596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "58105367",
+          "start": 0,
+          "username": "alvin118tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899803179836936596",
+    "in_reply_to_user_id": "58105367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897112857512436002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alvin118tw 被騙了吧∠( ᐛ 」∠)＿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1897111961256751299",
+        "created_at": "2025-03-12T12:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T13:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899803179836936596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "58105367",
+              "start": 0,
+              "username": "alvin118tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899803179836936596",
+        "in_reply_to_user_id": "58105367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897112857512436002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alvin118tw 被騙了吧∠( ᐛ 」∠)＿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "58105367",
+        "conversation_id": "1897111961256751299",
+        "created_at": "2025-03-05T02:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T03:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897112857512436002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897112857512436002",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 579,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897111961256751299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 本來要說恭喜的...wtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6498,
+          "following_count": 981,
+          "like_count": 29522,
+          "listed_count": 18,
+          "media_count": 129,
+          "tweet_count": 19040
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-19T03:04:13.000Z",
+        "description": "A gamer. Xbox live/PSN: NeoMasaki - doa, sao fan. SSRB",
+        "id": "58105367",
+        "location": "ブルネイ泊地 - Gran blu",
+        "name": "GN-NeoMasaki ♌☄️👾🎼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859782794525933570/g71cM4aA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 2618,
+          "like_count": 209477,
+          "listed_count": 5,
+          "media_count": 1828,
+          "tweet_count": 16323
+        },
+        "username": "alvin118tw",
+        "verified": false
+      }
+    ]
+  }
+}

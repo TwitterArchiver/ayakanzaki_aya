@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1938253957782212666",
+    "created_at": "2025-06-30T04:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T05:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939547744496209940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847505782696456192",
+          "start": 0,
+          "username": "sakuzirei0517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939547744496209940",
+    "in_reply_to_user_id": "1847505782696456192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938270241295110618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakuzirei0517 努力爭取不要變胖www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1938253957782212666",
+        "created_at": "2025-06-30T04:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939547744496209940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847505782696456192",
+              "start": 0,
+              "username": "sakuzirei0517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939547744496209940",
+        "in_reply_to_user_id": "1847505782696456192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938270241295110618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakuzirei0517 努力爭取不要變胖www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847505782696456192",
+        "conversation_id": "1938253957782212666",
+        "created_at": "2025-06-26T16:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938270241295110618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938270241295110618",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938253957782212666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 歡迎Aya來!一定要吃得胖胖的回去啊😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7704,
+          "following_count": 996,
+          "like_count": 31027,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20002
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T05:11:28.000Z",
+        "description": "新帳號重新啟動!(舊帳號被盜)\n安安，我是零。\n期待正式與大家互動的那一天!\nYT：https://t.co/oBJ6kDJf8F\n圖奇：https://t.co/pEXTg8DhCF\n棉花糖：https://t.co/nRTetMQocS\n⚙配信Tag：#零機一動\n⚙粉絲繪圖Tag：#零藝事見\n⚙美食分享：#零食分享",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 128,
+                "tag": "零機一動"
+              },
+              {
+                "end": 148,
+                "start": 143,
+                "tag": "零藝事見"
+              },
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "零食分享"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/RzRjLr",
+                "end": 65,
+                "expanded_url": "http://reurl.cc/RzRjLr",
+                "start": 42,
+                "url": "https://t.co/oBJ6kDJf8F"
+              },
+              {
+                "display_url": "reurl.cc/M8WbOp",
+                "end": 92,
+                "expanded_url": "http://reurl.cc/M8WbOp",
+                "start": 69,
+                "url": "https://t.co/pEXTg8DhCF"
+              },
+              {
+                "display_url": "reurl.cc/aVEkq9",
+                "end": 120,
+                "expanded_url": "http://reurl.cc/aVEkq9",
+                "start": 97,
+                "url": "https://t.co/nRTetMQocS"
+              }
+            ]
+          }
+        },
+        "id": "1847505782696456192",
+        "name": "朔時零⚙【6/28晚上9點】初配信",
+        "pinned_tweet_id": "1847529071099727933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847510967095349248/quUlcb8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 414,
+          "like_count": 3914,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 630
+        },
+        "username": "sakuzirei0517",
+        "verified": false
+      }
+    ]
+  }
+}

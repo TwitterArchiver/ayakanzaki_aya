@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001618250128592899"
+      ],
+      "media_source_tweet_id": [
+        "2001618262099103814"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "2001708445536551376",
+    "created_at": "2025-12-18T17:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T18:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001708445536551376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2270560254",
+          "start": 3,
+          "username": "_rucaco_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TCCgzEu1uu",
+          "end": 83,
+          "expanded_url": "https://x.com/_rucaco_/status/2001618262099103814/photo/1",
+          "media_key": "3_2001618250128592899",
+          "start": 60,
+          "url": "https://t.co/TCCgzEu1uu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001708445536551376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001618262099103814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_rucaco_: 最強可愛いフィギュア棚ദ്ദി^ᴗ ̫ ᴗ^₎\n\n気になるフィギュアありますか🤍ྀི\n\n. https://t.co/TCCgzEu1uu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2001618250128592899",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ctMYbakAMLeUR.jpg",
+        "width": 2726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001618250128592899"
+          ],
+          "media_source_tweet_id": [
+            "2001618262099103814"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "2001708445536551376",
+        "created_at": "2025-12-18T17:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001708445536551376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2270560254",
+              "start": 3,
+              "username": "_rucaco_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCCgzEu1uu",
+              "end": 83,
+              "expanded_url": "https://x.com/_rucaco_/status/2001618262099103814/photo/1",
+              "media_key": "3_2001618250128592899",
+              "start": 60,
+              "url": "https://t.co/TCCgzEu1uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001708445536551376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001618262099103814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_rucaco_: 最強可愛いフィギュア棚ദ്ദി^ᴗ ̫ ᴗ^₎\n\n気になるフィギュアありますか🤍ྀི\n\n. https://t.co/TCCgzEu1uu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001618250128592899"
+          ]
+        },
+        "author_id": "2270560254",
+        "conversation_id": "2001618262099103814",
+        "created_at": "2025-12-18T11:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001618262099103814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCCgzEu1uu",
+              "end": 69,
+              "expanded_url": "https://x.com/_rucaco_/status/2001618262099103814/photo/1",
+              "media_key": "3_2001618250128592899",
+              "start": 46,
+              "url": "https://t.co/TCCgzEu1uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001618262099103814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 16946,
+          "like_count": 795,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "最強可愛いフィギュア棚ദ്ദി^ᴗ ̫ ᴗ^₎\n\n気になるフィギュアありますか🤍ྀི\n\n. https://t.co/TCCgzEu1uu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8388,
+          "following_count": 976,
+          "like_count": 32060,
+          "listed_count": 20,
+          "media_count": 85,
+          "tweet_count": 20813
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-31T16:23:49.000Z",
+        "description": "もふもふIllustrator🤍ྀི ┊︎ ︎ﾌｨｷﾞｭｱ塗り ┊︎ 連絡先✉️ https://t.co/fX2EBocV95 ┊︎配信🍎@02rcc ┊︎ 🎨https://t.co/tbXmJIJxvn ︎担当V：周防パトラ・fallenshadow・他",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 70,
+                "username": "02rcc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "rucaco.art",
+                "end": 64,
+                "expanded_url": "http://rucaco.art",
+                "start": 41,
+                "url": "https://t.co/fX2EBocV95"
+              },
+              {
+                "display_url": "skeb.jp/@rucacon",
+                "end": 104,
+                "expanded_url": "https://skeb.jp/@rucacon",
+                "start": 81,
+                "url": "https://t.co/tbXmJIJxvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@rucacoch",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@rucacoch",
+                "start": 0,
+                "url": "https://t.co/JDue7iTBEz"
+              }
+            ]
+          }
+        },
+        "id": "2270560254",
+        "location": "無断転載/使用・AI学習禁止🚫",
+        "name": "rucaco/るかこ〰🍎",
+        "pinned_tweet_id": "1947151806393692428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984608163354853377/1XwFF9J7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162973,
+          "following_count": 705,
+          "like_count": 43215,
+          "listed_count": 1417,
+          "media_count": 275,
+          "tweet_count": 16386
+        },
+        "url": "https://t.co/JDue7iTBEz",
+        "username": "_rucaco_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2038323273016955002",
+    "created_at": "2026-03-29T18:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038323273016955002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alice0000159/s…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/alice0000159/status/2038301742342054092",
+          "start": 75,
+          "url": "https://t.co/kppnVgpojX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038323273016955002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038301742342054092",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "謝謝愛麗絲的委托💛💛\n挑戰了不同以往的風格\n盡可能的讓這張圖看上去不那麽的壓抑wwww\n桌布下載到3/31為止 希望大家會喜歡！( ⓛ ω ⓛ *) https://t.co/kppnVgpojX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2038288613344239616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl0scwbYAAUZ0E.jpg",
+        "width": 2559
+      },
+      {
+        "height": 2389,
+        "media_key": "3_2038288747905822720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl00SCaMAAyb0N.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2038323273016955002",
+        "created_at": "2026-03-29T18:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038323273016955002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alice0000159/s…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/alice0000159/status/2038301742342054092",
+              "start": 75,
+              "url": "https://t.co/kppnVgpojX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038323273016955002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038301742342054092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "謝謝愛麗絲的委托💛💛\n挑戰了不同以往的風格\n盡可能的讓這張圖看上去不那麽的壓抑wwww\n桌布下載到3/31為止 希望大家會喜歡！( ⓛ ω ⓛ *) https://t.co/kppnVgpojX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038288613344239616",
+            "3_2038288747905822720"
+          ]
+        },
+        "author_id": "1843749774786473986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038301742342054092",
+        "created_at": "2026-03-29T17:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038301742342054092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AlanJT9j2o",
+              "end": 145,
+              "expanded_url": "https://x.com/alice0000159/status/2038301742342054092/photo/1",
+              "media_key": "3_2038288613344239616",
+              "start": 122,
+              "url": "https://t.co/AlanJT9j2o"
+            },
+            {
+              "display_url": "pic.x.com/AlanJT9j2o",
+              "end": 145,
+              "expanded_url": "https://x.com/alice0000159/status/2038301742342054092/photo/1",
+              "media_key": "3_2038288747905822720",
+              "start": 122,
+              "url": "https://t.co/AlanJT9j2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038301742342054092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 358,
+                "start": 350,
+                "tag": "Alice你看"
+              },
+              {
+                "end": 408,
+                "start": 401,
+                "tag": "Vtuber"
+              },
+              {
+                "end": 412,
+                "start": 409,
+                "tag": "台V"
+              },
+              {
+                "end": 422,
+                "start": 413,
+                "tag": "台灣Vtuber"
+              },
+              {
+                "end": 428,
+                "start": 423,
+                "tag": "擴散希望"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 398,
+                "id": "1499470341734907907",
+                "start": 383,
+                "username": "ayakanzaki_aya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "drive.google.com/file/d/1vEHC14…",
+                "end": 325,
+                "expanded_url": "https://drive.google.com/file/d/1vEHC14_xoMD4exDKhx_gOBSnB3c9iFsy/view",
+                "start": 302,
+                "url": "https://t.co/hir73RbotS"
+              }
+            ]
+          },
+          "text": "感謝各位今晚來提早祝本公主生日快樂&收益化慶祝💛\n\n那麼快達標會員解鎖是本公主沒有預料到的...\n大家火力好足是不是這個月都有偷中發票?!🧾\n...欠債解鎖惡靈古堡馬拉松我來了🥹(我才不是恐遊勢)\n\n也謝謝大家願意陪本公主一起直播追夢\n即使輪班下班很辛苦和直播方式與眾不同，但我還是想陪伴子民們一起聊天玩耍~\n\n生日願望許了遙遠募資計畫條之路，有好長一段路要走\n\n冰塊子民們，可以把手給本公主嗎?牽上手，我們一起出發去達成目標吧~雖然慢，但我們真誠認真的面對\n冷笑話國&十塔箱會一直陪伴大家的！\n\n收益化夢遊仙境冰民形象&Alice紀念桌布發放(google雲端無壓縮原檔只開放到3/31 24:00)\nhttps://t.co/hir73RbotS\n\n要下載要快喔~如果有列印或設成桌布\n歡迎使用 #Alice你看 標籤，本公主期待大家的Tag~~\n桌布繪師感謝:@ayakanzaki_aya \n\n#Vtuber #台V #台灣Vtuber #擴散希望"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "感謝各位今晚來提早祝本公主生日快樂&amp;收益化慶祝💛\n\n那麼快達標會員解鎖是本公主沒有預料到的...\n大家火力好足是不是這個月都有偷中發票?!🧾\n...欠債解鎖惡靈古堡馬拉松我來了🥹(我才不是恐遊勢)\n\n也謝謝大家願意陪本公主一起直播追夢 https://t.co/AlanJT9j2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw88YH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw88YH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8836,
+          "following_count": 982,
+          "like_count": 32435,
+          "listed_count": 20,
+          "media_count": 109,
+          "tweet_count": 21119
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T20:26:25.000Z",
+        "description": "【期許文字能帶給人溫度的十塔星冷笑話國公主】 等一下！我的宇舶⋯⋯啊？貴安！Alice是一位愛好冷笑話，忘記帶地球語翻譯機十塔星公主💛V皮資訊：@KenKenMo6 (X) \n 🧊粉絲名：冰塊子民 💝二創 #Alice皇家畫廊 （禁獵奇）🛎️召喚 #Alice你看",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "Alice皇家畫廊"
+              },
+              {
+                "end": 132,
+                "start": 124,
+                "tag": "Alice你看"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "KenKenMo6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/alice0000159",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/alice0000159",
+                "start": 0,
+                "url": "https://t.co/oe6ZRxq6qa"
+              }
+            ]
+          }
+        },
+        "id": "1843749774786473986",
+        "location": "YouTube、綠界、Linktree",
+        "name": "Alice公主殿下🧊無聲冷笑話系💛個人勢VT【十塔箱】",
+        "pinned_tweet_id": "2035771984983028221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004558700372234241/BinhRyZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 773,
+          "like_count": 2680,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 2196
+        },
+        "url": "https://t.co/oe6ZRxq6qa",
+        "username": "alice0000159",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1930611606120993140",
+    "created_at": "2025-06-16T07:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T08:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934517974117023882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "213683791",
+          "start": 0,
+          "username": "A8854042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934517974117023882",
+    "in_reply_to_user_id": "213683791",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930617663346319395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A8854042 以前姑且是w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1930611606120993140",
+        "created_at": "2025-06-16T07:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934517974117023882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "213683791",
+              "start": 0,
+              "username": "A8854042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934517974117023882",
+        "in_reply_to_user_id": "213683791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930617663346319395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A8854042 以前姑且是w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "213683791",
+        "conversation_id": "1930611606120993140",
+        "created_at": "2025-06-05T13:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930617663346319395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930617663346319395",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930611606120993140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 低...齡...?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 996,
+          "like_count": 30794,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19927
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-09T14:50:29.000Z",
+        "description": "實況用頻道:\n牧場貓的退休生活\nhttps://t.co/po4CijFngR…\n\n鋼普拉(ガンプラ)/遊戲(ゲーム)/VTuber/美食/賽馬(競馬)(でも馬券はNG ただ馬好き）\n\n人生就該浪費在美好的事物上",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCuoag",
+                "end": 39,
+                "expanded_url": "http://youtube.com/channel/UCuoag",
+                "start": 16,
+                "url": "https://t.co/po4CijFngR"
+              }
+            ]
+          }
+        },
+        "id": "213683791",
+        "location": "台灣",
+        "name": "胡 竣凱",
+        "pinned_tweet_id": "1431172531180879874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2787608922/2d3d23b67274eeb3a38fa318de677b9c_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 6337,
+          "like_count": 128472,
+          "listed_count": 2,
+          "media_count": 2325,
+          "tweet_count": 31374
+        },
+        "username": "A8854042",
+        "verified": false
+      }
+    ]
+  }
+}

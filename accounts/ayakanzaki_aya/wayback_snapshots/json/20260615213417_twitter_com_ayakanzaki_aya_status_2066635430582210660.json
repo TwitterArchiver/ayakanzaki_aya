@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2065567005822922966",
+    "created_at": "2026-06-15T21:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066635430582210660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3238124278",
+          "start": 0,
+          "username": "rueipang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066635430582210660",
+    "in_reply_to_user_id": "3238124278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065767935604625907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rueipang 謝謝你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2065567005822922966",
+        "created_at": "2026-06-15T21:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066635430582210660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3238124278",
+              "start": 0,
+              "username": "rueipang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066635430582210660",
+        "in_reply_to_user_id": "3238124278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065767935604625907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rueipang 謝謝你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3238124278",
+        "conversation_id": "2065567005822922966",
+        "created_at": "2026-06-13T12:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065767935604625907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065767935604625907",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065567005822922966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 恭喜!!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。https://t.co/0bAP4M0U4a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 122,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 99,
+                "url": "https://t.co/0bAP4M0U4a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10070,
+          "following_count": 973,
+          "like_count": 32864,
+          "listed_count": 22,
+          "media_count": 92,
+          "tweet_count": 21468
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-06T04:41:00.000Z",
+        "description": "台灣人日文學習中?\n日本語はまだ勉強中で、基本的にはまだ聞き取れません。主にGPTの翻訳を頼りにしています\n可愛いアイコンとバナーは左右迷( @LR_mayoi)さんが描いてくれました\n\n隨興的音樂剪輯及更新",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "LR_mayoi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E8%83%96%E8%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E8%83%96%E8%83%96-%E3%83%91%E3%83%B3%E3%83%91%E3%83%B3-pang",
+                "start": 0,
+                "url": "https://t.co/CGGDWy1M9B"
+              }
+            ]
+          }
+        },
+        "id": "3238124278",
+        "location": "Tainan City, Taiwan",
+        "name": "胖胖(パンパン)",
+        "pinned_tweet_id": "1997283781271843141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037557460014387200/lxH2ZK5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 5700,
+          "like_count": 144116,
+          "listed_count": 17,
+          "media_count": 8507,
+          "tweet_count": 100898
+        },
+        "url": "https://t.co/CGGDWy1M9B",
+        "username": "rueipang",
+        "verified": true
+      }
+    ]
+  }
+}

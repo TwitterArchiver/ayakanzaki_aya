@@ -1,0 +1,573 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "2074700494165946719",
+    "created_at": "2026-07-08T03:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074700494165946719"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "ヨルシカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2361981054",
+          "start": 3,
+          "username": "umusicjapan"
+        },
+        {
+          "end": 35,
+          "id": "738199700914872320",
+          "start": 23,
+          "username": "nbuna_staff"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Listen to 幻燈 by ヨルシカ.",
+          "display_url": "yorushika.lnk.to/magic_lantern",
+          "end": 101,
+          "expanded_url": "https://yorushika.lnk.to/magic_lantern",
+          "images": [
+            {
+              "height": 220,
+              "url": "https://pbs.twimg.com/news_img/2074519474607366144/68SQ2Vmi?format=jpg&name=orig",
+              "width": 440
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074519474607366144/68SQ2Vmi?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 78,
+          "status": 200,
+          "title": "ヨルシカ - 幻燈",
+          "unwound_url": "https://yorushika.lnk.to/magic_lantern",
+          "url": "https://t.co/EHikf3TRXv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074700494165946719",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072260404558897252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umusicjapan: #ヨルシカ（@nbuna_staff)\n\n音楽画集「幻燈」に収録されている全楽曲が\n各サイトにて配信開始となりました🎧🎵\nhttps://t.co/EHikf3TRXv\n\nポストボタンからシェアで\n“7月カレンダー待ち受け画像”をプレゼント！…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2074700494165946719",
+        "created_at": "2026-07-08T03:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074700494165946719"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "ヨルシカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2361981054",
+              "start": 3,
+              "username": "umusicjapan"
+            },
+            {
+              "end": 35,
+              "id": "738199700914872320",
+              "start": 23,
+              "username": "nbuna_staff"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to 幻燈 by ヨルシカ.",
+              "display_url": "yorushika.lnk.to/magic_lantern",
+              "end": 101,
+              "expanded_url": "https://yorushika.lnk.to/magic_lantern",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/2074519474607366144/68SQ2Vmi?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074519474607366144/68SQ2Vmi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 78,
+              "status": 200,
+              "title": "ヨルシカ - 幻燈",
+              "unwound_url": "https://yorushika.lnk.to/magic_lantern",
+              "url": "https://t.co/EHikf3TRXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074700494165946719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072260404558897252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umusicjapan: #ヨルシカ（@nbuna_staff)\n\n音楽画集「幻燈」に収録されている全楽曲が\n各サイトにて配信開始となりました🎧🎵\nhttps://t.co/EHikf3TRXv\n\nポストボタンからシェアで\n“7月カレンダー待ち受け画像”をプレゼント！…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2361981054",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2072260404558897252",
+        "created_at": "2026-07-01T10:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072260404558897252"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ヨルシカ"
+            },
+            {
+              "end": 169,
+              "start": 161,
+              "tag": "ヨルシカ_幻燈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "738199700914872320",
+              "start": 6,
+              "username": "nbuna_staff"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to 幻燈 by ヨルシカ.",
+              "display_url": "yorushika.lnk.to/magic_lantern",
+              "end": 84,
+              "expanded_url": "https://yorushika.lnk.to/magic_lantern",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/2074519474607366144/68SQ2Vmi?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074519474607366144/68SQ2Vmi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "ヨルシカ - 幻燈",
+              "unwound_url": "https://yorushika.lnk.to/magic_lantern",
+              "url": "https://t.co/EHikf3TRXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072260404558897252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 101549,
+          "like_count": 1758,
+          "quote_count": 18,
+          "reply_count": 1,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "#ヨルシカ（@nbuna_staff)\n\n音楽画集「幻燈」に収録されている全楽曲が\n各サイトにて配信開始となりました🎧🎵\nhttps://t.co/EHikf3TRXv\n\nポストボタンからシェアで\n“7月カレンダー待ち受け画像”をプレゼント！\nぜひ作品の感想をお聞かせください。\n\n✅締め切り：7/15(水)18:00\n\n#ヨルシカ_幻燈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。：https://t.co/VcHIX9aINY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 123,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 100,
+                "url": "https://t.co/VcHIX9aINY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10213,
+          "following_count": 976,
+          "like_count": 32893,
+          "listed_count": 23,
+          "media_count": 95,
+          "tweet_count": 21508
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-26T02:25:37.000Z",
+        "description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.to/UniversalMusic…",
+                "end": 23,
+                "expanded_url": "https://bio.to/UniversalMusicJapanTP",
+                "start": 0,
+                "url": "https://t.co/tLkWOP9RV4"
+              }
+            ]
+          }
+        },
+        "id": "2361981054",
+        "location": "東京都渋谷区神宮前1-5-8",
+        "name": "umusicjapan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765644977517023232/vl6Fs1n3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241605,
+          "following_count": 1122,
+          "like_count": 17220,
+          "listed_count": 594,
+          "media_count": 44156,
+          "tweet_count": 140135
+        },
+        "url": "https://t.co/tLkWOP9RV4",
+        "username": "umusicjapan",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-02T02:44:58.000Z",
+        "description": "ヨルシカのオフィシャル アカウントです。 （スタッフがつぶやいてます） メンバー：n-buna（ナブナ） [Gt&Composer] / suis（スイ）[Vocal]",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yorushika.com",
+                "end": 23,
+                "expanded_url": "http://yorushika.com/",
+                "start": 0,
+                "url": "https://t.co/vmlIKwEpU8"
+              }
+            ]
+          }
+        },
+        "id": "738199700914872320",
+        "name": "ヨルシカ（n-buna、suis） / Official",
+        "pinned_tweet_id": "2066446367485296824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450477923463569414/c34Nn7Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764881,
+          "following_count": 6,
+          "like_count": 1142,
+          "listed_count": 3170,
+          "media_count": 1021,
+          "tweet_count": 5477
+        },
+        "url": "https://t.co/vmlIKwEpU8",
+        "username": "nbuna_staff",
+        "verified": false
+      }
+    ]
+  }
+}

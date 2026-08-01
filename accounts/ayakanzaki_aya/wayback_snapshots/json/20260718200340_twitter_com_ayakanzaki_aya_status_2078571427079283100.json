@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2077611538836279529",
+    "created_at": "2026-07-18T20:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T21:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078571427079283100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1276022886482841600",
+          "start": 0,
+          "username": "foxfishhhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078571427079283100",
+    "in_reply_to_user_id": "1276022886482841600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077693811267101173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foxfishhhhh 狐魚確實人我很久了wwww\n一直都有過來留言所以記得很清楚！\n好像是在畫李李鈴蘭的時候認識的w（對李李鈴蘭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2077611538836279529",
+        "created_at": "2026-07-18T20:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078571427079283100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1276022886482841600",
+              "start": 0,
+              "username": "foxfishhhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078571427079283100",
+        "in_reply_to_user_id": "1276022886482841600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077693811267101173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxfishhhhh 狐魚確實人我很久了wwww\n一直都有過來留言所以記得很清楚！\n好像是在畫李李鈴蘭的時候認識的w（對李李鈴蘭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276022886482841600",
+        "conversation_id": "2077611538836279529",
+        "created_at": "2026-07-16T09:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077693811267101173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077693811267101173",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077611538836279529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 早忘了w\n不過應該沒那麼早(印象中當初Aya兩千多追隨的樣子\n發現Aya生日只跟我差兩天所以注意到了可愛的Aya(ゝ∀･)b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。：https://t.co/VcHIX9aINY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 123,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 100,
+                "url": "https://t.co/VcHIX9aINY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10588,
+          "following_count": 976,
+          "like_count": 32944,
+          "listed_count": 26,
+          "media_count": 97,
+          "tweet_count": 21532
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-25T05:22:37.000Z",
+        "description": "狐狸跟魚 \n狐狼箱推！\n轉推極多注意(#                                   \n音遊arcaea(12.12) | phigros(14.97) |  dynamix  | takumi³ |chunithm",
+        "id": "1276022886482841600",
+        "location": "瑪麗的心上",
+        "name": "狐魚🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006292611288731648/FytNDgZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 7500,
+          "like_count": 80772,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 41150
+        },
+        "url": "",
+        "username": "foxfishhhhh",
+        "verified": false
+      }
+    ]
+  }
+}

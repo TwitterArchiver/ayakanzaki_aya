@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1882086772617945117",
+    "created_at": "2025-01-23T15:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882445305914044889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "156177198",
+          "start": 0,
+          "username": "greenKnows"
+        },
+        {
+          "end": 21,
+          "id": "3172439215",
+          "start": 12,
+          "username": "ben20277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882445305914044889",
+    "in_reply_to_user_id": "156177198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882308772472955331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@greenKnows @ben20277 真的什麼人都有…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T15:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882445305914044889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "156177198",
+              "start": 0,
+              "username": "greenKnows"
+            },
+            {
+              "end": 21,
+              "id": "3172439215",
+              "start": 12,
+              "username": "ben20277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882445305914044889",
+        "in_reply_to_user_id": "156177198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882308772472955331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@greenKnows @ben20277 真的什麼人都有…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "156177198",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T06:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T07:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882308772472955331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3172439215",
+              "start": 0,
+              "username": "ben20277"
+            },
+            {
+              "end": 25,
+              "id": "1499470341734907907",
+              "start": 10,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "安安你好，大大闔家平安！ 小魯今天沒有要戰性別，只是認真分享小魯的兩個經驗。 先說結論，大大老婆東西亂放不會發生火災，是他媽的那種隨隨便便的態度才會燒了你家！ 小魯以前碩二在實驗室帶了一個晚輩，晚輩人",
+              "display_url": "disp.cc/b/Gossiping/9B…",
+              "end": 54,
+              "expanded_url": "https://disp.cc/b/Gossiping/9Blh",
+              "images": [
+                {
+                  "height": 1024,
+                  "url": "https://pbs.twimg.com/news_img/1882308837673410561/f19dwAZB?format=jpg&name=orig",
+                  "width": 768
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1882308837673410561/f19dwAZB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "Re: [問卦] 老婆堅持這東西一定要放在瓦斯爐上面 - Gossiping板 - Disp BBS",
+              "unwound_url": "https://disp.cc/b/Gossiping/9Blh",
+              "url": "https://t.co/Ruq1mhwJwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882308772472955331",
+        "in_reply_to_user_id": "3172439215",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882099715422175564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ben20277 @ayakanzaki_aya 不一定：\nhttps://t.co/Ruq1mhwJwr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4316,
+          "following_count": 992,
+          "like_count": 28234,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17792
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-16T06:20:13.000Z",
+        "description": "精加日越滿德的台人。具備超強精中實力，但全力脫汁中。\n\n串國不倒 世界不會好\n圖紙世界第一毛大佐主張台灣獨立、開除中人球籍，是世界的偉人\n\n作風優良 能打勝仗\n愛羅武勇 夜露死苦\n天安門事件 八九六四 白紙革命\n禿頭六四分",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "0bei.blogspot.com/2019/04/blog-p…",
+                "end": 23,
+                "expanded_url": "https://0bei.blogspot.com/2019/04/blog-post_15.html",
+                "start": 0,
+                "url": "https://t.co/PYCCVoPde1"
+              }
+            ]
+          }
+        },
+        "id": "156177198",
+        "location": "大華民陸我國省尻熊市",
+        "name": "月工山 木焦 Tsukikōyama Kiase (原：邈雲漢/石月 エ一ロ)",
+        "pinned_tweet_id": "1640602173552640000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841716670198640640/FPSoS6NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 593,
+          "like_count": 206163,
+          "listed_count": 12,
+          "media_count": 5582,
+          "tweet_count": 105299
+        },
+        "url": "https://t.co/PYCCVoPde1",
+        "username": "greenKnows",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-25T15:49:20.000Z",
+        "description": "潛伏於多個實況台 不專業DD  主推子午計畫!!",
+        "id": "3172439215",
+        "name": "鷹二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/591993800416841728/7BFkQjgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 867,
+          "like_count": 84607,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 4522
+        },
+        "username": "ben20277",
+        "verified": false
+      }
+    ]
+  }
+}

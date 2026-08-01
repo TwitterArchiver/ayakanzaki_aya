@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1935624124703064394",
+    "created_at": "2025-06-19T12:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T13:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935670095378006177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1855078213959249920",
+          "start": 0,
+          "username": "yns_atg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935670095378006177",
+    "in_reply_to_user_id": "1855078213959249920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935624124703064394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yns_atg 羨ましい！！！！！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_1935624117006278657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gty34QjWoAEZasb.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1935624124703064394",
+        "created_at": "2025-06-19T12:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935670095378006177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1855078213959249920",
+              "start": 0,
+              "username": "yns_atg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935670095378006177",
+        "in_reply_to_user_id": "1855078213959249920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935624124703064394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yns_atg 羨ましい！！！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935624117006278657"
+          ]
+        },
+        "author_id": "1855078213959249920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935624124703064394",
+        "created_at": "2025-06-19T09:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T10:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935624124703064394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYwp71cmxt",
+              "end": 40,
+              "expanded_url": "https://x.com/yns_atg/status/1935624124703064394/photo/1",
+              "media_key": "3_1935624117006278657",
+              "start": 17,
+              "url": "https://t.co/oYwp71cmxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935624124703064394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "やったーーー！！！！！！！！！！ https://t.co/oYwp71cmxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6846,
+          "following_count": 996,
+          "like_count": 30943,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19955
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T02:41:41.000Z",
+        "description": "ヨルシカ/n-bunaさん/後書き/FA/無言フォロー失礼します",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/29511452",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/29511452",
+                "start": 0,
+                "url": "https://t.co/KCe7IvbLuJ"
+              }
+            ]
+          }
+        },
+        "id": "1855078213959249920",
+        "name": "さく",
+        "pinned_tweet_id": "1860161431204999246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933361388552114176/ypvP4V2V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 151,
+          "like_count": 2698,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/KCe7IvbLuJ",
+        "username": "yns_atg",
+        "verified": false
+      }
+    ]
+  }
+}

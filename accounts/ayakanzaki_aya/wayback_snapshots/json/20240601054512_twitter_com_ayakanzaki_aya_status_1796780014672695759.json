@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1796033855754748207",
+    "created_at": "2024-06-01T05:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T06:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796780014672695759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1499009553471795202",
+          "start": 0,
+          "username": "DamagingGdfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796780014672695759",
+    "in_reply_to_user_id": "1499009553471795202",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796409078673261045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DamagingGdfa 厲害ww 給你大拇哥👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1796033855754748207",
+        "created_at": "2024-06-01T05:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T06:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796780014672695759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1499009553471795202",
+              "start": 0,
+              "username": "DamagingGdfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796780014672695759",
+        "in_reply_to_user_id": "1499009553471795202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796409078673261045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DamagingGdfa 厲害ww 給你大拇哥👍🏻"
+      },
+      {
+        "attachments": {},
+        "author_id": "1499009553471795202",
+        "conversation_id": "1796033855754748207",
+        "created_at": "2024-05-31T05:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T06:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796409078673261045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796409078673261045",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796406734711627936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 找到了www:\n1. 沒有用 — 已經過期的東西通常發揮不了最佳效能 所以高機率沒有用 \n2. 有用，而且還更有效 — 通常過期的東西會慢慢壞掉，壞掉的東西也能傷身 one plus one equals two 效果加倍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3861,
+          "following_count": 993,
+          "like_count": 23996,
+          "listed_count": 10,
+          "tweet_count": 13506
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T13:11:50.000Z",
+        "description": "俺、参上！",
+        "id": "1499009553471795202",
+        "name": "DamagingGdfa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743981576172822528/41z5Xt0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 357,
+          "like_count": 1607,
+          "listed_count": 0,
+          "tweet_count": 188
+        },
+        "username": "DamagingGdfa",
+        "verified": false
+      }
+    ]
+  }
+}

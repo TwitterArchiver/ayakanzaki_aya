@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "2002993302208160067",
+    "created_at": "2025-12-22T06:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T07:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002993302208160067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/umusicjapan/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/umusicjapan/status/2002937349764948194",
+          "start": 8,
+          "url": "https://t.co/z4SWDxWoKQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002993302208160067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002937349764948194",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "超 級 幸 福 https://t.co/z4SWDxWoKQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2002993302208160067",
+        "created_at": "2025-12-22T06:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002993302208160067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/umusicjapan/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/umusicjapan/status/2002937349764948194",
+              "start": 8,
+              "url": "https://t.co/z4SWDxWoKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002993302208160067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002937349764948194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超 級 幸 福 https://t.co/z4SWDxWoKQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2361981054",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2002937349764948194",
+        "created_at": "2025-12-22T03:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T04:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002937349764948194"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "プレイシック",
+              "probability": 0.4349,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "プレイシック",
+              "probability": 0.6231,
+              "start": 71,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ヨルシカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "738199700914872320",
+              "start": 7,
+              "username": "nbuna_staff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002937349764948194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "ヨルシカ"
+              },
+              {
+                "end": 265,
+                "start": 253,
+                "tag": "ヨルシカ_プレイシック"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "id": "738199700914872320",
+                "start": 7,
+                "username": "nbuna_staff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "digital.umusic.com/sa-yorushika-p…",
+                "end": 198,
+                "expanded_url": "https://digital.umusic.com/sa-yorushika-playsick",
+                "start": 175,
+                "url": "https://t.co/PtsPfZ71ht"
+              },
+              {
+                "display_url": "yorushika.lnk.to/playsick",
+                "end": 236,
+                "expanded_url": "https://yorushika.lnk.to/playsick",
+                "start": 213,
+                "url": "https://t.co/L20BQnk4FY"
+              }
+            ]
+          },
+          "text": "#ヨルシカ （@nbuna_staff ）\n\n🎧デジタルキャンペーン開催🎧\n「プレイシック」マイライブラリキャンペーン\n\n本日配信の新曲「プレイシック」をApple Music / Spotifyでお気に入り(マイライブラリ追加)いただいた方全員に“1月カレンダー待ち受け画像”をプレゼント。既にフォロー済みの方も参加いただけます🗓️\n\n▼参加する\nhttps://t.co/PtsPfZ71ht\n\n▼「プレイシック」を聴く\nhttps://t.co/L20BQnk4FY\n\nぜひチェックしてください♪\n\n#ヨルシカ_プレイシック"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 46109,
+          "like_count": 795,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "#ヨルシカ （@nbuna_staff ）\n\n🎧デジタルキャンペーン開催🎧\n「プレイシック」マイライブラリキャンペーン\n\n本日配信の新曲「プレイシック」をApple Music /"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8468,
+          "following_count": 974,
+          "like_count": 32096,
+          "listed_count": 20,
+          "media_count": 88,
+          "tweet_count": 20850
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-26T02:25:37.000Z",
+        "description": "ユニバーサル ミュージック邦楽部門所属アーティストの情報をお届けします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.to/UniversalMusic…",
+                "end": 23,
+                "expanded_url": "https://bio.to/UniversalMusicJapanTP",
+                "start": 0,
+                "url": "https://t.co/tLkWOP9k5w"
+              }
+            ]
+          }
+        },
+        "id": "2361981054",
+        "location": "東京都渋谷区神宮前1-5-8",
+        "name": "umusicjapan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765644977517023232/vl6Fs1n3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242538,
+          "following_count": 1102,
+          "like_count": 15609,
+          "listed_count": 598,
+          "media_count": 43855,
+          "tweet_count": 135957
+        },
+        "url": "https://t.co/tLkWOP9k5w",
+        "username": "umusicjapan",
+        "verified": true
+      }
+    ]
+  }
+}

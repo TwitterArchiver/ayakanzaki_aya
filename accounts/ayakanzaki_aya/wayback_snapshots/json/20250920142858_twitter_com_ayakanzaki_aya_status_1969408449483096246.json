@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1969408449483096246",
+    "created_at": "2025-09-20T14:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T15:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969408449483096246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rellakinoko/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/rellakinoko/status/1969372182422962406",
+          "start": 10,
+          "url": "https://t.co/p99Ij5JBro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969408449483096246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969372182422962406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊好想要！！ https://t.co/p99Ij5JBro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1969372175175204867",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SdjyPbQAMNhS5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1969408449483096246",
+        "created_at": "2025-09-20T14:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969408449483096246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rellakinoko/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/rellakinoko/status/1969372182422962406",
+              "start": 10,
+              "url": "https://t.co/p99Ij5JBro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969408449483096246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969372182422962406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊好想要！！ https://t.co/p99Ij5JBro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969372175175204867"
+          ]
+        },
+        "author_id": "1335604262",
+        "conversation_id": "1969372182422962406",
+        "created_at": "2025-09-20T12:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969372182422962406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0WeshTGs0a",
+              "end": 159,
+              "expanded_url": "https://x.com/Rellakinoko/status/1969372182422962406/photo/1",
+              "media_key": "3_1969372175175204867",
+              "start": 136,
+              "url": "https://t.co/0WeshTGs0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969372182422962406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 44165,
+          "like_count": 1090,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "個展初日、お越しいただきありがとうございました！\n物販列大変混雑していまして、本当にご迷惑おかけいたしました。\nすでに現地スタッフたちと改善方法を検討しており、明日から実行して混雑解消を目指します...！\nシーリングスタンプの体験会明日もありますので興味ある方はぜひ！✨ https://t.co/0WeshTGs0a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326,
+          "following_count": 998,
+          "like_count": 31742,
+          "listed_count": 20,
+          "media_count": 73,
+          "tweet_count": 20479
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-08T02:53:12.000Z",
+        "description": "ミクと絵を描くのがすきな人です Pixiv id=163536",
+        "id": "1335604262",
+        "name": "Rella",
+        "pinned_tweet_id": "1962087728805544289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1466177220905295878/iwAMQRAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802492,
+          "following_count": 496,
+          "like_count": 2440,
+          "listed_count": 5533,
+          "media_count": 421,
+          "tweet_count": 2190
+        },
+        "username": "Rellakinoko",
+        "verified": true
+      }
+    ]
+  }
+}

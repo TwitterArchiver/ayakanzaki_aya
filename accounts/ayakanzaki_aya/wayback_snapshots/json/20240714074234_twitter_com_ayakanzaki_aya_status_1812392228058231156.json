@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1811942974734897238",
+    "created_at": "2024-07-14T07:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T08:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812392228058231156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1262311211049209856",
+          "start": 0,
+          "username": "DeadDice0209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812392228058231156",
+    "in_reply_to_user_id": "1262311211049209856",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812085977328070927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeadDice0209 (*≧ω≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1811942974734897238",
+        "created_at": "2024-07-14T07:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T08:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812392228058231156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1262311211049209856",
+              "start": 0,
+              "username": "DeadDice0209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812392228058231156",
+        "in_reply_to_user_id": "1262311211049209856",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812085977328070927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeadDice0209 (*≧ω≦)"
+      },
+      {
+        "attachments": {},
+        "author_id": "1262311211049209856",
+        "conversation_id": "1811942974734897238",
+        "created_at": "2024-07-13T11:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T12:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812085977328070927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812085977328070927",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811942974734897238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 太可愛了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 25004,
+          "listed_count": 10,
+          "tweet_count": 14487
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T09:18:00.000Z",
+        "description": "繪圖愛好者，同時也喜歡唱歌 . 聊天英/中皆可,喜歡的V一直是千層兔餅，真的超可愛喔！\n（Hello! You can call me raka,I also can speak English／Chinese，my favorite vtuber is binbin0707",
+        "id": "1262311211049209856",
+        "name": "魚小唧",
+        "pinned_tweet_id": "1809622558653968405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780979107108720640/e4k7wFes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 620,
+          "like_count": 6082,
+          "listed_count": 0,
+          "tweet_count": 2047
+        },
+        "username": "DeadDice0209",
+        "verified": false
+      }
+    ]
+  }
+}

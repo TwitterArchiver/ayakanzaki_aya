@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1858412215797268576",
+    "created_at": "2024-11-20T06:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T07:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859118260899262653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1269126999672451072",
+          "start": 0,
+          "username": "TaiwanAny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859118260899262653",
+    "in_reply_to_user_id": "1269126999672451072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858441628836417765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaiwanAny 那我送辭呈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1858412215797268576",
+        "created_at": "2024-11-20T06:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T07:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859118260899262653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1269126999672451072",
+              "start": 0,
+              "username": "TaiwanAny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859118260899262653",
+        "in_reply_to_user_id": "1269126999672451072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858441628836417765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaiwanAny 那我送辭呈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1269126999672451072",
+        "conversation_id": "1858412215797268576",
+        "created_at": "2024-11-18T09:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T10:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858441628836417765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858441628836417765",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858412215797268576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 不要破費即可"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1857345709181178184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4238,
+          "following_count": 981,
+          "like_count": 27077,
+          "listed_count": 10,
+          "tweet_count": 16650
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-06T04:42:07.000Z",
+        "description": "台灣人要讓全球全世界理解 台灣人不跟中國人一起投票Taiwan does not vote with any China 中國人在美國用宣言 把台灣說成要跟中國一起投票 中國想把鄰國包含一起投票 這樣跟中共沒有不同",
+        "id": "1269126999672451072",
+        "location": "福爾摩沙",
+        "name": "Taiwan not vote with any China",
+        "pinned_tweet_id": "1296845217115471872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1269129856517726208/W1DXCEb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 266,
+          "like_count": 65424,
+          "listed_count": 2,
+          "tweet_count": 54828
+        },
+        "username": "TaiwanAny",
+        "verified": false
+      }
+    ]
+  }
+}

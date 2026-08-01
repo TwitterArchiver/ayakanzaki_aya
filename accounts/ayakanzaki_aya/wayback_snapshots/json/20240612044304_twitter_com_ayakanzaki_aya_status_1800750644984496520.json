@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1799877584085528788",
+    "created_at": "2024-06-12T04:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T05:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800750644984496520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3009694350",
+          "start": 0,
+          "username": "Haogolfmura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800750644984496520",
+    "in_reply_to_user_id": "3009694350",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800385635469132095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haogolfmura 沒有呃ww 工還是照打 圖還是照畫www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1799877584085528788",
+        "created_at": "2024-06-12T04:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T05:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800750644984496520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3009694350",
+              "start": 0,
+              "username": "Haogolfmura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800750644984496520",
+        "in_reply_to_user_id": "3009694350",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800385635469132095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haogolfmura 沒有呃ww 工還是照打 圖還是照畫www"
+      },
+      {
+        "attachments": {},
+        "author_id": "3009694350",
+        "conversation_id": "1799877584085528788",
+        "created_at": "2024-06-11T04:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T05:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800385635469132095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800385635469132095",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800381973099336014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 但知道何時要讀書的Aya桑很清楚先後次序"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3867,
+          "following_count": 992,
+          "like_count": 24208,
+          "listed_count": 10,
+          "tweet_count": 13722
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T04:44:54.000Z",
+        "description": "成人向イラスト&マンガがある  \n未成年の方はフォローしないでください\nNSFW / Hentai Illustration / Lewd\n注意，含有敏感內容，跟隨前請斟酌\n性癖創作帳：@AmisterL65581",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "AmisterL65581"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4473381",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/4473381",
+                "start": 0,
+                "url": "https://t.co/JaEXB8kzsz"
+              }
+            ]
+          }
+        },
+        "id": "3009694350",
+        "location": "Earth",
+        "name": "槍兵Definia-Lancaster-Soldat",
+        "pinned_tweet_id": "1779533206511120639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774996618091397120/srJpt2PQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 1895,
+          "like_count": 149937,
+          "listed_count": 0,
+          "tweet_count": 140476
+        },
+        "url": "https://t.co/JaEXB8kzsz",
+        "username": "Haogolfmura",
+        "verified": false
+      }
+    ]
+  }
+}

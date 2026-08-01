@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1831591808486261032",
+    "created_at": "2024-09-08T09:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T10:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832707572639392022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1403542243743395842",
+          "start": 0,
+          "username": "ThunderMing9453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832707572639392022",
+    "in_reply_to_user_id": "1403542243743395842",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831623260435607693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThunderMing9453 欸嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1831591808486261032",
+        "created_at": "2024-09-08T09:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T10:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832707572639392022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1403542243743395842",
+              "start": 0,
+              "username": "ThunderMing9453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832707572639392022",
+        "in_reply_to_user_id": "1403542243743395842",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831623260435607693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThunderMing9453 欸嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403542243743395842",
+        "conversation_id": "1831591808486261032",
+        "created_at": "2024-09-05T09:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T10:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831623260435607693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831623260435607693",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831591808486261032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 笑鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 983,
+          "like_count": 25961,
+          "listed_count": 9,
+          "tweet_count": 15421
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T02:38:53.000Z",
+        "description": "我喜歡看動漫 アニメは好きです MBTI人格測試：ESFJ執行官",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ThunderMing",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ThunderMing",
+                "start": 0,
+                "url": "https://t.co/wsU9V0s0A6"
+              }
+            ]
+          }
+        },
+        "id": "1403542243743395842",
+        "location": "Taoyuan County, Taiwan",
+        "name": "雷鳴",
+        "pinned_tweet_id": "1825911633522340133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831214913412579328/v1IuACLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 1201,
+          "like_count": 1361,
+          "listed_count": 0,
+          "tweet_count": 3254
+        },
+        "url": "https://t.co/wsU9V0s0A6",
+        "username": "ThunderMing9453",
+        "verified": false
+      }
+    ]
+  }
+}

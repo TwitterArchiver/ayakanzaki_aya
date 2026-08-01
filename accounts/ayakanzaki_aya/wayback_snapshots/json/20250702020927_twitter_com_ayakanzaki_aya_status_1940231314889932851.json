@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1938857852560707974",
+    "created_at": "2025-07-02T02:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T03:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940231314889932851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482656390053494784",
+          "start": 0,
+          "username": "gaolicai514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940231314889932851",
+    "in_reply_to_user_id": "1482656390053494784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938893554832810088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaolicai514 反正不是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1938857852560707974",
+        "created_at": "2025-07-02T02:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T03:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940231314889932851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482656390053494784",
+              "start": 0,
+              "username": "gaolicai514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940231314889932851",
+        "in_reply_to_user_id": "1482656390053494784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938893554832810088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaolicai514 反正不是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482656390053494784",
+        "conversation_id": "1938857852560707974",
+        "created_at": "2025-06-28T09:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T10:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938893554832810088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938893554832810088",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938857852560707974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 誰揪的我就問"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7725,
+          "following_count": 998,
+          "like_count": 31155,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20038
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T10:10:13.000Z",
+        "description": "台湾の高校二年生 キャベツ読んでいい 17歳 推し:百鬼あやめ                        好きのゲーム🎮：apex ブルアカ プロセカ      趣味:絵                                            偶にtwitchに配信やるので　よろしくお願いします",
+        "id": "1482656390053494784",
+        "name": "高麗菜キャベツ_TTV（畫畫新手）",
+        "pinned_tweet_id": "1780799218099323081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927564356360826880/0JnPw3QE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 663,
+          "like_count": 6125,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 4992
+        },
+        "username": "gaolicai514",
+        "verified": false
+      }
+    ]
+  }
+}

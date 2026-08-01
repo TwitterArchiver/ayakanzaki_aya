@@ -1,0 +1,687 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1269038123700215810",
+          "name": "Yume Miyamoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1269038123700215810",
+          "name": "Yume Miyamoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1269038123700215810",
+          "name": "Yume Miyamoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2008938955853746628",
+    "created_at": "2026-01-07T16:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008938955853746628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shibouyugi_/st…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/shibouyugi_/status/2008916544873541907",
+          "start": 38,
+          "url": "https://t.co/AjJKCuCxLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008938955853746628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008916544873541907",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去看 太神啦\n氛圍感滿分\n配音也滿分\n就是斷手斷腳的部分被刪掉了有點可惜（ https://t.co/AjJKCuCxLO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 109875,
+        "height": 1080,
+        "media_key": "13_2008898969099988992",
+        "preview_image_url": "https://pbs.twimg.com/media/G-EMOFJbMAA5m4f.jpg",
+        "public_metrics": {
+          "view_count": 22108
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008898969099988992/vid/avc1/1280x720/nRNO5f9WmGOc_1eU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008898969099988992/pl/Z663e8rqEKh9yj0D.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008898969099988992/vid/avc1/1920x1080/rJzgQ_MyoEndE_58.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008898969099988992/vid/avc1/480x270/yZmQkkm6EuIzSyYk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008898969099988992/vid/avc1/640x360/W6Iyzf1t4ONyC8N4.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2008938955853746628",
+        "created_at": "2026-01-07T16:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008938955853746628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shibouyugi_/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/shibouyugi_/status/2008916544873541907",
+              "start": 38,
+              "url": "https://t.co/AjJKCuCxLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008938955853746628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008916544873541907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去看 太神啦\n氛圍感滿分\n配音也滿分\n就是斷手斷腳的部分被刪掉了有點可惜（ https://t.co/AjJKCuCxLO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008898969099988992"
+          ]
+        },
+        "author_id": "1554025146645884930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1269038123700215810",
+              "name": "Yume Miyamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2008916544873541907",
+        "created_at": "2026-01-07T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008916544873541907"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "死亡遊戯"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "三浦千幸"
+            },
+            {
+              "end": 128,
+              "start": 122,
+              "tag": "織部はるか"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "土屋李央"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "宮本侑芽"
+            },
+            {
+              "end": 159,
+              "start": 153,
+              "tag": "阿部菜摘子"
+            },
+            {
+              "end": 168,
+              "start": 164,
+              "tag": "伊藤静"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtube.com/watch?v=wq8O-I…",
+              "end": 88,
+              "expanded_url": "https://www.youtube.com/watch?v=wq8O-IvF35I",
+              "start": 65,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=wq8O-IvF35I",
+              "url": "https://t.co/cIqCkI6Xpo"
+            },
+            {
+              "display_url": "pic.x.com/nqhqYNy7eB",
+              "end": 192,
+              "expanded_url": "https://x.com/shibouyugi_/status/2008916544873541907/video/1",
+              "media_key": "13_2008898969099988992",
+              "start": 169,
+              "url": "https://t.co/nqhqYNy7eB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008916544873541907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 86825,
+          "like_count": 1183,
+          "quote_count": 89,
+          "reply_count": 5,
+          "retweet_count": 554
+        },
+        "reply_settings": "everyone",
+        "text": "┈┈┈┈┈┈┈┈┈┈┈┈\n#死亡遊戯 メインＰＶ公開\n┈┈┈┈┈┈┈┈┈┈┈┈\n\n「私はこの＜ゲーム＞を、九十九回クリアする」\n\nhttps://t.co/cIqCkI6Xpo\n\nTVアニメ『死亡遊戯で飯を食う。』\n幽 鬼 #三浦千幸\n吾 妻 #織部はるか　御 城 #土屋李央\n藍 里 #宮本侑芽　萌 黄 #阿部菜摘子\n白 士 #伊藤静 https://t.co/nqhqYNy7eB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007758487225298944/O9GA3wVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8469,
+          "following_count": 980,
+          "like_count": 32191,
+          "listed_count": 20,
+          "media_count": 93,
+          "tweet_count": 20929
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T08:45:01.000Z",
+        "description": "「死亡遊戯で飯を食う。」公式アカウント\nアニメ➤2026年1月7日より放送・配信開始\n原作➤鵜飼有志×ねこめたる。『このライトノベルがすごい！2024』新作1位 https://t.co/PeT18jOb07\nコミック➤万歳寿大宴会。コンプエースで連載中 https://t.co/ImzQvEcK8m\nタグ➤#死亡遊戯",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "死亡遊戯"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/gensaku",
+                "end": 104,
+                "expanded_url": "https://x.gd/gensaku",
+                "start": 81,
+                "url": "https://t.co/PeT18jOb07"
+              },
+              {
+                "display_url": "x.gd/comics",
+                "end": 151,
+                "expanded_url": "https://x.gd/comics",
+                "start": 128,
+                "url": "https://t.co/ImzQvEcK8m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiboyugi-anime.com",
+                "end": 23,
+                "expanded_url": "http://shiboyugi-anime.com",
+                "start": 0,
+                "url": "https://t.co/miuZgZUuRp"
+              }
+            ]
+          }
+        },
+        "id": "1554025146645884930",
+        "location": "これは、とあるいかれた世界の話。",
+        "name": "『死亡遊戯で飯を食う。』公式",
+        "pinned_tweet_id": "2008916544873541907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948940811200331778/qocaS70G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44704,
+          "following_count": 24,
+          "like_count": 24944,
+          "listed_count": 164,
+          "media_count": 1562,
+          "tweet_count": 5452
+        },
+        "url": "https://t.co/miuZgZUuRp",
+        "username": "shibouyugi_",
+        "verified": true
+      }
+    ]
+  }
+}

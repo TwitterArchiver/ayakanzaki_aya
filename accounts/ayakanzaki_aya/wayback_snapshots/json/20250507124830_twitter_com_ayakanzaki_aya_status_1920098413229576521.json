@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1920006403894206787",
+    "created_at": "2025-05-07T12:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T13:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920098413229576521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647930068763803648",
+          "start": 0,
+          "username": "menn0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920098413229576521",
+    "in_reply_to_user_id": "1647930068763803648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920006403894206787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@menn0615 啊啊啊啊啊啊老師你是神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30000,
+        "height": 1024,
+        "media_key": "13_1920006343215489024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1920006343215489024/img/Qo4Fqq-U2DSVLP68.jpg",
+        "public_metrics": {
+          "view_count": 84287
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920006343215489024/vid/avc1/320x454/cM8smCbAQNFwHdHb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920006343215489024/vid/avc1/480x682/OB0sfcPsdtAToo8r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920006343215489024/vid/avc1/720x1024/CeVX5kr743OuZ0JG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1920006343215489024/pl/UxJ5U-AKmDeqtPsh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1920006403894206787",
+        "created_at": "2025-05-07T12:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920098413229576521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647930068763803648",
+              "start": 0,
+              "username": "menn0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920098413229576521",
+        "in_reply_to_user_id": "1647930068763803648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920006403894206787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@menn0615 啊啊啊啊啊啊老師你是神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1920006343215489024"
+          ]
+        },
+        "author_id": "1647930068763803648",
+        "conversation_id": "1920006403894206787",
+        "created_at": "2025-05-07T06:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T07:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920006403894206787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBQUjxP22G",
+              "end": 45,
+              "expanded_url": "https://x.com/menn0615/status/1920006403894206787/video/1",
+              "media_key": "13_1920006343215489024",
+              "start": 22,
+              "url": "https://t.co/yBQUjxP22G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920006403894206787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3949,
+          "impression_count": 251149,
+          "like_count": 10730,
+          "quote_count": 29,
+          "reply_count": 8,
+          "retweet_count": 952
+        },
+        "reply_settings": "everyone",
+        "text": "笔自己画画清晰版 刚才那个导出分辨率太低了 https://t.co/yBQUjxP22G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916243512862949376/CY_WHRnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6600,
+          "following_count": 989,
+          "like_count": 30560,
+          "listed_count": 18,
+          "media_count": 51,
+          "tweet_count": 19778
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T11:48:49.000Z",
+        "description": "逃避しないでくれ",
+        "id": "1647930068763803648",
+        "name": ".",
+        "pinned_tweet_id": "1889030575216050367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832899347073335296/FxVKrxDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58929,
+          "following_count": 146,
+          "like_count": 915,
+          "listed_count": 296,
+          "media_count": 142,
+          "tweet_count": 762
+        },
+        "username": "menn0615",
+        "verified": false
+      }
+    ]
+  }
+}

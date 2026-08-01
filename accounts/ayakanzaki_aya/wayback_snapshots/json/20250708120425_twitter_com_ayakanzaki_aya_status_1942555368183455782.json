@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      }
+    ],
+    "conversation_id": "1942555368183455782",
+    "created_at": "2025-07-08T12:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T13:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942555368183455782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1335604262",
+          "start": 3,
+          "username": "Rellakinoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942555368183455782",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4250
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942526398092173433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rellakinoko: 今回の衣装モチーフは6人とも「パイプオルガン」です。\nパイプオルガンは楽器の中で一番巨大で、その音は大きく、遠くまで響き渡ります。また、パイプの本数が多ければ多いほど、より多種多彩な音が出せると言われています。\n（2/3）\n#初音ミクシンフォニ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_1942526259008868352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvU9VzMXkAA7Jci.jpg",
+        "width": 1500
+      },
+      {
+        "height": 995,
+        "media_key": "3_1942526272024039424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvU9WjrbUAAtXsE.jpg",
+        "width": 1500
+      },
+      {
+        "height": 995,
+        "media_key": "3_1942526283688386560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvU9XPIbIAAvhDg.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "1942555368183455782",
+        "created_at": "2025-07-08T12:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T13:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942555368183455782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1335604262",
+              "start": 3,
+              "username": "Rellakinoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942555368183455782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4250
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942526398092173433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rellakinoko: 今回の衣装モチーフは6人とも「パイプオルガン」です。\nパイプオルガンは楽器の中で一番巨大で、その音は大きく、遠くまで響き渡ります。また、パイプの本数が多ければ多いほど、より多種多彩な音が出せると言われています。\n（2/3）\n#初音ミクシンフォニ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942526259008868352",
+            "3_1942526272024039424",
+            "3_1942526283688386560"
+          ]
+        },
+        "author_id": "1335604262",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "1942526398092173433",
+        "created_at": "2025-07-08T10:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T11:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942526398092173433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 112,
+              "tag": "初音ミクシンフォニー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/okRnDB8O9M",
+              "end": 147,
+              "expanded_url": "https://x.com/Rellakinoko/status/1942526398092173433/photo/1",
+              "media_key": "3_1942526259008868352",
+              "start": 124,
+              "url": "https://t.co/okRnDB8O9M"
+            },
+            {
+              "display_url": "pic.x.com/okRnDB8O9M",
+              "end": 147,
+              "expanded_url": "https://x.com/Rellakinoko/status/1942526398092173433/photo/1",
+              "media_key": "3_1942526272024039424",
+              "start": 124,
+              "url": "https://t.co/okRnDB8O9M"
+            },
+            {
+              "display_url": "pic.x.com/okRnDB8O9M",
+              "end": 147,
+              "expanded_url": "https://x.com/Rellakinoko/status/1942526398092173433/photo/1",
+              "media_key": "3_1942526283688386560",
+              "start": 124,
+              "url": "https://t.co/okRnDB8O9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942526398092173433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4531,
+          "impression_count": 736292,
+          "like_count": 22547,
+          "quote_count": 243,
+          "reply_count": 4,
+          "retweet_count": 4250
+        },
+        "reply_settings": "everyone",
+        "text": "今回の衣装モチーフは6人とも「パイプオルガン」です。\nパイプオルガンは楽器の中で一番巨大で、その音は大きく、遠くまで響き渡ります。また、パイプの本数が多ければ多いほど、より多種多彩な音が出せると言われています。\n（2/3）\n#初音ミクシンフォニー https://t.co/okRnDB8O9M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7722,
+          "following_count": 991,
+          "like_count": 31191,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20070
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-08T02:53:12.000Z",
+        "description": "ミクと絵を描くのがすきな人です Pixiv id=163536",
+        "id": "1335604262",
+        "name": "Rella",
+        "pinned_tweet_id": "1829782133818474964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1466177220905295878/iwAMQRAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772737,
+          "following_count": 490,
+          "like_count": 2380,
+          "listed_count": 5470,
+          "media_count": 410,
+          "tweet_count": 2125
+        },
+        "username": "Rellakinoko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1944461683209982284",
+    "created_at": "2025-07-16T06:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T07:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945371227222151580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1342313271806685184",
+          "start": 0,
+          "username": "even38997474"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945371227222151580",
+    "in_reply_to_user_id": "1342313271806685184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944766914368274459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@even38997474 我也要珍珠奶茶！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_1944766911700676608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0zM87aMAAjQP4.jpg",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1944461683209982284",
+        "created_at": "2025-07-16T06:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945371227222151580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1342313271806685184",
+              "start": 0,
+              "username": "even38997474"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945371227222151580",
+        "in_reply_to_user_id": "1342313271806685184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944766914368274459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@even38997474 我也要珍珠奶茶！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944766911700676608"
+          ]
+        },
+        "author_id": "1342313271806685184",
+        "conversation_id": "1944461683209982284",
+        "created_at": "2025-07-14T14:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944766914368274459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p0S9MyEKAS",
+              "end": 39,
+              "expanded_url": "https://x.com/even38997474/status/1944766914368274459/photo/1",
+              "media_key": "3_1944766911700676608",
+              "start": 16,
+              "url": "https://t.co/p0S9MyEKAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944766914368274459",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944461683209982284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/p0S9MyEKAS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7836,
+          "following_count": 990,
+          "like_count": 31305,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20111
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T03:37:00.000Z",
+        "description": "帶來一切混沌但是喜愛人類的物品",
+        "id": "1342313271806685184",
+        "name": "even（潘多拉的盒子）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342397401898741761/EkOCJxZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 648,
+          "like_count": 4948,
+          "listed_count": 1,
+          "media_count": 6344,
+          "tweet_count": 18788
+        },
+        "username": "even38997474",
+        "verified": false
+      }
+    ]
+  }
+}

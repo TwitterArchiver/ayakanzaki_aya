@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1822142258000396435",
+    "created_at": "2024-08-12T09:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822928115724640525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "939357003641524224",
+          "start": 0,
+          "username": "a24098030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822928115724640525",
+    "in_reply_to_user_id": "939357003641524224",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822144623361360205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a24098030 我不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-12T09:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822928115724640525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "939357003641524224",
+              "start": 0,
+              "username": "a24098030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822928115724640525",
+        "in_reply_to_user_id": "939357003641524224",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822144623361360205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a24098030 我不知道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822144620622491648"
+          ]
+        },
+        "author_id": "939357003641524224",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-10T05:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T06:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822144623361360205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            },
+            {
+              "end": 25,
+              "id": "1402120146500558849",
+              "start": 16,
+              "username": "HrDk0521"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhej5diewt",
+              "end": 90,
+              "expanded_url": "https://twitter.com/a24098030/status/1822144623361360205/photo/1",
+              "media_key": "3_1822144620622491648",
+              "start": 67,
+              "url": "https://t.co/vheJ5dIeWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822144623361360205",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822143328676098270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya @HrDk0521 我們兩個都不行ww\n可能有某些帳號的設定吧？\n隱私之類的，但我也不記得我有開什麼 https://t.co/vheJ5dIeWt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 998,
+          "like_count": 25487,
+          "listed_count": 10,
+          "tweet_count": 14960
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-09T04:52:16.000Z",
+        "description": "",
+        "id": "939357003641524224",
+        "name": "程柏融",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1021647285489348608/bfSaeuP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 1023,
+          "like_count": 139517,
+          "listed_count": 0,
+          "tweet_count": 9586
+        },
+        "username": "a24098030",
+        "verified": false
+      }
+    ]
+  }
+}

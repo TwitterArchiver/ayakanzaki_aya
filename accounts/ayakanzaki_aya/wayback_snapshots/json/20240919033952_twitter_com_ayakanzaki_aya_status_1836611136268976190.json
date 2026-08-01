@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1835885912103727416",
+    "created_at": "2024-09-19T03:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T04:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836611136268976190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4903002618",
+          "start": 0,
+          "username": "wen35892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836611136268976190",
+    "in_reply_to_user_id": "4903002618",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835887257955549203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wen35892 總比沒假的aka我好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1835885912103727416",
+        "created_at": "2024-09-19T03:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T04:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836611136268976190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4903002618",
+              "start": 0,
+              "username": "wen35892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836611136268976190",
+        "in_reply_to_user_id": "4903002618",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835887257955549203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wen35892 總比沒假的aka我好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4903002618",
+        "conversation_id": "1835885912103727416",
+        "created_at": "2024-09-17T03:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T04:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835887257955549203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "008c994a10edec85"
+        },
+        "id": "1835887257955549203",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835885912103727416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 如果有連假會更爽www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆\n依賴受付中✧ よろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 981,
+          "like_count": 26189,
+          "listed_count": 9,
+          "tweet_count": 15650
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-13T18:32:02.000Z",
+        "description": "飛不快又怕高的巨嘴鴉\n暴言/肝話/推歌/潛水 系\n語言：中文⭕、台語⭕\n不專業自行車維修工、平日露營推廣\nFB(表世界~進入前請三思)：https://t.co/Clbbn8VNxL \n廢片倉庫：https://t.co/lBr00wxPi1\n棉花糖：https://t.co/boGMjDEQaf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/ykMVDy",
+                "end": 91,
+                "expanded_url": "http://reurl.cc/ykMVDy",
+                "start": 68,
+                "url": "https://t.co/Clbbn8VNxL"
+              },
+              {
+                "display_url": "reurl.cc/Q4bQa0",
+                "end": 121,
+                "expanded_url": "http://reurl.cc/Q4bQa0",
+                "start": 98,
+                "url": "https://t.co/lBr00wxPi1"
+              },
+              {
+                "display_url": "reurl.cc/LN8KG9",
+                "end": 149,
+                "expanded_url": "http://reurl.cc/LN8KG9",
+                "start": 126,
+                "url": "https://t.co/boGMjDEQaf"
+              }
+            ]
+          }
+        },
+        "id": "4903002618",
+        "location": "西太平洋某島嶼",
+        "name": "迷途鴉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/698577985700401152/JWpnK4zu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 570,
+          "like_count": 17536,
+          "listed_count": 0,
+          "tweet_count": 8463
+        },
+        "username": "wen35892",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1931606508040597575",
+    "created_at": "2025-06-16T07:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T08:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934519971477958822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2699876100",
+          "start": 0,
+          "username": "befadeaway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934519971477958822",
+    "in_reply_to_user_id": "2699876100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932277535381106941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@befadeaway 單純收衣服的時候她自己沒認真看拿走了\n我那時候在打工比她晚收衣服\n第二天洗澡的時候看到洗衣籃裡的內衣才知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1931606508040597575",
+        "created_at": "2025-06-16T07:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934519971477958822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2699876100",
+              "start": 0,
+              "username": "befadeaway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934519971477958822",
+        "in_reply_to_user_id": "2699876100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932277535381106941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@befadeaway 單純收衣服的時候她自己沒認真看拿走了\n我那時候在打工比她晚收衣服\n第二天洗澡的時候看到洗衣籃裡的內衣才知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2699876100",
+        "conversation_id": "1931606508040597575",
+        "created_at": "2025-06-10T03:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T04:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932277535381106941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932277535381106941",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931606508040597575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 是收衣服分類放錯嗎？不然就試試看分開專用的洗衣袋去洗或是自己單獨拿去洗、分開位置晾。\n這種事情在未來住學校宿舍生活，還是有可能遇到有類似問題的室友。\n想要獨立居住，很貴，也有很多生活問題要克服。那就要想辦法節制消費養成存錢習慣。好好研究有哪些工作機會？自己可以培養什麼工作技能？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 996,
+          "like_count": 30912,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19943
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-02T04:23:59.000Z",
+        "description": "在推特已取得韓粉、指教仔的稱號。拜託，請各位封鎖過我的人不要解封，謝謝！本人認定在這裡的言論沒什麼見不得光的，包括所有的私訊在內。\n \n出生於蔣二世接班年，青春期至當兵為李登輝執政，再來就是依序馬扁蔡。 出生於美國綏靖巔峰，至不惑之年眼見中國最囂張的年代。川蔡當選忽見台灣曙光。只是不知道能維持多久？",
+        "id": "2699876100",
+        "location": "Taipei",
+        "name": "💙💛💚🤍 曾經存在的替代役🇺🇸🟩⬜ 🇺🇦🇵🇱🇮🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1441079627355623424/WcAxTHWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 1314,
+          "like_count": 85297,
+          "listed_count": 1,
+          "media_count": 839,
+          "tweet_count": 10348
+        },
+        "username": "befadeaway",
+        "verified": false
+      }
+    ]
+  }
+}

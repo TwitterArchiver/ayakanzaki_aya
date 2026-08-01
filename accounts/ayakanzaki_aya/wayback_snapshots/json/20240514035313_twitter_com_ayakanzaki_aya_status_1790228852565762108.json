@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1789906986122772855",
+    "created_at": "2024-05-14T03:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T04:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790228852565762108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2160415771",
+          "start": 0,
+          "username": "yokohama0579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790228852565762108",
+    "in_reply_to_user_id": "2160415771",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789909593490911598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yokohama0579 雖然我很感謝你打了那麼多\n但你可不可用頓號啊啊啊啊啊\n我看的很辛苦耶（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1789906986122772855",
+        "created_at": "2024-05-14T03:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T04:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790228852565762108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2160415771",
+              "start": 0,
+              "username": "yokohama0579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790228852565762108",
+        "in_reply_to_user_id": "2160415771",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789909593490911598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yokohama0579 雖然我很感謝你打了那麼多\n但你可不可用頓號啊啊啊啊啊\n我看的很辛苦耶（x"
+      },
+      {
+        "attachments": {},
+        "author_id": "2160415771",
+        "conversation_id": "1789906986122772855",
+        "created_at": "2024-05-13T06:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T07:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789909593490911598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789909593490911598",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789906986122772855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 感情這件事 沒有真的放下 只有埋藏心中的深度差異 埋的越深 挖出來時傷口越痛  但日子總要過 大腦會讓你遺忘 直到某一天妳警覺心低了 又會讓你想起 隨著想起的次數多 也會漸漸的真正的理解 這也僅僅是一段過往 然後就不再難受但會有點惆悵與感激 ρ(・ω・、)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3784,
+          "following_count": 992,
+          "like_count": 23470,
+          "listed_count": 10,
+          "tweet_count": 13020
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-28T07:39:35.000Z",
+        "description": "台湾出生 職業作業療法です 私Vtuberすきです いつかVtuberとしてデビューするかもしれません。 お友達になりましょう!",
+        "id": "2160415771",
+        "location": "New Taipei City, Taiwan",
+        "name": "蒼野りん（ジャウェイ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714452867481055232/ffovsMVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 392,
+          "like_count": 3161,
+          "listed_count": 4,
+          "tweet_count": 2227
+        },
+        "username": "yokohama0579",
+        "verified": false
+      }
+    ]
+  }
+}

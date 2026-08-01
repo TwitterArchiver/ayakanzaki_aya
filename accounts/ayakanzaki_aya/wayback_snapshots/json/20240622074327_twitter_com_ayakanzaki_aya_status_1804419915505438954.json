@@ -1,0 +1,234 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1803712787958346201",
+    "created_at": "2024-06-22T07:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T08:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804419915505438954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1019584327376461825",
+          "start": 0,
+          "username": "yazawaribii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804419915505438954",
+    "in_reply_to_user_id": "1019584327376461825",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803748590072041476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yazawaribii 很好wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1803712787958346201",
+        "created_at": "2024-06-22T07:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T08:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804419915505438954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1019584327376461825",
+              "start": 0,
+              "username": "yazawaribii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804419915505438954",
+        "in_reply_to_user_id": "1019584327376461825",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803748590072041476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yazawaribii 很好wwww"
+      },
+      {
+        "attachments": {},
+        "author_id": "1019584327376461825",
+        "conversation_id": "1803712787958346201",
+        "created_at": "2024-06-20T11:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T12:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803748590072041476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803748590072041476",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803712787958346201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 懂了wwww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3891,
+          "following_count": 993,
+          "like_count": 24489,
+          "listed_count": 10,
+          "tweet_count": 14002
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-18T14:07:01.000Z",
+        "description": "我是台灣繪師莉比Ribi～\n兼職圖奇V實況主見習生！主要以繪圖工作台為主～\n委託合作可直接私信或是網站洽詢🫶\n⭐粉絲名：莉息\n超可愛💖孩子們：\n@Ayaya_00813 (2.5 Q版)✨🦁\n@bunnybun422 🩵🐰\n\n※未經同意禁止轉載，如需轉載，請註明出處\n自作宣言、AI學習禁止。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Ayaya_00813"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "bunnybun422"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yazawaribii",
+                "end": 23,
+                "expanded_url": "https://lit.link/yazawaribii",
+                "start": 0,
+                "url": "https://t.co/YPcySxnQDH"
+              }
+            ]
+          }
+        },
+        "id": "1019584327376461825",
+        "location": "正在尋夢的路上",
+        "name": "莉比Ribi🍡₍ᐢ..ᐢ₎ 🌟 ʚ委託暫停接單ɞ量少後開放 精緻頭貼|Q版|插畫|曲繪|V皮設計",
+        "pinned_tweet_id": "1769966626827272300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796382927984656384/CDEYMt9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 744,
+          "like_count": 14247,
+          "listed_count": 5,
+          "tweet_count": 4260
+        },
+        "url": "https://t.co/YPcySxnQDH",
+        "username": "yazawaribii",
+        "verified": false
+      }
+    ]
+  }
+}

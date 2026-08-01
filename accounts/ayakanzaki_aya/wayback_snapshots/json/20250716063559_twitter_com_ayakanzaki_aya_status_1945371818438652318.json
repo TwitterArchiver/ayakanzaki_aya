@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1944461683209982284",
+    "created_at": "2025-07-16T06:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T07:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945371818438652318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1528900219777466368",
+          "start": 0,
+          "username": "MDFK_YEEEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945371818438652318",
+    "in_reply_to_user_id": "1528900219777466368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944576311298789556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MDFK_YEEEE 你好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1944461683209982284",
+        "created_at": "2025-07-16T06:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945371818438652318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1528900219777466368",
+              "start": 0,
+              "username": "MDFK_YEEEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945371818438652318",
+        "in_reply_to_user_id": "1528900219777466368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944576311298789556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MDFK_YEEEE 你好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528900219777466368",
+        "conversation_id": "1944461683209982284",
+        "created_at": "2025-07-14T01:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T02:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944576311298789556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944576311298789556",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944461683209982284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 你好你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7836,
+          "following_count": 990,
+          "like_count": 31313,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20117
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T00:46:50.000Z",
+        "description": "準高校生 | 最胖的吟遊詩人:@viamusica0707 | 折り紙学習する(有沒有打對也不知道) | 常用Tag:#用紙摺出台v計畫 | 小帳@weeeeeyeee |FB:https://t.co/jQIMdjD2B0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "用紙摺出台v計畫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "viamusica0707"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "weeeeeyeee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "facebook.com/share/161fBh2j…",
+                "end": 112,
+                "expanded_url": "https://www.facebook.com/share/161fBh2jE6",
+                "start": 89,
+                "url": "https://t.co/jQIMdjD2B0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/ttdyee",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/ttdyee",
+                "start": 0,
+                "url": "https://t.co/e3vaSdRabB"
+              }
+            ]
+          }
+        },
+        "id": "1528900219777466368",
+        "location": "未知",
+        "name": "累累病(yee)🧭",
+        "pinned_tweet_id": "1927672816293302299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930584698398605312/WJ3KDc7J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 1157,
+          "like_count": 11251,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 3088
+        },
+        "url": "https://t.co/e3vaSdRabB",
+        "username": "MDFK_YEEEE",
+        "verified": false
+      }
+    ]
+  }
+}

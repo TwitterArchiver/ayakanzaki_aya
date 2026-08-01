@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1978287406039060538",
+    "created_at": "2025-10-19T16:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T17:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979951522784919618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1356872033062150145",
+          "start": 0,
+          "username": "doge0u0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979951522784919618",
+    "in_reply_to_user_id": "1356872033062150145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978442798605939020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doge0u0 我看畫師畫風能大概看出來\n但還是會有一定的機率猜錯就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1978287406039060538",
+        "created_at": "2025-10-19T16:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979951522784919618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1356872033062150145",
+              "start": 0,
+              "username": "doge0u0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979951522784919618",
+        "in_reply_to_user_id": "1356872033062150145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978442798605939020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doge0u0 我看畫師畫風能大概看出來\n但還是會有一定的機率猜錯就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356872033062150145",
+        "conversation_id": "1978287406039060538",
+        "created_at": "2025-10-15T12:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978442798605939020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978442798605939020",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978287406039060538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我以為網路上不管怎麼樣第一印象都是認為對方是男的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8433,
+          "following_count": 971,
+          "like_count": 31873,
+          "listed_count": 19,
+          "media_count": 84,
+          "tweet_count": 20607
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T07:48:06.000Z",
+        "description": "為明知這世界是多麼的不友善\n卻仍堅持故我屹立於這片大地的你我\n與那該死的明天\n乾杯",
+        "id": "1356872033062150145",
+        "name": "Doge0u0",
+        "pinned_tweet_id": "1950420110352798008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932890830928478208/-a9yuiiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 89,
+          "like_count": 2553,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 597
+        },
+        "username": "doge0u0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1869739489293435132",
+    "created_at": "2024-12-22T06:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T07:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870716559007879270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617594270088843264",
+          "start": 0,
+          "username": "AsakuraKaren31A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870716559007879270",
+    "in_reply_to_user_id": "1617594270088843264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869748474612461572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsakuraKaren31A 欸幹你是男的哦wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1869739489293435132",
+        "created_at": "2024-12-22T06:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T07:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870716559007879270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617594270088843264",
+              "start": 0,
+              "username": "AsakuraKaren31A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870716559007879270",
+        "in_reply_to_user_id": "1617594270088843264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869748474612461572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsakuraKaren31A 欸幹你是男的哦wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617594270088843264",
+        "conversation_id": "1869739489293435132",
+        "created_at": "2024-12-19T14:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T15:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869748474612461572"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 16,
+              "tag": "2024前想不到的十件事"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869748474612461572",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869739489293435132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya #2024前想不到的十件事\n1.遇到喜歡的女生+有保持聯繫\n2.找到第一份打工，底薪3萬起跳的餐飲業\n3.Solo Leveling 特別好看+出手遊\n4.學會騎腳踏車\n5.從潛水新手往初級潛水考上證照邁進\n6.第一次實習面試\n7.游泳池開始收費\n8.突破潛水深度：6米（至今紀錄+學校潛水池最深區\n9.絕區零出現，艾蓮成為焦點"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 982,
+          "like_count": 27542,
+          "listed_count": 10,
+          "media_count": 116,
+          "tweet_count": 17120
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T18:45:36.000Z",
+        "description": "大家好，我是可愛的小萌貓，朝倉可憐🤗 你們可以稱呼我可憐或憐憐，很高興能認識大家喵💕",
+        "id": "1617594270088843264",
+        "location": "緋染天空",
+        "name": "朝倉可憐 あさくら かれん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755262007887179776/_fb8s8B1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 84,
+          "like_count": 1606,
+          "listed_count": 0,
+          "media_count": 472,
+          "tweet_count": 4726
+        },
+        "username": "AsakuraKaren31A",
+        "verified": false
+      }
+    ]
+  }
+}

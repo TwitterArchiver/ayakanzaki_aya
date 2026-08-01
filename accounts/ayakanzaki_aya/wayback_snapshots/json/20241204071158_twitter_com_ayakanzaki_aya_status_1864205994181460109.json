@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1864180342778998791",
+    "created_at": "2024-12-04T07:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T08:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864205994181460109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513426097710694403",
+          "start": 0,
+          "username": "YueNN_1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864205994181460109",
+    "in_reply_to_user_id": "1513426097710694403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864180342778998791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YueNN_1022 早日康復_(:_」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1864180342778998791",
+        "created_at": "2024-12-04T07:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T08:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864205994181460109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513426097710694403",
+              "start": 0,
+              "username": "YueNN_1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864205994181460109",
+        "in_reply_to_user_id": "1513426097710694403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864180342778998791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YueNN_1022 早日康復_(:_」∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513426097710694403",
+        "conversation_id": "1864180342778998791",
+        "created_at": "2024-12-04T05:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T06:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864180342778998791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864180342778998791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 328,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "阿.....那個......\n雖然不太重要但是就是\n我出車禍了 手腿都有傷\n所以最近要找我可能會晚很久才會回 這樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1857345709181178184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 982,
+          "like_count": 27330,
+          "listed_count": 10,
+          "media_count": 115,
+          "tweet_count": 16901
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T07:58:06.000Z",
+        "description": "Taiwan streamer 20↑\n中⭕日⭕英🔺💜Twitchでゲーム実況しています！💜Twitch遊戲實況主💜連動邀約可以直接DM我💜コラボなどDMに！棉花糖マシュマロhttps://t.co/iqygWAeu7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/yuenn_1022",
+                "end": 110,
+                "expanded_url": "http://marshmallow-qa.com/yuenn_1022",
+                "start": 87,
+                "url": "https://t.co/iqygWAeu7z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/yuenn1022",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/yuenn1022",
+                "start": 0,
+                "url": "https://t.co/T76ihnElJo"
+              }
+            ]
+          }
+        },
+        "id": "1513426097710694403",
+        "name": "紫紫ゆえ",
+        "pinned_tweet_id": "1677666833028243456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848886373992042496/GdyI6m2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 230,
+          "like_count": 7179,
+          "listed_count": 3,
+          "media_count": 608,
+          "tweet_count": 3950
+        },
+        "url": "https://t.co/T76ihnElJo",
+        "username": "YueNN_1022",
+        "verified": false
+      }
+    ]
+  }
+}

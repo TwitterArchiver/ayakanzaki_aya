@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1948368632381157476",
+    "created_at": "2025-07-24T13:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T14:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948368632381157476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1936006664026824704",
+          "start": 3,
+          "username": "rurudo_info"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948368632381157476",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948322267022479710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurudo_info: ˗ˏˋ 📢 POP UP グッズ紹介 ˎˊ˗\n\n🦁 アクリルブロック／るるどらいおん 🦁\nるるどらいおんのかわいいイラストが、アクリルブロックになって登場✨\n手のひらサイズながら、透明感と重厚感で存在感抜群...！\nミニキャラのるるどらいおんと…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1948306036466864128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnGBIFbUAAGt6x.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1948368632381157476",
+        "created_at": "2025-07-24T13:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T14:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948368632381157476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1936006664026824704",
+              "start": 3,
+              "username": "rurudo_info"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948368632381157476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948322267022479710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurudo_info: ˗ˏˋ 📢 POP UP グッズ紹介 ˎˊ˗\n\n🦁 アクリルブロック／るるどらいおん 🦁\nるるどらいおんのかわいいイラストが、アクリルブロックになって登場✨\n手のひらサイズながら、透明感と重厚感で存在感抜群...！\nミニキャラのるるどらいおんと…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948306036466864128"
+          ]
+        },
+        "author_id": "1936006664026824704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1948322267022479710",
+        "created_at": "2025-07-24T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948322267022479710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vq2NXWqPYN",
+              "end": 174,
+              "expanded_url": "https://x.com/rurudo_info/status/1948322267022479710/photo/1",
+              "media_key": "3_1948306036466864128",
+              "start": 151,
+              "url": "https://t.co/vq2NXWqPYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948322267022479710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 210,
+                "start": 198,
+                "tag": "rurudoPOPUP"
+              },
+              {
+                "end": 218,
+                "start": 211,
+                "tag": "rurudo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "rurudot-fallen.booth.pm/items/7102577",
+                "end": 196,
+                "expanded_url": "https://rurudot-fallen.booth.pm/items/7102577",
+                "start": 173,
+                "url": "https://t.co/F0pW1SZIwc"
+              }
+            ]
+          },
+          "text": "˗ˏˋ 📢 POP UP グッズ紹介 ˎˊ˗\n\n🦁 アクリルブロック／るるどらいおん 🦁\nるるどらいおんのかわいいイラストが、アクリルブロックになって登場✨\n手のひらサイズながら、透明感と重厚感で存在感抜群...！\nミニキャラのるるどらいおんと、等身のるるどらいおんダブルで癒される一品です！🩷\n\n🃏 8/13(水)からBOOTHでも販売予定！\nhttps://t.co/F0pW1SZIwc\n\n#rurudoPOPUP #rurudo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 5708,
+          "like_count": 411,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "˗ˏˋ 📢 POP UP グッズ紹介 ˎˊ˗\n\n🦁 アクリルブロック／るるどらいおん 🦁\nるるどらいおんのかわいいイラストが、アクリルブロックになって登場✨\n手のひらサイズながら、透明感と重厚感で存在感抜群...！\nミニキャラのるるどらいおんと、等身のるるどらいおんダブルで癒される一品です！🩷\n\n🃏 https://t.co/vq2NXWqPYN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7837,
+          "following_count": 993,
+          "like_count": 31366,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 20174
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T10:22:24.000Z",
+        "description": "イラストレーターrurudo ( @rurudo_ ) の公式INFOアカウントです✍️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "rurudo_"
+              }
+            ]
+          }
+        },
+        "id": "1936006664026824704",
+        "name": "rurudo INFO",
+        "pinned_tweet_id": "1937452032690126861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936021877840863232/qPIbNnrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13957,
+          "following_count": 1,
+          "like_count": 18,
+          "listed_count": 39,
+          "media_count": 35,
+          "tweet_count": 60
+        },
+        "username": "rurudo_info",
+        "verified": true
+      }
+    ]
+  }
+}

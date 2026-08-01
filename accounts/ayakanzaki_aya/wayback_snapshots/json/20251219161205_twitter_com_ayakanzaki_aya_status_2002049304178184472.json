@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2001713495142752498",
+    "created_at": "2025-12-19T16:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T17:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002049304178184472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "drive.google.com/file/d/16VjanX…",
+          "end": 74,
+          "expanded_url": "https://drive.google.com/file/d/16VjanX5CusGJAbQETiEyKSzaXg3QTp_E/view?usp=drivesdk",
+          "start": 51,
+          "status": 200,
+          "title": "stasis.png",
+          "unwound_url": "https://drive.google.com/file/d/16VjanX5CusGJAbQETiEyKSzaXg3QTp_E/view?usp=drivesdk",
+          "url": "https://t.co/kfONmBAXTv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002049304178184472",
+    "in_reply_to_user_id": "1499470341734907907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001713495142752498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "謝謝大家那麼喜歡我畫的圖😭😭😭\n還有感謝想要用做桌布的大家\n圖的連結在這裡歡迎大家使用！(*≧ω≦)\nhttps://t.co/kfONmBAXTv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001713487387463680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8eDz63WkAA0qYo.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2001713495142752498",
+        "created_at": "2025-12-19T16:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002049304178184472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "drive.google.com/file/d/16VjanX…",
+              "end": 74,
+              "expanded_url": "https://drive.google.com/file/d/16VjanX5CusGJAbQETiEyKSzaXg3QTp_E/view?usp=drivesdk",
+              "start": 51,
+              "status": 200,
+              "title": "stasis.png",
+              "unwound_url": "https://drive.google.com/file/d/16VjanX5CusGJAbQETiEyKSzaXg3QTp_E/view?usp=drivesdk",
+              "url": "https://t.co/kfONmBAXTv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002049304178184472",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001713495142752498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "謝謝大家那麼喜歡我畫的圖😭😭😭\n還有感謝想要用做桌布的大家\n圖的連結在這裡歡迎大家使用！(*≧ω≦)\nhttps://t.co/kfONmBAXTv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001713487387463680"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "2001713495142752498",
+        "created_at": "2025-12-18T17:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001713495142752498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oCvGOy9Vn",
+              "end": 94,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/2001713495142752498/photo/1",
+              "media_key": "3_2001713487387463680",
+              "start": 71,
+              "url": "https://t.co/8oCvGOy9Vn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001713495142752498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10892,
+          "like_count": 426,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "以前都不敢用自己畫的圖當手機背景\n覺得很羞恥www\n但現在都只用自己畫的圖\n應該是對自己比較自信了（？\n還有也是越來越滿意自己畫的圖了www https://t.co/8oCvGOy9Vn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8434,
+          "following_count": 976,
+          "like_count": 32076,
+          "listed_count": 20,
+          "media_count": 86,
+          "tweet_count": 20830
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

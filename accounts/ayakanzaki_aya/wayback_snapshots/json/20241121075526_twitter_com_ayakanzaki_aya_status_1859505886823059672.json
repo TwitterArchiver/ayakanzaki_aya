@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1858412215797268576",
+    "created_at": "2024-11-21T07:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T08:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859505886823059672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612362453014433794",
+          "start": 0,
+          "username": "Azazel_Keya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859505886823059672",
+    "in_reply_to_user_id": "1612362453014433794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859029176449462759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azazel_Keya 不要！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1858412215797268576",
+        "created_at": "2024-11-21T07:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T08:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859505886823059672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612362453014433794",
+              "start": 0,
+              "username": "Azazel_Keya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859505886823059672",
+        "in_reply_to_user_id": "1612362453014433794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859029176449462759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azazel_Keya 不要！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612362453014433794",
+        "conversation_id": "1858412215797268576",
+        "created_at": "2024-11-20T00:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T01:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859029176449462759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859029176449462759",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858412215797268576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 免費加班卷😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1857345709181178184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4238,
+          "following_count": 981,
+          "like_count": 27106,
+          "listed_count": 10,
+          "tweet_count": 16678
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T08:15:56.000Z",
+        "description": "個人勢VT  隨性開台 主打的就是親民\n主要在twitch直播，什麼遊戲都玩\n繪師麻麻 @Kraken_is_sexy  建模把把 @ALittleRiceBall\n   各項社群連結：https://t.co/Cf1vgAJ79F",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "Kraken_is_sexy"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "ALittleRiceBall"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "portaly.cc/Azazel.Keya",
+                "end": 116,
+                "expanded_url": "https://portaly.cc/Azazel.Keya",
+                "start": 93,
+                "url": "https://t.co/Cf1vgAJ79F"
+              }
+            ]
+          }
+        },
+        "id": "1612362453014433794",
+        "location": "Taiwan",
+        "name": "阿撒茲勒_克亞&網路I人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639679050280243200/gEVNzQ7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 806,
+          "like_count": 6689,
+          "listed_count": 0,
+          "tweet_count": 2513
+        },
+        "username": "Azazel_Keya",
+        "verified": true
+      }
+    ]
+  }
+}

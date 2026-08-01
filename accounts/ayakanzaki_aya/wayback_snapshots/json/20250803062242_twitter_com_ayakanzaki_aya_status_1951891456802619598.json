@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1951658140644352273",
+    "created_at": "2025-08-03T06:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T07:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951891456802619598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1287213071421726720",
+          "start": 0,
+          "username": "Dacodaco_426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951891456802619598",
+    "in_reply_to_user_id": "1287213071421726720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951658140644352273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dacodaco_426 誰（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1951658140644352273",
+        "created_at": "2025-08-03T06:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951891456802619598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1287213071421726720",
+              "start": 0,
+              "username": "Dacodaco_426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951891456802619598",
+        "in_reply_to_user_id": "1287213071421726720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951658140644352273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dacodaco_426 誰（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287213071421726720",
+        "conversation_id": "1951658140644352273",
+        "created_at": "2025-08-02T14:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T15:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951658140644352273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951658140644352273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3227,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "喜歡很多年的人結果是坨答辯🤌🤌\n也是第一個讓我接觸V圈的人…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8294,
+          "following_count": 996,
+          "like_count": 31389,
+          "listed_count": 19,
+          "media_count": 57,
+          "tweet_count": 20202
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T02:28:17.000Z",
+        "description": "自家孩子販售中 （女V有優惠） 各式連結還有標籤放在下面的網址了！歡迎委託～～相關Hashtag: 粉絲創作 #Dacofanart 直播相關 #Dacolive 想說的話 #鴨鴨偷偷說【互惠/合作/聯動】歡迎私訊！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 55,
+                "tag": "Dacofanart"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "tag": "Dacolive"
+              },
+              {
+                "end": 93,
+                "start": 87,
+                "tag": "鴨鴨偷偷說"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/dacodaco426",
+                "end": 23,
+                "expanded_url": "https://lit.link/dacodaco426",
+                "start": 0,
+                "url": "https://t.co/6jYPIBIKpP"
+              }
+            ]
+          }
+        },
+        "id": "1287213071421726720",
+        "location": "大鴨鴨澡堂",
+        "name": "呱鴨Daco🐣",
+        "pinned_tweet_id": "1926144313638928607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926145107658416128/7w3V8roV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2986,
+          "following_count": 980,
+          "like_count": 7682,
+          "listed_count": 15,
+          "media_count": 431,
+          "tweet_count": 4116
+        },
+        "url": "https://t.co/6jYPIBIKpP",
+        "username": "Dacodaco_426",
+        "verified": false
+      }
+    ]
+  }
+}

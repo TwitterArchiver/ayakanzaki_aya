@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1947849554436477231",
+    "created_at": "2025-07-24T12:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T13:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948367091297350066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1872456788211363841",
+          "start": 0,
+          "username": "XianChia98183"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948367091297350066",
+    "in_reply_to_user_id": "1872456788211363841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948069390248972731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianChia98183 是噠wwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_1948069382992867328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjuyFMasAA-SPA.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1947849554436477231",
+        "created_at": "2025-07-24T12:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T13:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948367091297350066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872456788211363841",
+              "start": 0,
+              "username": "XianChia98183"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948367091297350066",
+        "in_reply_to_user_id": "1872456788211363841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948069390248972731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianChia98183 是噠wwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948069382992867328"
+          ]
+        },
+        "author_id": "1872456788211363841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947849554436477231",
+        "created_at": "2025-07-23T17:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T18:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948069390248972731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYPyGPykWH",
+              "end": 55,
+              "expanded_url": "https://x.com/XianChia98183/status/1948069390248972731/photo/1",
+              "media_key": "3_1948069382992867328",
+              "start": 32,
+              "url": "https://t.co/vYPyGPykWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948069390248972731",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947849554436477231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 嗯，要多去吃哦，不要太瘦哦😃😊 https://t.co/vYPyGPykWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7837,
+          "following_count": 993,
+          "like_count": 31356,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 20163
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T01:39:10.000Z",
+        "description": "我😆✊喜欢看台湾的洛伊可🐱Vtuber我喜歡我的家人們還有糯米跟龜儿還有我的花花門，還有最喜歡練拳😘🌻🌺🪷",
+        "id": "1872456788211363841",
+        "location": "Malaysia",
+        "name": "贤骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872483758156460032/AKRvmKxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 75,
+          "like_count": 2932,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 1009
+        },
+        "username": "XianChia98183",
+        "verified": false
+      }
+    ]
+  }
+}

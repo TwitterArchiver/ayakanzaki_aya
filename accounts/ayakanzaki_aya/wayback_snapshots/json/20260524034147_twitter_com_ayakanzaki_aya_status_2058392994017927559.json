@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2058392994017927559",
+    "created_at": "2026-05-24T03:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058392994017927559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "#vtuber #初配信 #高中生はじめまして、Ayaと申します。【直播規章】 ฅ 請尊重主播和在場的所有觀衆。 ฅ 請勿使用侮辱性語言。 ฅ 請勿發表與直播無關的人事物。Twitter：https://x.com/ayakanzaki_ayaFanbox：https://t.co/yhbghbk7m0Pixiv...",
+          "display_url": "youtube.com/live/1KpvzP8O_…",
+          "end": 35,
+          "expanded_url": "https://www.youtube.com/live/1KpvzP8O_co?si=Fp4bv8GJe6KNYheK",
+          "start": 12,
+          "status": 200,
+          "title": "【初配信】気づいてくれてありがと。Aya",
+          "unwound_url": "https://www.youtube.com/live/1KpvzP8O_co?si=Fp4bv8GJe6KNYheK",
+          "url": "https://t.co/0MQGjLpjch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058392994017927559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很突然 但 請多指教\n\nhttps://t.co/0MQGjLpjch"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2058392994017927559",
+        "created_at": "2026-05-24T03:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058392994017927559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "#vtuber #初配信 #高中生はじめまして、Ayaと申します。【直播規章】 ฅ 請尊重主播和在場的所有觀衆。 ฅ 請勿使用侮辱性語言。 ฅ 請勿發表與直播無關的人事物。Twitter：https://x.com/ayakanzaki_ayaFanbox：https://t.co/yhbghbk7m0Pixiv...",
+              "display_url": "youtube.com/live/1KpvzP8O_…",
+              "end": 35,
+              "expanded_url": "https://www.youtube.com/live/1KpvzP8O_co?si=Fp4bv8GJe6KNYheK",
+              "start": 12,
+              "status": 200,
+              "title": "【初配信】気づいてくれてありがと。Aya",
+              "unwound_url": "https://www.youtube.com/live/1KpvzP8O_co?si=Fp4bv8GJe6KNYheK",
+              "url": "https://t.co/0MQGjLpjch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058392994017927559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很突然 但 請多指教\n\nhttps://t.co/0MQGjLpjch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "気づいてくれてありがと。\n高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw7B99┊FANBOX：https://t.co/yhbghbk7m0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 51,
+                "url": "https://t.co/Aqt4Xw7B99"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 105,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 82,
+                "url": "https://t.co/yhbghbk7m0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9273,
+          "following_count": 970,
+          "like_count": 32782,
+          "listed_count": 22,
+          "media_count": 86,
+          "tweet_count": 21369
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

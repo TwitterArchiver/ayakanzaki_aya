@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893941232998498597",
+    "created_at": "2025-02-25T01:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T02:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894198595647410575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1089917505324240898",
+          "start": 0,
+          "username": "khju5371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894198595647410575",
+    "in_reply_to_user_id": "1089917505324240898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893980405277344148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@khju5371 謝謝你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-25T01:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894198595647410575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1089917505324240898",
+              "start": 0,
+              "username": "khju5371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894198595647410575",
+        "in_reply_to_user_id": "1089917505324240898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893980405277344148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@khju5371 謝謝你！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1089917505324240898",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-24T11:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T12:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893980405277344148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893980405277344148",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893941232998498597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 生日快樂！🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 976,
+          "like_count": 29206,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18712
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-28T16:05:57.000Z",
+        "description": "一個喜歡聽歌的人\nI like listening to songs\n帶著一點點的理想，嘗試著多認識這個世界...對自己的期望是，希望在很多年以後，我還有夢想😶‍🌫️\n中文⭕\n日文🔰\nEnglish❌",
+        "id": "1089917505324240898",
+        "location": "台灣",
+        "name": "砂",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 212,
+          "like_count": 10658,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 972
+        },
+        "username": "khju5371",
+        "verified": false
+      }
+    ]
+  }
+}

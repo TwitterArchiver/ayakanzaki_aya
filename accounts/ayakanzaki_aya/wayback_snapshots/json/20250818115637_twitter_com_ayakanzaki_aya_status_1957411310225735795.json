@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1956918483997913165",
+    "created_at": "2025-08-18T11:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T12:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957411310225735795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1598674452",
+          "start": 0,
+          "username": "Akiraka_Yuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957411310225735795",
+    "in_reply_to_user_id": "1598674452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956920503278633317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiraka_Yuu 真的！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1956918483997913165",
+        "created_at": "2025-08-18T11:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T12:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957411310225735795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598674452",
+              "start": 0,
+              "username": "Akiraka_Yuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957411310225735795",
+        "in_reply_to_user_id": "1598674452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956920503278633317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiraka_Yuu 真的！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598674452",
+        "conversation_id": "1956918483997913165",
+        "created_at": "2025-08-17T03:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956920503278633317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956920503278633317",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956918483997913165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好愛這種洋裝呢 有夏季的清涼感與飄逸呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1955085681811763314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8355,
+          "following_count": 996,
+          "like_count": 31536,
+          "listed_count": 19,
+          "media_count": 63,
+          "tweet_count": 20298
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-16T15:48:28.000Z",
+        "description": "イラスト：@ameko_suisui 先生\n----------\nおいっす〜言語交換するのは大歓迎です。\n台湾華語・台湾語・ボロボロ日本語",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "ameko_suisui"
+              }
+            ]
+          }
+        },
+        "id": "1598674452",
+        "location": "台湾",
+        "name": "⚜️🐬アキラカ昱(Akiraka_Yuu)🐋LiSAッ子-台湾｜星詠み☄️🥚🌏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814297836663812096/2OiqmIr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 1525,
+          "like_count": 32784,
+          "listed_count": 1,
+          "media_count": 625,
+          "tweet_count": 3660
+        },
+        "username": "Akiraka_Yuu",
+        "verified": false
+      }
+    ]
+  }
+}

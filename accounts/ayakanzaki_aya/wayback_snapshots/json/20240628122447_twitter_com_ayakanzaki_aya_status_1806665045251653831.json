@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1805274330827309528",
+    "created_at": "2024-06-28T12:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T13:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806665045251653831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1238827834174394368",
+          "start": 0,
+          "username": "Chen_owo0819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806665045251653831",
+    "in_reply_to_user_id": "1238827834174394368",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805276733584928974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chen_owo0819 早安！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1805274330827309528",
+        "created_at": "2024-06-28T12:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T13:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806665045251653831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1238827834174394368",
+              "start": 0,
+              "username": "Chen_owo0819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806665045251653831",
+        "in_reply_to_user_id": "1238827834174394368",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805276733584928974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chen_owo0819 早安！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1238827834174394368",
+        "conversation_id": "1805274330827309528",
+        "created_at": "2024-06-24T16:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T17:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805276733584928974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805276733584928974",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805274330827309528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 早安！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3895,
+          "following_count": 994,
+          "like_count": 24650,
+          "listed_count": 10,
+          "tweet_count": 14163
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-14T14:02:48.000Z",
+        "description": "宸 也可以叫宸宸 || 喜歡VTuber 想認識更多VTuber及V圈朋友✨ || 永遠の主推: 貓羽璃奈 @NekohaRina   最崇拜の日V偶像: 湊あくあ @minatoaqua || 追蹤歡迎 互動歡迎🤗 || 這裡會不定時發(廢)文 d(`･∀･)b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "NekohaRina"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "minatoaqua"
+              }
+            ]
+          }
+        },
+        "id": "1238827834174394368",
+        "location": "宇宙中",
+        "name": "宸Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802397227723468800/dQsWfn4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 616,
+          "like_count": 2114,
+          "listed_count": 0,
+          "tweet_count": 508
+        },
+        "username": "Chen_owo0819",
+        "verified": false
+      }
+    ]
+  }
+}

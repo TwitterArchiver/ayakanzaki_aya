@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1882086772617945117",
+    "created_at": "2025-01-23T15:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882445649356206552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "238914673",
+          "start": 0,
+          "username": "KamiliaHaraQoo"
+        },
+        {
+          "end": 27,
+          "id": "1332739620681830400",
+          "start": 16,
+          "username": "UnLeeN0405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882445649356206552",
+    "in_reply_to_user_id": "238914673",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882314771527327825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamiliaHaraQoo @UnLeeN0405 🫨🫨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T15:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882445649356206552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "238914673",
+              "start": 0,
+              "username": "KamiliaHaraQoo"
+            },
+            {
+              "end": 27,
+              "id": "1332739620681830400",
+              "start": 16,
+              "username": "UnLeeN0405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882445649356206552",
+        "in_reply_to_user_id": "238914673",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882314771527327825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamiliaHaraQoo @UnLeeN0405 🫨🫨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "238914673",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T06:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T07:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882314771527327825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1332739620681830400",
+              "start": 0,
+              "username": "UnLeeN0405"
+            },
+            {
+              "end": 27,
+              "id": "1499470341734907907",
+              "start": 12,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882314771527327825",
+        "in_reply_to_user_id": "1332739620681830400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882097006698783113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnLeeN0405 @ayakanzaki_aya 胃裡應該就很多了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4316,
+          "following_count": 992,
+          "like_count": 28238,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17796
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-16T09:56:47.000Z",
+        "description": "Taiwanese male enjoying baseball, exercise, kpop, but is mostly posting TW politics now. Proudly supports DJT, @iingwen, #TaiwanIndependence, #MAGA, #KAG #三高仔",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 121,
+                "tag": "TaiwanIndependence"
+              },
+              {
+                "end": 147,
+                "start": 142,
+                "tag": "MAGA"
+              },
+              {
+                "end": 153,
+                "start": 149,
+                "tag": "KAG"
+              },
+              {
+                "end": 158,
+                "start": 154,
+                "tag": "三高仔"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 111,
+                "username": "iingwen"
+              }
+            ]
+          }
+        },
+        "id": "238914673",
+        "name": "Milktea Alliance 8⃣1⃣7⃣ W.S.",
+        "pinned_tweet_id": "1466583982871826432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1412293002978988033/0048B28A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11462,
+          "following_count": 3360,
+          "like_count": 1090138,
+          "listed_count": 64,
+          "media_count": 26029,
+          "tweet_count": 126340
+        },
+        "username": "KamiliaHaraQoo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-28T17:34:27.000Z",
+        "description": "vspo!箱推、絲依とい推、稍麥推、戶鎖くくり推、庫路路推、水宮樞推",
+        "id": "1332739620681830400",
+        "location": "New Taipei City, Taiwan",
+        "name": "初見白夜",
+        "pinned_tweet_id": "1645466892445057024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813538128499785728/KozHySnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 665,
+          "like_count": 7884,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 2036
+        },
+        "username": "UnLeeN0405",
+        "verified": false
+      }
+    ]
+  }
+}

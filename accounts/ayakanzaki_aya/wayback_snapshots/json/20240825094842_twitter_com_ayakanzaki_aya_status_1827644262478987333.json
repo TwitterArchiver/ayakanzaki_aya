@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1827627557904130480",
+    "created_at": "2024-08-25T09:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T10:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827644262478987333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1443342160745492484",
+          "start": 0,
+          "username": "t2zCk7D9FVv6EBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827644262478987333",
+    "in_reply_to_user_id": "1443342160745492484",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827643336347521229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@t2zCk7D9FVv6EBO 我人不在現場喔 認親卡是我的npc幫我代發的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1827627557904130480",
+        "created_at": "2024-08-25T09:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T10:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827644262478987333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1443342160745492484",
+              "start": 0,
+              "username": "t2zCk7D9FVv6EBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827644262478987333",
+        "in_reply_to_user_id": "1443342160745492484",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827643336347521229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@t2zCk7D9FVv6EBO 我人不在現場喔 認親卡是我的npc幫我代發的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443342160745492484",
+        "conversation_id": "1827627557904130480",
+        "created_at": "2024-08-25T09:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T10:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827643336347521229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827643336347521229",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827627557904130480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我沒找到你啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3918,
+          "following_count": 980,
+          "like_count": 25733,
+          "listed_count": 10,
+          "tweet_count": 15206
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-29T22:29:36.000Z",
+        "description": "我是位於臺灣的DD，同時也是從水瓶座中的虛宿一降臨的水瓶天使 注：本天使國曆生日1/31；農曆生日12/22",
+        "id": "1443342160745492484",
+        "location": "台灣",
+        "name": "想怎麼貼就怎麼貼貼的DD🍐Ch.🇹🇼",
+        "pinned_tweet_id": "1759739487381606566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777928264675463168/sKwu4m5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 190,
+          "like_count": 2212,
+          "listed_count": 0,
+          "tweet_count": 8059
+        },
+        "username": "t2zCk7D9FVv6EBO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820787669997432832"
+      ],
+      "media_source_tweet_id": [
+        "1820787928257511724"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1821046345882280426",
+    "created_at": "2024-08-07T04:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T05:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821046345882280426"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "LOVEIT",
+          "probability": 0.7751,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1197173528",
+          "start": 3,
+          "username": "rurudo_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "LOVEITはサークル名：rurudotの作品です。LOVEITの通販、予約は業界最速のメロンブックスにお任せください。サンプルでLOVEITの試し読み可能！作品の詳細紹介も。お得な特典情報もお見逃しなく！",
+          "display_url": "melonbooks.co.jp/detail/detail.…",
+          "end": 64,
+          "expanded_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2509032",
+          "images": [
+            {
+              "height": 900,
+              "url": "https://pbs.twimg.com/news_img/1820787934959910912/HjR4OA89?format=jpg&name=orig",
+              "width": 736
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1820787934959910912/HjR4OA89?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 41,
+          "status": 200,
+          "title": "LOVEIT（rurudot）の通販・購入はメロンブックス | メロンブックス",
+          "unwound_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2509032",
+          "url": "https://t.co/7fJoQTHUb5"
+        },
+        {
+          "display_url": "pic.twitter.com/NJMPQEUIjf",
+          "end": 88,
+          "expanded_url": "https://twitter.com/rurudo_/status/1820787928257511724/photo/1",
+          "media_key": "3_1820787669997432832",
+          "start": 65,
+          "url": "https://t.co/NJMPQEUIjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821046345882280426",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2374
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820787928257511724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurudo_: C104新刊『LOVEIT』の通販予約が開始しました🐰\nhttps://t.co/7fJoQTHUb5 https://t.co/NJMPQEUIjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1820787669997432832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUS8vSmbsAACiyt.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820787669997432832"
+          ],
+          "media_source_tweet_id": [
+            "1820787928257511724"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1821046345882280426",
+        "created_at": "2024-08-07T04:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T05:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821046345882280426"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "LOVEIT",
+              "probability": 0.7751,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1197173528",
+              "start": 3,
+              "username": "rurudo_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "LOVEITはサークル名：rurudotの作品です。LOVEITの通販、予約は業界最速のメロンブックスにお任せください。サンプルでLOVEITの試し読み可能！作品の詳細紹介も。お得な特典情報もお見逃しなく！",
+              "display_url": "melonbooks.co.jp/detail/detail.…",
+              "end": 64,
+              "expanded_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2509032",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/1820787934959910912/HjR4OA89?format=jpg&name=orig",
+                  "width": 736
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1820787934959910912/HjR4OA89?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "LOVEIT（rurudot）の通販・購入はメロンブックス | メロンブックス",
+              "unwound_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2509032",
+              "url": "https://t.co/7fJoQTHUb5"
+            },
+            {
+              "display_url": "pic.twitter.com/NJMPQEUIjf",
+              "end": 88,
+              "expanded_url": "https://twitter.com/rurudo_/status/1820787928257511724/photo/1",
+              "media_key": "3_1820787669997432832",
+              "start": 65,
+              "url": "https://t.co/NJMPQEUIjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821046345882280426",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2374
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820787928257511724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurudo_: C104新刊『LOVEIT』の通販予約が開始しました🐰\nhttps://t.co/7fJoQTHUb5 https://t.co/NJMPQEUIjf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820787669997432832"
+          ]
+        },
+        "author_id": "1197173528",
+        "conversation_id": "1820787928257511724",
+        "created_at": "2024-08-06T11:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T12:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820787928257511724"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "LOVEIT",
+              "probability": 0.7852,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "LOVEITはサークル名：rurudotの作品です。LOVEITの通販、予約は業界最速のメロンブックスにお任せください。サンプルでLOVEITの試し読み可能！作品の詳細紹介も。お得な特典情報もお見逃しなく！",
+              "display_url": "melonbooks.co.jp/detail/detail.…",
+              "end": 51,
+              "expanded_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2509032",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/1820787934959910912/HjR4OA89?format=jpg&name=orig",
+                  "width": 736
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1820787934959910912/HjR4OA89?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "LOVEIT（rurudot）の通販・購入はメロンブックス | メロンブックス",
+              "unwound_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2509032",
+              "url": "https://t.co/7fJoQTHUb5"
+            },
+            {
+              "display_url": "pic.twitter.com/NJMPQEUIjf",
+              "end": 75,
+              "expanded_url": "https://twitter.com/rurudo_/status/1820787928257511724/photo/1",
+              "media_key": "3_1820787669997432832",
+              "start": 52,
+              "url": "https://t.co/NJMPQEUIjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820787928257511724",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3891,
+          "impression_count": 846013,
+          "like_count": 22373,
+          "quote_count": 56,
+          "reply_count": 24,
+          "retweet_count": 2374
+        },
+        "reply_settings": "everyone",
+        "text": "C104新刊『LOVEIT』の通販予約が開始しました🐰\nhttps://t.co/7fJoQTHUb5 https://t.co/NJMPQEUIjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3899,
+          "following_count": 997,
+          "like_count": 25398,
+          "listed_count": 10,
+          "tweet_count": 14890
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-19T13:30:56.000Z",
+        "description": "Illustration✍\n┊https://t.co/p9aXC7cEcm\n┊https://t.co/0FBOpyzwj3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25760573",
+                "end": 38,
+                "expanded_url": "https://www.pixiv.net/users/25760573",
+                "start": 15,
+                "url": "https://t.co/p9aXC7cEcm"
+              },
+              {
+                "display_url": "amzn.asia/d/5jD9ESH",
+                "end": 63,
+                "expanded_url": "https://amzn.asia/d/5jD9ESH",
+                "start": 40,
+                "url": "https://t.co/0FBOpyzwj3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rurudot.net",
+                "end": 23,
+                "expanded_url": "https://rurudot.net/",
+                "start": 0,
+                "url": "https://t.co/BKJ1BLQj3N"
+              }
+            ]
+          }
+        },
+        "id": "1197173528",
+        "name": "rurudo",
+        "pinned_tweet_id": "1820787928257511724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795421063620501504/PGSqKcsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831995,
+          "following_count": 611,
+          "like_count": 5791,
+          "listed_count": 7221,
+          "tweet_count": 3983
+        },
+        "url": "https://t.co/BKJ1BLQj3N",
+        "username": "rurudo_",
+        "verified": true
+      }
+    ]
+  }
+}

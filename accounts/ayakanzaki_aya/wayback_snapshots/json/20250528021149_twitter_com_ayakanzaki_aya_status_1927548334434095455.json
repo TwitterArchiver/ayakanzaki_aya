@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1927215898189767171",
+    "created_at": "2025-05-28T02:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T03:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927548334434095455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "813901238517407744",
+          "start": 0,
+          "username": "crazyshort94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927548334434095455",
+    "in_reply_to_user_id": "813901238517407744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927226676896817591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crazyshort94 相信我沒毛病"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 627,
+        "media_key": "3_1927226672236855296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr7icpBWAAAbDT7.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1927215898189767171",
+        "created_at": "2025-05-28T02:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T03:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927548334434095455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "813901238517407744",
+              "start": 0,
+              "username": "crazyshort94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927548334434095455",
+        "in_reply_to_user_id": "813901238517407744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927226676896817591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crazyshort94 相信我沒毛病"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927226672236855296"
+          ]
+        },
+        "author_id": "813901238517407744",
+        "conversation_id": "1927215898189767171",
+        "created_at": "2025-05-27T04:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T05:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927226676896817591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cwnK1jjKy",
+              "end": 41,
+              "expanded_url": "https://x.com/crazyshort94/status/1927226676896817591/photo/1",
+              "media_key": "3_1927226672236855296",
+              "start": 18,
+              "url": "https://t.co/4cwnK1jjKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927226676896817591",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927215898189767171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya ？ https://t.co/4cwnK1jjKy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6623,
+          "following_count": 995,
+          "like_count": 30644,
+          "listed_count": 18,
+          "media_count": 53,
+          "tweet_count": 19854
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-28T00:15:51.000Z",
+        "description": "",
+        "id": "813901238517407744",
+        "name": "crazyshort",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 119,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "crazyshort94",
+        "verified": false
+      }
+    ]
+  }
+}

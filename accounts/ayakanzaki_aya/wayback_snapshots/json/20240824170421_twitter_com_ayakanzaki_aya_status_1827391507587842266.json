@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1827391507587842266",
+    "created_at": "2024-08-24T17:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T18:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1827391507587842266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/04177_realname…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/04177_realname/status/1826917086524022980",
+          "start": 42,
+          "url": "https://t.co/wreJ28LEfG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827391507587842266",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826917086524022980",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "換個角度想\n如果你沒看過自己家的貓這幅樣子的話\n代表你把他照顧的很好\n給自己一個讚 https://t.co/wreJ28LEfG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1827391507587842266",
+        "created_at": "2024-08-24T17:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T18:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827391507587842266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/04177_realname/status/1826917086524022980",
+              "start": 42,
+              "url": "https://t.co/wreJ28LEfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827391507587842266",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826917086524022980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "換個角度想\n如果你沒看過自己家的貓這幅樣子的話\n代表你把他照顧的很好\n給自己一個讚 https://t.co/wreJ28LEfG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826917072363819009"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1826917086524022980",
+        "created_at": "2024-08-23T09:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T10:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826917086524022980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rnyeojtc8",
+              "end": 23,
+              "expanded_url": "https://twitter.com/04177_realname/status/1826917086524022980/photo/1",
+              "media_key": "3_1826917072363819009",
+              "start": 0,
+              "url": "https://t.co/3RnyeojtC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826917086524022980",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 111474,
+          "like_count": 2273,
+          "quote_count": 14,
+          "reply_count": 18,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3RnyeojtC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3914,
+          "following_count": 978,
+          "like_count": 25693,
+          "listed_count": 10,
+          "tweet_count": 15167
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/政治倾向不明/坚定的互fo主义者/梦想和中推所有人互fo/我推の芙莉莲/收集人类碎片/提问箱：https://t.co/pe56J9RL4w",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 74,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 51,
+                "url": "https://t.co/pe56J9RL4w"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6629,
+          "following_count": 5213,
+          "like_count": 43529,
+          "listed_count": 22,
+          "tweet_count": 11359
+        },
+        "username": "04177_realname",
+        "verified": true
+      }
+    ]
+  }
+}

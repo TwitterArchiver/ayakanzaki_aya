@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1826732127976649136",
+    "created_at": "2024-08-22T21:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T22:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826732127976649136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "902029742542651392",
+          "start": 3,
+          "username": "SydusArts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826732127976649136",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1202
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826453582926995852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SydusArts: A.i.🧵[1/3] \nThis pains me so much to see that an account posing as an artist is blatantly using @ Hews__ Sensei's style in t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1826732127976649136",
+        "created_at": "2024-08-22T21:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T22:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826732127976649136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "902029742542651392",
+              "start": 3,
+              "username": "SydusArts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826732127976649136",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1202
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826453582926995852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SydusArts: A.i.🧵[1/3] \nThis pains me so much to see that an account posing as an artist is blatantly using @ Hews__ Sensei's style in t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826452080191832069"
+          ]
+        },
+        "author_id": "902029742542651392",
+        "conversation_id": "1826453582926995852",
+        "created_at": "2024-08-22T02:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T03:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826453582926995852"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 110,
+              "normalized_text": "Hews__ Sensei",
+              "probability": 0.6627,
+              "start": 98,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 235,
+              "id": "1668426519511719938",
+              "start": 224,
+              "username": "SetsuManga"
+            },
+            {
+              "end": 249,
+              "id": "1765503425389981696",
+              "start": 237,
+              "username": "SetsuManga2"
+            },
+            {
+              "end": 264,
+              "id": "1626996909973069825",
+              "start": 251,
+              "username": "SetsuPatreon"
+            },
+            {
+              "end": 277,
+              "id": "1694123970826493952",
+              "start": 266,
+              "username": "SetsuDaily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5sspzgu8a",
+              "end": 301,
+              "expanded_url": "https://twitter.com/SydusArts/status/1826453582926995852/photo/1",
+              "media_key": "3_1826452080191832069",
+              "start": 278,
+              "url": "https://t.co/a5SsPZgu8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826453582926995852",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1792,
+          "impression_count": 503744,
+          "like_count": 6831,
+          "quote_count": 91,
+          "reply_count": 214,
+          "retweet_count": 1202
+        },
+        "reply_settings": "everyone",
+        "text": "A.i.🧵[1/3] \nThis pains me so much to see that an account posing as an artist is blatantly using @ Hews__ Sensei's style in their A.I. prompts and engagement farming using their stolen art style. They have multiple accounts.\n@SetsuManga, @SetsuManga2, @SetsuPatreon, @SetsuDaily https://t.co/a5SsPZgu8a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3908,
+          "following_count": 997,
+          "like_count": 25689,
+          "listed_count": 10,
+          "tweet_count": 15162
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-28T04:47:04.000Z",
+        "description": "I like animu girls. \nRead my Doujins ➤ https://t.co/8aPIv8B942\nMore stuff ➤ https://t.co/n3Oj6MHi6y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/sydusarts",
+                "end": 62,
+                "expanded_url": "https://www.patreon.com/sydusarts",
+                "start": 39,
+                "url": "https://t.co/8aPIv8B942"
+              },
+              {
+                "display_url": "linktr.ee/sydusarts",
+                "end": 99,
+                "expanded_url": "https://linktr.ee/sydusarts",
+                "start": 76,
+                "url": "https://t.co/n3Oj6MHi6y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/sydusarts",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/sydusarts",
+                "start": 0,
+                "url": "https://t.co/7RTOn0RpHb"
+              }
+            ]
+          }
+        },
+        "id": "902029742542651392",
+        "location": "🚫no reupload🚫dont train ai🚫",
+        "name": "SydusArts",
+        "pinned_tweet_id": "1826710935811359077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762007252330860544/oP4ktTQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272307,
+          "following_count": 1889,
+          "like_count": 5247,
+          "listed_count": 1583,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/7RTOn0RpHb",
+        "username": "SydusArts",
+        "verified": true
+      }
+    ]
+  }
+}

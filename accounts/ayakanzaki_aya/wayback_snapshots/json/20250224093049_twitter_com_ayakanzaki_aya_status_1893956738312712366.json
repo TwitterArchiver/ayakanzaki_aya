@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893637855525618040",
+    "created_at": "2025-02-24T09:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T10:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893956738312712366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "969157356008325120",
+          "start": 0,
+          "username": "windyday117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893956738312712366",
+    "in_reply_to_user_id": "969157356008325120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893938840890413070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@windyday117 我會的！謝謝你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893637855525618040",
+        "created_at": "2025-02-24T09:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T10:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893956738312712366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "969157356008325120",
+              "start": 0,
+              "username": "windyday117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893956738312712366",
+        "in_reply_to_user_id": "969157356008325120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893938840890413070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@windyday117 我會的！謝謝你！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "969157356008325120",
+        "conversation_id": "1893637855525618040",
+        "created_at": "2025-02-24T08:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893938840890413070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893938840890413070",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893637855525618040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 生日快快樂樂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6248,
+          "following_count": 976,
+          "like_count": 29131,
+          "listed_count": 16,
+          "media_count": 128,
+          "tweet_count": 18639
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-01T10:28:14.000Z",
+        "description": "赤瞳小雪狐；並沒有要出道的拉 / 主要活動空間在推特跟DC / in台灣；英文日文很破喔喔喔喔/會出現在FF CWT PF 連動咖啡廳之類的地方\n\n頭貼繪師 @crossthemoonn\nhttps://t.co/YnHo5v5ZHX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "crossthemoonn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/windyday117/st…",
+                "end": 117,
+                "expanded_url": "https://x.com/windyday117/status/1859257958779228323",
+                "start": 94,
+                "url": "https://t.co/YnHo5v5ZHX"
+              }
+            ]
+          }
+        },
+        "id": "969157356008325120",
+        "location": "Hsinchu County, Taiwan",
+        "name": "青楓🍶🍁",
+        "pinned_tweet_id": "1726802865363333612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871966682278944768/hPFmhwRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1060,
+          "like_count": 36213,
+          "listed_count": 1,
+          "media_count": 1552,
+          "tweet_count": 18905
+        },
+        "username": "windyday117",
+        "verified": false
+      }
+    ]
+  }
+}

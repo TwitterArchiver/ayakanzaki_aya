@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1846063352730075188",
+    "created_at": "2024-10-19T07:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T08:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847542329478951081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1100565428215066624",
+          "start": 0,
+          "username": "Akibakase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847542329478951081",
+    "in_reply_to_user_id": "1100565428215066624",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846068500663767179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akibakase 沒怎樣（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1846063352730075188",
+        "created_at": "2024-10-19T07:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T08:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847542329478951081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1100565428215066624",
+              "start": 0,
+              "username": "Akibakase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847542329478951081",
+        "in_reply_to_user_id": "1100565428215066624",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846068500663767179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akibakase 沒怎樣（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1846068487854477313"
+          ]
+        },
+        "author_id": "1100565428215066624",
+        "conversation_id": "1846063352730075188",
+        "created_at": "2024-10-15T06:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-15T07:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846068500663767179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9gxMhBA3E",
+              "end": 39,
+              "expanded_url": "https://x.com/Akibakase/status/1846068500663767179/photo/1",
+              "media_key": "16_1846068487854477313",
+              "start": 16,
+              "url": "https://t.co/a9gxMhBA3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846068500663767179",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846063352730075188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/a9gxMhBA3E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1838823866614923552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 978,
+          "like_count": 26739,
+          "listed_count": 10,
+          "tweet_count": 16239
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-27T01:17:00.000Z",
+        "description": "我是一個類似繪師 目前兼職做一些Vtuber的幕後 主推：@cowellvtuber MBTI: INTJ 單身(消極態度） 任何委託邀約或是交友甚至連動  可以直接加DC https://t.co/JcJapGZYTj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "cowellvtuber"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/aJPrAhHb",
+                "end": 110,
+                "expanded_url": "https://discord.gg/aJPrAhHb",
+                "start": 87,
+                "url": "https://t.co/JcJapGZYTj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/akibakase",
+                "end": 23,
+                "expanded_url": "https://lit.link/akibakase",
+                "start": 0,
+                "url": "https://t.co/OgFSm4959G"
+              }
+            ]
+          }
+        },
+        "id": "1100565428215066624",
+        "name": "秋葉風_Akibakase",
+        "pinned_tweet_id": "1838126587503681816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845898647634169857/G51rdygJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 1112,
+          "like_count": 11964,
+          "listed_count": 33,
+          "tweet_count": 5307
+        },
+        "url": "https://t.co/OgFSm4959G",
+        "username": "Akibakase",
+        "verified": false
+      }
+    ]
+  }
+}

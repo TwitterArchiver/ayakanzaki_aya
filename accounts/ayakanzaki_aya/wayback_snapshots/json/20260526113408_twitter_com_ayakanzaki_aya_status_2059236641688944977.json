@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2058393230731829716",
+    "created_at": "2026-05-26T11:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059236641688944977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1054715196864847872",
+          "start": 0,
+          "username": "Bla_ck1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059236641688944977",
+    "in_reply_to_user_id": "1054715196864847872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058827584788734072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bla_ck1219 看情況！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2058393230731829716",
+        "created_at": "2026-05-26T11:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059236641688944977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1054715196864847872",
+              "start": 0,
+              "username": "Bla_ck1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059236641688944977",
+        "in_reply_to_user_id": "1054715196864847872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058827584788734072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bla_ck1219 看情況！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054715196864847872",
+        "conversation_id": "2058393230731829716",
+        "created_at": "2026-05-25T08:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058827584788734072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058827584788734072",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058393230731829716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 會有圖奇嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "気づいてくれてありがと。\n高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH┊FANBOX：https://t.co/yhbghbkFby",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 51,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 105,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 82,
+                "url": "https://t.co/yhbghbkFby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2058393230731829716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9522,
+          "following_count": 970,
+          "like_count": 32803,
+          "listed_count": 22,
+          "media_count": 87,
+          "tweet_count": 21395
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-23T12:44:33.000Z",
+        "description": "有在圖奇上直播歡迎過來找我一起打遊戲Gmail:3cx97924245@gmail.com 我的YouTube https://t.co/aSQ161zRLN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@blackch.1219?…",
+                "end": 79,
+                "expanded_url": "https://youtube.com/@blackch.1219?si=6kc2PUhIkoFKKF2k",
+                "start": 56,
+                "url": "https://t.co/aSQ161zRLN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/black_tw_1219",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/black_tw_1219",
+                "start": 0,
+                "url": "https://t.co/FNAkkGlxXL"
+              }
+            ]
+          }
+        },
+        "id": "1054715196864847872",
+        "location": "Taiwan",
+        "name": "黑烟",
+        "pinned_tweet_id": "1903815637027471367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922612442271768576/yOGUy9U6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 1084,
+          "like_count": 5059,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 3807
+        },
+        "url": "https://t.co/FNAkkGlxXL",
+        "username": "Bla_ck1219",
+        "verified": false
+      }
+    ]
+  }
+}

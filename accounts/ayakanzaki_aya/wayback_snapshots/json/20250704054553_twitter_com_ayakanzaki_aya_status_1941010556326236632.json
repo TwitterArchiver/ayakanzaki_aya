@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1940635919998243195",
+    "created_at": "2025-07-04T05:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T06:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941010556326236632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1506422744753520643",
+          "start": 0,
+          "username": "CX330_Vtuber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941010556326236632",
+    "in_reply_to_user_id": "1506422744753520643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940638023525519795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CX330_Vtuber 加拿大寶可夢\n加拿加拿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1940635919998243195",
+        "created_at": "2025-07-04T05:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T06:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941010556326236632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1506422744753520643",
+              "start": 0,
+              "username": "CX330_Vtuber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941010556326236632",
+        "in_reply_to_user_id": "1506422744753520643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940638023525519795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CX330_Vtuber 加拿大寶可夢\n加拿加拿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506422744753520643",
+        "conversation_id": "1940635919998243195",
+        "created_at": "2025-07-03T05:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T06:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940638023525519795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940638023525519795",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940635919998243195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好的加拿大人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7726,
+          "following_count": 988,
+          "like_count": 31166,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20047
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T00:09:30.000Z",
+        "description": "▽百萬年的溫柔光線，你看見了嗎？ \n\n▽ママ：@e_Kanochi / お姉ちゃん：@cassandra_desu \n\n▽業務聯絡處： cx330wise@gmail.com \n\n▽更多資訊：https://t.co/9rZHjkJ7e2 \n\n☆主要實況皆在Twitch上☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "e_Kanochi"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "cassandra_desu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/CX330Vtuber",
+                "end": 119,
+                "expanded_url": "https://lit.link/CX330Vtuber",
+                "start": 96,
+                "url": "https://t.co/9rZHjkJ7e2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/imcx330",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/imcx330",
+                "start": 0,
+                "url": "https://t.co/S6e031aIHA"
+              }
+            ]
+          }
+        },
+        "id": "1506422744753520643",
+        "location": "CX330恆星帶",
+        "name": "𝓒𝓧𝟑𝟑𝟎💫希叉｜個人勢𝕍𝕥𝕦𝕓𝕖𝕣｜ 圖奇初配2025.07.25",
+        "pinned_tweet_id": "1715059814588641642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907104203945967616/-oxV8yWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 1069,
+          "like_count": 37608,
+          "listed_count": 6,
+          "media_count": 838,
+          "tweet_count": 7301
+        },
+        "url": "https://t.co/S6e031aIHA",
+        "username": "CX330_Vtuber",
+        "verified": true
+      }
+    ]
+  }
+}

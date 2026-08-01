@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1897570115056701884",
+    "created_at": "2025-03-06T12:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T13:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897632572366041125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1384438944318722050",
+          "start": 0,
+          "username": "Vamp_Hayato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897632572366041125",
+    "in_reply_to_user_id": "1384438944318722050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897570115056701884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vamp_Hayato 帥哥！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1897570108958228480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlWF9djawAAM6Is.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1897570115056701884",
+        "created_at": "2025-03-06T12:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T13:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897632572366041125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1384438944318722050",
+              "start": 0,
+              "username": "Vamp_Hayato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897632572366041125",
+        "in_reply_to_user_id": "1384438944318722050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897570115056701884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vamp_Hayato 帥哥！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897570108958228480"
+          ]
+        },
+        "author_id": "1384438944318722050",
+        "conversation_id": "1897570115056701884",
+        "created_at": "2025-03-06T08:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T09:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897570115056701884"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 21,
+              "tag": "NewProfilePic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l73HZze0Ok",
+              "end": 69,
+              "expanded_url": "https://x.com/Vamp_Hayato/status/1897570115056701884/photo/1",
+              "media_key": "3_1897570108958228480",
+              "start": 46,
+              "url": "https://t.co/l73HZze0Ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897570115056701884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 344,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "久違的換一下照片\n不知道這張感覺如何？\n\n#NewProfilePic (新個人資料照片) https://t.co/l73HZze0Ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6475,
+          "following_count": 980,
+          "like_count": 29481,
+          "listed_count": 18,
+          "media_count": 128,
+          "tweet_count": 18993
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-20T09:29:10.000Z",
+        "description": "想成為一位富豪的吸血鬼教主Vtuber水樹颯斗，正努力尋找一位石油王┆#HayatoVtuber┆棉花糖 https://t.co/mkvqNfBa72",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 35,
+                "tag": "HayatoVtuber"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/vtuber_hayato",
+                "end": 76,
+                "expanded_url": "http://marshmallow-qa.com/vtuber_hayato",
+                "start": 53,
+                "url": "https://t.co/mkvqNfBa72"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/ZjRA93",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/ZjRA93",
+                "start": 0,
+                "url": "https://t.co/XRYhj5GKFe"
+              }
+            ]
+          }
+        },
+        "id": "1384438944318722050",
+        "location": "地下世界",
+        "name": "水樹はやと⚜️Vtuber",
+        "pinned_tweet_id": "1844925685061808294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897569869694152704/GsAIM0Fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 893,
+          "like_count": 24083,
+          "listed_count": 7,
+          "media_count": 1626,
+          "tweet_count": 11076
+        },
+        "url": "https://t.co/XRYhj5GKFe",
+        "username": "Vamp_Hayato",
+        "verified": false
+      }
+    ]
+  }
+}

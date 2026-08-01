@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1829698222459060372",
+    "created_at": "2024-09-02T03:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T04:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830454609199898731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1685273840644235264",
+          "start": 0,
+          "username": "hikarifracture_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830454609199898731",
+    "in_reply_to_user_id": "1685273840644235264",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829844789094977661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikarifracture_ 也是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1829698222459060372",
+        "created_at": "2024-09-02T03:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T04:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830454609199898731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1685273840644235264",
+              "start": 0,
+              "username": "hikarifracture_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830454609199898731",
+        "in_reply_to_user_id": "1685273840644235264",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829844789094977661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikarifracture_ 也是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685273840644235264",
+        "conversation_id": "1829698222459060372",
+        "created_at": "2024-08-31T11:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T12:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829844789094977661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829844789094977661",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829698222459060372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 5. 這我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3943,
+          "following_count": 980,
+          "like_count": 25833,
+          "listed_count": 10,
+          "tweet_count": 15300
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T12:59:39.000Z",
+        "description": "ENFJ-T主人公\n致力於成為能夠為大家解決煩惱的人\n小鳥遊星野我婆ᕕ(◠ڼ◠)ᕗ\n東方/音遊/蔚藍檔案/ポケモン/現實鐵道/幹話/發癲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/hikari_fractur…",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/hikari_fracture_",
+                "start": 0,
+                "url": "https://t.co/jYP9bNx9fB"
+              }
+            ]
+          }
+        },
+        "id": "1685273840644235264",
+        "location": "アビドス高等学校",
+        "name": "幽冥樓閣的亡靈少女(西行寺幽々子)",
+        "pinned_tweet_id": "1829594430774612199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829443873237790720/W1sbJTwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 3504,
+          "like_count": 48482,
+          "listed_count": 1,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/jYP9bNx9fB",
+        "username": "hikarifracture_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1808815935085539462",
+    "created_at": "2024-07-06T09:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T10:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809521986189627701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597459663678713856",
+          "start": 0,
+          "username": "Zssa_Alton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809521986189627701",
+    "in_reply_to_user_id": "1597459663678713856",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809187344781873257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zssa_Alton 可以去唱rap"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1808815935085539462",
+        "created_at": "2024-07-06T09:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T10:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809521986189627701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597459663678713856",
+              "start": 0,
+              "username": "Zssa_Alton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809521986189627701",
+        "in_reply_to_user_id": "1597459663678713856",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809187344781873257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zssa_Alton 可以去唱rap"
+      },
+      {
+        "attachments": {},
+        "author_id": "1597459663678713856",
+        "conversation_id": "1808815935085539462",
+        "created_at": "2024-07-05T11:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T12:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809187344781873257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809187344781873257",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808815935085539462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 五速嘴同事OAO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3905,
+          "following_count": 995,
+          "like_count": 24826,
+          "listed_count": 10,
+          "tweet_count": 14318
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:17:35.000Z",
+        "description": "之沙Zssa，全名之沙 · 艾爾頓，稱之沙即可。台灣個人勢Vtuber一名。\n中、EN OK\n爸爸：@Star_2290\n媽媽：@aaamuo1004\n粉絲名：鳥寶\n粉絲形象：七色文鳥\n二創：#之沙任務紀錄\n迷音：#之沙的謀巴啦\n模型：#之沙的模型櫃\n周表：#之沙值勤時間\n防機器人措施：六四天安門事件",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 96,
+                "tag": "之沙任務紀錄"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "之沙的謀巴啦"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "之沙的模型櫃"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "tag": "之沙值勤時間"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Star_2290"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "aaamuo1004"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/zssaalton",
+                "end": 23,
+                "expanded_url": "https://potofu.me/zssaalton",
+                "start": 0,
+                "url": "https://t.co/Ucr0jdCRfZ"
+              }
+            ]
+          }
+        },
+        "id": "1597459663678713856",
+        "location": "***號安全屋",
+        "name": "之沙Zssa/Zssa Alton【鋼彈、模型製作家系Vtuber】",
+        "pinned_tweet_id": "1785754203849363854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785756226531508224/_lwNCPXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 436,
+          "like_count": 3092,
+          "listed_count": 1,
+          "tweet_count": 4656
+        },
+        "url": "https://t.co/Ucr0jdCRfZ",
+        "username": "Zssa_Alton",
+        "verified": false
+      }
+    ]
+  }
+}

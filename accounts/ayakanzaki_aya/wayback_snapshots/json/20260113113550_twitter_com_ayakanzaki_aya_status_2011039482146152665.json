@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2011039482146152665",
+    "created_at": "2026-01-13T11:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T12:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011039482146152665"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "ヨルシカ LIVE TOUR 2026",
+          "probability": 0.6144,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "宮城",
+          "probability": 0.8571,
+          "start": 65,
+          "type": "Place"
+        },
+        {
+          "end": 76,
+          "normalized_text": "ゼビオアリーナ仙台",
+          "probability": 0.7299,
+          "start": 68,
+          "type": "Place"
+        },
+        {
+          "end": 94,
+          "normalized_text": "大阪",
+          "probability": 0.9614,
+          "start": 93,
+          "type": "Place"
+        },
+        {
+          "end": 101,
+          "normalized_text": "大阪城ホール",
+          "probability": 0.3937,
+          "start": 96,
+          "type": "Place"
+        },
+        {
+          "end": 119,
+          "normalized_text": "愛知",
+          "probability": 0.9624,
+          "start": 118,
+          "type": "Place"
+        },
+        {
+          "end": 128,
+          "normalized_text": "日本ガイシホール",
+          "probability": 0.6893,
+          "start": 121,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "738199700914872320",
+          "start": 3,
+          "username": "nbuna_staff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011039482146152665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011000274098569258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nbuna_staff: ヨルシカ LIVE TOUR 2026「一人称」開催致します。\n\n3/21（土）〜3/22（日）宮城・ゼビオアリーナ仙台\n4/18（土）〜4/19（日）大阪・大阪城ホール\n5/30（土）〜5/31（日）愛知・日本ガイシホール\n8/4（火）〜8/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3100,
+        "media_key": "3_2010999953938886656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-iBzanasAA-Kn_.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2011039482146152665",
+        "created_at": "2026-01-13T11:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T12:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011039482146152665"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "ヨルシカ LIVE TOUR 2026",
+              "probability": 0.6144,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "宮城",
+              "probability": 0.8571,
+              "start": 65,
+              "type": "Place"
+            },
+            {
+              "end": 76,
+              "normalized_text": "ゼビオアリーナ仙台",
+              "probability": 0.7299,
+              "start": 68,
+              "type": "Place"
+            },
+            {
+              "end": 94,
+              "normalized_text": "大阪",
+              "probability": 0.9614,
+              "start": 93,
+              "type": "Place"
+            },
+            {
+              "end": 101,
+              "normalized_text": "大阪城ホール",
+              "probability": 0.3937,
+              "start": 96,
+              "type": "Place"
+            },
+            {
+              "end": 119,
+              "normalized_text": "愛知",
+              "probability": 0.9624,
+              "start": 118,
+              "type": "Place"
+            },
+            {
+              "end": 128,
+              "normalized_text": "日本ガイシホール",
+              "probability": 0.6893,
+              "start": 121,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "738199700914872320",
+              "start": 3,
+              "username": "nbuna_staff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011039482146152665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011000274098569258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nbuna_staff: ヨルシカ LIVE TOUR 2026「一人称」開催致します。\n\n3/21（土）〜3/22（日）宮城・ゼビオアリーナ仙台\n4/18（土）〜4/19（日）大阪・大阪城ホール\n5/30（土）〜5/31（日）愛知・日本ガイシホール\n8/4（火）〜8/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010999953938886656"
+          ]
+        },
+        "author_id": "738199700914872320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2011000274098569258",
+        "created_at": "2026-01-13T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011000274098569258"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "ヨルシカ LIVE TOUR 2026",
+              "probability": 0.6088,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "宮城",
+              "probability": 0.837,
+              "start": 48,
+              "type": "Place"
+            },
+            {
+              "end": 59,
+              "normalized_text": "ゼビオアリーナ仙台",
+              "probability": 0.7153,
+              "start": 51,
+              "type": "Place"
+            },
+            {
+              "end": 77,
+              "normalized_text": "大阪",
+              "probability": 0.9507,
+              "start": 76,
+              "type": "Place"
+            },
+            {
+              "end": 84,
+              "normalized_text": "大阪城ホール",
+              "probability": 0.3677,
+              "start": 79,
+              "type": "Place"
+            },
+            {
+              "end": 102,
+              "normalized_text": "愛知",
+              "probability": 0.9354,
+              "start": 101,
+              "type": "Place"
+            },
+            {
+              "end": 111,
+              "normalized_text": "日本ガイシホール",
+              "probability": 0.599,
+              "start": 104,
+              "type": "Place"
+            },
+            {
+              "end": 127,
+              "normalized_text": "福岡",
+              "probability": 0.9571,
+              "start": 126,
+              "type": "Place"
+            },
+            {
+              "end": 138,
+              "normalized_text": "マリンメッセ福岡A館",
+              "probability": 0.5636,
+              "start": 129,
+              "type": "Place"
+            },
+            {
+              "end": 177,
+              "normalized_text": "千葉・LaLa arena TOKYO-BAY",
+              "probability": 0.4493,
+              "start": 155,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8ENmpWTPp",
+              "end": 202,
+              "expanded_url": "https://x.com/nbuna_staff/status/2011000274098569258/photo/1",
+              "media_key": "3_2010999953938886656",
+              "start": 179,
+              "url": "https://t.co/b8ENmpWTPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011000274098569258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 399,
+                "start": 390,
+                "tag": "ヨルシカ_一人称"
+              },
+              {
+                "end": 409,
+                "start": 400,
+                "tag": "ヨルシカ_二人称"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yorushika.com/feature/liveto…",
+                "end": 388,
+                "expanded_url": "https://yorushika.com/feature/livetour2026_ichininsho",
+                "start": 365,
+                "url": "https://t.co/Zbuj76WbSd"
+              }
+            ]
+          },
+          "text": "ヨルシカ LIVE TOUR 2026「一人称」開催致します。\n\n3/21（土）〜3/22（日）宮城・ゼビオアリーナ仙台\n4/18（土）〜4/19（日）大阪・大阪城ホール\n5/30（土）〜5/31（日）愛知・日本ガイシホール\n8/4（火）〜8/5（水）福岡・マリンメッセ福岡A館\n9/15（火）〜9/16（水）千葉・LaLa arena TOKYO-BAY\n\n本ツアーは全ての会場にて、指定座席での立ち見観覧OKとさせていただきます。\n\n本日よりスマホサイト「後書き」会員向け先行（同行者会員）受付を開始致します。\n受付期間：〜1/19（月）23:59まで\n\n2/26発売書簡型小説「二人称」、3/4配信デジタルアルバム「二人称」を携えたライブツアーとなります。\n詳しくは特設サイトにてご確認ください。\n宜しくお願い致します！\n\nhttps://t.co/Zbuj76WbSd\n\n#ヨルシカ_一人称\n#ヨルシカ_二人称"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3474,
+          "impression_count": 1264878,
+          "like_count": 26881,
+          "quote_count": 3082,
+          "reply_count": 256,
+          "retweet_count": 7106
+        },
+        "reply_settings": "everyone",
+        "text": "ヨルシカ LIVE TOUR 2026「一人称」開催致します。\n\n3/21（土）〜3/22（日）宮城・ゼビオアリーナ仙台\n4/18（土）〜4/19（日）大阪・大阪城ホール\n5/30（土）〜5/31（日）愛知・日本ガイシホール\n8/4（火）〜8/5（水）福岡・マリンメッセ福岡A館\n9/15（火）〜9/16（水）千葉・LaLa arena TOKYO-BAY https://t.co/b8ENmpWTPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007758487225298944/O9GA3wVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8467,
+          "following_count": 982,
+          "like_count": 32200,
+          "listed_count": 20,
+          "media_count": 95,
+          "tweet_count": 20943
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-02T02:44:58.000Z",
+        "description": "ヨルシカのオフィシャル アカウントです。 （スタッフがつぶやいてます） メンバー：n-buna（ナブナ） [Gt&Composer] / suis（スイ）[Vocal]",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yorushika.com",
+                "end": 23,
+                "expanded_url": "http://yorushika.com/",
+                "start": 0,
+                "url": "https://t.co/vmlIKwEpU8"
+              }
+            ]
+          }
+        },
+        "id": "738199700914872320",
+        "name": "ヨルシカ（n-buna、suis） / Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450477923463569414/c34Nn7Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701608,
+          "following_count": 6,
+          "like_count": 1150,
+          "listed_count": 3158,
+          "media_count": 887,
+          "tweet_count": 5071
+        },
+        "url": "https://t.co/vmlIKwEpU8",
+        "username": "nbuna_staff",
+        "verified": false
+      }
+    ]
+  }
+}

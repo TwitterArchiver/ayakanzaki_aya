@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2058393230731829716",
+    "created_at": "2026-05-25T11:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058874599618576718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227305845160992768",
+          "start": 0,
+          "username": "aj11735_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058874599618576718",
+    "in_reply_to_user_id": "1227305845160992768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058484680996078065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aj11735_ 7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2058393230731829716",
+        "created_at": "2026-05-25T11:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058874599618576718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227305845160992768",
+              "start": 0,
+              "username": "aj11735_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058874599618576718",
+        "in_reply_to_user_id": "1227305845160992768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058484680996078065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aj11735_ 7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227305845160992768",
+        "conversation_id": "2058393230731829716",
+        "created_at": "2026-05-24T09:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058484680996078065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058484680996078065",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058393230731829716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "気づいてくれてありがと。\n高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw7B99┊FANBOX：https://t.co/yhbghbk7m0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 51,
+                "url": "https://t.co/Aqt4Xw7B99"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 105,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 82,
+                "url": "https://t.co/yhbghbk7m0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2058393230731829716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9493,
+          "following_count": 970,
+          "like_count": 32784,
+          "listed_count": 22,
+          "media_count": 87,
+          "tweet_count": 21373
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-11T19:05:39.000Z",
+        "description": "港仔FPS邊緣人 最喜歡可愛ㄌㄌ DC : AJ#2226 棉花糖留言：https://t.co/1pizhcN8jk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6xkx2ujwp4yopk…",
+                "end": 59,
+                "expanded_url": "https://marshmallow-qa.com/6xkx2ujwp4yopkl?t=ZVgmeu&utm_medium=url_text&",
+                "start": 36,
+                "url": "https://t.co/1pizhcN8jk"
+              }
+            ]
+          }
+        },
+        "id": "1227305845160992768",
+        "location": "Tuen Mun District, Hong Kong",
+        "name": "欸杰AJ🐦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769659276887531520/vVYz3hmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 505,
+          "like_count": 37002,
+          "listed_count": 4,
+          "media_count": 111,
+          "tweet_count": 3180
+        },
+        "username": "aj11735_",
+        "verified": false
+      }
+    ]
+  }
+}

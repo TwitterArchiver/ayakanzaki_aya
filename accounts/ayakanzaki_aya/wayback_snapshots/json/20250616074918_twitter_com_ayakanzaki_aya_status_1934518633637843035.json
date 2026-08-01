@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1930611606120993140",
+    "created_at": "2025-06-16T07:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T08:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934518633637843035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4907024298",
+          "start": 0,
+          "username": "lnine_chiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934518633637843035",
+    "in_reply_to_user_id": "4907024298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930886917400260809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnine_chiu 原來原來～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1930611606120993140",
+        "created_at": "2025-06-16T07:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934518633637843035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4907024298",
+              "start": 0,
+              "username": "lnine_chiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934518633637843035",
+        "in_reply_to_user_id": "4907024298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930886917400260809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnine_chiu 原來原來～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4907024298",
+        "conversation_id": "1930611606120993140",
+        "created_at": "2025-06-06T07:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T08:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930886917400260809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930886917400260809",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930611606120993140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我感觉看画的话，除了可以看到画技，也能看到绘师画画时的热情和用心，这些也会让画变得好看。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 996,
+          "like_count": 30829,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19935
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-14T14:55:02.000Z",
+        "description": "Penguin lyricist 🍰 中文 | English 📒 Music project - Treasure Traveller 秘宝旅人 ♪ https://t.co/UAboWpkdxt  icon 头像by@dlgeria",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TREASURE_TRAV…",
+                "end": 99,
+                "expanded_url": "http://www.youtube.com/@TREASURE_TRAVELLER",
+                "start": 76,
+                "url": "https://t.co/UAboWpkdxt"
+              }
+            ]
+          }
+        },
+        "id": "4907024298",
+        "name": "大九_LN (DA JIU/Daiku）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787566521960591362/S-AbAxg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 214,
+          "like_count": 1993,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 806
+        },
+        "username": "lnine_chiu",
+        "verified": false
+      }
+    ]
+  }
+}

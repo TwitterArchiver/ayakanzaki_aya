@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1830459363846160895",
+    "created_at": "2024-09-04T07:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T08:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831240633408766030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2213840160",
+          "start": 0,
+          "username": "soryuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831240633408766030",
+    "in_reply_to_user_id": "2213840160",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830784365007380898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soryuz 嗯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1830459363846160895",
+        "created_at": "2024-09-04T07:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T08:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831240633408766030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2213840160",
+              "start": 0,
+              "username": "soryuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831240633408766030",
+        "in_reply_to_user_id": "2213840160",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830784365007380898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soryuz 嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2213840160",
+        "conversation_id": "1830459363846160895",
+        "created_at": "2024-09-03T01:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T02:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830784365007380898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830784365007380898",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830459363846160895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 可以啊，快一千了呢，加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4102,
+          "following_count": 982,
+          "like_count": 25909,
+          "listed_count": 9,
+          "tweet_count": 15372
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-25T09:44:42.000Z",
+        "description": "",
+        "id": "2213840160",
+        "name": "蒼龍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505750263566528514/EAsxEs9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 426,
+          "like_count": 2816,
+          "listed_count": 13,
+          "tweet_count": 1516
+        },
+        "username": "soryuz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978742743129354240"
+      ],
+      "media_source_tweet_id": [
+        "1978742752947961884"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1979044936398802945",
+    "created_at": "2025-10-17T04:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T05:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979044936398802945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1802166843358191616",
+          "start": 3,
+          "username": "shimizuen3310"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ylZtDWzJZ4",
+          "end": 42,
+          "expanded_url": "https://x.com/shimizuen3310/status/1978742752947961884/photo/1",
+          "media_key": "3_1978742743129354240",
+          "start": 19,
+          "url": "https://t.co/ylZtDWzJZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979044936398802945",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5806
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978742752947961884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shimizuen3310: https://t.co/ylZtDWzJZ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_1978742743129354240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XoCoIbcAAHTKa.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978742743129354240"
+          ],
+          "media_source_tweet_id": [
+            "1978742752947961884"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1979044936398802945",
+        "created_at": "2025-10-17T04:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T05:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979044936398802945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1802166843358191616",
+              "start": 3,
+              "username": "shimizuen3310"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylZtDWzJZ4",
+              "end": 42,
+              "expanded_url": "https://x.com/shimizuen3310/status/1978742752947961884/photo/1",
+              "media_key": "3_1978742743129354240",
+              "start": 19,
+              "url": "https://t.co/ylZtDWzJZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979044936398802945",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5806
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978742752947961884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shimizuen3310: https://t.co/ylZtDWzJZ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978742743129354240"
+          ]
+        },
+        "author_id": "1802166843358191616",
+        "conversation_id": "1978742752947961884",
+        "created_at": "2025-10-16T08:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978742752947961884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylZtDWzJZ4",
+              "end": 23,
+              "expanded_url": "https://x.com/shimizuen3310/status/1978742752947961884/photo/1",
+              "media_key": "3_1978742743129354240",
+              "start": 0,
+              "url": "https://t.co/ylZtDWzJZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978742752947961884",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5938,
+          "impression_count": 843714,
+          "like_count": 77622,
+          "quote_count": 27,
+          "reply_count": 29,
+          "retweet_count": 5806
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ylZtDWzJZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8432,
+          "following_count": 970,
+          "like_count": 31859,
+          "listed_count": 19,
+          "media_count": 83,
+          "tweet_count": 20592
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T02:30:41.000Z",
+        "description": "絵を描きます◇ご依頼受付中：ご連絡はメールもしくはDMへ◇pixiv→https://t.co/hwsyVTYBcY◇skeb→https://t.co/f9RfVNL6wG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/109428120",
+                "end": 58,
+                "expanded_url": "https://www.pixiv.net/users/109428120",
+                "start": 35,
+                "url": "https://t.co/hwsyVTYBcY"
+              },
+              {
+                "display_url": "skeb.jp/@shimizuen3310",
+                "end": 87,
+                "expanded_url": "http://skeb.jp/@shimizuen3310",
+                "start": 64,
+                "url": "https://t.co/f9RfVNL6wG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shimizuen3310",
+                "end": 23,
+                "expanded_url": "https://lit.link/shimizuen3310",
+                "start": 0,
+                "url": "https://t.co/hW41jGIkD8"
+              }
+            ]
+          }
+        },
+        "id": "1802166843358191616",
+        "name": "清水円",
+        "pinned_tweet_id": "1964554280976994533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859246310580453376/VV5tT1yu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24101,
+          "following_count": 41,
+          "like_count": 1009,
+          "listed_count": 142,
+          "media_count": 132,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/hW41jGIkD8",
+        "username": "shimizuen3310",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1831591808486261032",
+    "created_at": "2024-09-08T09:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T10:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832707453571518591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695992179058225152",
+          "start": 0,
+          "username": "Rakusei0605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832707453571518591",
+    "in_reply_to_user_id": "1695992179058225152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831609961430052972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rakusei0605 沒錯！純天然無添加！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1831591808486261032",
+        "created_at": "2024-09-08T09:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T10:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832707453571518591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695992179058225152",
+              "start": 0,
+              "username": "Rakusei0605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832707453571518591",
+        "in_reply_to_user_id": "1695992179058225152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831609961430052972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rakusei0605 沒錯！純天然無添加！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695992179058225152",
+        "conversation_id": "1831591808486261032",
+        "created_at": "2024-09-05T08:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T09:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831609961430052972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831609961430052972",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831591808486261032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 原來頭髮偏棕色是因為醬嗎！？！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 983,
+          "like_count": 25958,
+          "listed_count": 9,
+          "tweet_count": 15418
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T02:50:42.000Z",
+        "description": "台灣社團勢Vtuber\n中○/英△/日△/台△\n直播內容：雜談、遊戲、歌回\n粉絲名：星喵☆⁠\nFanart tag：#繪星（R18🚫） / 萬用tag：#洛星貓\n所屬社團：緣系 Enito @enito1211\n圖奇：https://t.co/H1KY51kcMV\nYT在下方⬇️⬇️⬇️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "繪星"
+              },
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "洛星貓"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "enito1211"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/rakusei0605",
+                "end": 132,
+                "expanded_url": "http://twitch.tv/rakusei0605",
+                "start": 109,
+                "url": "https://t.co/H1KY51kcMV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@amane_rakusei…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@amane_rakusei?si=Zx52cOlftUSXIkfI",
+                "start": 0,
+                "url": "https://t.co/9gQIUQHGvg"
+              }
+            ]
+          }
+        },
+        "id": "1695992179058225152",
+        "name": "天音洛星☆⁠ 社團勢Vtuber 【初配信準備ing…】",
+        "pinned_tweet_id": "1793948976775061874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762665429359857664/LGbwLRDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 39,
+          "like_count": 8130,
+          "listed_count": 1,
+          "tweet_count": 1218
+        },
+        "url": "https://t.co/9gQIUQHGvg",
+        "username": "Rakusei0605",
+        "verified": false
+      }
+    ]
+  }
+}

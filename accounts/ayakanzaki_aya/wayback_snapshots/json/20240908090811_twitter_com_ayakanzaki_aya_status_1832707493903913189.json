@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1831591808486261032",
+    "created_at": "2024-09-08T09:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T10:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832707493903913189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1180884132378759168",
+          "start": 0,
+          "username": "rextuvalu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832707493903913189",
+    "in_reply_to_user_id": "1180884132378759168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831611065014329590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rextuvalu 蠻多人都會的好像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1831591808486261032",
+        "created_at": "2024-09-08T09:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T10:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832707493903913189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1180884132378759168",
+              "start": 0,
+              "username": "rextuvalu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832707493903913189",
+        "in_reply_to_user_id": "1180884132378759168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831611065014329590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rextuvalu 蠻多人都會的好像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180884132378759168",
+        "conversation_id": "1831591808486261032",
+        "created_at": "2024-09-05T08:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T09:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831611065014329590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831611065014329590",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831591808486261032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 原來營養不良會改變髮色OAO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 983,
+          "like_count": 25959,
+          "listed_count": 9,
+          "tweet_count": 15419
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-06T16:35:00.000Z",
+        "description": "保密防諜，海宇澄清。\n生於憂患，死於安樂。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "philogic-z.tumblr.com",
+                "end": 23,
+                "expanded_url": "http://philogic-z.tumblr.com",
+                "start": 0,
+                "url": "https://t.co/VHbRoYNmcQ"
+              }
+            ]
+          }
+        },
+        "id": "1180884132378759168",
+        "location": "精神基隆人",
+        "name": "某鄭🐙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718583219845791744/ljHB_WDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 677,
+          "like_count": 67255,
+          "listed_count": 0,
+          "tweet_count": 4398
+        },
+        "url": "https://t.co/VHbRoYNmcQ",
+        "username": "rextuvalu",
+        "verified": false
+      }
+    ]
+  }
+}

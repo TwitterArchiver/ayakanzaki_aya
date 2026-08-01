@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1899463584825888774",
+    "created_at": "2025-03-17T06:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T07:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901526288868823239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1342673903278116864",
+          "start": 0,
+          "username": "huizzz258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901526288868823239",
+    "in_reply_to_user_id": "1342673903278116864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900098033867804856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huizzz258 go一輩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1899463584825888774",
+        "created_at": "2025-03-17T06:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T07:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901526288868823239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1342673903278116864",
+              "start": 0,
+              "username": "huizzz258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901526288868823239",
+        "in_reply_to_user_id": "1342673903278116864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900098033867804856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huizzz258 go一輩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342673903278116864",
+        "conversation_id": "1899463584825888774",
+        "created_at": "2025-03-13T08:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T09:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900098033867804856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900098033867804856",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899463584825888774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 还在Go"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6502,
+          "following_count": 981,
+          "like_count": 29769,
+          "listed_count": 18,
+          "media_count": 129,
+          "tweet_count": 19277
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-26T03:29:50.000Z",
+        "description": "A common",
+        "id": "1342673903278116864",
+        "location": "东瀛国花果山水帘洞",
+        "name": "huizzz10(棘背龙形态)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893500587196719110/jlBrbm5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 170,
+          "like_count": 8312,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 164
+        },
+        "username": "huizzz258",
+        "verified": false
+      }
+    ]
+  }
+}

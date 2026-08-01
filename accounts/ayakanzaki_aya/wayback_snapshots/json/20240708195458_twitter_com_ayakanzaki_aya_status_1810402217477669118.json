@@ -1,0 +1,217 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1810220069525327873",
+    "created_at": "2024-07-08T19:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T20:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810402217477669118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482656390053494784",
+          "start": 0,
+          "username": "gaolicai514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810402217477669118",
+    "in_reply_to_user_id": "1482656390053494784",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810388506419909034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaolicai514 我在打工啦幹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1810220069525327873",
+        "created_at": "2024-07-08T19:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T20:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810402217477669118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482656390053494784",
+              "start": 0,
+              "username": "gaolicai514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810402217477669118",
+        "in_reply_to_user_id": "1482656390053494784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810388506419909034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaolicai514 我在打工啦幹"
+      },
+      {
+        "attachments": {},
+        "author_id": "1482656390053494784",
+        "conversation_id": "1810220069525327873",
+        "created_at": "2024-07-08T19:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T20:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810388506419909034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810388506419909034",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810220069525327873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 起來繼續看鬼片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3905,
+          "following_count": 995,
+          "like_count": 24874,
+          "listed_count": 10,
+          "tweet_count": 14368
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T10:10:13.000Z",
+        "description": "DC server：https://t.co/Ex2QwzjSf5 15y 主玩apex minecraft",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/MUMf6J36WJ",
+                "end": 33,
+                "expanded_url": "http://discord.gg/MUMf6J36WJ",
+                "start": 10,
+                "url": "https://t.co/Ex2QwzjSf5"
+              }
+            ]
+          }
+        },
+        "id": "1482656390053494784",
+        "name": "高麗菜キャベツ_TTV🥬😈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655873493626675202/8Ib0gSLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 468,
+          "like_count": 4493,
+          "listed_count": 0,
+          "tweet_count": 3792
+        },
+        "username": "gaolicai514",
+        "verified": false
+      }
+    ]
+  }
+}

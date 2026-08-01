@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1808815935085539462",
+    "created_at": "2024-07-08T07:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T08:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810212010090520579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "944998900565282816",
+          "start": 0,
+          "username": "East9RiverCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810212010090520579",
+    "in_reply_to_user_id": "944998900565282816",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809467656858124784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@East9RiverCat 沒人可以打擾我下班！！！www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1808815935085539462",
+        "created_at": "2024-07-08T07:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T08:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810212010090520579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "944998900565282816",
+              "start": 0,
+              "username": "East9RiverCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810212010090520579",
+        "in_reply_to_user_id": "944998900565282816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809467656858124784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@East9RiverCat 沒人可以打擾我下班！！！www"
+      },
+      {
+        "attachments": {},
+        "author_id": "944998900565282816",
+        "conversation_id": "1808815935085539462",
+        "created_at": "2024-07-06T06:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T07:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809467656858124784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809467656858124784",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808815935085539462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya Os:不要打擾我下班~~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 24837,
+          "listed_count": 10,
+          "tweet_count": 14329
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-24T18:31:09.000Z",
+        "description": "建築帷幕設計，是個DD",
+        "id": "944998900565282816",
+        "name": "九貓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652304713134804992/Q0shWR0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 130,
+          "like_count": 4903,
+          "listed_count": 1,
+          "tweet_count": 1254
+        },
+        "username": "East9RiverCat",
+        "verified": false
+      }
+    ]
+  }
+}

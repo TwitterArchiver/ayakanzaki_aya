@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2046858676560929131",
+    "created_at": "2026-04-23T05:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047179371123716128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945642694015160321",
+          "start": 0,
+          "username": "yuting_0227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047179371123716128",
+    "in_reply_to_user_id": "1945642694015160321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046883993677967804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuting_0227 現在認識了！ 謝謝你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-23T05:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047179371123716128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945642694015160321",
+              "start": 0,
+              "username": "yuting_0227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047179371123716128",
+        "in_reply_to_user_id": "1945642694015160321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046883993677967804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuting_0227 現在認識了！ 謝謝你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945642694015160321",
+        "conversation_id": "2046858676560929131",
+        "created_at": "2026-04-22T09:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046883993677967804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046883993677967804",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046858676560929131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 9000恭喜 妳好好看（雖然不認識w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 34,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9105,
+          "following_count": 985,
+          "like_count": 32669,
+          "listed_count": 22,
+          "media_count": 91,
+          "tweet_count": 21284
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T00:32:36.000Z",
+        "description": "一個喜歡玩遊戲的木頭w",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/mu_0227",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/mu_0227",
+                "start": 0,
+                "url": "https://t.co/93I68Ifwxq"
+              }
+            ]
+          }
+        },
+        "id": "1945642694015160321",
+        "name": "夢木々霧丨手殘系主播",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035351248665464832/J94Q3UfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 135,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/93I68Ifwxq",
+        "username": "yuting_0227",
+        "verified": false
+      }
+    ]
+  }
+}

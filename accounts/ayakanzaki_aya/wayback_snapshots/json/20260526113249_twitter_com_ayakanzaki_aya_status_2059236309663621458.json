@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2059154368025211079",
+    "created_at": "2026-05-26T11:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059236309663621458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2268031710",
+          "start": 0,
+          "username": "Alan_Yoyo_UwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059236309663621458",
+    "in_reply_to_user_id": "2268031710",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059160929955393886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alan_Yoyo_UwU 晚安～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2059154368025211079",
+        "created_at": "2026-05-26T11:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059236309663621458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2268031710",
+              "start": 0,
+              "username": "Alan_Yoyo_UwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059236309663621458",
+        "in_reply_to_user_id": "2268031710",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059160929955393886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alan_Yoyo_UwU 晚安～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2268031710",
+        "conversation_id": "2059154368025211079",
+        "created_at": "2026-05-26T06:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059160929955393886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059160929955393886",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059154368025211079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya Night night~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "気づいてくれてありがと。\n高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH┊FANBOX：https://t.co/yhbghbkFby",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 51,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 105,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 82,
+                "url": "https://t.co/yhbghbkFby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2058393230731829716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9522,
+          "following_count": 970,
+          "like_count": 32798,
+          "listed_count": 22,
+          "media_count": 87,
+          "tweet_count": 21390
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-29T23:35:27.000Z",
+        "description": "uwu!?? UWU ? uWu !#& UwU~\nIRwStocrat! Pwease support my one and only Push, IRyS!🥰💎💕\nStream Carbonated Love!🥤💎💕 https://t.co/4jsJPEUGlx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=DjNNpw…",
+                "end": 134,
+                "expanded_url": "https://www.youtube.com/watch?v=DjNNpw2x2dU",
+                "start": 111,
+                "url": "https://t.co/4jsJPEUGlx"
+              }
+            ]
+          }
+        },
+        "id": "2268031710",
+        "location": "Fairyland",
+        "name": "Alan Yoyo UwU💎",
+        "pinned_tweet_id": "1840136775119056919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678635777650225157/t-AYgdki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 539,
+          "like_count": 118229,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 9719
+        },
+        "username": "Alan_Yoyo_UwU",
+        "verified": true
+      }
+    ]
+  }
+}

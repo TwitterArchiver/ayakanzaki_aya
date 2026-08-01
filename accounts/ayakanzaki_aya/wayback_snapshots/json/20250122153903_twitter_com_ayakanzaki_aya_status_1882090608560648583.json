@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1881530385160601894",
+    "created_at": "2025-01-22T15:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T16:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882090608560648583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2847212558",
+          "start": 0,
+          "username": "Akarinium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882090608560648583",
+    "in_reply_to_user_id": "2847212558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881594254646235325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akarinium 木頭人你真的好可憐啊嗚嗚嗚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1881530385160601894",
+        "created_at": "2025-01-22T15:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T16:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882090608560648583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2847212558",
+              "start": 0,
+              "username": "Akarinium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882090608560648583",
+        "in_reply_to_user_id": "2847212558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881594254646235325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akarinium 木頭人你真的好可憐啊嗚嗚嗚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881594251227930624"
+          ]
+        },
+        "author_id": "2847212558",
+        "conversation_id": "1881530385160601894",
+        "created_at": "2025-01-21T06:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T07:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881594254646235325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tl0owQXvu1",
+              "end": 39,
+              "expanded_url": "https://x.com/Akarinium/status/1881594254646235325/photo/1",
+              "media_key": "3_1881594251227930624",
+              "start": 16,
+              "url": "https://t.co/tl0owQXvu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881594254646235325",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881530385160601894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/tl0owQXvu1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 991,
+          "like_count": 28129,
+          "listed_count": 10,
+          "media_count": 122,
+          "tweet_count": 17699
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-08T12:08:10.000Z",
+        "description": "Всё зависит от Бога и немного от нас.\n\nREALITY:@sasaki_akari_tw ｻﾌﾞ(sub):@akari_sub0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "sasaki_akari_tw"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "akari_sub0131"
+              }
+            ]
+          }
+        },
+        "id": "2847212558",
+        "location": "Taiwan",
+        "name": "笹木アカリ 💙💛",
+        "pinned_tweet_id": "1874131176467877893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870679681600774144/D0-zWt81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 5998,
+          "like_count": 111150,
+          "listed_count": 3,
+          "media_count": 731,
+          "tweet_count": 50505
+        },
+        "username": "Akarinium",
+        "verified": false
+      }
+    ]
+  }
+}

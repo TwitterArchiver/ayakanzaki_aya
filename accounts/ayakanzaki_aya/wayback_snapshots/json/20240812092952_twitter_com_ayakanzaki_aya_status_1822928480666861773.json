@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1822142258000396435",
+    "created_at": "2024-08-12T09:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822928480666861773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1117869032139415552",
+          "start": 0,
+          "username": "trip_tong2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822928480666861773",
+    "in_reply_to_user_id": "1117869032139415552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822196612719919166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trip_tong2 喔～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-12T09:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822928480666861773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1117869032139415552",
+              "start": 0,
+              "username": "trip_tong2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822928480666861773",
+        "in_reply_to_user_id": "1117869032139415552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822196612719919166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trip_tong2 喔～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117869032139415552",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-10T09:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T10:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822196612719919166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822196612719919166",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1487,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822142258000396435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 換個裝置就可以了\n我用手機測不出來 但用平板可以\n\n付費是分析更多東西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 998,
+          "like_count": 25493,
+          "listed_count": 10,
+          "tweet_count": 14967
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-15T19:15:21.000Z",
+        "description": "喜歡畫圖的畫渣 歡迎交朋朋～ LOGO謝謝魚寶@Yubaooooo 頭貼感謝Aaci @aaci8300 橫幅感謝睨兒 @nira930123 鍵垢@A_kidney_ 自身作品：#咚日奇繪 Fan art：#我繪咚你 想給我看的咚西：#咚踏取密",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "咚日奇繪"
+              },
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "我繪咚你"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "咚踏取密"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Yubaooooo"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "aaci8300"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "nira930123"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "A_kidney_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clibo.tw/users/FEe6xp",
+                "end": 23,
+                "expanded_url": "https://clibo.tw/users/FEe6xp",
+                "start": 0,
+                "url": "https://t.co/fLE8W4dxwe"
+              }
+            ]
+          }
+        },
+        "id": "1117869032139415552",
+        "name": "奇普咚咚🧶腦袋大當機",
+        "pinned_tweet_id": "1806719229510684718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822190101234933760/i04Vgp_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 1341,
+          "like_count": 228959,
+          "listed_count": 1,
+          "tweet_count": 20724
+        },
+        "url": "https://t.co/fLE8W4dxwe",
+        "username": "trip_tong2",
+        "verified": false
+      }
+    ]
+  }
+}

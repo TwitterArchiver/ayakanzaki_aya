@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1904373321933668721",
+    "created_at": "2025-04-01T01:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T02:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906884934481924270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728356374541910016",
+          "start": 0,
+          "username": "GRedRoseStudio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906884934481924270",
+    "in_reply_to_user_id": "1728356374541910016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904797220203094219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GRedRoseStudio 媽媽表示習慣了wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1904373321933668721",
+        "created_at": "2025-04-01T01:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T02:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906884934481924270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728356374541910016",
+              "start": 0,
+              "username": "GRedRoseStudio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906884934481924270",
+        "in_reply_to_user_id": "1728356374541910016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904797220203094219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GRedRoseStudio 媽媽表示習慣了wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728356374541910016",
+        "conversation_id": "1904373321933668721",
+        "created_at": "2025-03-26T07:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T08:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904797220203094219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904797220203094219",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904373321933668721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 你的媽媽之後有被氣到嗎？w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6533,
+          "following_count": 982,
+          "like_count": 30030,
+          "listed_count": 18,
+          "media_count": 131,
+          "tweet_count": 19524
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T10:14:23.000Z",
+        "description": "世界非常大\n每個人都是獨立的個體\n每個人都是屬於自己的星星，風景，光明\n而露忻達...\n就是個麻瓜w\n還有別再問我是男是女了，我不男不女",
+        "id": "1728356374541910016",
+        "location": "孤玫宴地",
+        "name": "達忻露♢adicuL♝",
+        "pinned_tweet_id": "1906743552849105092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906296887516553216/41M9JCAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 339,
+          "like_count": 19246,
+          "listed_count": 0,
+          "media_count": 702,
+          "tweet_count": 11129
+        },
+        "username": "GRedRoseStudio",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1856621813343670379",
+    "created_at": "2024-11-13T08:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T09:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856621813343670379"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 150,
+          "start": 144,
+          "tag": "反串要註明"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856621813343670379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "緊急募款\n\n披薩店這個月的薪水在發薪日前2天被偷了\n大概是11000左右\n身為底邊的我需要幫忙\n在這邊發個文希望有能力的人可以幫忙我\n如果你有能力的話請轉帳到以下帳號\n(978) 23939889披薩hothot到家\n我會將所有支援的金額好好花掉\n\n如果可以的話千萬不要轉推\n很感謝大家\n#反串要註明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1856621813343670379",
+        "created_at": "2024-11-13T08:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T09:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856621813343670379"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 144,
+              "tag": "反串要註明"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856621813343670379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "緊急募款\n\n披薩店這個月的薪水在發薪日前2天被偷了\n大概是11000左右\n身為底邊的我需要幫忙\n在這邊發個文希望有能力的人可以幫忙我\n如果你有能力的話請轉帳到以下帳號\n(978) 23939889披薩hothot到家\n我會將所有支援的金額好好花掉\n\n如果可以的話千萬不要轉推\n很感謝大家\n#反串要註明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1851840833923764641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4233,
+          "following_count": 979,
+          "like_count": 27021,
+          "listed_count": 10,
+          "tweet_count": 16580
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

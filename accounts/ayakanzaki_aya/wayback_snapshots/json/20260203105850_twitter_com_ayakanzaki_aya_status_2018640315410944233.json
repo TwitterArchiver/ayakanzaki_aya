@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2018162621225066735",
+    "created_at": "2026-02-03T10:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T11:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018640315410944233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1627555481886806016",
+          "start": 0,
+          "username": "ga2006489099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018640315410944233",
+    "in_reply_to_user_id": "1627555481886806016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018262617920553214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ga2006489099 沒事一起打NG！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2018162621225066735",
+        "created_at": "2026-02-03T10:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018640315410944233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1627555481886806016",
+              "start": 0,
+              "username": "ga2006489099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018640315410944233",
+        "in_reply_to_user_id": "1627555481886806016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018262617920553214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ga2006489099 沒事一起打NG！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627555481886806016",
+        "conversation_id": "2018162621225066735",
+        "created_at": "2026-02-02T09:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018262617920553214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018262617920553214",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018162621225066735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 不會壓力(小聲:也不會上分🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011299487910666240/vr6sPNSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8449,
+          "following_count": 988,
+          "like_count": 32196,
+          "listed_count": 20,
+          "media_count": 101,
+          "tweet_count": 20965
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-20T06:27:27.000Z",
+        "description": "看到奇文就是忍不住  如果冒犯到的話很不好意思  但我不會道歉   \n因為你是怪人   奇文共賞  奇人共賞",
+        "id": "1627555481886806016",
+        "name": "誠實吉娃娃 圖奇智人(支持互追",
+        "pinned_tweet_id": "1963229861402841269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962834110566879232/R590IPsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 42,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 801
+        },
+        "username": "ga2006489099",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1991336173030023496",
+    "created_at": "2025-11-21T03:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T04:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991714930152944127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2160415771",
+          "start": 0,
+          "username": "yokohama0579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991714930152944127",
+    "in_reply_to_user_id": "2160415771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991354223234281901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yokohama0579 教不會 根本教不會"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1991336173030023496",
+        "created_at": "2025-11-21T03:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T04:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991714930152944127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2160415771",
+              "start": 0,
+              "username": "yokohama0579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991714930152944127",
+        "in_reply_to_user_id": "2160415771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991354223234281901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yokohama0579 教不會 根本教不會"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2160415771",
+        "conversation_id": "1991336173030023496",
+        "created_at": "2025-11-20T03:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T04:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991354223234281901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991354223234281901",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1122,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991336173030023496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 老師：這群學生我教不動啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8404,
+          "following_count": 975,
+          "like_count": 31973,
+          "listed_count": 20,
+          "media_count": 88,
+          "tweet_count": 20719
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-28T07:39:35.000Z",
+        "description": "台湾出生 職業作業療法です 私Vtuberすきです いつかVtuberとしてデビューするかもしれません。 お友達になりましょう!",
+        "id": "2160415771",
+        "location": "New Taipei City, Taiwan",
+        "name": "蒼野りん🌻🐹（ジャウェイ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972303412286152704/WgDI3Qhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 522,
+          "like_count": 7150,
+          "listed_count": 6,
+          "media_count": 104,
+          "tweet_count": 4218
+        },
+        "username": "yokohama0579",
+        "verified": false
+      }
+    ]
+  }
+}

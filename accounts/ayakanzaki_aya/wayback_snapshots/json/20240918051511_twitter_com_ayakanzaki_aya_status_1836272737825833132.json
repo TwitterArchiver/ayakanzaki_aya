@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1835165567654781387",
+    "created_at": "2024-09-18T05:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T06:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836272737825833132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1365557056741068800",
+          "start": 0,
+          "username": "riolionrock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836272737825833132",
+    "in_reply_to_user_id": "1365557056741068800",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835549654429340090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riolionrock 沒錢w 就算有我也想先去台灣w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1835165567654781387",
+        "created_at": "2024-09-18T05:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T06:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836272737825833132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1365557056741068800",
+              "start": 0,
+              "username": "riolionrock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836272737825833132",
+        "in_reply_to_user_id": "1365557056741068800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835549654429340090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riolionrock 沒錢w 就算有我也想先去台灣w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365557056741068800",
+        "conversation_id": "1835165567654781387",
+        "created_at": "2024-09-16T05:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T06:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835549654429340090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835549654429340090",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835531899378311278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 竟然？　(°▽°)！？\n\n題外話\n利物蒲真的有隻黃色的潛水艇\n有興趣去旅行可以去看看～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊イラストの依賴受付中✧ \n┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 82,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 59,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4114,
+          "following_count": 982,
+          "like_count": 26167,
+          "listed_count": 9,
+          "tweet_count": 15628
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T06:59:19.000Z",
+        "description": "🇭🇰 #香港vtuber 獅子山 Rio 🦁⛰♌ 入面既人係一個大叔( #バ美肉 おじさん)💦 內容主要都係講下電腦野🖥️同埋打下機咁 目的係要上來悶死晒大家。 v=.=v Tag全般: #獅子山博物館 FF14 Server: Alexander (Gaia)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 3,
+                "tag": "香港vtuber"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "バ美肉"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "獅子山博物館"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/RioChannelHK",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/RioChannelHK",
+                "start": 0,
+                "url": "https://t.co/2ZbbXmf3fK"
+              }
+            ]
+          }
+        },
+        "id": "1365557056741068800",
+        "location": "香港",
+        "name": "獅子山 Rio 🦁⛰♌",
+        "pinned_tweet_id": "1555052259473469440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792886329858265088/gnqddauy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 413,
+          "like_count": 20247,
+          "listed_count": 6,
+          "tweet_count": 14506
+        },
+        "url": "https://t.co/2ZbbXmf3fK",
+        "username": "riolionrock",
+        "verified": true
+      }
+    ]
+  }
+}

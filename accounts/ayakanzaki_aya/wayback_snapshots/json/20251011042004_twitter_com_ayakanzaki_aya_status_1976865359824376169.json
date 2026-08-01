@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1976614072721473536"
+      ],
+      "media_source_tweet_id": [
+        "1976614144091844915"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1976865359824376169",
+    "created_at": "2025-10-11T04:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T05:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976865359824376169"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "重音テト"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "テトの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "857173942586441729",
+          "start": 3,
+          "username": "kieed23232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NQKiINsaMP",
+          "end": 62,
+          "expanded_url": "https://x.com/kieed23232/status/1976614144091844915/photo/1",
+          "media_key": "16_1976614072721473536",
+          "start": 39,
+          "url": "https://t.co/NQKiINsaMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976865359824376169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 963
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976614144091844915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kieed23232: #重音テト #テトの日 \n截图选择你的钻头！ https://t.co/NQKiINsaMP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "16_1976614072721473536",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G25YBs6aAAA3VIW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G25YBs6aAAA3VIW.mp4"
+          }
+        ],
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1976614072721473536"
+          ],
+          "media_source_tweet_id": [
+            "1976614144091844915"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1976865359824376169",
+        "created_at": "2025-10-11T04:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976865359824376169"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "重音テト"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "テトの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "857173942586441729",
+              "start": 3,
+              "username": "kieed23232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQKiINsaMP",
+              "end": 62,
+              "expanded_url": "https://x.com/kieed23232/status/1976614144091844915/photo/1",
+              "media_key": "16_1976614072721473536",
+              "start": 39,
+              "url": "https://t.co/NQKiINsaMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976865359824376169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 963
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976614144091844915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kieed23232: #重音テト #テトの日 \n截图选择你的钻头！ https://t.co/NQKiINsaMP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1976614072721473536"
+          ]
+        },
+        "author_id": "857173942586441729",
+        "conversation_id": "1976614144091844915",
+        "created_at": "2025-10-10T11:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:39:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976613589739061493",
+          "1976614144091844915"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "テトの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQKiINsaMP",
+              "end": 46,
+              "expanded_url": "https://x.com/kieed23232/status/1976614144091844915/photo/1",
+              "media_key": "16_1976614072721473536",
+              "start": 23,
+              "url": "https://t.co/NQKiINsaMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976614144091844915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 695,
+          "impression_count": 86298,
+          "like_count": 4000,
+          "quote_count": 37,
+          "reply_count": 40,
+          "retweet_count": 963
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト #テトの日 \n截图选择你的钻头！ https://t.co/NQKiINsaMP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8359,
+          "following_count": 968,
+          "like_count": 31825,
+          "listed_count": 19,
+          "media_count": 81,
+          "tweet_count": 20555
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-26T10:06:08.000Z",
+        "description": "Illustrator，Hatsune Miku ♥/ Kasane Teto ♥\nNO AI🚫 didn`t use AI \nPainting Live Streaming &screen recording 作画生放送/作画録画→https://t.co/wLGByCsiwn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/25589919",
+                "end": 140,
+                "expanded_url": "https://space.bilibili.com/25589919",
+                "start": 117,
+                "url": "https://t.co/wLGByCsiwn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11525066",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/11525066",
+                "start": 0,
+                "url": "https://t.co/iHBM2GdjPo"
+              }
+            ]
+          }
+        },
+        "id": "857173942586441729",
+        "name": "kieed",
+        "pinned_tweet_id": "1829852267304140916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908705750075060224/ciddanZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313536,
+          "following_count": 574,
+          "like_count": 816,
+          "listed_count": 1973,
+          "media_count": 206,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/iHBM2GdjPo",
+        "username": "kieed23232",
+        "verified": false
+      }
+    ]
+  }
+}

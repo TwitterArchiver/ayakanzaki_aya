@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1819174381186417075",
+    "created_at": "2024-08-02T07:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T08:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819270118968340936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1394110433389281281",
+          "start": 0,
+          "username": "CYKAO1994"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819270118968340936",
+    "in_reply_to_user_id": "1394110433389281281",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819238824645734656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CYKAO1994 物理和心裡都是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1819174381186417075",
+        "created_at": "2024-08-02T07:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T08:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819270118968340936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1394110433389281281",
+              "start": 0,
+              "username": "CYKAO1994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819270118968340936",
+        "in_reply_to_user_id": "1394110433389281281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819238824645734656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CYKAO1994 物理和心裡都是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394110433389281281",
+        "conversation_id": "1819174381186417075",
+        "created_at": "2024-08-02T05:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T06:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819238824645734656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819238824645734656",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819174381186417075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya cold（物理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3895,
+          "following_count": 997,
+          "like_count": 25372,
+          "listed_count": 10,
+          "tweet_count": 14861
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-17T02:00:25.000Z",
+        "description": "魔法貓音樂工作室藝術總監\n佛系經營中，合作、委託可直接私訊\n\n★ 防廣告秘咒：198964、習近平小熊維尼\n\n個版大概有 70%（或更多）日常廢文\n作品集請洽YT傳送門 ⬇⬇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MCMS-Official",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@MCMS-Official",
+                "start": 0,
+                "url": "https://t.co/8tCEKJtQiR"
+              }
+            ]
+          }
+        },
+        "id": "1394110433389281281",
+        "location": "高雄／臺灣",
+        "name": "大貓｜魔法貓音樂工作室（委託開放中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794910810697052160/vi9gMOgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 1226,
+          "like_count": 28976,
+          "listed_count": 1,
+          "tweet_count": 7292
+        },
+        "url": "https://t.co/8tCEKJtQiR",
+        "username": "CYKAO1994",
+        "verified": true
+      }
+    ]
+  }
+}

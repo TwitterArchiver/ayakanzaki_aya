@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1879067824452428229",
+    "created_at": "2025-01-21T02:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T03:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881533937761325390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1528900219777466368",
+          "start": 0,
+          "username": "MDFK_YEEEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881533937761325390",
+    "in_reply_to_user_id": "1528900219777466368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880264195591311704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MDFK_YEEEE 那就去休息！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1879067824452428229",
+        "created_at": "2025-01-21T02:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T03:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881533937761325390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1528900219777466368",
+              "start": 0,
+              "username": "MDFK_YEEEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881533937761325390",
+        "in_reply_to_user_id": "1528900219777466368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880264195591311704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MDFK_YEEEE 那就去休息！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528900219777466368",
+        "conversation_id": "1879067824452428229",
+        "created_at": "2025-01-17T14:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880264195591311704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880264195591311704",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880262544004419586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 現在的我是真的累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4277,
+          "following_count": 990,
+          "like_count": 28057,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17643
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T00:46:50.000Z",
+        "description": "比亞穆西卡永遠的推\nINTJ\n國中會考生\n摺紙系 不喜誤入 不是89\nTag:#用紙摺出台v計畫\n小帳@weeeeeyeee\n藍天:https://t.co/5jR7aogsgH\n棉花糖:https://t.co/T3KkYFG3A2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 39,
+                "tag": "用紙摺出台v計畫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "weeeeeyeee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/ttdyee…",
+                "end": 89,
+                "expanded_url": "https://bsky.app/profile/ttdyee1114.bsky.social",
+                "start": 66,
+                "url": "https://t.co/5jR7aogsgH"
+              },
+              {
+                "display_url": "marshmallow-qa.com/tuqrfmuzwqt14d8",
+                "end": 117,
+                "expanded_url": "https://marshmallow-qa.com/tuqrfmuzwqt14d8",
+                "start": 94,
+                "url": "https://t.co/T3KkYFG3A2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/ttdyee",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/ttdyee",
+                "start": 0,
+                "url": "https://t.co/e3vaSdRabB"
+              }
+            ]
+          }
+        },
+        "id": "1528900219777466368",
+        "location": "B2D6 B2D6 AF66 A4A7 AE61",
+        "name": "累累病發作非常累 by yee",
+        "pinned_tweet_id": "1874343981729079480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826458862381326336/6zKHFLKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 663,
+          "like_count": 3236,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/e3vaSdRabB",
+        "username": "MDFK_YEEEE",
+        "verified": false
+      }
+    ]
+  }
+}

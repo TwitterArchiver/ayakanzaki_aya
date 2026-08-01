@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1825787129617617089",
+    "created_at": "2024-08-21T09:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T10:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826185450043699410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1769247517655576576",
+          "start": 0,
+          "username": "DuckyAuro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826185450043699410",
+    "in_reply_to_user_id": "1769247517655576576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825847945012584589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuckyAuro 我也覺得（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1825787129617617089",
+        "created_at": "2024-08-21T09:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T10:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826185450043699410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1769247517655576576",
+              "start": 0,
+              "username": "DuckyAuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826185450043699410",
+        "in_reply_to_user_id": "1769247517655576576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825847945012584589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuckyAuro 我也覺得（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769247517655576576",
+        "conversation_id": "1825787129617617089",
+        "created_at": "2024-08-20T10:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T11:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825847945012584589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825847945012584589",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825787129617617089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 抱歉 但真的超好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3913,
+          "following_count": 997,
+          "like_count": 25669,
+          "listed_count": 10,
+          "tweet_count": 15138
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T06:21:08.000Z",
+        "description": "大家好我是奎羽, 歡迎來到鴨鴨農場🦆\n\n遊戲實況🎮∣卡牌雜談🃏\n\n棉花糖：https://t.co/3cZ5pu2jMX\n\nDiscord : https://t.co/4mxM6qCkOg \n\n如果喜歡我的實況還請幫我按❤️跟🔁喔\n\n繪師: @Goditsuka \n建模: @Dream__Kite",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Goditsuka"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "Dream__Kite"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/dyV7yz",
+                "end": 60,
+                "expanded_url": "https://reurl.cc/dyV7yz",
+                "start": 37,
+                "url": "https://t.co/3cZ5pu2jMX"
+              },
+              {
+                "display_url": "discord.gg/Tthx8JFjxF",
+                "end": 95,
+                "expanded_url": "https://discord.gg/Tthx8JFjxF",
+                "start": 72,
+                "url": "https://t.co/4mxM6qCkOg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/auroducky",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/auroducky",
+                "start": 0,
+                "url": "https://t.co/HExBzouhWv"
+              }
+            ]
+          }
+        },
+        "id": "1769247517655576576",
+        "location": "Taiwan",
+        "name": "奎羽 AuRo.Ducky🎮∣Vtype∣Twitch",
+        "pinned_tweet_id": "1825242232322232333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797922457220939776/rKRJEZY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 221,
+          "like_count": 1501,
+          "listed_count": 0,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/HExBzouhWv",
+        "username": "DuckyAuro",
+        "verified": true
+      }
+    ]
+  }
+}

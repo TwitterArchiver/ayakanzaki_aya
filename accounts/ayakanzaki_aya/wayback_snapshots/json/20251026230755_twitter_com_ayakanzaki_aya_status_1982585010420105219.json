@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982584821105782784",
+        "3_1982584637953126400",
+        "3_1982584870640508928",
+        "3_1982584947098476545"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1982585010420105219",
+    "created_at": "2025-10-26T23:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T00:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982585010420105219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H4Ekx5jEI8",
+          "end": 28,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/1982585010420105219/photo/1",
+          "media_key": "3_1982584821105782784",
+          "start": 5,
+          "url": "https://t.co/H4Ekx5jEI8"
+        },
+        {
+          "display_url": "pic.x.com/H4Ekx5jEI8",
+          "end": 28,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/1982585010420105219/photo/1",
+          "media_key": "3_1982584637953126400",
+          "start": 5,
+          "url": "https://t.co/H4Ekx5jEI8"
+        },
+        {
+          "display_url": "pic.x.com/H4Ekx5jEI8",
+          "end": 28,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/1982585010420105219/photo/1",
+          "media_key": "3_1982584870640508928",
+          "start": 5,
+          "url": "https://t.co/H4Ekx5jEI8"
+        },
+        {
+          "display_url": "pic.x.com/H4Ekx5jEI8",
+          "end": 28,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/1982585010420105219/photo/1",
+          "media_key": "3_1982584947098476545",
+          "start": 5,
+          "url": "https://t.co/H4Ekx5jEI8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982585010420105219",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "フィユ顔 https://t.co/H4Ekx5jEI8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_1982584821105782784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OOY_8XcAAmVIg.jpg",
+        "width": 1011
+      },
+      {
+        "height": 1186,
+        "media_key": "3_1982584637953126400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OOOVpXsAAzzs6.jpg",
+        "width": 1186
+      },
+      {
+        "height": 880,
+        "media_key": "3_1982584870640508928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OOb4eXYAAydYM.jpg",
+        "width": 880
+      },
+      {
+        "height": 674,
+        "media_key": "3_1982584947098476545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OOgVTXYAEW5Os.jpg",
+        "width": 674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982584821105782784",
+            "3_1982584637953126400",
+            "3_1982584870640508928",
+            "3_1982584947098476545"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1982585010420105219",
+        "created_at": "2025-10-26T23:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982585010420105219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4Ekx5jEI8",
+              "end": 28,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/1982585010420105219/photo/1",
+              "media_key": "3_1982584821105782784",
+              "start": 5,
+              "url": "https://t.co/H4Ekx5jEI8"
+            },
+            {
+              "display_url": "pic.x.com/H4Ekx5jEI8",
+              "end": 28,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/1982585010420105219/photo/1",
+              "media_key": "3_1982584637953126400",
+              "start": 5,
+              "url": "https://t.co/H4Ekx5jEI8"
+            },
+            {
+              "display_url": "pic.x.com/H4Ekx5jEI8",
+              "end": 28,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/1982585010420105219/photo/1",
+              "media_key": "3_1982584870640508928",
+              "start": 5,
+              "url": "https://t.co/H4Ekx5jEI8"
+            },
+            {
+              "display_url": "pic.x.com/H4Ekx5jEI8",
+              "end": 28,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/1982585010420105219/photo/1",
+              "media_key": "3_1982584947098476545",
+              "start": 5,
+              "url": "https://t.co/H4Ekx5jEI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982585010420105219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "フィユ顔 https://t.co/H4Ekx5jEI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8424,
+          "following_count": 971,
+          "like_count": 31907,
+          "listed_count": 19,
+          "media_count": 86,
+          "tweet_count": 20640
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

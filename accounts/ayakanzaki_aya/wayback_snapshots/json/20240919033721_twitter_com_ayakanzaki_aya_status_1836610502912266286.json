@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1835535744988750303",
+    "created_at": "2024-09-19T03:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T04:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836610502912266286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1644697192295436290",
+          "start": 0,
+          "username": "Sixl_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836610502912266286",
+    "in_reply_to_user_id": "1644697192295436290",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835744494039531819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sixl_ 情境向的 台v有名的我蠻多都看過了 就是電波沒對上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1835535744988750303",
+        "created_at": "2024-09-19T03:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T04:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836610502912266286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1644697192295436290",
+              "start": 0,
+              "username": "Sixl_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836610502912266286",
+        "in_reply_to_user_id": "1644697192295436290",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835744494039531819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sixl_ 情境向的 台v有名的我蠻多都看過了 就是電波沒對上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644697192295436290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          }
+        ],
+        "conversation_id": "1835535744988750303",
+        "created_at": "2024-09-16T18:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T19:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835744494039531819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835744494039531819",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835535744988750303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 呃…你的需求是劇情向R18還是舔耳類的？R18的話夢寐愛姆 晚晚 拾參教官 塔芭絲可這幾位都有在Dlsite出過作品，歡迎支持。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆\n依賴受付中✧ よろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 981,
+          "like_count": 26179,
+          "listed_count": 9,
+          "tweet_count": 15640
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T13:42:31.000Z",
+        "description": "超級潛水仔，只對有興趣的事物才會出現\n愛刷存在感，但只會出個聲就烙跑的社恐\n玩好玩遊戲，現在依舊有玩崩鐵爐石第五",
+        "id": "1644697192295436290",
+        "location": "Taiwan",
+        "name": "Sixleo_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644697354736660484/HiGkjdeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 549,
+          "like_count": 22548,
+          "listed_count": 0,
+          "tweet_count": 1137
+        },
+        "username": "Sixl_",
+        "verified": false
+      }
+    ]
+  }
+}

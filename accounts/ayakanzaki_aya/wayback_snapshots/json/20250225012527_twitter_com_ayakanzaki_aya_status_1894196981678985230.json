@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893941232998498597",
+    "created_at": "2025-02-25T01:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T02:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894196981678985230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1413327177806802945",
+          "start": 0,
+          "username": "n3aQ1ae53MRryRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894196981678985230",
+    "in_reply_to_user_id": "1413327177806802945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893948986572095870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n3aQ1ae53MRryRZ 謝謝松鼠！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-25T01:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894196981678985230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1413327177806802945",
+              "start": 0,
+              "username": "n3aQ1ae53MRryRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894196981678985230",
+        "in_reply_to_user_id": "1413327177806802945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893948986572095870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n3aQ1ae53MRryRZ 謝謝松鼠！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413327177806802945",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-24T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893948986572095870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893948986572095870",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893941232998498597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 生日快樂🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 976,
+          "like_count": 29172,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18679
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T02:40:46.000Z",
+        "description": "",
+        "id": "1413327177806802945",
+        "name": "觸餅松鼠🐿️🐿️🐿️",
+        "pinned_tweet_id": "1621545624310251520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689447862097330176/dZxAi7E__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 1368,
+          "like_count": 44336,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 19235
+        },
+        "username": "n3aQ1ae53MRryRZ",
+        "verified": false
+      }
+    ]
+  }
+}

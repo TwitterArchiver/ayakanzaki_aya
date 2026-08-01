@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1927215898189767171",
+    "created_at": "2025-06-08T22:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T23:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931837530338644379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "796679652",
+          "start": 0,
+          "username": "lilimxxxdeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931837530338644379",
+    "in_reply_to_user_id": "796679652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927643938040729718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilimxxxdeer 躺平人生萬歲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1927215898189767171",
+        "created_at": "2025-06-08T22:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T23:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931837530338644379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "796679652",
+              "start": 0,
+              "username": "lilimxxxdeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931837530338644379",
+        "in_reply_to_user_id": "796679652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927643938040729718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilimxxxdeer 躺平人生萬歲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "796679652",
+        "conversation_id": "1927215898189767171",
+        "created_at": "2025-05-28T08:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T09:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927643938040729718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927643938040729718",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927215898189767171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好喜歡這類貼文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6771,
+          "following_count": 999,
+          "like_count": 30702,
+          "listed_count": 19,
+          "media_count": 55,
+          "tweet_count": 19885
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-01T19:05:20.000Z",
+        "description": "🇹🇼\n ♡̷̷ 820歲想睡花妖小娃洼( ⌯₄⌯)\n ၊♡̷̷ 自力受肉 ♡̷̷ ᴠᴀʀᴛɪsᴛ ♡̷̷ ʟ𝟸ᴅ\n ၊⋈ 雪夜皮繪師 @SuzukiUsana\n\n ၊https://t.co/dhO0p80Yo1 \n不是V但我會開台",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "SuzukiUsana"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@Lilimxxxdeer",
+                "end": 106,
+                "expanded_url": "https://youtube.com/@Lilimxxxdeer",
+                "start": 83,
+                "url": "https://t.co/dhO0p80Yo1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lilimxxxdeer.webnode.page",
+                "end": 23,
+                "expanded_url": "https://lilimxxxdeer.webnode.page/",
+                "start": 0,
+                "url": "https://t.co/7vwVfcdcgO"
+              }
+            ]
+          }
+        },
+        "id": "796679652",
+        "location": "初配時間2022.11.20 ♡ 狐狸頂著櫻花與蝴蝶共舞",
+        "name": "𓆩 湮月 ♡ 緋花 𓆪",
+        "pinned_tweet_id": "1783872608314012020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925122630618902528/ZFvsNKoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13069,
+          "following_count": 2317,
+          "like_count": 54127,
+          "listed_count": 19,
+          "media_count": 3032,
+          "tweet_count": 28842
+        },
+        "url": "https://t.co/7vwVfcdcgO",
+        "username": "lilimxxxdeer",
+        "verified": false
+      }
+    ]
+  }
+}

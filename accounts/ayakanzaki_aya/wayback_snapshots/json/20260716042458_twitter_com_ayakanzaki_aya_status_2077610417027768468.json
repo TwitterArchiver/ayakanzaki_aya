@@ -1,0 +1,632 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077396945166077952",
+        "3_2077396945166114816",
+        "3_2077396945153503232"
+      ],
+      "media_source_tweet_id": [
+        "2077396954011824500",
+        "2077396954011824500",
+        "2077396954011824500"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Chess",
+          "id": "847869150353440768",
+          "name": "Chess"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chess",
+          "id": "847869150353440768",
+          "name": "Chess"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      }
+    ],
+    "conversation_id": "2077610417027768468",
+    "created_at": "2026-07-16T04:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077610417027768468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516262166105509888",
+          "start": 3,
+          "username": "fine_9725"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1nNElgL565",
+          "end": 73,
+          "expanded_url": "https://x.com/fine_9725/status/2077396954011824500/photo/1",
+          "media_key": "3_2077396945166077952",
+          "start": 50,
+          "url": "https://t.co/1nNElgL565"
+        },
+        {
+          "display_url": "pic.x.com/1nNElgL565",
+          "end": 73,
+          "expanded_url": "https://x.com/fine_9725/status/2077396954011824500/photo/1",
+          "media_key": "3_2077396945166114816",
+          "start": 50,
+          "url": "https://t.co/1nNElgL565"
+        },
+        {
+          "display_url": "pic.x.com/1nNElgL565",
+          "end": 73,
+          "expanded_url": "https://x.com/fine_9725/status/2077396954011824500/photo/1",
+          "media_key": "3_2077396945153503232",
+          "start": 50,
+          "url": "https://t.co/1nNElgL565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077610417027768468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077396954011824500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fine_9725: 2022→→→→→→→→2026\nチェスを描くのが上手くなりました✨ https://t.co/1nNElgL565"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077396945166077952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRlg94bEAAChyY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077396945166114816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRlg94boAAQ_ju.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077396945153503232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRlg91bMAADtSK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077396945166077952",
+            "3_2077396945166114816",
+            "3_2077396945153503232"
+          ],
+          "media_source_tweet_id": [
+            "2077396954011824500",
+            "2077396954011824500",
+            "2077396954011824500"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Chess",
+              "id": "847869150353440768",
+              "name": "Chess"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chess",
+              "id": "847869150353440768",
+              "name": "Chess"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "2077610417027768468",
+        "created_at": "2026-07-16T04:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077610417027768468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516262166105509888",
+              "start": 3,
+              "username": "fine_9725"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nNElgL565",
+              "end": 73,
+              "expanded_url": "https://x.com/fine_9725/status/2077396954011824500/photo/1",
+              "media_key": "3_2077396945166077952",
+              "start": 50,
+              "url": "https://t.co/1nNElgL565"
+            },
+            {
+              "display_url": "pic.x.com/1nNElgL565",
+              "end": 73,
+              "expanded_url": "https://x.com/fine_9725/status/2077396954011824500/photo/1",
+              "media_key": "3_2077396945166114816",
+              "start": 50,
+              "url": "https://t.co/1nNElgL565"
+            },
+            {
+              "display_url": "pic.x.com/1nNElgL565",
+              "end": 73,
+              "expanded_url": "https://x.com/fine_9725/status/2077396954011824500/photo/1",
+              "media_key": "3_2077396945153503232",
+              "start": 50,
+              "url": "https://t.co/1nNElgL565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077610417027768468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077396954011824500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fine_9725: 2022→→→→→→→→2026\nチェスを描くのが上手くなりました✨ https://t.co/1nNElgL565"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077396945166077952",
+            "3_2077396945166114816",
+            "3_2077396945153503232"
+          ]
+        },
+        "author_id": "1516262166105509888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Chess",
+              "id": "847869150353440768",
+              "name": "Chess"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "2077396954011824500",
+        "created_at": "2026-07-15T14:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077396954011824500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nNElgL565",
+              "end": 58,
+              "expanded_url": "https://x.com/fine_9725/status/2077396954011824500/photo/1",
+              "media_key": "3_2077396945166077952",
+              "start": 35,
+              "url": "https://t.co/1nNElgL565"
+            },
+            {
+              "display_url": "pic.x.com/1nNElgL565",
+              "end": 58,
+              "expanded_url": "https://x.com/fine_9725/status/2077396954011824500/photo/1",
+              "media_key": "3_2077396945166114816",
+              "start": 35,
+              "url": "https://t.co/1nNElgL565"
+            },
+            {
+              "display_url": "pic.x.com/1nNElgL565",
+              "end": 58,
+              "expanded_url": "https://x.com/fine_9725/status/2077396954011824500/photo/1",
+              "media_key": "3_2077396945153503232",
+              "start": 35,
+              "url": "https://t.co/1nNElgL565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077396954011824500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 42929,
+          "like_count": 1378,
+          "quote_count": 9,
+          "reply_count": 30,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "2022→→→→→→→→2026\nチェスを描くのが上手くなりました✨ https://t.co/1nNElgL565"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。：https://t.co/VcHIX9aINY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 123,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 100,
+                "url": "https://t.co/VcHIX9aINY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10589,
+          "following_count": 975,
+          "like_count": 32886,
+          "listed_count": 26,
+          "media_count": 96,
+          "tweet_count": 21518
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T03:47:40.000Z",
+        "description": "絵を描いています☕️\nご依頼や販売書籍など: https://t.co/xLc9e3OTN7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/fine9725",
+                "end": 46,
+                "expanded_url": "https://potofu.me/fine9725",
+                "start": 23,
+                "url": "https://t.co/xLc9e3OTN7"
+              }
+            ]
+          }
+        },
+        "id": "1516262166105509888",
+        "name": "𝐹𝑖𝑁𝑒",
+        "pinned_tweet_id": "2061734614927106082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076445888076283905/eKIsU8lL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103823,
+          "following_count": 7,
+          "like_count": 11586,
+          "listed_count": 582,
+          "media_count": 131,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "fine_9725",
+        "verified": true
+      }
+    ]
+  }
+}

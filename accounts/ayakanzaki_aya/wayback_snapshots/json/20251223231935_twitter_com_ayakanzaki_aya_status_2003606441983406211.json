@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2001713495142752498",
+    "created_at": "2025-12-23T23:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T00:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003606441983406211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1547250592677916673",
+          "start": 0,
+          "username": "aen7996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003606441983406211",
+    "in_reply_to_user_id": "1547250592677916673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003350826023358941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aen7996 啊啊啊啊啊謝謝你願意用我畫的圖！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003350818603634688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81U9I9bkAAUBsp.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2001713495142752498",
+        "created_at": "2025-12-23T23:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T00:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003606441983406211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1547250592677916673",
+              "start": 0,
+              "username": "aen7996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003606441983406211",
+        "in_reply_to_user_id": "1547250592677916673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003350826023358941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aen7996 啊啊啊啊啊謝謝你願意用我畫的圖！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003350818603634688"
+          ]
+        },
+        "author_id": "1547250592677916673",
+        "conversation_id": "2001713495142752498",
+        "created_at": "2025-12-23T06:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T07:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003350826023358941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYINXxnzRI",
+              "end": 54,
+              "expanded_url": "https://x.com/aen7996/status/2003350826023358941/photo/1",
+              "media_key": "3_2003350818603634688",
+              "start": 31,
+              "url": "https://t.co/SYINXxnzRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003350826023358941",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002049304178184472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 上次這張當鎖定頁面超剛好的！ https://t.co/SYINXxnzRI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8468,
+          "following_count": 976,
+          "like_count": 32132,
+          "listed_count": 20,
+          "media_count": 88,
+          "tweet_count": 20878
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T16:04:26.000Z",
+        "description": "🍎ྀི 🐦⬛ 🪽【WD】 🩰🤍",
+        "id": "1547250592677916673",
+        "location": "Sapporo-shi Chuo, Hokkaidō",
+        "name": "Ben Zheng🍎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001918879820570624/lisAW1O6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 267,
+          "like_count": 153942,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 3627
+        },
+        "username": "aen7996",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1928184344998212080",
+    "created_at": "2025-06-08T22:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T23:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931841323948253521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1317699779288125440",
+          "start": 0,
+          "username": "Zaphkiel_Alef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931841323948253521",
+    "in_reply_to_user_id": "1317699779288125440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928693420995891301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zaphkiel_Alef 我比較喜歡叫他友情破顏拳（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1928184344998212080",
+        "created_at": "2025-06-08T22:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T23:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931841323948253521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1317699779288125440",
+              "start": 0,
+              "username": "Zaphkiel_Alef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931841323948253521",
+        "in_reply_to_user_id": "1317699779288125440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928693420995891301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zaphkiel_Alef 我比較喜歡叫他友情破顏拳（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317699779288125440",
+        "conversation_id": "1928184344998212080",
+        "created_at": "2025-05-31T06:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T07:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928693420995891301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928693420995891301",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928184344998212080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 還是妳給妳姐也來一發“人格修正拳”  :3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6771,
+          "following_count": 999,
+          "like_count": 30730,
+          "listed_count": 19,
+          "media_count": 55,
+          "tweet_count": 19899
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T05:31:44.000Z",
+        "description": "平凡的大學生 ||\nDead by Daylight :Rank1 ||\n喜歡打Rainbow six siege ，殘局專家 ||\nAlbion online 的 阿瓦隆農夫 ||\npayday2 DeadWish 輕鬆遊龍 DSOD 倒地模擬器",
+        "id": "1317699779288125440",
+        "name": "Zaphkiel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755939292982153216/FEfd4f9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 152,
+          "like_count": 2339,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Zaphkiel_Alef",
+        "verified": false
+      }
+    ]
+  }
+}

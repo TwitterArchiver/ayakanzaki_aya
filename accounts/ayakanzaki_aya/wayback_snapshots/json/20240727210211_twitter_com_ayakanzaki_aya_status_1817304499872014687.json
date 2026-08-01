@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1817304499872014687",
+    "created_at": "2024-07-27T21:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T22:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817304499872014687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CYKAO1994/stat…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/CYKAO1994/status/1817159414576767127",
+          "start": 59,
+          "url": "https://t.co/iLrgqrAtVJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817304499872014687",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817159414576767127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "謝謝大貓老師替我製作的BGM！\n抱歉我提了很任性的要求xd\n成品跟我想的一樣的讚\n感謝老師 贊嘆老師ヾ(≧▽≦*)o https://t.co/iLrgqrAtVJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1817304499872014687",
+        "created_at": "2024-07-27T21:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T22:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817304499872014687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CYKAO1994/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/CYKAO1994/status/1817159414576767127",
+              "start": 59,
+              "url": "https://t.co/iLrgqrAtVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817304499872014687",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817159414576767127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "謝謝大貓老師替我製作的BGM！\n抱歉我提了很任性的要求xd\n成品跟我想的一樣的讚\n感謝老師 贊嘆老師ヾ(≧▽≦*)o https://t.co/iLrgqrAtVJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1817155302766387200"
+          ]
+        },
+        "author_id": "1394110433389281281",
+        "conversation_id": "1817159414576767127",
+        "created_at": "2024-07-27T11:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T12:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817159414576767127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/M1pIKp6HTd",
+              "end": 135,
+              "expanded_url": "https://twitter.com/CYKAO1994/status/1817159414576767127/video/1",
+              "media_key": "7_1817155302766387200",
+              "start": 112,
+              "url": "https://t.co/M1pIKp6HTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817159414576767127",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 580,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天再來分享一首新作品《畫布與晴空》\n是幫繪師あや老師製作的專屬BGM\n之後可能會被用在繪圖縮時影片之類的\n\n老師指定想要吉他與卡林巴琴\n沒想到這組合的效果居然意外地好欸！\n整首曲子走一個放鬆的氣氛\n又帶著一點點溫柔與童趣 https://t.co/M1pIKp6HTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 994,
+          "like_count": 25281,
+          "listed_count": 10,
+          "tweet_count": 14766
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-17T02:00:25.000Z",
+        "description": "魔法貓音樂工作室藝術總監\n佛系經營中，合作、委託可直接私訊\n\n★ 防廣告秘咒：198964、習近平小熊維尼\n\n個版大概有 70%（或更多）日常廢文\n作品集請洽YT傳送門 ⬇⬇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MCMS-Official",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@MCMS-Official",
+                "start": 0,
+                "url": "https://t.co/8tCEKJtQiR"
+              }
+            ]
+          }
+        },
+        "id": "1394110433389281281",
+        "location": "高雄／臺灣",
+        "name": "大貓｜魔法貓音樂工作室（委託開放中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794910810697052160/vi9gMOgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 1148,
+          "like_count": 27764,
+          "listed_count": 1,
+          "tweet_count": 6985
+        },
+        "url": "https://t.co/8tCEKJtQiR",
+        "username": "CYKAO1994",
+        "verified": true
+      }
+    ]
+  }
+}

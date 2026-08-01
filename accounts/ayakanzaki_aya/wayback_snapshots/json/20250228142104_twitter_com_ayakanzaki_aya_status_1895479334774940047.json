@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893637855525618040",
+    "created_at": "2025-02-28T14:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T15:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895479334774940047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4847907406",
+          "start": 0,
+          "username": "0203_orange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895479334774940047",
+    "in_reply_to_user_id": "4847907406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894032088103305598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0203_orange 謝謝你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893637855525618040",
+        "created_at": "2025-02-28T14:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T15:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895479334774940047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4847907406",
+              "start": 0,
+              "username": "0203_orange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895479334774940047",
+        "in_reply_to_user_id": "4847907406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894032088103305598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0203_orange 謝謝你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4847907406",
+        "conversation_id": "1893637855525618040",
+        "created_at": "2025-02-24T14:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T15:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894032088103305598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894032088103305598",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893637855525618040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 生日快樂🥳🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6356,
+          "following_count": 976,
+          "like_count": 29267,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18775
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T02:31:58.000Z",
+        "description": "我是吉君\n一個熱愛ACG文化的台灣宅宅 社交恐懼重度 非常喜歡看V\n是個大DD 但是我深愛著我推的每一位主播\n每一位都在我人生上賦予滿滿的動力\n看V真的好快樂 希望我有更多時間可以支持我的推們",
+        "id": "4847907406",
+        "location": "台灣",
+        "name": "たちばな吉君",
+        "pinned_tweet_id": "1793216901868556460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859618359568105473/-2XStTna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 4977,
+          "like_count": 139440,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 8333
+        },
+        "username": "0203_orange",
+        "verified": false
+      }
+    ]
+  }
+}

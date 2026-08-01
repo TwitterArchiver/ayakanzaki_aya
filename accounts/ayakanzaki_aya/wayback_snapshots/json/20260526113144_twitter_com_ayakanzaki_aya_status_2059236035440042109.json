@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2059154368025211079",
+    "created_at": "2026-05-26T11:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059236035440042109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1408404725595131909",
+          "start": 0,
+          "username": "Jieshu0315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059236035440042109",
+    "in_reply_to_user_id": "1408404725595131909",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059156816098181513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jieshu0315 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2059154368025211079",
+        "created_at": "2026-05-26T11:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059236035440042109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1408404725595131909",
+              "start": 0,
+              "username": "Jieshu0315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059236035440042109",
+        "in_reply_to_user_id": "1408404725595131909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059156816098181513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jieshu0315 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408404725595131909",
+        "conversation_id": "2059154368025211079",
+        "created_at": "2026-05-26T06:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059156816098181513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059156816098181513",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059154368025211079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "気づいてくれてありがと。\n高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH┊FANBOX：https://t.co/yhbghbkFby",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 51,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 105,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 82,
+                "url": "https://t.co/yhbghbkFby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2058393230731829716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9522,
+          "following_count": 970,
+          "like_count": 32789,
+          "listed_count": 22,
+          "media_count": 87,
+          "tweet_count": 21381
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-25T12:40:38.000Z",
+        "description": "早安午安晚安初見安安 \n我是潔舒，可以叫我衛生紙，不是舒潔\n歡迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/nt6cHMnDEh",
+                "end": 23,
+                "expanded_url": "http://discord.gg/nt6cHMnDEh",
+                "start": 0,
+                "url": "https://t.co/PTGIUQBoZL"
+              }
+            ]
+          }
+        },
+        "id": "1408404725595131909",
+        "location": "Taipei City, Taiwan",
+        "name": "潔舒 Jieshu",
+        "pinned_tweet_id": "1564111818405974016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573172251205464064/PzkDuF7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 3701,
+          "like_count": 7014,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 8203
+        },
+        "url": "https://t.co/PTGIUQBoZL",
+        "username": "Jieshu0315",
+        "verified": false
+      }
+    ]
+  }
+}

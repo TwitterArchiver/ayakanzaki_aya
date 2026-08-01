@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026226167250874368"
+      ],
+      "media_source_tweet_id": [
+        "2026226171134824456"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "2026390023495446785",
+    "created_at": "2026-02-24T20:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T21:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026390023495446785"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 18,
+          "tag": "ArknightsEndfield"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519894671559823362",
+          "start": 3,
+          "username": "chuxun127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZsNQTfRyO0",
+          "end": 60,
+          "expanded_url": "https://x.com/chuxun127/status/2026226171134824456/photo/1",
+          "media_key": "3_2026226167250874368",
+          "start": 37,
+          "url": "https://t.co/ZsNQTfRyO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026390023495446785",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1711
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026226171134824456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuxun127: ⚡\n #ArknightsEndfield https://t.co/ZsNQTfRyO0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026226167250874368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6Z9rWW8AARo-8.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026226167250874368"
+          ],
+          "media_source_tweet_id": [
+            "2026226171134824456"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "2026390023495446785",
+        "created_at": "2026-02-24T20:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T21:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026390023495446785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 18,
+              "tag": "ArknightsEndfield"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519894671559823362",
+              "start": 3,
+              "username": "chuxun127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsNQTfRyO0",
+              "end": 60,
+              "expanded_url": "https://x.com/chuxun127/status/2026226171134824456/photo/1",
+              "media_key": "3_2026226167250874368",
+              "start": 37,
+              "url": "https://t.co/ZsNQTfRyO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026390023495446785",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1711
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026226171134824456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuxun127: ⚡\n #ArknightsEndfield https://t.co/ZsNQTfRyO0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026226167250874368"
+          ]
+        },
+        "author_id": "1519894671559823362",
+        "conversation_id": "2026226171134824456",
+        "created_at": "2026-02-24T09:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026226171134824456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 3,
+              "tag": "ArknightsEndfield"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsNQTfRyO0",
+              "end": 45,
+              "expanded_url": "https://x.com/chuxun127/status/2026226171134824456/photo/1",
+              "media_key": "3_2026226167250874368",
+              "start": 22,
+              "url": "https://t.co/ZsNQTfRyO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026226171134824456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2431,
+          "impression_count": 368708,
+          "like_count": 16128,
+          "quote_count": 15,
+          "reply_count": 7,
+          "retweet_count": 1711
+        },
+        "reply_settings": "everyone",
+        "text": "⚡\n #ArknightsEndfield https://t.co/ZsNQTfRyO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011299487910666240/vr6sPNSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8611,
+          "following_count": 992,
+          "like_count": 32251,
+          "listed_count": 21,
+          "media_count": 102,
+          "tweet_count": 21023
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T04:21:50.000Z",
+        "description": "illustrator｜中文/En丨AI🚫丨wb@寻呼机联系 | 低浮上",
+        "id": "1519894671559823362",
+        "name": "寻然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519895519429988353/Sygv45A1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8496,
+          "following_count": 132,
+          "like_count": 17,
+          "listed_count": 67,
+          "media_count": 37,
+          "tweet_count": 61
+        },
+        "username": "chuxun127",
+        "verified": false
+      }
+    ]
+  }
+}

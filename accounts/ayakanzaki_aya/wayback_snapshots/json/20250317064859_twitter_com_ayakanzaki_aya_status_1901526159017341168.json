@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1899463584825888774",
+    "created_at": "2025-03-17T06:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T07:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901526159017341168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807859795564941312",
+          "start": 0,
+          "username": "IgotGENSHINE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901526159017341168",
+    "in_reply_to_user_id": "1807859795564941312",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900067870647751103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IgotGENSHINE ∠( ᐛ 」∠)＿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1900067854705451016",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gl5lpZjbYAgwtL2.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gl5lpZjbYAgwtL2.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1899463584825888774",
+        "created_at": "2025-03-17T06:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T07:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901526159017341168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807859795564941312",
+              "start": 0,
+              "username": "IgotGENSHINE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901526159017341168",
+        "in_reply_to_user_id": "1807859795564941312",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900067870647751103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IgotGENSHINE ∠( ᐛ 」∠)＿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1900067854705451016"
+          ]
+        },
+        "author_id": "1807859795564941312",
+        "conversation_id": "1899463584825888774",
+        "created_at": "2025-03-13T06:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T07:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900067870647751103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhRPOdTYv7",
+              "end": 39,
+              "expanded_url": "https://x.com/IgotGENSHINE/status/1900067870647751103/photo/1",
+              "media_key": "16_1900067854705451016",
+              "start": 16,
+              "url": "https://t.co/QhRPOdTYv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900067870647751103",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899463584825888774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/QhRPOdTYv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6502,
+          "following_count": 981,
+          "like_count": 29766,
+          "listed_count": 18,
+          "media_count": 129,
+          "tweet_count": 19274
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T19:32:42.000Z",
+        "description": "呜呜来个朋友吧。。。好无聊呜呜。。。我是希格雯的狗🐶！",
+        "id": "1807859795564941312",
+        "name": "清河千帆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807860852462440449/LXJ0R_aV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 14
+        },
+        "username": "IgotGENSHINE",
+        "verified": false
+      }
+    ]
+  }
+}

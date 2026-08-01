@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1828722506141765881",
+    "created_at": "2024-08-30T04:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T05:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829381180782694838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1046890588153380864",
+          "start": 0,
+          "username": "HaKa_YuKi123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829381180782694838",
+    "in_reply_to_user_id": "1046890588153380864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828743536063529448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaKa_YuKi123 好消息那不是夢\n壞消息我就沒覺得自己在做夢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1828722506141765881",
+        "created_at": "2024-08-30T04:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T05:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829381180782694838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1046890588153380864",
+              "start": 0,
+              "username": "HaKa_YuKi123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829381180782694838",
+        "in_reply_to_user_id": "1046890588153380864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828743536063529448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaKa_YuKi123 好消息那不是夢\n壞消息我就沒覺得自己在做夢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1046890588153380864",
+        "conversation_id": "1828722506141765881",
+        "created_at": "2024-08-28T10:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T11:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828743536063529448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828743536063529448",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828722506141765881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 通常是覺得自己在做夢才會打自己啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 979,
+          "like_count": 25779,
+          "listed_count": 10,
+          "tweet_count": 15247
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-01T22:32:21.000Z",
+        "description": "個人勢雙魂天使系Vtuber&Vwriter\n\n中文/英文/日文\n\n團體：黑白萊悠\n\n粉絲名稱：希望\n\n二創：#希奇古怪(禁止R18創作)\n\n直播：#希望有你\n\nlogo：羽夏悠希\n\n立繪&建模：11畝工作室   @11_Elevenmu\n\n連動邀約請私訊或信箱：layu9118@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "希奇古怪"
+              },
+              {
+                "end": 79,
+                "start": 74,
+                "tag": "希望有你"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "11_Elevenmu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Haka_Yuki",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Haka_Yuki",
+                "start": 0,
+                "url": "https://t.co/bveqrKyOMA"
+              }
+            ]
+          }
+        },
+        "id": "1046890588153380864",
+        "location": "澈滅界",
+        "name": "羽夏悠希はかゆきHakayuki/雙魂天使系 Vtuber/Vwriter",
+        "pinned_tweet_id": "1828769923705061533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802361631625842688/g_ft-89v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4252,
+          "following_count": 5933,
+          "like_count": 116067,
+          "listed_count": 51,
+          "tweet_count": 60212
+        },
+        "url": "https://t.co/bveqrKyOMA",
+        "username": "HaKa_YuKi123",
+        "verified": true
+      }
+    ]
+  }
+}

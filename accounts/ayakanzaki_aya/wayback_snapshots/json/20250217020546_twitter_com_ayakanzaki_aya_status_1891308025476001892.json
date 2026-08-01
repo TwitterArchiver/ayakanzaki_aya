@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1889887694358192576",
+    "created_at": "2025-02-17T02:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T03:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891308025476001892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1479160850397405184",
+          "start": 0,
+          "username": "PiggyanDraw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891308025476001892",
+    "in_reply_to_user_id": "1479160850397405184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889891239971135951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PiggyanDraw 哦哦畫得好可愛！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1889887694358192576",
+        "created_at": "2025-02-17T02:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T03:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891308025476001892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1479160850397405184",
+              "start": 0,
+              "username": "PiggyanDraw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891308025476001892",
+        "in_reply_to_user_id": "1479160850397405184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889891239971135951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PiggyanDraw 哦哦畫得好可愛！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479160850397405184",
+        "conversation_id": "1889887694358192576",
+        "created_at": "2025-02-13T04:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T05:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889891239971135951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Piggy 佩吉 主要製作Vtuber立繪 、Live2D，以及擅長繪畫女性人物。 ​",
+              "display_url": "piggyandraw.weebly.com",
+              "end": 44,
+              "expanded_url": "https://piggyandraw.weebly.com",
+              "images": [
+                {
+                  "height": 351,
+                  "url": "https://pbs.twimg.com/news_img/1889312264572006401/tRKnT2tf?format=jpg&name=orig",
+                  "width": 1097
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1889312264572006401/tRKnT2tf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Piggyan Draw Home Page",
+              "unwound_url": "https://piggyandraw.weebly.com",
+              "url": "https://t.co/qmQHC9rEei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889891239971135951",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889887694358192576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 來自薦！\nhttps://t.co/qmQHC9rEei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6244,
+          "following_count": 970,
+          "like_count": 28836,
+          "listed_count": 16,
+          "media_count": 127,
+          "tweet_count": 18363
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T18:40:19.000Z",
+        "description": "＼♡套皮實況主+繪師+建模師♡／廣東話/國語💯English/日本語⭕️｜小浠一生推｜banner by虂｜#召喚佩吉 #PiggyanArt #PiggyanLive",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "召喚佩吉"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "tag": "PiggyanArt"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "tag": "PiggyanLive"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/piggyan.draw",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/piggyan.draw",
+                "start": 0,
+                "url": "https://t.co/6jdzgH8cS3"
+              }
+            ]
+          }
+        },
+        "id": "1479160850397405184",
+        "location": "禁止：無斷轉載、塗改作品、自作發言、AI使用",
+        "name": "佩吉Piggy🐽委托開放中",
+        "pinned_tweet_id": "1883104799090196566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843294030383476736/1d6vJqFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1226,
+          "like_count": 19518,
+          "listed_count": 7,
+          "media_count": 552,
+          "tweet_count": 6702
+        },
+        "url": "https://t.co/6jdzgH8cS3",
+        "username": "PiggyanDraw",
+        "verified": false
+      }
+    ]
+  }
+}

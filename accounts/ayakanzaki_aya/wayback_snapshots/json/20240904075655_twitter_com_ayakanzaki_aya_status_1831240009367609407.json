@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1830459363846160895",
+    "created_at": "2024-09-04T07:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T08:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831240009367609407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1508843831793397760",
+          "start": 0,
+          "username": "eaily___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831240009367609407",
+    "in_reply_to_user_id": "1508843831793397760",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830639019895779668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eaily___ 謝謝你～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1830459363846160895",
+        "created_at": "2024-09-04T07:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T08:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831240009367609407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1508843831793397760",
+              "start": 0,
+              "username": "eaily___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831240009367609407",
+        "in_reply_to_user_id": "1508843831793397760",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830639019895779668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eaily___ 謝謝你～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508843831793397760",
+        "conversation_id": "1830459363846160895",
+        "created_at": "2024-09-02T16:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T17:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830639019895779668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830639019895779668",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830459363846160895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 路過看到，我成為你的3998"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4102,
+          "following_count": 982,
+          "like_count": 25896,
+          "listed_count": 9,
+          "tweet_count": 15359
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T16:29:52.000Z",
+        "description": "大家好～我是艾璃\n目前專門在Twitch直播各式各樣遊戲的Vtuber！\n呱呱是我家的吉祥物\n鳳璃是我的專屬暱稱\n請大家多多指教！(´∀｀)♡\n如果有意合作的話可寄信：\nailili54719@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/eaily_",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/eaily_",
+                "start": 0,
+                "url": "https://t.co/Bnw4kZKHKZ"
+              }
+            ]
+          }
+        },
+        "id": "1508843831793397760",
+        "name": "艾璃",
+        "pinned_tweet_id": "1828311814213640590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804947924855726080/0MTGQiU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 90,
+          "like_count": 340,
+          "listed_count": 0,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/Bnw4kZKHKZ",
+        "username": "eaily___",
+        "verified": false
+      }
+    ]
+  }
+}

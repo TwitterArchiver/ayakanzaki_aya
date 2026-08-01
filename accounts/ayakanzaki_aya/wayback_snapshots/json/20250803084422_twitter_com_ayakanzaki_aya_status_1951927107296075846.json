@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1951882014623203726",
+    "created_at": "2025-08-03T08:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T09:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951927107296075846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3009694350",
+          "start": 0,
+          "username": "Haogolfmura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951927107296075846",
+    "in_reply_to_user_id": "3009694350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951892039743701291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haogolfmura 笑死wwwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1951882014623203726",
+        "created_at": "2025-08-03T08:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951927107296075846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3009694350",
+              "start": 0,
+              "username": "Haogolfmura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951927107296075846",
+        "in_reply_to_user_id": "3009694350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951892039743701291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haogolfmura 笑死wwwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3009694350",
+        "conversation_id": "1951882014623203726",
+        "created_at": "2025-08-03T06:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951892039743701291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951892039743701291",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951882014623203726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 長髮充滿魅力，而且在空中飄動很美\n沾了水還能瞬間變成死亡的魔爪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8297,
+          "following_count": 996,
+          "like_count": 31507,
+          "listed_count": 19,
+          "media_count": 57,
+          "tweet_count": 20255
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T04:44:54.000Z",
+        "description": "成人向イラスト&マンガがある  \n未成年の方はフォローしないでください\nNSFW / Hentai Illustration / Lewd\n注意，含有敏感內容，跟隨前請斟酌\n日常帳：@AmisterL65581\n頭像繪師：@pumpkiiiiin_man\n頂圖繪師：@kay_ii2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "AmisterL65581"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "pumpkiiiiin_man"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "kay_ii2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4473381",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/4473381",
+                "start": 0,
+                "url": "https://t.co/JaEXB8kzsz"
+              }
+            ]
+          }
+        },
+        "id": "3009694350",
+        "location": "Earth",
+        "name": "槍兵Definia-Lancaster-Soldat",
+        "pinned_tweet_id": "1913598098729038263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907084584115929088/6CUKYPUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 2353,
+          "like_count": 182083,
+          "listed_count": 1,
+          "media_count": 2372,
+          "tweet_count": 174084
+        },
+        "url": "https://t.co/JaEXB8kzsz",
+        "username": "Haogolfmura",
+        "verified": false
+      }
+    ]
+  }
+}

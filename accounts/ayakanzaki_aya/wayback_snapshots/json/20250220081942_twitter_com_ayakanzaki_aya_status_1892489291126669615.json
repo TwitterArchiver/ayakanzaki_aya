@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1890850853227008007",
+    "created_at": "2025-02-20T08:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T09:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892489291126669615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3001588856",
+          "start": 0,
+          "username": "pizzatw_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892489291126669615",
+    "in_reply_to_user_id": "3001588856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890963691018813783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pizzatw_ 是又怎樣jpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "16_1890963679832870912",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gj4NcrOakAAIhGz.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gj4NcrOakAAIhGz.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1890850853227008007",
+        "created_at": "2025-02-20T08:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T09:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892489291126669615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3001588856",
+              "start": 0,
+              "username": "pizzatw_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892489291126669615",
+        "in_reply_to_user_id": "3001588856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890963691018813783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizzatw_ 是又怎樣jpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1890963679832870912"
+          ]
+        },
+        "author_id": "3001588856",
+        "conversation_id": "1890850853227008007",
+        "created_at": "2025-02-16T03:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T04:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890963691018813783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TI2yNhJatn",
+              "end": 39,
+              "expanded_url": "https://x.com/pizzatw_/status/1890963691018813783/photo/1",
+              "media_key": "16_1890963679832870912",
+              "start": 16,
+              "url": "https://t.co/TI2yNhJatn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890963691018813783",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890850853227008007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/TI2yNhJatn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6245,
+          "following_count": 974,
+          "like_count": 28944,
+          "listed_count": 16,
+          "media_count": 127,
+          "tweet_count": 18456
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-29T15:45:52.000Z",
+        "description": "卡皮巴拉水豚愛好者/在台中工作邁入第四年/步入30的中年大叔/看看繪師或色圖\\(//∇//)\\/百鬼組萬歲/手遊非洲日常分享",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pizza_tw/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/pizza_tw/",
+                "start": 0,
+                "url": "https://t.co/sQ6FyONnrW"
+              }
+            ]
+          }
+        },
+        "id": "3001588856",
+        "location": "Kaohsiung City, Taiwan",
+        "name": "哲_Pizza「百鬼組」",
+        "pinned_tweet_id": "1481290087195643904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831401087020171264/it3CHwgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 1427,
+          "like_count": 39180,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 3842
+        },
+        "url": "https://t.co/sQ6FyONnrW",
+        "username": "pizzatw_",
+        "verified": false
+      }
+    ]
+  }
+}

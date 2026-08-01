@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-25T06:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T07:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838829100233900084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "4614732913",
+          "start": 0,
+          "username": "xrj0526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838829100233900084",
+    "in_reply_to_user_id": "4614732913",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838461900180590771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xrj0526 波～濤～洶～湧～\n（對不起我不應該在別人美好的回憶裡開這種玩笑的（跪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-25T06:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T07:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838829100233900084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4614732913",
+              "start": 0,
+              "username": "xrj0526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838829100233900084",
+        "in_reply_to_user_id": "4614732913",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838461900180590771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xrj0526 波～濤～洶～湧～\n（對不起我不應該在別人美好的回憶裡開這種玩笑的（跪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4614732913",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-24T06:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T07:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838461900180590771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838461900180590771",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838448816632029377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 都是美好的回憶。\n\n就像那對當中黑長直的女方真的漂亮胸懷也不小，所以直接被放到門面。\n男方短髮活潑略矮被丟進我們後廚，我是覺得她也算好看，但大多同事覺得她是普妹...\n\n美人啊，初見總是會吸人眼球。\n外加我比較害羞不太會看人臉，所以目光習慣在下巴跟胸前，被厭惡很正常...所以後面我都不看她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆\n✧お仕事の依頼DMください\nよろしくお願いします꜀(^.  ̫  .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4229,
+          "following_count": 980,
+          "like_count": 26457,
+          "listed_count": 9,
+          "tweet_count": 15923
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-20T18:31:06.000Z",
+        "description": "我是誰？\n比阿里山神木還要木頭的中央空調...吧...",
+        "id": "4614732913",
+        "location": "地球村臺灣島彰化市",
+        "name": "江小魚兒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678021923794726913/tB3Dxw6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 370,
+          "like_count": 28517,
+          "listed_count": 0,
+          "tweet_count": 2685
+        },
+        "username": "xrj0526",
+        "verified": false
+      }
+    ]
+  }
+}

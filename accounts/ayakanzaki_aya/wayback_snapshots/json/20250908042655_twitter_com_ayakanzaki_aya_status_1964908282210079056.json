@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1964543713763610686",
+    "created_at": "2025-09-08T04:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T05:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964908282210079056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864382056190689280",
+          "start": 0,
+          "username": "Kogigii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964908282210079056",
+    "in_reply_to_user_id": "1864382056190689280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964584870484856982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kogigii_ 那就不自由了（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1964543713763610686",
+        "created_at": "2025-09-08T04:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T05:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964908282210079056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864382056190689280",
+              "start": 0,
+              "username": "Kogigii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964908282210079056",
+        "in_reply_to_user_id": "1864382056190689280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964584870484856982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kogigii_ 那就不自由了（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864382056190689280",
+        "conversation_id": "1964543713763610686",
+        "created_at": "2025-09-07T07:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T08:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964584870484856982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964584870484856982",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964543713763610686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 鞋帶要綁好來"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1964117804090544489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8337,
+          "following_count": 993,
+          "like_count": 31710,
+          "listed_count": 20,
+          "media_count": 69,
+          "tweet_count": 20436
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T18:51:42.000Z",
+        "description": "一隻什麼都會的狗狗。 \n各式委託需求歡迎私訊，𝐃𝐢𝐬𝐜𝐨𝐫𝐝：Kogigi_ \n混音 Audio MIx / 母帶 Mastering / 編曲 Arrangement / 剪輯  Video Edit",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kogi9215.wixsite.com/mysite",
+                "end": 23,
+                "expanded_url": "https://kogi9215.wixsite.com/mysite",
+                "start": 0,
+                "url": "https://t.co/6PTxSl6BSb"
+              }
+            ]
+          }
+        },
+        "id": "1864382056190689280",
+        "location": "狗窩",
+        "name": "柯基Kogi🦴‖ 混音委託受付中",
+        "pinned_tweet_id": "1929131676317425813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963446936788451328/1p9HS2vF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 304,
+          "like_count": 1642,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/6PTxSl6BSb",
+        "username": "Kogigii_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-22T05:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837729583979803077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591079601471561728",
+          "start": 0,
+          "username": "brucec130111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837729583979803077",
+    "in_reply_to_user_id": "1591079601471561728",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837546183923060841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brucec130111 笑死 結局不意外w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T05:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837729583979803077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591079601471561728",
+              "start": 0,
+              "username": "brucec130111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837729583979803077",
+        "in_reply_to_user_id": "1591079601471561728",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837546183923060841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brucec130111 笑死 結局不意外w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591079601471561728",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-21T17:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T18:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837546183923060841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837546183923060841",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836990408175276060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 這資訊量太大了吧www\n話說我國中有個同學已經當爸了，而且現在正欠錢跑路中😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26373,
+          "listed_count": 9,
+          "tweet_count": 15833
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T14:45:33.000Z",
+        "description": "♡因為要考學測了，每月的吉他影片先改為有空再發♡\n男的、會彈吉他、日語學習中 、神の天敵 \n【一個邊緣到超越虛空的高中生】【是個DD】\n白天大部分都在上課，可能回不到私訊跟留言~~~\nYT開始上傳影片啦，沒意外的話接下來每個月應該都會有一部影片，有興趣歡迎訂閱喔 ! ! !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChcgR…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UChcgRSGT00g9nlaOxPWaSBw",
+                "start": 0,
+                "url": "https://t.co/cyd43qmKhV"
+              }
+            ]
+          }
+        },
+        "id": "1591079601471561728",
+        "location": "Taiwan",
+        "name": "雷德 【要考學測了，會比較少出現】",
+        "pinned_tweet_id": "1829096827813322768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619695728238133250/mo9dYMlS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 671,
+          "like_count": 38697,
+          "listed_count": 0,
+          "tweet_count": 5044
+        },
+        "url": "https://t.co/cyd43qmKhV",
+        "username": "brucec130111",
+        "verified": false
+      }
+    ]
+  }
+}

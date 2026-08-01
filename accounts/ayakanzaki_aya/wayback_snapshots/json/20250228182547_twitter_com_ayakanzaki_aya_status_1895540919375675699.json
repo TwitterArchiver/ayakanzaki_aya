@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893941232998498597",
+    "created_at": "2025-02-28T18:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T19:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895540919375675699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "962209866067582976",
+          "start": 0,
+          "username": "JIH_SU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895540919375675699",
+    "in_reply_to_user_id": "962209866067582976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894295283795656741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIH_SU 謝謝你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-28T18:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T19:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895540919375675699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "962209866067582976",
+              "start": 0,
+              "username": "JIH_SU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895540919375675699",
+        "in_reply_to_user_id": "962209866067582976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894295283795656741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIH_SU 謝謝你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "962209866067582976",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-25T07:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T08:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894295283795656741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894295283795656741",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893941232998498597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya Aya生日快樂！🎂🎁🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6357,
+          "following_count": 977,
+          "like_count": 29317,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18825
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-10T06:21:23.000Z",
+        "description": "大家好~我是句子，一隻來自異界的龍族，喜歡唱歌。平常在Twitch直播，主要實況時間為每周一、四晚上。直播主要玩動作遊戲，例：魔物獵人、魂系遊戲，也會玩一些多人同樂遊戲，有時候會開歌回。有錄cover曲會上傳到Youtube。歡迎大家跟句子聊天，也請各位多多指教哦~ 正式初配信準備中（？），敬請期待！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/JIHSU",
+                "end": 23,
+                "expanded_url": "https://lit.link/JIHSU",
+                "start": 0,
+                "url": "https://t.co/6vJh6BmkFN"
+              }
+            ]
+          }
+        },
+        "id": "962209866067582976",
+        "name": "句子 -- 愛唱歌的龍",
+        "pinned_tweet_id": "1806006846723162276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805709618989121536/WgnJWPwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 474,
+          "like_count": 11180,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 5311
+        },
+        "url": "https://t.co/6vJh6BmkFN",
+        "username": "JIH_SU",
+        "verified": false
+      }
+    ]
+  }
+}

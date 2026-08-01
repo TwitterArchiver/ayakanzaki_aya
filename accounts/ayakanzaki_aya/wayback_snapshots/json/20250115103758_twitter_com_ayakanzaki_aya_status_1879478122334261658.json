@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1879067824452428229",
+    "created_at": "2025-01-15T10:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T11:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879478122334261658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1757239981180157952",
+          "start": 0,
+          "username": "eatTBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879478122334261658",
+    "in_reply_to_user_id": "1757239981180157952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879096958847172654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eatTBP 第一印象：360度肘擊w\n我腦海中你的暱稱：我不會唸那個日文啦ww\n親密度等級【1-10】：8\n讓我想起你的顏色：白色！\n給你一個表情符號：💪🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1879067824452428229",
+        "created_at": "2025-01-15T10:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T11:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879478122334261658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1757239981180157952",
+              "start": 0,
+              "username": "eatTBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879478122334261658",
+        "in_reply_to_user_id": "1757239981180157952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879096958847172654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eatTBP 第一印象：360度肘擊w\n我腦海中你的暱稱：我不會唸那個日文啦ww\n親密度等級【1-10】：8\n讓我想起你的顏色：白色！\n給你一個表情符號：💪🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757239981180157952",
+        "conversation_id": "1879067824452428229",
+        "created_at": "2025-01-14T09:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T10:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879096958847172654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879096958847172654",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879067824452428229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 🪻\n印象肯定是肘擊（≧∇≦）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4272,
+          "following_count": 987,
+          "like_count": 27931,
+          "listed_count": 10,
+          "media_count": 120,
+          "tweet_count": 17514
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T03:07:31.000Z",
+        "description": "我是個懶人、舌頭沒壞的美食家、隨便寫寫的小說家、業餘攝影師、無情的劇本機器、專業幹話王、手遊歐皇、COCのKP ~DC：tbpkrt",
+        "id": "1757239981180157952",
+        "name": "スプーンの上に十豆加",
+        "pinned_tweet_id": "1759501774757765225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757240699504992256/mkqF00Hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 150,
+          "like_count": 7390,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1324
+        },
+        "username": "eatTBP",
+        "verified": false
+      }
+    ]
+  }
+}

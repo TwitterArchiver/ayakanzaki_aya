@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1925429283666714993",
+    "created_at": "2025-05-28T02:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T03:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927547379676225882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1250460665061367808",
+          "start": 0,
+          "username": "XianliuArt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927547379676225882",
+    "in_reply_to_user_id": "1250460665061367808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925430018823561414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianliuArt 還好啦（？\n一方這個名字也挺帥的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1925429283666714993",
+        "created_at": "2025-05-28T02:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T03:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927547379676225882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1250460665061367808",
+              "start": 0,
+              "username": "XianliuArt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927547379676225882",
+        "in_reply_to_user_id": "1250460665061367808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925430018823561414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianliuArt 還好啦（？\n一方這個名字也挺帥的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250460665061367808",
+        "conversation_id": "1925429283666714993",
+        "created_at": "2025-05-22T05:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T06:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925430018823561414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925430018823561414",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925429283666714993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 可是不能翻成中文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6623,
+          "following_count": 995,
+          "like_count": 30620,
+          "listed_count": 18,
+          "media_count": 53,
+          "tweet_count": 19842
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T16:27:28.000Z",
+        "description": "◆以全職插畫家努力的菜雞，目前Vtuber插畫為主軸，但一般向題材與創作手法都能畫，妥妥的畫風變形蟲。\n◆イラスト向けの垢です。日本語ツイートあまりしませんが、日常くらい会話ができる。フォローとコメントよろしく。\n◆ホロ5th＆EN／前プロプロ箱推し\n\n【Game & Live 向】仙竜竜 ＠XianliuGamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 146,
+                "username": "XianliuGamer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/xianliucreator",
+                "end": 23,
+                "expanded_url": "https://lit.link/xianliucreator",
+                "start": 0,
+                "url": "https://t.co/IWOLwD1afq"
+              }
+            ]
+          }
+        },
+        "id": "1250460665061367808",
+        "location": "Taichung,Taiwan",
+        "name": "仙竜🐉XianLiu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809508495953408001/YBFyPEVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1072,
+          "like_count": 8420,
+          "listed_count": 2,
+          "media_count": 587,
+          "tweet_count": 13858
+        },
+        "url": "https://t.co/IWOLwD1afq",
+        "username": "XianliuArt",
+        "verified": false
+      }
+    ]
+  }
+}

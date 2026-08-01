@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007757632526815232"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "2007757651669926173",
+    "created_at": "2026-01-04T10:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T11:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007757651669926173"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3QHKeXuL5s",
+          "end": 26,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/2007757651669926173/photo/1",
+          "media_key": "3_2007757632526815232",
+          "start": 3,
+          "url": "https://t.co/3QHKeXuL5s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007757651669926173",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "少女 https://t.co/3QHKeXuL5s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2007757632526815232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9z87eHXEAAKpcO.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007757632526815232"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "2007757651669926173",
+        "created_at": "2026-01-04T10:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T11:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007757651669926173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QHKeXuL5s",
+              "end": 26,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/2007757651669926173/photo/1",
+              "media_key": "3_2007757632526815232",
+              "start": 3,
+              "url": "https://t.co/3QHKeXuL5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007757651669926173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少女 https://t.co/3QHKeXuL5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8475,
+          "following_count": 979,
+          "like_count": 32139,
+          "listed_count": 20,
+          "media_count": 92,
+          "tweet_count": 20904
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

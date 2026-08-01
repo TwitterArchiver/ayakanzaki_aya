@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1977288100238761984"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1977288197186240581",
+    "created_at": "2025-10-12T08:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T09:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977288197186240581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YHh7ZNTyIE",
+          "end": 44,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/1977288197186240581/video/1",
+          "media_key": "13_1977288100238761984",
+          "start": 21,
+          "url": "https://t.co/YHh7ZNTyIE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977288197186240581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人類desu 也沒有AI o(￣▽￣)ｄ https://t.co/YHh7ZNTyIE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60000,
+        "height": 1280,
+        "media_key": "13_1977288100238761984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1977288100238761984/img/Z_eGvWpEAx1ilqxj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977288100238761984/vid/avc1/320x320/fqzX3konMApyonCb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977288100238761984/vid/avc1/540x540/TOzTdca047-4jWwX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977288100238761984/vid/avc1/720x720/m0VTUIJGmH12rMNM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1977288100238761984/pl/quzZsZF7LRGyDzkr.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1977288100238761984"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1977288197186240581",
+        "created_at": "2025-10-12T08:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T09:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977288197186240581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHh7ZNTyIE",
+              "end": 44,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/1977288197186240581/video/1",
+              "media_key": "13_1977288100238761984",
+              "start": 21,
+              "url": "https://t.co/YHh7ZNTyIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977288197186240581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人類desu 也沒有AI o(￣▽￣)ｄ https://t.co/YHh7ZNTyIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8362,
+          "following_count": 969,
+          "like_count": 31826,
+          "listed_count": 19,
+          "media_count": 82,
+          "tweet_count": 20558
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

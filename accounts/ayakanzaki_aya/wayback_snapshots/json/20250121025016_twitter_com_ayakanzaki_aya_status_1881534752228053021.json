@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1879067824452428229",
+    "created_at": "2025-01-21T02:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T03:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881534752228053021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2570173735",
+          "start": 0,
+          "username": "LaiWink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881534752228053021",
+    "in_reply_to_user_id": "2570173735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880356767181484513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaiWink 第一印象： 喜歡搞與衆不同的人\n我腦海中你的暱稱：想不到www\n親密度等級【1-10】：8\n 讓我想起你的顏色： 沒有\n給你一個表情符號：🥀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1879067824452428229",
+        "created_at": "2025-01-21T02:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T03:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881534752228053021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2570173735",
+              "start": 0,
+              "username": "LaiWink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881534752228053021",
+        "in_reply_to_user_id": "2570173735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880356767181484513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaiWink 第一印象： 喜歡搞與衆不同的人\n我腦海中你的暱稱：想不到www\n親密度等級【1-10】：8\n 讓我想起你的顏色： 沒有\n給你一個表情符號：🥀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2570173735",
+        "conversation_id": "1879067824452428229",
+        "created_at": "2025-01-17T20:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T21:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880356767181484513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880356767181484513",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880268727624843519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 🪻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4277,
+          "following_count": 990,
+          "like_count": 28064,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17651
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-16T03:42:54.000Z",
+        "description": "A man come from Taiwan\n\n過著灰頭土臉的人生",
+        "id": "2570173735",
+        "name": "Wink Lai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803870258559856640/4U9fxoAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 94,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1199
+        },
+        "username": "LaiWink",
+        "verified": false
+      }
+    ]
+  }
+}

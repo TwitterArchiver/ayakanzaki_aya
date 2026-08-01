@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823679729670742018"
+      ],
+      "media_source_tweet_id": [
+        "1823679786121920798"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1823810631449137272",
+    "created_at": "2024-08-14T19:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T20:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823810631449137272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1197173528",
+          "start": 3,
+          "username": "rurudo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgqmqizvcy",
+          "end": 43,
+          "expanded_url": "https://twitter.com/rurudo_/status/1823679786121920798/photo/1",
+          "media_key": "3_1823679729670742018",
+          "start": 20,
+          "url": "https://t.co/hGQmqIZVcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823810631449137272",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2534
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823679786121920798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurudo_: AMERI🖤 https://t.co/hGQmqIZVcy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1823679729670742018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU8DDUca4AIMCP1.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823679729670742018"
+          ],
+          "media_source_tweet_id": [
+            "1823679786121920798"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1823810631449137272",
+        "created_at": "2024-08-14T19:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T20:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823810631449137272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1197173528",
+              "start": 3,
+              "username": "rurudo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgqmqizvcy",
+              "end": 43,
+              "expanded_url": "https://twitter.com/rurudo_/status/1823679786121920798/photo/1",
+              "media_key": "3_1823679729670742018",
+              "start": 20,
+              "url": "https://t.co/hGQmqIZVcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823810631449137272",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2534
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823679786121920798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurudo_: AMERI🖤 https://t.co/hGQmqIZVcy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823679729670742018"
+          ]
+        },
+        "author_id": "1197173528",
+        "conversation_id": "1823679786121920798",
+        "created_at": "2024-08-14T11:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T12:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823679786121920798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgqmqizvcy",
+              "end": 30,
+              "expanded_url": "https://twitter.com/rurudo_/status/1823679786121920798/photo/1",
+              "media_key": "3_1823679729670742018",
+              "start": 7,
+              "url": "https://t.co/hGQmqIZVcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823679786121920798",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2514,
+          "impression_count": 459380,
+          "like_count": 21313,
+          "quote_count": 27,
+          "reply_count": 58,
+          "retweet_count": 2534
+        },
+        "reply_settings": "everyone",
+        "text": "AMERI🖤 https://t.co/hGQmqIZVcy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3907,
+          "following_count": 998,
+          "like_count": 25538,
+          "listed_count": 10,
+          "tweet_count": 15015
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-19T13:30:56.000Z",
+        "description": "Illustration✍\n┊https://t.co/p9aXC7cEcm\n┊https://t.co/0FBOpyzwj3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25760573",
+                "end": 38,
+                "expanded_url": "https://www.pixiv.net/users/25760573",
+                "start": 15,
+                "url": "https://t.co/p9aXC7cEcm"
+              },
+              {
+                "display_url": "amzn.asia/d/5jD9ESH",
+                "end": 63,
+                "expanded_url": "https://amzn.asia/d/5jD9ESH",
+                "start": 40,
+                "url": "https://t.co/0FBOpyzwj3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rurudot.net",
+                "end": 23,
+                "expanded_url": "https://rurudot.net/",
+                "start": 0,
+                "url": "https://t.co/BKJ1BLQj3N"
+              }
+            ]
+          }
+        },
+        "id": "1197173528",
+        "name": "rurudo",
+        "pinned_tweet_id": "1820787928257511724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795421063620501504/PGSqKcsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839521,
+          "following_count": 614,
+          "like_count": 5851,
+          "listed_count": 7279,
+          "tweet_count": 4001
+        },
+        "url": "https://t.co/BKJ1BLQj3N",
+        "username": "rurudo_",
+        "verified": true
+      }
+    ]
+  }
+}

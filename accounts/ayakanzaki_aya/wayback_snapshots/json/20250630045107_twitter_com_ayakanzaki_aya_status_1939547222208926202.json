@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1938253957782212666",
+    "created_at": "2025-06-30T04:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T05:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939547222208926202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735017994080899074",
+          "start": 0,
+          "username": "shiro_laby0424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939547222208926202",
+    "in_reply_to_user_id": "1735017994080899074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938305077024104578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiro_laby0424 幹因為這個我把奶茶噴出來了\n賠我奶茶（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_1938305062071328768",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GuY-LzMaYAArxey.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GuY-LzMaYAArxey.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1938253957782212666",
+        "created_at": "2025-06-30T04:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939547222208926202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735017994080899074",
+              "start": 0,
+              "username": "shiro_laby0424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939547222208926202",
+        "in_reply_to_user_id": "1735017994080899074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938305077024104578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiro_laby0424 幹因為這個我把奶茶噴出來了\n賠我奶茶（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1938305062071328768"
+          ]
+        },
+        "author_id": "1735017994080899074",
+        "conversation_id": "1938253957782212666",
+        "created_at": "2025-06-26T18:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T19:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938305077024104578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJub0CqbmV",
+              "end": 39,
+              "expanded_url": "https://x.com/shiro_laby0424/status/1938305077024104578/photo/1",
+              "media_key": "16_1938305062071328768",
+              "start": 16,
+              "url": "https://t.co/QJub0CqbmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938305077024104578",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1704,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938253957782212666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/QJub0CqbmV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7704,
+          "following_count": 996,
+          "like_count": 30981,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19997
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:25:42.000Z",
+        "description": "來自台灣的撿角小孩會不定期的開小破台。sub: ()\n避難用: @shirolaby_inai\n\n歡迎來玩，但跟我混你不會變聰明\n不定期配信する台湾の大学生です\n今日本語勉強中、一緒に遊びたいの人大歓迎!!（悪い人だよもしあなたが私に傷つけられたのなら、私に知らせてほしい，本心ではないからだ。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "shirolaby_inai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/shiro_laby",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/shiro_laby",
+                "start": 0,
+                "url": "https://t.co/UbhcbPz33Y"
+              }
+            ]
+          }
+        },
+        "id": "1735017994080899074",
+        "location": "マイクラスキン作りたい人DMで相談做麥快skinDM我",
+        "name": "稱呼隨你叫(shiro_laby)",
+        "pinned_tweet_id": "1907945829979283744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735022501569384451/w7WggCJs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 5011,
+          "like_count": 72371,
+          "listed_count": 11,
+          "media_count": 815,
+          "tweet_count": 35754
+        },
+        "url": "https://t.co/UbhcbPz33Y",
+        "username": "shiro_laby0424",
+        "verified": false
+      }
+    ]
+  }
+}

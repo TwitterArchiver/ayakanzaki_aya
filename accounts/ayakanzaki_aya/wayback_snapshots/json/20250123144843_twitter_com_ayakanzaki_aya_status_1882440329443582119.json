@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1882086772617945117",
+    "created_at": "2025-01-23T14:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T15:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882440329443582119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3024624115",
+          "start": 0,
+          "username": "Jie487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882440329443582119",
+    "in_reply_to_user_id": "3024624115",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882242549286682685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jie487 我也是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T14:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T15:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882440329443582119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3024624115",
+              "start": 0,
+              "username": "Jie487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882440329443582119",
+        "in_reply_to_user_id": "3024624115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882242549286682685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jie487 我也是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3024624115",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T01:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T02:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882242549286682685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882242549286682685",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882086772617945117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我越來越贊同達爾文的物競天擇了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4316,
+          "following_count": 992,
+          "like_count": 28202,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17762
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-18T01:45:01.000Z",
+        "description": "CN⭕/JP🔺/EN🔺\n現在才開始認真會不會太晚了...",
+        "id": "3024624115",
+        "location": "Tainan City, Taiwan",
+        "name": "桀羅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751917781132759040/m8a_Uqul_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 1002,
+          "like_count": 5531,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 1324
+        },
+        "username": "Jie487",
+        "verified": false
+      }
+    ]
+  }
+}

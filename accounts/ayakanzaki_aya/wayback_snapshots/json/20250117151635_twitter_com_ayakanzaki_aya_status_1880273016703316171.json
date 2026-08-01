@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1879436302892060954",
+    "created_at": "2025-01-17T15:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T16:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880273016703316171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "978658195",
+          "start": 0,
+          "username": "akitaerica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880273016703316171",
+    "in_reply_to_user_id": "978658195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879623403000512842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akitaerica 目前已經沒有配音的需要了，但還是謝謝你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1879436302892060954",
+        "created_at": "2025-01-17T15:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T16:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880273016703316171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "978658195",
+              "start": 0,
+              "username": "akitaerica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880273016703316171",
+        "in_reply_to_user_id": "978658195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879623403000512842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akitaerica 目前已經沒有配音的需要了，但還是謝謝你！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "978658195",
+        "conversation_id": "1879436302892060954",
+        "created_at": "2025-01-15T20:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T21:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879623403000512842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#vtuber #歌ってみた #cover #michaeljackson #michael #healtheworld #christmas #christmas2024 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★【台規・Rules・ルール】友善對待他人 Be nice to oth...",
+              "display_url": "youtu.be/TJMDefsUECI?si…",
+              "end": 77,
+              "expanded_url": "https://youtu.be/TJMDefsUECI?si=Sw2Is4vhW0gSUiya",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1879623403789045760/Le1HE7h0?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1879623403789045760/Le1HE7h0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "Michael Jackson - Heal The World cover｜Christmas Special",
+              "unwound_url": "https://www.youtube.com/watch?si=Sw2Is4vhW0gSUiya&v=TJMDefsUECI&feature=youtu.be",
+              "url": "https://t.co/136yyRr0Nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879623403000512842",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879436302892060954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 感覺很有趣！\n歡迎你聽聽看我的口音O不OK\n本身聲線較低 講話可以用少年音\nhttps://t.co/136yyRr0Nj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4273,
+          "following_count": 988,
+          "like_count": 28013,
+          "listed_count": 10,
+          "media_count": 120,
+          "tweet_count": 17598
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-29T16:10:35.000Z",
+        "description": "⚠️內有怪咖，不喜勿入⚠️核平神教教主，來自澳門，目前住在台灣。直播加影片勢，幾乎都是突發開台。主要內容有遊戲實況、唱歌跳舞、音樂電台、閒聊雜談、旅遊紀錄、惡搞廢片、創意企劃等等。想多多認識澳門歡迎來看我的「澳門Vlog系列」喔！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/akitaerica",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/akitaerica",
+                "start": 0,
+                "url": "https://t.co/Tm0MKd76ka"
+              }
+            ]
+          }
+        },
+        "id": "978658195",
+        "location": "近未來的賽博龐克台北市",
+        "name": "秋田 エリカ Akita Erica🇲🇴🇹🇼🇲🇾最佳本土特色獎㊙️澳門Vtuber☢️",
+        "pinned_tweet_id": "1632828793776910336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741352811810750464/OJoQRQeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 1081,
+          "like_count": 17878,
+          "listed_count": 9,
+          "media_count": 1764,
+          "tweet_count": 8088
+        },
+        "url": "https://t.co/Tm0MKd76ka",
+        "username": "akitaerica",
+        "verified": false
+      }
+    ]
+  }
+}

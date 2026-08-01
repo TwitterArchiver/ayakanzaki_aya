@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418276436410920960",
+          "name": "Pixiv Fanbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418276436410920960",
+          "name": "Pixiv Fanbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2049383145338794439",
+    "created_at": "2026-04-29T06:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049383145338794439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "一個可可愛愛人畜無害的畫圖仔꜀(^. ̫ .^꜀ )꜆੭ 贊助要量力而行，不管怎樣你都會是支持Aya畫下去的一份子！",
+          "display_url": "ayakanzaki.fanbox.cc",
+          "end": 111,
+          "expanded_url": "https://ayakanzaki.fanbox.cc/",
+          "start": 88,
+          "status": 200,
+          "title": "Aya｜pixivFANBOX",
+          "unwound_url": "https://ayakanzaki.fanbox.cc/",
+          "url": "https://t.co/KPSr0ThrEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049383145338794439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很突然我知道\n但我最近開始經營fanbox了，裏面主要是繪圖日記還有近況報告，每個月只需要550日元，有興趣的請務必點進去看看，會努力多更新的。。。！\n高中生成果發表會（沒\n\nhttps://t.co/KPSr0ThrEA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418276436410920960",
+              "name": "Pixiv Fanbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418276436410920960",
+              "name": "Pixiv Fanbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2049383145338794439",
+        "created_at": "2026-04-29T06:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049383145338794439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一個可可愛愛人畜無害的畫圖仔꜀(^. ̫ .^꜀ )꜆੭ 贊助要量力而行，不管怎樣你都會是支持Aya畫下去的一份子！",
+              "display_url": "ayakanzaki.fanbox.cc",
+              "end": 111,
+              "expanded_url": "https://ayakanzaki.fanbox.cc/",
+              "start": 88,
+              "status": 200,
+              "title": "Aya｜pixivFANBOX",
+              "unwound_url": "https://ayakanzaki.fanbox.cc/",
+              "url": "https://t.co/KPSr0ThrEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049383145338794439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很突然我知道\n但我最近開始經營fanbox了，裏面主要是繪圖日記還有近況報告，每個月只需要550日元，有興趣的請務必點進去看看，會努力多更新的。。。！\n高中生成果發表會（沒\n\nhttps://t.co/KPSr0ThrEA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中\n◆Pixiv：https://t.co/Aqt4Xw88YH\n◆FANBOX：https://t.co/yhbghbkFby",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 64,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 41,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 96,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 73,
+                "url": "https://t.co/yhbghbkFby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9256,
+          "following_count": 969,
+          "like_count": 32797,
+          "listed_count": 22,
+          "media_count": 91,
+          "tweet_count": 21334
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

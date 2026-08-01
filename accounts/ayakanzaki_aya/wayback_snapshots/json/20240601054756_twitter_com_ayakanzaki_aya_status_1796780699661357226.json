@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1796780699661357226",
+    "created_at": "2024-06-01T05:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T06:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796780699661357226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youling0624/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/youling0624/status/1796777617640861793",
+          "start": 9,
+          "url": "https://t.co/xarCUC4hbj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796780699661357226",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796777617640861793",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我畫的！！（舉手 https://t.co/xarCUC4hbj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1796780699661357226",
+        "created_at": "2024-06-01T05:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T06:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796780699661357226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youling0624/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/youling0624/status/1796777617640861793",
+              "start": 9,
+              "url": "https://t.co/xarCUC4hbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796780699661357226",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796777617640861793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我畫的！！（舉手 https://t.co/xarCUC4hbj"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796777606244868096"
+          ]
+        },
+        "author_id": "1469181315304292358",
+        "conversation_id": "1796777617640861793",
+        "created_at": "2024-06-01T05:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T06:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796777617640861793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1693437758977753088",
+              "start": 26,
+              "username": "Hatosu_Studio"
+            },
+            {
+              "end": 85,
+              "id": "1499470341734907907",
+              "start": 70,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VqAzKqh8R2",
+              "end": 118,
+              "expanded_url": "https://twitter.com/youling0624/status/1796777617640861793/photo/1",
+              "media_key": "3_1796777606244868096",
+              "start": 95,
+              "url": "https://t.co/VqAzKqh8R2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796777617640861793",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6/1重大公告\n對 沒錯 \n即日起正式加入鳩巢娛樂 @Hatosu_Studio\n成為帕魯之一\n未來有朋朋想找我連動的，一樣都歡迎~\n\n圖：@ayakanzaki_aya /文：神秘小精靈 https://t.co/VqAzKqh8R2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3861,
+          "following_count": 993,
+          "like_count": 24002,
+          "listed_count": 10,
+          "tweet_count": 13513
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-10T05:45:11.000Z",
+        "description": "一個社會肥宅社畜，因工作太累暴斃，投胎途中遭邪惡女巫綁架的靈魂體\n為了早日升天，只好努力工作幫忙配信",
+        "id": "1469181315304292358",
+        "location": "靈地府邸",
+        "name": "幽靈youling♂️_👻套皮實況靈",
+        "pinned_tweet_id": "1741138108660199861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741138515499659265/zHpsB0uW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 35,
+          "like_count": 944,
+          "listed_count": 0,
+          "tweet_count": 467
+        },
+        "username": "youling0624",
+        "verified": false
+      }
+    ]
+  }
+}

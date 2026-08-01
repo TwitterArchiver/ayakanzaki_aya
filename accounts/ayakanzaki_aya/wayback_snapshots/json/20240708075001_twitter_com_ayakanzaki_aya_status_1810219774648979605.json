@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1809757725376594109",
+    "created_at": "2024-07-08T07:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T08:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810219774648979605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1046071915268329472",
+          "start": 0,
+          "username": "cVbXJqUreYirxW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810219774648979605",
+    "in_reply_to_user_id": "1046071915268329472",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810137759744737652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cVbXJqUreYirxW1 yes！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1809757725376594109",
+        "created_at": "2024-07-08T07:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T08:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810219774648979605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1046071915268329472",
+              "start": 0,
+              "username": "cVbXJqUreYirxW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810219774648979605",
+        "in_reply_to_user_id": "1046071915268329472",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810137759744737652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVbXJqUreYirxW1 yes！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1046071915268329472",
+        "conversation_id": "1809757725376594109",
+        "created_at": "2024-07-08T02:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T03:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810137759744737652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810137759744737652",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809757725376594109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya Aya是說這個級別的英文嗎?\nHello,How are you?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 24870,
+          "listed_count": 10,
+          "tweet_count": 14362
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-29T16:19:14.000Z",
+        "description": "HiHi,大家好,我是GL,很高興認識你~\nYT&Discord&Twitch:北極之星\nTwitter:GL\nFacebook:自然工作室",
+        "id": "1046071915268329472",
+        "location": "台灣及香港",
+        "name": "北極之星/GL(目前單身)",
+        "pinned_tweet_id": "1769650956822794255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659358439188094976/uLzfVy9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 3865,
+          "like_count": 115775,
+          "listed_count": 9,
+          "tweet_count": 16111
+        },
+        "username": "cVbXJqUreYirxW1",
+        "verified": false
+      }
+    ]
+  }
+}

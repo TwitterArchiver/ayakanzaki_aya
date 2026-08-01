@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893941232998498597",
+    "created_at": "2025-02-25T01:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T02:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894200635563675984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1433839988530036736",
+          "start": 0,
+          "username": "Mochi_san0408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894200635563675984",
+    "in_reply_to_user_id": "1433839988530036736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893997880899141986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mochi_san0408 謝謝你！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-25T01:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894200635563675984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1433839988530036736",
+              "start": 0,
+              "username": "Mochi_san0408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894200635563675984",
+        "in_reply_to_user_id": "1433839988530036736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893997880899141986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mochi_san0408 謝謝你！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433839988530036736",
+        "conversation_id": "1893941232998498597",
+        "created_at": "2025-02-24T12:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893997880899141986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893997880899141986",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893941232998498597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 生日快樂！！🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 976,
+          "like_count": 29241,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18745
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T17:11:23.000Z",
+        "description": "🎥 多媒體設計科二年級，熱愛創作與分享！\n✨格言：友誼，是我心中最珍貴的財富\n🌟 主要支持 @usadapekora 和 @AoiHinamori。喜歡的朋友們一起來吧！\n⚡藏品分享【#麻糬桑的微型故宮博物院】\n📍 小帳 @MasoonCh_2\n🎉 歡迎新朋友的加入，VTuber大歡迎！讓我們一起促進台日友好！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 92,
+                "tag": "麻糬桑的微型故宮博物院"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "usadapekora"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "AoiHinamori"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "MasoonCh_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MasoonCh",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@MasoonCh",
+                "start": 0,
+                "url": "https://t.co/eNg6YJP4pL"
+              }
+            ]
+          }
+        },
+        "id": "1433839988530036736",
+        "location": "Taiwan",
+        "name": "🇹🇼モチ麻糬桑 •【超想畫出自己的本命角色啊！！】",
+        "pinned_tweet_id": "1892873982355120286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892247675959181313/mOgEGe-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 2402,
+          "like_count": 78007,
+          "listed_count": 1,
+          "media_count": 643,
+          "tweet_count": 34261
+        },
+        "url": "https://t.co/eNg6YJP4pL",
+        "username": "Mochi_san0408",
+        "verified": false
+      }
+    ]
+  }
+}

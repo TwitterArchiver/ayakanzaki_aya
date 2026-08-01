@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2002339586555719768",
+    "created_at": "2025-12-23T23:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T00:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003605986821783849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1649600829559799810",
+          "start": 0,
+          "username": "chitoly288988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003605986821783849",
+    "in_reply_to_user_id": "1649600829559799810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002385876286845409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chitoly288988 謝謝分享"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2002339586555719768",
+        "created_at": "2025-12-23T23:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T00:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003605986821783849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1649600829559799810",
+              "start": 0,
+              "username": "chitoly288988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003605986821783849",
+        "in_reply_to_user_id": "1649600829559799810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002385876286845409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chitoly288988 謝謝分享"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649600829559799810",
+        "conversation_id": "2002339586555719768",
+        "created_at": "2025-12-20T14:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002385876286845409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#異世界 #奇幻 #作業用背景音樂 #虛構語言 #架空語言午夜，一座極盡奢華卻異常安靜的宮廷。主御座廳內，華麗的水晶吊燈只點亮了幾盞，光線昏暗，將雕像的陰影拉得細長扭曲。一切的焦點都集中在那張高高在上的王座。年輕的君主，剛剛繼承王位，正獨自站在王座的下方。她的臉上覆蓋著屬於君王的冷漠與威嚴，但在那雙眼眸深處，卻藏...",
+              "display_url": "youtu.be/HgjoZQ1GyQY?si…",
+              "end": 67,
+              "expanded_url": "https://youtu.be/HgjoZQ1GyQY?si=uedFFSBvhbpia-AX",
+              "start": 44,
+              "status": 200,
+              "title": "【夢幻音樂 | 虛構語言】餘燼圓舞曲《60min》【放鬆/專注/作業BGM】",
+              "unwound_url": "https://www.youtube.com/watch?si=uedFFSBvhbpia-AX&v=HgjoZQ1GyQY&feature=youtu.be",
+              "url": "https://t.co/LtGCLvl57s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002385876286845409",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002339586555719768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好棒的感覺\n看到你的話，就自然想到這首歌，分享給你ww\nhttps://t.co/LtGCLvl57s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1996849263285096740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8469,
+          "following_count": 976,
+          "like_count": 32127,
+          "listed_count": 20,
+          "media_count": 88,
+          "tweet_count": 20872
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T02:28:00.000Z",
+        "description": "🌄注意事項\n我因為某些原因，欠缺某種情感，所以如果對話有某些得罪之處......那就不太好意思了ww\n\n極度樂觀，理性與感性思維分離。導致一件事情在心裡的看法，最後都得用抽籤決定聽哪邊🥴\n\n🌸散播正向與溫暖的語言。希望給這冰冷的世界帶來一抹難得的溫度。⭐",
+        "id": "1649600829559799810",
+        "name": "Chitoly-蜉蝣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687982380181823488/pY3xT4Ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 157,
+          "like_count": 5074,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2384
+        },
+        "username": "chitoly288988",
+        "verified": false
+      }
+    ]
+  }
+}

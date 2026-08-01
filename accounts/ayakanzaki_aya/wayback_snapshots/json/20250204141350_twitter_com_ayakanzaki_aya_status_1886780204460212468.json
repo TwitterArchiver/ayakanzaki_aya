@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1886263232102375678",
+    "created_at": "2025-02-04T14:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T15:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886780204460212468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1779442204622352384",
+          "start": 0,
+          "username": "zhuguntng649587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886780204460212468",
+    "in_reply_to_user_id": "1779442204622352384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886762423111319848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuguntng649587 沒錢委託不是問題\n問題是沒錢硬委😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1886263232102375678",
+        "created_at": "2025-02-04T14:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T15:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886780204460212468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1779442204622352384",
+              "start": 0,
+              "username": "zhuguntng649587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886780204460212468",
+        "in_reply_to_user_id": "1779442204622352384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886762423111319848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuguntng649587 沒錢委託不是問題\n問題是沒錢硬委😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779442204622352384",
+        "conversation_id": "1886263232102375678",
+        "created_at": "2025-02-04T13:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T14:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886762423111319848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886762423111319848",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886263232102375678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 太過分了\n但是我也沒有錢去委託😂搜裏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4477,
+          "following_count": 990,
+          "like_count": 28385,
+          "listed_count": 10,
+          "media_count": 124,
+          "tweet_count": 17942
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T09:31:05.000Z",
+        "description": "",
+        "id": "1779442204622352384",
+        "name": "嘟嘟嘟想成為VT(夢想中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814988908851343360/9MHrMvjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 241,
+          "like_count": 4224,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 1230
+        },
+        "username": "zhuguntng649587",
+        "verified": false
+      }
+    ]
+  }
+}

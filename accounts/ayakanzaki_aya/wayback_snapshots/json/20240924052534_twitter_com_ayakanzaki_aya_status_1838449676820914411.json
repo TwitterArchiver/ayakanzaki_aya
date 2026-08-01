@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-24T05:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T06:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838449676820914411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1250460665061367808",
+          "start": 0,
+          "username": "XianliuArt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838449676820914411",
+    "in_reply_to_user_id": "1250460665061367808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837755782189740091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianliuArt 笑死 生物學突破靠她了（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-24T05:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T06:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838449676820914411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1250460665061367808",
+              "start": 0,
+              "username": "XianliuArt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838449676820914411",
+        "in_reply_to_user_id": "1250460665061367808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837755782189740091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianliuArt 笑死 生物學突破靠她了（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250460665061367808",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T07:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T08:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837755782189740091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837755782189740091",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837716013648957925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya .．。(其實只是想開加上後面那個單字就從一般社會新聞變成生物學突破的玩笑)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆\n✧お仕事の依頼DMください\nよろしくお願いします꜀(^.  ̫  .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4226,
+          "following_count": 980,
+          "like_count": 26414,
+          "listed_count": 9,
+          "tweet_count": 15886
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T16:27:28.000Z",
+        "description": "◆以全職插畫家努力的菜雞，目前Vtuber插畫為主軸，但一般向題材與創作手法都能畫，妥妥的畫風變形蟲。\n◆イラスト向けの垢です。日本語ツイートあまりしませんが、日常くらい会話ができる。フォローとコメントよろしく。\n◆ホロ5th＆EN／前プロプロ箱推し\n\n【Game & Live 向】仙竜竜 ＠XianliuGamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 146,
+                "username": "XianliuGamer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/xianliucreator",
+                "end": 23,
+                "expanded_url": "https://lit.link/xianliucreator",
+                "start": 0,
+                "url": "https://t.co/IWOLwD1afq"
+              }
+            ]
+          }
+        },
+        "id": "1250460665061367808",
+        "location": "Taichung,Taiwan",
+        "name": "仙竜🐉XianLiu",
+        "pinned_tweet_id": "1831144006845415522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809508495953408001/YBFyPEVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1035,
+          "like_count": 8292,
+          "listed_count": 2,
+          "tweet_count": 13257
+        },
+        "url": "https://t.co/IWOLwD1afq",
+        "username": "XianliuArt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1818813428628349357",
+    "created_at": "2024-08-02T07:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T08:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819267642349253045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1170367281492180992",
+          "start": 0,
+          "username": "SaKuRaZaKiReKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819267642349253045",
+    "in_reply_to_user_id": "1170367281492180992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818813903641755652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaKuRaZaKiReKi 我那時候超害怕的耶www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1818813428628349357",
+        "created_at": "2024-08-02T07:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T08:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819267642349253045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1170367281492180992",
+              "start": 0,
+              "username": "SaKuRaZaKiReKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819267642349253045",
+        "in_reply_to_user_id": "1170367281492180992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818813903641755652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaKuRaZaKiReKi 我那時候超害怕的耶www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170367281492180992",
+        "conversation_id": "1818813428628349357",
+        "created_at": "2024-08-01T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818813903641755652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818813903641755652",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4032,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818813428628349357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3895,
+          "following_count": 997,
+          "like_count": 25341,
+          "listed_count": 10,
+          "tweet_count": 14828
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-07T16:05:00.000Z",
+        "description": "呃...台灣人 是個DD \n最近興趣是做美甲",
+        "id": "1170367281492180992",
+        "name": "櫻咲剎那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804429303544950784/RfFa4MAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1306,
+          "like_count": 29802,
+          "listed_count": 20,
+          "tweet_count": 4293
+        },
+        "username": "SaKuRaZaKiReKi",
+        "verified": true
+      }
+    ]
+  }
+}

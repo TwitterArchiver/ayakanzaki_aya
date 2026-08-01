@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1822142258000396435",
+    "created_at": "2024-08-12T09:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822929265064563106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1315164434373865472",
+          "start": 0,
+          "username": "ivy_bdsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822929265064563106",
+    "in_reply_to_user_id": "1315164434373865472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822300553843798365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivy_bdsm 喔喔！了解！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-12T09:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822929265064563106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1315164434373865472",
+              "start": 0,
+              "username": "ivy_bdsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822929265064563106",
+        "in_reply_to_user_id": "1315164434373865472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822300553843798365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivy_bdsm 喔喔！了解！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315164434373865472",
+        "conversation_id": "1822142258000396435",
+        "created_at": "2024-08-10T15:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T16:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822300553843798365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822300553843798365",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 859,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822142258000396435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 過陣子再點進去\n就會發現綠色勾勾下面兩個鎖頭陸續開始變成加載中的旋轉圈圈\n跑完後就會有內容了喔！\n\n我不放棄的事了好幾次就成功了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3905,
+          "following_count": 998,
+          "like_count": 25503,
+          "listed_count": 10,
+          "tweet_count": 14976
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-11T05:37:14.000Z",
+        "description": "這裡是私帳私帳私帳｜真實派內容｜難搞的sub｜Ds愛好｜單身無主｜我兒四歲是媽寶｜項目只是手段腦袋性感超讚｜享受性愛 不代表跟誰都能上｜肉帳部分➡️@ivy_sub_girl｜玩具許願單：https://t.co/7OFviRuOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "ivy_sub_girl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/W3GYYL",
+                "end": 117,
+                "expanded_url": "https://reurl.cc/W3GYYL",
+                "start": 94,
+                "url": "https://t.co/7OFviRuOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansone.co/Ivy_bdsm",
+                "end": 23,
+                "expanded_url": "https://fansone.co/Ivy_bdsm",
+                "start": 0,
+                "url": "https://t.co/2UQ9kKZMpC"
+              }
+            ]
+          }
+        },
+        "id": "1315164434373865472",
+        "name": "Ivy__不想當社畜",
+        "pinned_tweet_id": "1727224389673034222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1401083339071574019/k0Q2MhvU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12294,
+          "following_count": 40,
+          "like_count": 3894,
+          "listed_count": 13,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/2UQ9kKZMpC",
+        "username": "ivy_bdsm",
+        "verified": false
+      }
+    ]
+  }
+}

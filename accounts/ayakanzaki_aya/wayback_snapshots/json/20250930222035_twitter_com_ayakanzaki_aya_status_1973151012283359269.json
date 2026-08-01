@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1973151012283359269",
+    "created_at": "2025-09-30T22:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T23:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973151012283359269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maaya_taso/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/maaya_taso/status/1972858951969767453",
+          "start": 7,
+          "url": "https://t.co/iTA9FD1cYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973151012283359269",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972858951969767453",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ああああああ https://t.co/iTA9FD1cYE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972858945716027392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2EAwitbAAA_NmN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1973151012283359269",
+        "created_at": "2025-09-30T22:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T23:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973151012283359269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maaya_taso/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/maaya_taso/status/1972858951969767453",
+              "start": 7,
+              "url": "https://t.co/iTA9FD1cYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973151012283359269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972858951969767453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ああああああ https://t.co/iTA9FD1cYE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972858945716027392"
+          ]
+        },
+        "author_id": "795162847772717056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress and voice actress",
+              "id": "1070719627108376576",
+              "name": "Maaya Uchida"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress and voice actress",
+              "id": "1070719627108376576",
+              "name": "Maaya Uchida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress and voice actress",
+              "id": "1070719627108376576",
+              "name": "Maaya Uchida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "1972858951969767453",
+        "created_at": "2025-09-30T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972858951969767453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HIVJRd2HHD",
+              "end": 33,
+              "expanded_url": "https://x.com/maaya_taso/status/1972858951969767453/photo/1",
+              "media_key": "3_1972858945716027392",
+              "start": 10,
+              "url": "https://t.co/HIVJRd2HHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972858951969767453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18143,
+          "impression_count": 43345528,
+          "like_count": 640308,
+          "quote_count": 30746,
+          "reply_count": 5516,
+          "retweet_count": 160664
+        },
+        "reply_settings": "everyone",
+        "text": "皆様にご報告です。 https://t.co/HIVJRd2HHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326,
+          "following_count": 962,
+          "like_count": 31770,
+          "listed_count": 19,
+          "media_count": 78,
+          "tweet_count": 20505
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-06T07:16:11.000Z",
+        "description": "内田真礼officialTwitterです！🤍🍒声優、アーティスト 野球好き。コスメ好き。わくわくすること大好き！ファンクラブはこちら💁‍♀️《LIFE IS LIKE A SUNNY DAY》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uchidamaaya.jp",
+                "end": 23,
+                "expanded_url": "http://uchidamaaya.jp",
+                "start": 0,
+                "url": "https://t.co/xzh5ueW8ox"
+              }
+            ]
+          }
+        },
+        "id": "795162847772717056",
+        "name": "内田真礼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/795172413898035201/e5SdVOXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017257,
+          "following_count": 332,
+          "like_count": 156,
+          "listed_count": 2,
+          "media_count": 1465,
+          "tweet_count": 10294
+        },
+        "url": "https://t.co/xzh5ueW8ox",
+        "username": "maaya_taso",
+        "verified": true
+      }
+    ]
+  }
+}

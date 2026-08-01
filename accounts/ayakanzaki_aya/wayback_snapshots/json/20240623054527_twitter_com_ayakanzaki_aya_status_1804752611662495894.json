@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1803931208528568376",
+    "created_at": "2024-06-23T05:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T06:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804752611662495894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1421800101517824009",
+          "start": 0,
+          "username": "notimeandshape"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804752611662495894",
+    "in_reply_to_user_id": "1421800101517824009",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804324457231860107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notimeandshape 這是炒的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1803931208528568376",
+        "created_at": "2024-06-23T05:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T06:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804752611662495894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1421800101517824009",
+              "start": 0,
+              "username": "notimeandshape"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804752611662495894",
+        "in_reply_to_user_id": "1421800101517824009",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804324457231860107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notimeandshape 這是炒的"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804324454237114371"
+          ]
+        },
+        "author_id": "1421800101517824009",
+        "conversation_id": "1803931208528568376",
+        "created_at": "2024-06-22T01:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T02:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804324457231860107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JMntoJNqYE",
+              "end": 52,
+              "expanded_url": "https://twitter.com/notimeandshape/status/1804324457231860107/photo/1",
+              "media_key": "3_1804324454237114371",
+              "start": 29,
+              "url": "https://t.co/JMntoJNqYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804324457231860107",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803931208528568376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我要先放棄90趴地快樂🤣 https://t.co/JMntoJNqYE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3892,
+          "following_count": 993,
+          "like_count": 24568,
+          "listed_count": 10,
+          "tweet_count": 14077
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T11:49:03.000Z",
+        "description": "每天都是累累病 等到徹底瘋狂...",
+        "id": "1421800101517824009",
+        "location": "逆風向上中...",
+        "name": "吾期～圖形",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568888688914087936/ERn8a7kH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 1903,
+          "like_count": 34373,
+          "listed_count": 2,
+          "tweet_count": 1638
+        },
+        "username": "notimeandshape",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1879894742709961141",
+    "created_at": "2025-01-21T02:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T03:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881533847772557470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4903002618",
+          "start": 0,
+          "username": "wen35892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881533847772557470",
+    "in_reply_to_user_id": "4903002618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880254721455452541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wen35892 等一下你真的有養烏鴉哦？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1879894742709961141",
+        "created_at": "2025-01-21T02:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T03:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881533847772557470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4903002618",
+              "start": 0,
+              "username": "wen35892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881533847772557470",
+        "in_reply_to_user_id": "4903002618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880254721455452541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wen35892 等一下你真的有養烏鴉哦？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4903002618",
+        "conversation_id": "1879894742709961141",
+        "created_at": "2025-01-17T14:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880254721455452541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880254721455452541",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879894742709961141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 國家機關社畜\n兩隻鴉寶貝的老爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4277,
+          "following_count": 990,
+          "like_count": 28055,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17641
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-13T18:32:02.000Z",
+        "description": "國家機關社畜，暴言/肝話/推歌/潛水 系\n，語言：中文⭕、台語⭕，\n不專業自行車維修工、平日露營推廣。\nFB(表世界~進入前請三思)：https://t.co/Clbbn8VNxL \n廢片倉庫：https://t.co/lBr00wxPi1\n棉花糖：https://t.co/boGMjDEQaf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/ykMVDy",
+                "end": 90,
+                "expanded_url": "http://reurl.cc/ykMVDy",
+                "start": 67,
+                "url": "https://t.co/Clbbn8VNxL"
+              },
+              {
+                "display_url": "reurl.cc/Q4bQa0",
+                "end": 120,
+                "expanded_url": "http://reurl.cc/Q4bQa0",
+                "start": 97,
+                "url": "https://t.co/lBr00wxPi1"
+              },
+              {
+                "display_url": "reurl.cc/LN8KG9",
+                "end": 148,
+                "expanded_url": "http://reurl.cc/LN8KG9",
+                "start": 125,
+                "url": "https://t.co/boGMjDEQaf"
+              }
+            ]
+          }
+        },
+        "id": "4903002618",
+        "location": "西太平洋某島嶼",
+        "name": "迷途鴉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/698577985700401152/JWpnK4zu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 599,
+          "like_count": 19183,
+          "listed_count": 0,
+          "media_count": 2926,
+          "tweet_count": 9266
+        },
+        "username": "wen35892",
+        "verified": false
+      }
+    ]
+  }
+}

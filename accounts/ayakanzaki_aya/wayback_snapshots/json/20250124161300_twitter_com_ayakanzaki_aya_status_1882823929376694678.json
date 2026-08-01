@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1882086772617945117",
+    "created_at": "2025-01-24T16:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T17:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882823929376694678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1232494783718813696",
+          "start": 0,
+          "username": "YEN98738778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882823929376694678",
+    "in_reply_to_user_id": "1232494783718813696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882342575757283675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YEN98738778 應該不是 上課不給用手機的\n而且具體原因到現在都沒有人知道\n世紀之謎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-24T16:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T17:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882823929376694678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1232494783718813696",
+              "start": 0,
+              "username": "YEN98738778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882823929376694678",
+        "in_reply_to_user_id": "1232494783718813696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882342575757283675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YEN98738778 應該不是 上課不給用手機的\n而且具體原因到現在都沒有人知道\n世紀之謎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1232494783718813696",
+        "conversation_id": "1882086772617945117",
+        "created_at": "2025-01-23T08:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T09:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882342575757283675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882342575757283675",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882086772617945117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya ....又是什麼奇怪的抖音挑戰嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4343,
+          "following_count": 992,
+          "like_count": 28252,
+          "listed_count": 10,
+          "media_count": 121,
+          "tweet_count": 17812
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-26T02:37:24.000Z",
+        "description": "",
+        "id": "1232494783718813696",
+        "location": "台灣",
+        "name": "🇺🇸🇹🇼YEN🇺🇦🇮🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760127107022372864/KFtAvIsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 1579,
+          "like_count": 51130,
+          "listed_count": 17,
+          "media_count": 163,
+          "tweet_count": 7933
+        },
+        "username": "YEN98738778",
+        "verified": false
+      }
+    ]
+  }
+}

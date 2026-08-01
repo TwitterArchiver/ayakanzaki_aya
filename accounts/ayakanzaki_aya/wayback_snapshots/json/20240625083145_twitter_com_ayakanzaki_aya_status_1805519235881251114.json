@@ -1,0 +1,268 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1804748608308187422",
+    "created_at": "2024-06-25T08:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T09:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805519235881251114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1729696501335572480",
+          "start": 0,
+          "username": "Koria_first"
+        },
+        {
+          "end": 29,
+          "id": "1321381410565881857",
+          "start": 13,
+          "username": "Peterla44761046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805519235881251114",
+    "in_reply_to_user_id": "1729696501335572480",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804909183617421461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koria_first @Peterla44761046 他多給我十塊我會直接跪下來（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1804748608308187422",
+        "created_at": "2024-06-25T08:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T09:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805519235881251114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1729696501335572480",
+              "start": 0,
+              "username": "Koria_first"
+            },
+            {
+              "end": 29,
+              "id": "1321381410565881857",
+              "start": 13,
+              "username": "Peterla44761046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805519235881251114",
+        "in_reply_to_user_id": "1729696501335572480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804909183617421461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koria_first @Peterla44761046 他多給我十塊我會直接跪下來（x"
+      },
+      {
+        "attachments": {},
+        "author_id": "1729696501335572480",
+        "conversation_id": "1804748608308187422",
+        "created_at": "2024-06-23T16:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T17:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804909183617421461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1321381410565881857",
+              "start": 0,
+              "username": "Peterla44761046"
+            },
+            {
+              "end": 32,
+              "id": "1499470341734907907",
+              "start": 17,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804909183617421461",
+        "in_reply_to_user_id": "1321381410565881857",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804759565743149514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peterla44761046 @ayakanzaki_aya 才兩片，看不起誰呢（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3892,
+          "following_count": 993,
+          "like_count": 24630,
+          "listed_count": 10,
+          "tweet_count": 14137
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T02:59:32.000Z",
+        "description": "a normal student from China",
+        "id": "1729696501335572480",
+        "location": "Pluto",
+        "name": "a normal Koria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787494154219749376/a8vTbyz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 148,
+          "listed_count": 0,
+          "tweet_count": 57
+        },
+        "username": "Koria_first",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-28T09:21:32.000Z",
+        "description": "這是一包閒著無聊就會滑推特的糖\n我的資訊:https://t.co/nSITX1p69Y\n每日(不一定)更新: #糖份日記\n負面帳 @tantan44761046\n防廣告用:天安門事件",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "糖份日記"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tantan44761046"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/e6ec9c8a-0292-…",
+                "end": 44,
+                "expanded_url": "https://lit.link/e6ec9c8a-0292-4fb9-b32d-1dd71cfa4857",
+                "start": 21,
+                "url": "https://t.co/nSITX1p69Y"
+              }
+            ]
+          }
+        },
+        "id": "1321381410565881857",
+        "name": "糖分不足和其他5299人",
+        "pinned_tweet_id": "1800685620261785792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800214135025872899/h4SfnGr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 3627,
+          "like_count": 280187,
+          "listed_count": 29,
+          "tweet_count": 57831
+        },
+        "username": "Peterla44761046",
+        "verified": false
+      }
+    ]
+  }
+}

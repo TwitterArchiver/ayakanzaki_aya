@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1831899374957609266",
+    "created_at": "2024-09-09T04:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T05:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832999922125156524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1705243956131598336",
+          "start": 0,
+          "username": "Ezio10969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832999922125156524",
+    "in_reply_to_user_id": "1705243956131598336",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831914964510179699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ezio10969 ヽ(￣д￣;)ノ=3=3=3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1831899374957609266",
+        "created_at": "2024-09-09T04:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T05:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832999922125156524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1705243956131598336",
+              "start": 0,
+              "username": "Ezio10969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832999922125156524",
+        "in_reply_to_user_id": "1705243956131598336",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831914964510179699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ezio10969 ヽ(￣д￣;)ノ=3=3=3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705243956131598336",
+        "conversation_id": "1831899374957609266",
+        "created_at": "2024-09-06T04:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T05:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831914964510179699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831914964510179699",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831899374957609266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 💪💪💪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4101,
+          "following_count": 983,
+          "like_count": 25976,
+          "listed_count": 9,
+          "tweet_count": 15437
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T15:33:50.000Z",
+        "description": "I am a cat from Taiwan\nI like to appreciate and share all kinds of artistic creations\nand virtual live streamers",
+        "id": "1705243956131598336",
+        "name": "Ezio Wang",
+        "pinned_tweet_id": "1794674970326634646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830387201676578816/HmPHL3mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 531,
+          "like_count": 25137,
+          "listed_count": 0,
+          "tweet_count": 5481
+        },
+        "username": "Ezio10969",
+        "verified": false
+      }
+    ]
+  }
+}

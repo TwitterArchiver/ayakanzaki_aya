@@ -1,0 +1,215 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1793706417750503857",
+    "created_at": "2024-05-25T05:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T06:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794234472386494875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1276022886482841600",
+          "start": 0,
+          "username": "foxfishhhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794234472386494875",
+    "in_reply_to_user_id": "1276022886482841600",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793773580553175517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foxfishhhhh 不是已經要 是早已累死www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1793706417750503857",
+        "created_at": "2024-05-25T05:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T06:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794234472386494875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1276022886482841600",
+              "start": 0,
+              "username": "foxfishhhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794234472386494875",
+        "in_reply_to_user_id": "1276022886482841600",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793773580553175517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxfishhhhh 不是已經要 是早已累死www"
+      },
+      {
+        "attachments": {},
+        "author_id": "1276022886482841600",
+        "conversation_id": "1793706417750503857",
+        "created_at": "2024-05-23T22:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T23:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793773580553175517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793773580553175517",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793706417750503857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 感覺Aya已經要累死了w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 993,
+          "like_count": 23729,
+          "listed_count": 10,
+          "tweet_count": 13256
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-25T05:22:37.000Z",
+        "description": "我是一隻呱呱，叫聲像綿羊，正趴在風鈴草上\n日語怎麼這麼難啊啊啊（半放棄中\n其他帳號：@foxfishhhhhh\n\n防bot(雖然沒啥用的樣子):六四天安門事件、習維尼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "foxfishhhhhh"
+              }
+            ]
+          }
+        },
+        "id": "1276022886482841600",
+        "name": "狐魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742163708351246336/uMMDfNmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 3237,
+          "like_count": 23999,
+          "listed_count": 2,
+          "tweet_count": 13224
+        },
+        "username": "foxfishhhhh",
+        "verified": false
+      }
+    ]
+  }
+}

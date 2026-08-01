@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1993761688521510975",
+    "created_at": "2025-11-27T14:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994048711479992425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1696179442106970112",
+          "start": 0,
+          "username": "YaoYang_1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994048711479992425",
+    "in_reply_to_user_id": "1696179442106970112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993868056905543857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaoYang_1003 耿鬼超可愛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1993868053923418114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ukblsa0AI4XQO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1993761688521510975",
+        "created_at": "2025-11-27T14:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994048711479992425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1696179442106970112",
+              "start": 0,
+              "username": "YaoYang_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994048711479992425",
+        "in_reply_to_user_id": "1696179442106970112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993868056905543857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaoYang_1003 耿鬼超可愛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993868053923418114"
+          ]
+        },
+        "author_id": "1696179442106970112",
+        "conversation_id": "1993761688521510975",
+        "created_at": "2025-11-27T02:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993868056905543857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZFokSoKLF",
+              "end": 45,
+              "expanded_url": "https://x.com/YaoYang_1003/status/1993868056905543857/photo/1",
+              "media_key": "3_1993868053923418114",
+              "start": 22,
+              "url": "https://t.co/6ZFokSoKLF"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "1993868056905543857",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993761688521510975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 这才是王道 https://t.co/6ZFokSoKLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8399,
+          "following_count": 976,
+          "like_count": 31983,
+          "listed_count": 20,
+          "media_count": 89,
+          "tweet_count": 20730
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T15:14:51.000Z",
+        "description": "YAOYANG(香港人)\n在twitch直播 (宅男?)\nAPEX Name : YAOYANG_Twitch\n請和我交朋友！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/yaoyang1003",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/yaoyang1003",
+                "start": 0,
+                "url": "https://t.co/ipLFCb4qL8"
+              }
+            ]
+          }
+        },
+        "id": "1696179442106970112",
+        "name": "耀楊",
+        "pinned_tweet_id": "1973784041506959511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696180635185086464/eqwBqGp5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 475,
+          "like_count": 1898,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/ipLFCb4qL8",
+        "username": "YaoYang_1003",
+        "verified": false
+      }
+    ]
+  }
+}

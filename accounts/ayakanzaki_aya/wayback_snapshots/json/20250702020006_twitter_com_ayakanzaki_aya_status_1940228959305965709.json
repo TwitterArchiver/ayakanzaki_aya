@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1940228959305965709",
+    "created_at": "2025-07-02T02:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T03:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940228959305965709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "為什麼……",
+          "display_url": "facebook.com/groups/1129081…",
+          "end": 94,
+          "expanded_url": "https://www.facebook.com/groups/1129081341742449/permalink/1429640671686513/?mibextid=rS40aB7S9Ucbxw6v",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/1940228963764510723/XRf0w4aA?format=jpg&name=orig",
+              "width": 675
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1940228963764510723/XRf0w4aA?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 71,
+          "status": 200,
+          "title": "拉邦結派姛好會 | 為什麼…… | Facebook",
+          "unwound_url": "https://www.facebook.com/groups/1129081341742449/permalink/1429640671686513/?mibextid=rS40aB7S9Ucbxw6v",
+          "url": "https://t.co/SLYARNqSOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940228959305965709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "發瘋現場注意\n我是旁邊那個甩手唱春日影的\n抱歉那天我叫的很大聲（（\n還有謝謝那個拿著超大愛音幫忙拍影片的好人(((o(*ﾟ▽ﾟ*)o))) \nhttps://t.co/SLYARNqSOw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1940228959305965709",
+        "created_at": "2025-07-02T02:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T03:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940228959305965709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "為什麼……",
+              "display_url": "facebook.com/groups/1129081…",
+              "end": 94,
+              "expanded_url": "https://www.facebook.com/groups/1129081341742449/permalink/1429640671686513/?mibextid=rS40aB7S9Ucbxw6v",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/1940228963764510723/XRf0w4aA?format=jpg&name=orig",
+                  "width": 675
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1940228963764510723/XRf0w4aA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "拉邦結派姛好會 | 為什麼…… | Facebook",
+              "unwound_url": "https://www.facebook.com/groups/1129081341742449/permalink/1429640671686513/?mibextid=rS40aB7S9Ucbxw6v",
+              "url": "https://t.co/SLYARNqSOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940228959305965709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "發瘋現場注意\n我是旁邊那個甩手唱春日影的\n抱歉那天我叫的很大聲（（\n還有謝謝那個拿著超大愛音幫忙拍影片的好人(((o(*ﾟ▽ﾟ*)o))) \nhttps://t.co/SLYARNqSOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7725,
+          "following_count": 998,
+          "like_count": 31031,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 20006
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1812737995100803561",
+    "created_at": "2024-07-16T09:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T10:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813143302742409483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1274357810138976256",
+          "start": 0,
+          "username": "AlexChen0623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813143302742409483",
+    "in_reply_to_user_id": "1274357810138976256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812771555543560318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexChen0623 這段分享真的很有啟發性。確實每一次改革都有可能被過度推進，反而需要新的調整，這是我們需要警惕的。蘇格拉底的話也非常深刻，我花了五秒的時間才能徹底忘記，換作平常的話我兩秒就忘記了。感謝你的分享，浪費了我人生的十分鐘。其兩分鐘是理解你在說什麼，另外的七分鐘五十五秒是在想到底該怎麼回覆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1812737995100803561",
+        "created_at": "2024-07-16T09:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T10:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813143302742409483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1274357810138976256",
+              "start": 0,
+              "username": "AlexChen0623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813143302742409483",
+        "in_reply_to_user_id": "1274357810138976256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812771555543560318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexChen0623 這段分享真的很有啟發性。確實每一次改革都有可能被過度推進，反而需要新的調整，這是我們需要警惕的。蘇格拉底的話也非常深刻，我花了五秒的時間才能徹底忘記，換作平常的話我兩秒就忘記了。感謝你的分享，浪費了我人生的十分鐘。其兩分鐘是理解你在說什麼，另外的七分鐘五十五秒是在想到底該怎麼回覆"
+      },
+      {
+        "attachments": {},
+        "author_id": "1274357810138976256",
+        "conversation_id": "1812737995100803561",
+        "created_at": "2024-07-15T08:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T09:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812771555543560318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812771555543560318",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812737995100803561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 塞柯爾津治講過一句值得人反覆尋思的話，每一次改革，無論它多麼必要，總會被一些笨蛋及過頭，於是，這一改革的本身又需要一次新的改革。希望各位能用心體會這段話。經過上述討論，蘇格拉底講過一句值得人反覆尋思的話，驕傲是無知的產物。這段話可說是震撼了我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 25060,
+          "listed_count": 10,
+          "tweet_count": 14542
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-20T15:09:26.000Z",
+        "description": "嗨嗨 我是夜晨 也可以叫我可樂 目前主要是玩蔚藍檔案和GTA 有興趣的可以加我DC哦 我的Discord : alexchen_cola 假帳號防護標語：64天安門事件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/alexyechen",
+                "end": 23,
+                "expanded_url": "https://bento.me/alexyechen",
+                "start": 0,
+                "url": "https://t.co/wlqdjnSZ0Q"
+              }
+            ]
+          }
+        },
+        "id": "1274357810138976256",
+        "location": "奇普托斯",
+        "name": "夜晨【可樂實驗室】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771455502846996480/jN_ZygoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 906,
+          "like_count": 4185,
+          "listed_count": 0,
+          "tweet_count": 2456
+        },
+        "url": "https://t.co/wlqdjnSZ0Q",
+        "username": "AlexChen0623",
+        "verified": false
+      }
+    ]
+  }
+}

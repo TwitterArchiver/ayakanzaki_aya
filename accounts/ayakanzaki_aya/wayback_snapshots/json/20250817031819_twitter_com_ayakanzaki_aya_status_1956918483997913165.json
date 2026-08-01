@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956918248244379649"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1956918483997913165",
+    "created_at": "2025-08-17T03:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T04:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956918483997913165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lK917Nj1tH",
+          "end": 45,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/1956918483997913165/photo/1",
+          "media_key": "3_1956918248244379649",
+          "start": 22,
+          "url": "https://t.co/lK917Nj1tH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956918483997913165",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夏が終わる前に、もう一度君の声を聞かせて。 https://t.co/lK917Nj1tH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1956918248244379649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyhex1EWAAENBYs.jpg",
+        "width": 2694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956918248244379649"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1956918483997913165",
+        "created_at": "2025-08-17T03:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956918483997913165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lK917Nj1tH",
+              "end": 45,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/1956918483997913165/photo/1",
+              "media_key": "3_1956918248244379649",
+              "start": 22,
+              "url": "https://t.co/lK917Nj1tH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956918483997913165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夏が終わる前に、もう一度君の声を聞かせて。 https://t.co/lK917Nj1tH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1955085681811763314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8352,
+          "following_count": 997,
+          "like_count": 31532,
+          "listed_count": 19,
+          "media_count": 63,
+          "tweet_count": 20293
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1821680355260133391",
+    "created_at": "2024-08-12T09:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822929994244374941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2570173735",
+          "start": 0,
+          "username": "LaiWink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822929994244374941",
+    "in_reply_to_user_id": "2570173735",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822554860241510879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaiWink (´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1821680355260133391",
+        "created_at": "2024-08-12T09:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822929994244374941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2570173735",
+              "start": 0,
+              "username": "LaiWink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822929994244374941",
+        "in_reply_to_user_id": "2570173735",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822554860241510879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaiWink (´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2570173735",
+        "conversation_id": "1821680355260133391",
+        "created_at": "2024-08-11T08:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T09:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822554860241510879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822554860241510879",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822554310288216122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya （指指點點）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3905,
+          "following_count": 998,
+          "like_count": 25515,
+          "listed_count": 10,
+          "tweet_count": 14988
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-16T03:42:54.000Z",
+        "description": "A man come from Taiwan\n\n過著灰頭土臉的人生",
+        "id": "2570173735",
+        "name": "Wink Lai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803870258559856640/4U9fxoAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 94,
+          "like_count": 262,
+          "listed_count": 0,
+          "tweet_count": 830
+        },
+        "username": "LaiWink",
+        "verified": false
+      }
+    ]
+  }
+}

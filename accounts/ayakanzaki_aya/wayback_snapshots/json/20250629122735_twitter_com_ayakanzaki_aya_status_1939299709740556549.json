@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1939299709740556549",
+    "created_at": "2025-06-29T12:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T13:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939299709740556549"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1939299709740556549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因為酒店的電力系統有點問題\n所以換了別的房間，酒店還給升級房間\n\n去到了新房間有夠興奮的あや：\n“哇超大雙人床欸”\n\n呵呵\n\n結論就是從原本的雙人床升到了兩張搭在一起的單人床\n然後我媽看著我像個瘋子一樣自個自的狂笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1939299709740556549",
+        "created_at": "2025-06-29T12:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T13:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939299709740556549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939299709740556549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為酒店的電力系統有點問題\n所以換了別的房間，酒店還給升級房間\n\n去到了新房間有夠興奮的あや：\n“哇超大雙人床欸”\n\n呵呵\n\n結論就是從原本的雙人床升到了兩張搭在一起的單人床\n然後我媽看著我像個瘋子一樣自個自的狂笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7691,
+          "following_count": 996,
+          "like_count": 30948,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19993
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

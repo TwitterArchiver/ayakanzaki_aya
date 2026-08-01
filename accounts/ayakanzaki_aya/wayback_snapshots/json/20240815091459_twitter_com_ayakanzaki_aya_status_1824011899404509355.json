@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1822932386683728219",
+    "created_at": "2024-08-15T09:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T10:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824011899404509355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1218789468137639937",
+          "start": 0,
+          "username": "EFRiceSoNice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824011899404509355",
+    "in_reply_to_user_id": "1218789468137639937",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823052515170205793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EFRiceSoNice _(:_」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1822932386683728219",
+        "created_at": "2024-08-15T09:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T10:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824011899404509355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1218789468137639937",
+              "start": 0,
+              "username": "EFRiceSoNice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824011899404509355",
+        "in_reply_to_user_id": "1218789468137639937",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823052515170205793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EFRiceSoNice _(:_」∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1823052505175236608"
+          ]
+        },
+        "author_id": "1218789468137639937",
+        "conversation_id": "1822932386683728219",
+        "created_at": "2024-08-12T17:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T18:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823052515170205793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixbniswawx",
+              "end": 39,
+              "expanded_url": "https://twitter.com/EFRiceSoNice/status/1823052515170205793/photo/1",
+              "media_key": "16_1823052505175236608",
+              "start": 16,
+              "url": "https://t.co/IXBnISWAWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823052515170205793",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822932386683728219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/IXBnISWAWx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3909,
+          "following_count": 998,
+          "like_count": 25555,
+          "listed_count": 10,
+          "tweet_count": 15030
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-19T06:57:23.000Z",
+        "description": "高二｜喜歡人文地理，目標高師地理，夢想當位老師。N87日文",
+        "id": "1218789468137639937",
+        "location": "🇹🇼Republic of China 中國 中華民國 ",
+        "name": "Jhou You-Siang🇹🇼🇯🇵",
+        "pinned_tweet_id": "1795802223928103246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813629873438797824/8sOefxeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 2274,
+          "like_count": 18121,
+          "listed_count": 1,
+          "tweet_count": 4571
+        },
+        "username": "EFRiceSoNice",
+        "verified": false
+      }
+    ]
+  }
+}

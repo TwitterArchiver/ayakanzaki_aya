@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948686373239824384",
+        "3_1948686373269241860"
+      ],
+      "media_source_tweet_id": [
+        "1948686382240874654",
+        "1948686382240874654"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "1948817464801829051",
+    "created_at": "2025-07-25T18:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T19:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948817464801829051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1105383708075352070",
+          "start": 3,
+          "username": "guribato"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PrWQ00vIlD",
+          "end": 124,
+          "expanded_url": "https://x.com/guribato/status/1948686382240874654/photo/1",
+          "media_key": "3_1948686373239824384",
+          "start": 101,
+          "url": "https://t.co/PrWQ00vIlD"
+        },
+        {
+          "display_url": "pic.x.com/PrWQ00vIlD",
+          "end": 124,
+          "expanded_url": "https://x.com/guribato/status/1948686382240874654/photo/1",
+          "media_key": "3_1948686373269241860",
+          "start": 101,
+          "url": "https://t.co/PrWQ00vIlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948817464801829051",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948686382240874654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guribato: ◀️line art︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎final▶️ https://t.co/PrWQ00vIlD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_1948686373239824384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwsf7o-aoAAh1mH.jpg",
+        "width": 2508
+      },
+      {
+        "height": 3541,
+        "media_key": "3_1948686373269241860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwsf7pFbgAQZcgi.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948686373239824384",
+            "3_1948686373269241860"
+          ],
+          "media_source_tweet_id": [
+            "1948686382240874654",
+            "1948686382240874654"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "1948817464801829051",
+        "created_at": "2025-07-25T18:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T19:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948817464801829051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1105383708075352070",
+              "start": 3,
+              "username": "guribato"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrWQ00vIlD",
+              "end": 124,
+              "expanded_url": "https://x.com/guribato/status/1948686382240874654/photo/1",
+              "media_key": "3_1948686373239824384",
+              "start": 101,
+              "url": "https://t.co/PrWQ00vIlD"
+            },
+            {
+              "display_url": "pic.x.com/PrWQ00vIlD",
+              "end": 124,
+              "expanded_url": "https://x.com/guribato/status/1948686382240874654/photo/1",
+              "media_key": "3_1948686373269241860",
+              "start": 101,
+              "url": "https://t.co/PrWQ00vIlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948817464801829051",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948686382240874654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guribato: ◀️line art︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎final▶️ https://t.co/PrWQ00vIlD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948686373239824384",
+            "3_1948686373269241860"
+          ]
+        },
+        "author_id": "1105383708075352070",
+        "conversation_id": "1948686382240874654",
+        "created_at": "2025-07-25T10:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T11:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948686382240874654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrWQ00vIlD",
+              "end": 110,
+              "expanded_url": "https://x.com/guribato/status/1948686382240874654/photo/1",
+              "media_key": "3_1948686373239824384",
+              "start": 87,
+              "url": "https://t.co/PrWQ00vIlD"
+            },
+            {
+              "display_url": "pic.x.com/PrWQ00vIlD",
+              "end": 110,
+              "expanded_url": "https://x.com/guribato/status/1948686382240874654/photo/1",
+              "media_key": "3_1948686373269241860",
+              "start": 87,
+              "url": "https://t.co/PrWQ00vIlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948686382240874654",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 29535,
+          "like_count": 1637,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "◀️line art︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎final▶️ https://t.co/PrWQ00vIlD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7830,
+          "following_count": 992,
+          "like_count": 31371,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 20181
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-12T08:23:07.000Z",
+        "description": "Illustrator｜少年キャラが好き｜創作＆版権＆FA｜✉️(guribato.guribato@gmail.com) ｜ﾏﾛ(https://t.co/n5XfbkdSyf)｜ﾘﾄﾘﾝ(https://t.co/yXi6koEzwp)現在、新規ご依頼は受け付けておりません。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/guribato",
+                "end": 89,
+                "expanded_url": "https://marshmallow-qa.com/guribato",
+                "start": 66,
+                "url": "https://t.co/n5XfbkdSyf"
+              },
+              {
+                "display_url": "lit.link/guribato",
+                "end": 119,
+                "expanded_url": "https://lit.link/guribato",
+                "start": 96,
+                "url": "https://t.co/yXi6koEzwp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@guribato",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@guribato",
+                "start": 0,
+                "url": "https://t.co/4v0ys2Beie"
+              }
+            ]
+          }
+        },
+        "id": "1105383708075352070",
+        "location": "無断転載・無断使用・自作発言・AI学習❌ 保存⭕",
+        "name": "ぐりばーと。@9/7て50b",
+        "pinned_tweet_id": "1945429531424334188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672114136459931648/HM0r_uJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17715,
+          "following_count": 319,
+          "like_count": 38743,
+          "listed_count": 87,
+          "media_count": 247,
+          "tweet_count": 5222
+        },
+        "url": "https://t.co/4v0ys2Beie",
+        "username": "guribato",
+        "verified": false
+      }
+    ]
+  }
+}

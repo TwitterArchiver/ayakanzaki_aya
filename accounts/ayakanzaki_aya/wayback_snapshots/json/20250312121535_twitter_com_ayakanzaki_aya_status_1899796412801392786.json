@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1894775617993765248",
+    "created_at": "2025-03-12T12:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T13:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899796412801392786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480538925827780612",
+          "start": 0,
+          "username": "bwslimeOWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899796412801392786",
+    "in_reply_to_user_id": "1480538925827780612",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896849452553683347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bwslimeOWO wwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_1896849444420902912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlL2hQ8a4AASvD4.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1894775617993765248",
+        "created_at": "2025-03-12T12:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T13:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899796412801392786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480538925827780612",
+              "start": 0,
+              "username": "bwslimeOWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899796412801392786",
+        "in_reply_to_user_id": "1480538925827780612",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896849452553683347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bwslimeOWO wwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896849444420902912"
+          ]
+        },
+        "author_id": "1480538925827780612",
+        "conversation_id": "1894775617993765248",
+        "created_at": "2025-03-04T09:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T10:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896849452553683347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDG15yvXax",
+              "end": 57,
+              "expanded_url": "https://x.com/bwslimeOWO/status/1896849452553683347/photo/1",
+              "media_key": "3_1896849444420902912",
+              "start": 34,
+              "url": "https://t.co/BDG15yvXax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896849452553683347",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896848889858474056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 沒關係的\n我找到願意收留我的媽媽了 https://t.co/BDG15yvXax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6497,
+          "following_count": 981,
+          "like_count": 29490,
+          "listed_count": 18,
+          "media_count": 129,
+          "tweet_count": 19010
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-10T13:56:10.000Z",
+        "description": "我媽～ @MiruValley 也是我媽！@utopia_mis 這我阿嬤～：@my2379195872052",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "MiruValley"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "utopia_mis"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "my2379195872052"
+              }
+            ]
+          }
+        },
+        "id": "1480538925827780612",
+        "name": "bwslime黑白史萊姆",
+        "pinned_tweet_id": "1898132906679452133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897917026175533058/_tOxT3GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 889,
+          "like_count": 20429,
+          "listed_count": 8,
+          "media_count": 659,
+          "tweet_count": 2470
+        },
+        "username": "bwslimeOWO",
+        "verified": false
+      }
+    ]
+  }
+}

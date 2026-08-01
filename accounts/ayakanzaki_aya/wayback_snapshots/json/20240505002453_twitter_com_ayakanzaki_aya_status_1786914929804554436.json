@@ -1,0 +1,313 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1786914929804554436",
+    "created_at": "2024-05-05T00:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-05T01:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1786914929804554436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1197173528",
+          "start": 3,
+          "username": "rurudo_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "-　-　- – -－───◆みゅーじっく：buzzG　https://twitter.com/buzz_gべーす：Kei Nakamura　https://twitter.com/kei4361えんじにあ：友達募集P　https://twitter.com/tomobopほか、おおむね：buzzGぼーかる：るるど...",
+          "display_url": "youtube.com/watch?v=pFa0pJ…",
+          "end": 56,
+          "expanded_url": "https://www.youtube.com/watch?v=pFa0pJXHnNY",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1786697330559004672/zASOwidy?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1786697330559004672/zASOwidy?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 33,
+          "status": 200,
+          "title": "らいおんチルアウト / るるどらいおん",
+          "unwound_url": "https://www.youtube.com/watch?v=pFa0pJXHnNY",
+          "url": "https://t.co/gPl7hSPiQJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1786914929804554436",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1132
+    },
+    "referenced_tweets": [
+      {
+        "id": "1786697284262203507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurudo_: らいおんチルアウト / るるどらいおん\nhttps://t.co/gPl7hSPiQJ\n\n2024.05.05\n19:00 プレミア公開🦁🍹 https://t.co/l5BneLeJnz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1786914929804554436",
+        "created_at": "2024-05-05T00:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-05T01:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1786914929804554436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1197173528",
+              "start": 3,
+              "username": "rurudo_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "-　-　- – -－───◆みゅーじっく：buzzG　https://twitter.com/buzz_gべーす：Kei Nakamura　https://twitter.com/kei4361えんじにあ：友達募集P　https://twitter.com/tomobopほか、おおむね：buzzGぼーかる：るるど...",
+              "display_url": "youtube.com/watch?v=pFa0pJ…",
+              "end": 56,
+              "expanded_url": "https://www.youtube.com/watch?v=pFa0pJXHnNY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1786697330559004672/zASOwidy?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1786697330559004672/zASOwidy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "らいおんチルアウト / るるどらいおん",
+              "unwound_url": "https://www.youtube.com/watch?v=pFa0pJXHnNY",
+              "url": "https://t.co/gPl7hSPiQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1786914929804554436",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1132
+        },
+        "referenced_tweets": [
+          {
+            "id": "1786697284262203507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurudo_: らいおんチルアウト / るるどらいおん\nhttps://t.co/gPl7hSPiQJ\n\n2024.05.05\n19:00 プレミア公開🦁🍹 https://t.co/l5BneLeJnz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1786678640283201536"
+          ]
+        },
+        "author_id": "1197173528",
+        "conversation_id": "1786697284262203507",
+        "created_at": "2024-05-04T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-04T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1786697284262203507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "-　-　- – -－───◆みゅーじっく：buzzG　https://twitter.com/buzz_gべーす：Kei Nakamura　https://twitter.com/kei4361えんじにあ：友達募集P　https://twitter.com/tomobopほか、おおむね：buzzGぼーかる：るるど...",
+              "display_url": "youtube.com/watch?v=pFa0pJ…",
+              "end": 43,
+              "expanded_url": "https://www.youtube.com/watch?v=pFa0pJXHnNY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1786697330559004672/zASOwidy?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1786697330559004672/zASOwidy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "らいおんチルアウト / るるどらいおん",
+              "unwound_url": "https://www.youtube.com/watch?v=pFa0pJXHnNY",
+              "url": "https://t.co/gPl7hSPiQJ"
+            },
+            {
+              "display_url": "pic.twitter.com/l5BneLeJnz",
+              "end": 94,
+              "expanded_url": "https://twitter.com/rurudo_/status/1786697284262203507/video/1",
+              "media_key": "7_1786678640283201536",
+              "start": 71,
+              "url": "https://t.co/l5BneLeJnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1786697284262203507",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 149153,
+          "like_count": 5968,
+          "quote_count": 11,
+          "reply_count": 57,
+          "retweet_count": 1132
+        },
+        "reply_settings": "everyone",
+        "text": "らいおんチルアウト / るるどらいおん\nhttps://t.co/gPl7hSPiQJ\n\n2024.05.05\n19:00 プレミア公開🦁🍹 https://t.co/l5BneLeJnz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 994,
+          "like_count": 23315,
+          "listed_count": 10,
+          "tweet_count": 12858
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-19T13:30:56.000Z",
+        "description": "Illustration✍┊https://t.co/p9aXC7cEcm┊https://t.co/0FBOpyzwj3┊https://t.co/0ytd5qttYg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25760573",
+                "end": 37,
+                "expanded_url": "https://www.pixiv.net/users/25760573",
+                "start": 14,
+                "url": "https://t.co/p9aXC7cEcm"
+              },
+              {
+                "display_url": "amzn.asia/d/5jD9ESH",
+                "end": 61,
+                "expanded_url": "https://amzn.asia/d/5jD9ESH",
+                "start": 38,
+                "url": "https://t.co/0FBOpyzwj3"
+              },
+              {
+                "display_url": "youtube.com/@rurudo_LION",
+                "end": 85,
+                "expanded_url": "https://www.youtube.com/@rurudo_LION",
+                "start": 62,
+                "url": "https://t.co/0ytd5qttYg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rurudot.net",
+                "end": 23,
+                "expanded_url": "https://rurudot.net/",
+                "start": 0,
+                "url": "https://t.co/BKJ1BLQj3N"
+              }
+            ]
+          }
+        },
+        "id": "1197173528",
+        "name": "rurudo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755639122759479296/qOdIorMY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822003,
+          "following_count": 592,
+          "like_count": 5713,
+          "listed_count": 7158,
+          "tweet_count": 3910
+        },
+        "url": "https://t.co/BKJ1BLQj3N",
+        "username": "rurudo_",
+        "verified": true
+      }
+    ]
+  }
+}

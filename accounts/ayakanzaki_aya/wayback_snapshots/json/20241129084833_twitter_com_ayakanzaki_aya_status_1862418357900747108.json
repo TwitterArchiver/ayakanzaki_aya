@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1862036778183458911",
+    "created_at": "2024-11-29T08:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T09:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862418357900747108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1046890588153380864",
+          "start": 0,
+          "username": "HaKa_YuKi123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862418357900747108",
+    "in_reply_to_user_id": "1046890588153380864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862048880529231879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaKa_YuKi123 對(;´༎ຶД༎ຶ`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1862036778183458911",
+        "created_at": "2024-11-29T08:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T09:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862418357900747108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1046890588153380864",
+              "start": 0,
+              "username": "HaKa_YuKi123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862418357900747108",
+        "in_reply_to_user_id": "1046890588153380864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862048880529231879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaKa_YuKi123 對(;´༎ຶД༎ຶ`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1046890588153380864",
+        "conversation_id": "1862036778183458911",
+        "created_at": "2024-11-28T08:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T09:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862048880529231879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862048880529231879",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862036778183458911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 開心是可以抽老公老婆了，傷心是課的不夠而且還歪了（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1857345709181178184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 981,
+          "like_count": 27261,
+          "listed_count": 10,
+          "media_count": 114,
+          "tweet_count": 16834
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-01T22:32:21.000Z",
+        "description": "個人勢雙魂天使系Vtuber&Vwriter\n\n中文/英文/日文\n\n頭貼繪師：薑腦鷥\n\n粉絲名稱：希望\n\n二創：#希奇古怪(禁止R18創作)\n\n直播：#希望有你\n\nlogo：羽夏悠希\n\n立繪&建模：11畝工作室   @11_Elevenmu\n\n連動邀約請私訊或信箱：layu9118@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "希奇古怪"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "希望有你"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 120,
+                "start": 108,
+                "username": "11_Elevenmu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Haka_Yuki",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Haka_Yuki",
+                "start": 0,
+                "url": "https://t.co/bveqrKyOMA"
+              }
+            ]
+          }
+        },
+        "id": "1046890588153380864",
+        "location": "澈滅界",
+        "name": "羽夏悠希はかゆきHakayuki/雙魂天使系 Vtuber/Vwriter",
+        "pinned_tweet_id": "1843276893300359214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843613181111062528/bmyMtoE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4457,
+          "following_count": 6513,
+          "like_count": 121476,
+          "listed_count": 48,
+          "media_count": 1524,
+          "tweet_count": 63025
+        },
+        "url": "https://t.co/bveqrKyOMA",
+        "username": "HaKa_YuKi123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1946927898943688886",
+    "created_at": "2025-07-20T13:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T14:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946927898943688886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "763653464454860801",
+          "start": 3,
+          "username": "mhp2alex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946927898943688886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946892614466416791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mhp2alex: 前排因為好忙，一直想正式委返張FA補祝2.0同生日🥹\n\n覺得TIA好畀到人大姐頭嘅感覺，又近夏天所以委咗張泳裝FA🌊 記憶深刻係打海龍時明明好討厭落水，但最後都克服到自身恐懼成功狩獵～好叻！👏🏻\n\n呢張晴空下得勝歸來，攞住大杯啤酒得意洋洋嘅樣子，係咪…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1946891935353880578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwS_5m7XQAIWrtb.jpg",
+        "width": 2947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1946927898943688886",
+        "created_at": "2025-07-20T13:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T14:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946927898943688886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "763653464454860801",
+              "start": 3,
+              "username": "mhp2alex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946927898943688886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946892614466416791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mhp2alex: 前排因為好忙，一直想正式委返張FA補祝2.0同生日🥹\n\n覺得TIA好畀到人大姐頭嘅感覺，又近夏天所以委咗張泳裝FA🌊 記憶深刻係打海龍時明明好討厭落水，但最後都克服到自身恐懼成功狩獵～好叻！👏🏻\n\n呢張晴空下得勝歸來，攞住大杯啤酒得意洋洋嘅樣子，係咪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946891935353880578"
+          ]
+        },
+        "author_id": "763653464454860801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946892614466416791",
+        "created_at": "2025-07-20T11:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946892614466416791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 159,
+              "start": 153,
+              "tag": "龍桜藝術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 152,
+              "id": "1499470341734907907",
+              "start": 137,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrgmwjZYLN",
+              "end": 183,
+              "expanded_url": "https://x.com/mhp2alex/status/1946892614466416791/photo/1",
+              "media_key": "3_1946891935353880578",
+              "start": 160,
+              "url": "https://t.co/JrgmwjZYLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946892614466416791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "前排因為好忙，一直想正式委返張FA補祝2.0同生日🥹\n\n覺得TIA好畀到人大姐頭嘅感覺，又近夏天所以委咗張泳裝FA🌊 記憶深刻係打海龍時明明好討厭落水，但最後都克服到自身恐懼成功狩獵～好叻！👏🏻\n\n呢張晴空下得勝歸來，攞住大杯啤酒得意洋洋嘅樣子，係咪好豪邁呢😎\n\n🎨繪師: @ayakanzaki_aya\n#龍桜藝術部 https://t.co/JrgmwjZYLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7833,
+          "following_count": 991,
+          "like_count": 31310,
+          "listed_count": 19,
+          "media_count": 53,
+          "tweet_count": 20121
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-11T08:29:08.000Z",
+        "description": "🇭🇰  |  推港V用日常帳  |  金樽快飲三百杯，銀鞍飛馬不留行。向來人生所求，不外是能逍遙天地，任隨本心。 |  繪Tag:  #浪客繪卷 (OC) #滄海薇瀾 (希爾薇)  |  Icon:  @lamylanmc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "浪客繪卷"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "滄海薇瀾"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "lamylanmc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mhp2alex",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@mhp2alex",
+                "start": 0,
+                "url": "https://t.co/nDtaVFJ24q"
+              }
+            ]
+          }
+        },
+        "id": "763653464454860801",
+        "location": "Hong Kong",
+        "name": "mhp2alex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912181996949770248/BSiayHq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 334,
+          "like_count": 18542,
+          "listed_count": 1,
+          "media_count": 702,
+          "tweet_count": 4535
+        },
+        "url": "https://t.co/nDtaVFJ24q",
+        "username": "mhp2alex",
+        "verified": false
+      }
+    ]
+  }
+}

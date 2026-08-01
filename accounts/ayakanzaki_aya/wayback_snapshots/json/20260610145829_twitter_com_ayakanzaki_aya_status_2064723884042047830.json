@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064649412203450368"
+      ],
+      "media_source_tweet_id": [
+        "2064649420319400210"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "2064723884042047830",
+    "created_at": "2026-06-10T14:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064723884042047830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820427942100639744",
+          "start": 3,
+          "username": "ZbR_zn07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aXsTm7oCKc",
+          "end": 41,
+          "expanded_url": "https://x.com/ZbR_zn07/status/2064649420319400210/photo/1",
+          "media_key": "3_2064649412203450368",
+          "start": 18,
+          "url": "https://t.co/aXsTm7oCKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064723884042047830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 957
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064649420319400210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZbR_zn07: 植物園 https://t.co/aXsTm7oCKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2064649412203450368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcbs5AbEAAuIhD.jpg",
+        "width": 2912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064649412203450368"
+          ],
+          "media_source_tweet_id": [
+            "2064649420319400210"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "2064723884042047830",
+        "created_at": "2026-06-10T14:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064723884042047830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820427942100639744",
+              "start": 3,
+              "username": "ZbR_zn07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXsTm7oCKc",
+              "end": 41,
+              "expanded_url": "https://x.com/ZbR_zn07/status/2064649420319400210/photo/1",
+              "media_key": "3_2064649412203450368",
+              "start": 18,
+              "url": "https://t.co/aXsTm7oCKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064723884042047830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 963
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064649420319400210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZbR_zn07: 植物園 https://t.co/aXsTm7oCKc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064649412203450368"
+          ]
+        },
+        "author_id": "1820427942100639744",
+        "conversation_id": "2064649420319400210",
+        "created_at": "2026-06-10T10:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064649420319400210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXsTm7oCKc",
+              "end": 27,
+              "expanded_url": "https://x.com/ZbR_zn07/status/2064649420319400210/photo/1",
+              "media_key": "3_2064649412203450368",
+              "start": 4,
+              "url": "https://t.co/aXsTm7oCKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064649420319400210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1639,
+          "impression_count": 194968,
+          "like_count": 16750,
+          "quote_count": 32,
+          "reply_count": 3,
+          "retweet_count": 963
+        },
+        "reply_settings": "everyone",
+        "text": "植物園 https://t.co/aXsTm7oCKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。https://t.co/0bAP4M0U4a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 122,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 99,
+                "url": "https://t.co/0bAP4M0U4a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9947,
+          "following_count": 973,
+          "like_count": 32826,
+          "listed_count": 22,
+          "media_count": 91,
+          "tweet_count": 21439
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T11:53:48.000Z",
+        "description": "一次創作┊創作FAタグ﹣#ゼノとゼブラ z×z🗝:@ZbR_zm07 /✉️や詳細など:https://t.co/TenI42bELL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 12,
+                "tag": "ゼノとゼブラ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "ZbR_zm07"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/ZbRzn07",
+                "end": 67,
+                "expanded_url": "https://lit.link/ZbRzn07",
+                "start": 44,
+                "url": "https://t.co/TenI42bELL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ZbR_zn07",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@ZbR_zn07",
+                "start": 0,
+                "url": "https://t.co/tx43iBVPtp"
+              }
+            ]
+          }
+        },
+        "id": "1820427942100639744",
+        "location": "犬猿 相棒 幼馴染 ライバル",
+        "name": "印象",
+        "pinned_tweet_id": "2064649420319400210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971646547718033413/7_0jfERG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5762,
+          "following_count": 72,
+          "like_count": 859,
+          "listed_count": 40,
+          "media_count": 43,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/tx43iBVPtp",
+        "username": "ZbR_zn07",
+        "verified": false
+      }
+    ]
+  }
+}

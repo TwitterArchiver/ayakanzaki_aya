@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1790606296304984202",
+    "created_at": "2024-05-16T06:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T07:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790991541701320801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "873386955664261121",
+          "start": 0,
+          "username": "rickchan1982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790991541701320801",
+    "in_reply_to_user_id": "873386955664261121",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790638306939798000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rickchan1982 早就變色了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1790606296304984202",
+        "created_at": "2024-05-16T06:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T07:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790991541701320801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "873386955664261121",
+              "start": 0,
+              "username": "rickchan1982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790991541701320801",
+        "in_reply_to_user_id": "873386955664261121",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790638306939798000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rickchan1982 早就變色了（？"
+      },
+      {
+        "attachments": {},
+        "author_id": "873386955664261121",
+        "conversation_id": "1790606296304984202",
+        "created_at": "2024-05-15T07:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T08:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790638306939798000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790638306939798000",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790606296304984202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 乖乖休息幾天吧，不然可愛的小肝就要變色了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 993,
+          "like_count": 23529,
+          "listed_count": 10,
+          "tweet_count": 13072
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T03:50:51.000Z",
+        "description": "男/42歲的大叔/有時小色/來看美照/不嫖/177/69努力維持體重中\n#已婚  #花蓮",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 36,
+                "tag": "已婚"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "花蓮"
+              }
+            ]
+          }
+        },
+        "id": "873386955664261121",
+        "location": "Hualien County, Taiwan",
+        "name": "花蓮的大叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774656329107562496/T8oxOHES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1325,
+          "like_count": 3403,
+          "listed_count": 0,
+          "tweet_count": 2321
+        },
+        "username": "rickchan1982",
+        "verified": false
+      }
+    ]
+  }
+}

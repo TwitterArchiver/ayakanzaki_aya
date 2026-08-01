@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1897111961256751299",
+    "created_at": "2025-03-12T13:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T14:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899812656174829925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1154334304681390081",
+          "start": 0,
+          "username": "LOnelyAsh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899812656174829925",
+    "in_reply_to_user_id": "1154334304681390081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897292019967603149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LOnelyAsh3 蛤wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1897111961256751299",
+        "created_at": "2025-03-12T13:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T14:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899812656174829925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1154334304681390081",
+              "start": 0,
+              "username": "LOnelyAsh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899812656174829925",
+        "in_reply_to_user_id": "1154334304681390081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897292019967603149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LOnelyAsh3 蛤wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1154334304681390081",
+        "conversation_id": "1897111961256751299",
+        "created_at": "2025-03-05T14:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T15:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897292019967603149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897292019967603149",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897111961256751299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 太可愛了男朋友！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897114075915530240/-X0ikb4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6498,
+          "following_count": 981,
+          "like_count": 29582,
+          "listed_count": 18,
+          "media_count": 129,
+          "tweet_count": 19098
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-25T10:15:19.000Z",
+        "description": "我是沙鼠族的小可愛，來自奈洛之森轉移後睡街邊在巷口長大的孩紙，再重申一次我是鼠不是狐我是鼠 鼠 鼠!!!!!不是狐 rrrrrrrrrrrrrrrrr \nQ口Q!!!!!\ntwitch: https://t.co/juz1gqzHkm\n阿波的麻麻:優米ゆみ @Yumimi160",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Yumimi160"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/twlonelyash",
+                "end": 117,
+                "expanded_url": "http://twitch.tv/twlonelyash",
+                "start": 94,
+                "url": "https://t.co/juz1gqzHkm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCLZ3J…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCLZ3JjS8x6J3q7Kao4fUMcA?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/x3JBRpF6kE"
+              }
+            ]
+          }
+        },
+        "id": "1154334304681390081",
+        "location": "台灣",
+        "name": "【宇智波比】LOnely_Ash",
+        "pinned_tweet_id": "1504795699728162817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725602354094096384/8SzkBdGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 404,
+          "like_count": 3494,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 2511
+        },
+        "url": "https://t.co/x3JBRpF6kE",
+        "username": "LOnelyAsh3",
+        "verified": false
+      }
+    ]
+  }
+}

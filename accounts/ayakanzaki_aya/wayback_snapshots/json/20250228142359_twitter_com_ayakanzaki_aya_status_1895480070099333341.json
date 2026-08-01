@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893637855525618040",
+    "created_at": "2025-02-28T14:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T15:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895480070099333341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1435764124470820865",
+          "start": 0,
+          "username": "Shira_1006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895480070099333341",
+    "in_reply_to_user_id": "1435764124470820865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894048106158621047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shira_1006 謝謝白鳥！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893637855525618040",
+        "created_at": "2025-02-28T14:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T15:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895480070099333341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1435764124470820865",
+              "start": 0,
+              "username": "Shira_1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895480070099333341",
+        "in_reply_to_user_id": "1435764124470820865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894048106158621047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shira_1006 謝謝白鳥！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435764124470820865",
+        "conversation_id": "1893637855525618040",
+        "created_at": "2025-02-24T15:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T16:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894048106158621047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894048106158621047",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893637855525618040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 生日快樂！🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6357,
+          "following_count": 977,
+          "like_count": 29283,
+          "listed_count": 17,
+          "media_count": 128,
+          "tweet_count": 18791
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T00:37:26.000Z",
+        "description": "每位V都這麼棒！\n我才不相信有人可以單推一位V！\n不定時剪剪Ｖ的歌回＆精華～喜歡影片的話請幫忙轉推、點讚或訂閱吧！\n每一個喜歡及訂閱都是支持我剪輯影片的動力，感謝大家！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCVyi1…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCVyi1N4xx7eP9OcjcoNjkvw",
+                "start": 0,
+                "url": "https://t.co/EQ5qXXp0uj"
+              }
+            ]
+          }
+        },
+        "id": "1435764124470820865",
+        "name": "白鳥 しらとり …",
+        "pinned_tweet_id": "1787448775545634888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492402336974532610/yvZTD_8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 284,
+          "like_count": 14011,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 5962
+        },
+        "url": "https://t.co/EQ5qXXp0uj",
+        "username": "Shira_1006",
+        "verified": false
+      }
+    ]
+  }
+}

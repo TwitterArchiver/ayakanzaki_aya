@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-09-22T05:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837725905260589522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793459661859086338",
+          "start": 0,
+          "username": "Samui_gamer42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837725905260589522",
+    "in_reply_to_user_id": "1793459661859086338",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837424899679560088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Samui_gamer42 也有可能是砲友的孩子\n她說她自己是女同但在學校是出了名的玩咖而且常常和男生膩在一起\n所以我覺得是男女通吃（個人猜測"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-22T05:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837725905260589522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793459661859086338",
+              "start": 0,
+              "username": "Samui_gamer42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837725905260589522",
+        "in_reply_to_user_id": "1793459661859086338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837424899679560088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Samui_gamer42 也有可能是砲友的孩子\n她說她自己是女同但在學校是出了名的玩咖而且常常和男生膩在一起\n所以我覺得是男女通吃（個人猜測"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793459661859086338",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-09-21T09:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T10:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837424899679560088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837424899679560088",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836990408175276060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 這些詞是能在一個人身上同時出現？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ 依賴受付中✧ よろしくお願いします꜀(^.     ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1811942974734897238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 981,
+          "like_count": 26341,
+          "listed_count": 9,
+          "tweet_count": 15802
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T01:56:07.000Z",
+        "description": "喜歡唱歌，繪圖，直播是長遠的計畫\n，多聲治癒清純系（？\n初配信10/5，但已在Twitch 開台～\n歡迎找我連動喔～\n個人勢vtuber",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/samui_gamer",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/samui_gamer",
+                "start": 0,
+                "url": "https://t.co/RCpMqeG2Sm"
+              }
+            ]
+          }
+        },
+        "id": "1793459661859086338",
+        "name": "寒さめ❄️VT準備中〔10/5初配信〕❄️",
+        "pinned_tweet_id": "1834465600758051073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831381093163134976/P8Vz2kd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 64,
+          "like_count": 496,
+          "listed_count": 0,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/RCpMqeG2Sm",
+        "username": "Samui_gamer42",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1794232411024412976",
+    "created_at": "2024-05-26T07:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T08:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794628138326225139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2893847912",
+          "start": 0,
+          "username": "ricky861015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794628138326225139",
+    "in_reply_to_user_id": "2893847912",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794325397313884176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ricky861015 好耶！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1794232411024412976",
+        "created_at": "2024-05-26T07:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T08:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794628138326225139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2893847912",
+              "start": 0,
+              "username": "ricky861015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794628138326225139",
+        "in_reply_to_user_id": "2893847912",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794325397313884176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ricky861015 好耶！！"
+      },
+      {
+        "attachments": {},
+        "author_id": "2893847912",
+        "conversation_id": "1794232411024412976",
+        "created_at": "2024-05-25T11:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T12:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794325397313884176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794325397313884176",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794232411024412976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好耶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 994,
+          "like_count": 23806,
+          "listed_count": 10,
+          "tweet_count": 13335
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T14:36:24.000Z",
+        "description": "",
+        "id": "2893847912",
+        "name": "Nevir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725348254861389824/0__2w7R6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 799,
+          "like_count": 12074,
+          "listed_count": 0,
+          "tweet_count": 999
+        },
+        "username": "ricky861015",
+        "verified": false
+      }
+    ]
+  }
+}

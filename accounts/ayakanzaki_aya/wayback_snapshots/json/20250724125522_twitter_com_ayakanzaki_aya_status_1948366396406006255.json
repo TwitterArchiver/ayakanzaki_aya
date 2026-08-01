@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1947821376498188519",
+    "created_at": "2025-07-24T12:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T13:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948366396406006255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1369327668672532480",
+          "start": 0,
+          "username": "harry99195"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948366396406006255",
+    "in_reply_to_user_id": "1369327668672532480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947922789991911793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harry99195 家裡沒有（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1947821376498188519",
+        "created_at": "2025-07-24T12:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T13:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948366396406006255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1369327668672532480",
+              "start": 0,
+              "username": "harry99195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948366396406006255",
+        "in_reply_to_user_id": "1369327668672532480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947922789991911793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harry99195 家裡沒有（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1369327668672532480",
+        "conversation_id": "1947821376498188519",
+        "created_at": "2025-07-23T07:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T08:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947922789991911793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947922789991911793",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947821376498188519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 肥皂，肥皂可以解決50%的問題（X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7837,
+          "following_count": 993,
+          "like_count": 31345,
+          "listed_count": 19,
+          "media_count": 54,
+          "tweet_count": 20152
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-09T16:42:21.000Z",
+        "description": "一個不會調酒的酒吧店長 | 繪圖tag #你們眼中的店長 | R18tag #你們想像中的店長 | 店長寫文專用tag #店長日常發電 #靈感突發 #店長發電日常 | 一條龍爸爸：@rainmusicwork",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 20,
+                "tag": "你們眼中的店長"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "tag": "你們想像中的店長"
+              },
+              {
+                "end": 67,
+                "start": 60,
+                "tag": "店長日常發電"
+              },
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "靈感突發"
+              },
+              {
+                "end": 81,
+                "start": 74,
+                "tag": "店長發電日常"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "rainmusicwork"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/kingxharry",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/kingxharry",
+                "start": 0,
+                "url": "https://t.co/vPqi7ZKVUq"
+              }
+            ]
+          }
+        },
+        "id": "1369327668672532480",
+        "name": "牡羊座的戰神 爆炎系個人勢酒吧店長VTuber",
+        "pinned_tweet_id": "1853337463135388091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853333330475069441/AwOjW_uL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 298,
+          "like_count": 593,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 1304
+        },
+        "url": "https://t.co/vPqi7ZKVUq",
+        "username": "harry99195",
+        "verified": false
+      }
+    ]
+  }
+}

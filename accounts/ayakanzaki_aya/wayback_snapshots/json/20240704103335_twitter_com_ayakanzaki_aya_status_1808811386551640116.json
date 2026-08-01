@@ -1,0 +1,245 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1807996967961723015",
+    "created_at": "2024-07-04T10:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T11:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808811386551640116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1356232698461777921",
+          "start": 0,
+          "username": "sky17_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808811386551640116",
+    "in_reply_to_user_id": "1356232698461777921",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808226419627155623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sky17_jp 普通話 （？\n反正就有很多個叫法 每個人的認知都不一樣w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1807996967961723015",
+        "created_at": "2024-07-04T10:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T11:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808811386551640116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1356232698461777921",
+              "start": 0,
+              "username": "sky17_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808811386551640116",
+        "in_reply_to_user_id": "1356232698461777921",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808226419627155623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sky17_jp 普通話 （？\n反正就有很多個叫法 每個人的認知都不一樣w"
+      },
+      {
+        "attachments": {},
+        "author_id": "1356232698461777921",
+        "conversation_id": "1807996967961723015",
+        "created_at": "2024-07-02T19:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T20:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808226419627155623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808226419627155623",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807996967961723015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 所以中國人也說中文（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3905,
+          "following_count": 994,
+          "like_count": 24764,
+          "listed_count": 10,
+          "tweet_count": 14258
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T13:27:45.000Z",
+        "description": "我們對他不太認識，但是我們敢保證 咲夜貓 超棒的。\n\n【Twitch 圖奇】https://t.co/P157sZt7vA\n【DC】https://t.co/yKk1SjEca3\n（ last：@sky17_tw ）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "sky17_tw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/sky17_jp",
+                "end": 61,
+                "expanded_url": "http://twitch.tv/sky17_jp",
+                "start": 38,
+                "url": "https://t.co/P157sZt7vA"
+              },
+              {
+                "display_url": "discord.gg/Bg2uUwjg7j",
+                "end": 89,
+                "expanded_url": "http://discord.gg/Bg2uUwjg7j",
+                "start": 66,
+                "url": "https://t.co/yKk1SjEca3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sky17_jp",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sky17_jp",
+                "start": 0,
+                "url": "https://t.co/G7zuOtXQbw"
+              }
+            ]
+          }
+        },
+        "id": "1356232698461777921",
+        "location": "妳家",
+        "name": "咲夜貓🔞Twitch繪圖系實況主",
+        "pinned_tweet_id": "1749720387217404320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764347606493536256/PSJJNIqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 2785,
+          "like_count": 23579,
+          "listed_count": 31,
+          "tweet_count": 10768
+        },
+        "url": "https://t.co/G7zuOtXQbw",
+        "username": "sky17_jp",
+        "verified": false
+      }
+    ]
+  }
+}

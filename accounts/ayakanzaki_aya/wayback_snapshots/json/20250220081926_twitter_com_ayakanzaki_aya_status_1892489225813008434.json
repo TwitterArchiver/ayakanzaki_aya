@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1890850853227008007",
+    "created_at": "2025-02-20T08:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T09:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892489225813008434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1557565078945206272",
+          "start": 0,
+          "username": "yjnxin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892489225813008434",
+    "in_reply_to_user_id": "1557565078945206272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890963025256943802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yjnxin1 我有認真唸書的欸(´･ω･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_1890963018953129984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj4M2NQaAAAzMCI.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1890850853227008007",
+        "created_at": "2025-02-20T08:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T09:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892489225813008434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1557565078945206272",
+              "start": 0,
+              "username": "yjnxin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892489225813008434",
+        "in_reply_to_user_id": "1557565078945206272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890963025256943802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yjnxin1 我有認真唸書的欸(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890963018953129984"
+          ]
+        },
+        "author_id": "1557565078945206272",
+        "conversation_id": "1890850853227008007",
+        "created_at": "2025-02-16T03:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T04:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890963025256943802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUzfRhpJfw",
+              "end": 47,
+              "expanded_url": "https://x.com/yjnxin1/status/1890963025256943802/photo/1",
+              "media_key": "3_1890963018953129984",
+              "start": 24,
+              "url": "https://t.co/TUzfRhpJfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890963025256943802",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890850853227008007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 怎麼可能看書呢 https://t.co/TUzfRhpJfw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6245,
+          "following_count": 974,
+          "like_count": 28943,
+          "listed_count": 16,
+          "media_count": 127,
+          "tweet_count": 18455
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T03:10:48.000Z",
+        "description": "",
+        "id": "1557565078945206272",
+        "name": "胖呆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681840240397524992/tkzp_oAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 647,
+          "like_count": 7751,
+          "listed_count": 1,
+          "media_count": 1588,
+          "tweet_count": 2131
+        },
+        "username": "yjnxin1",
+        "verified": false
+      }
+    ]
+  }
+}

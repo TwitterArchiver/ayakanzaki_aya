@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067764187015557120",
+        "3_2067764216434442240",
+        "3_2067764228010758145",
+        "3_2067764278409535488"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "2067764318662258987",
+    "created_at": "2026-06-19T00:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067764318662258987"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 0,
+          "tag": "2026年自分が選ぶ今年上半期の4枚"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FdbZHSgkkc",
+          "end": 43,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/2067764318662258987/photo/1",
+          "media_key": "3_2067764187015557120",
+          "start": 20,
+          "url": "https://t.co/FdbZHSgkkc"
+        },
+        {
+          "display_url": "pic.x.com/FdbZHSgkkc",
+          "end": 43,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/2067764318662258987/photo/1",
+          "media_key": "3_2067764216434442240",
+          "start": 20,
+          "url": "https://t.co/FdbZHSgkkc"
+        },
+        {
+          "display_url": "pic.x.com/FdbZHSgkkc",
+          "end": 43,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/2067764318662258987/photo/1",
+          "media_key": "3_2067764228010758145",
+          "start": 20,
+          "url": "https://t.co/FdbZHSgkkc"
+        },
+        {
+          "display_url": "pic.x.com/FdbZHSgkkc",
+          "end": 43,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/2067764318662258987/photo/1",
+          "media_key": "3_2067764278409535488",
+          "start": 20,
+          "url": "https://t.co/FdbZHSgkkc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067764318662258987",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#2026年自分が選ぶ今年上半期の4枚 https://t.co/FdbZHSgkkc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1781,
+        "media_key": "3_2067764187015557120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIskpZWMAAk4z8.jpg",
+        "width": 1538
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2067764216434442240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIsmW_WwAAJbyW.jpg",
+        "width": 2633
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2067764228010758145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIsnCHXUAEhmKv.jpg",
+        "width": 1996
+      },
+      {
+        "height": 2090,
+        "media_key": "3_2067764278409535488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIsp93XoAAa2pL.jpg",
+        "width": 3716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067764187015557120",
+            "3_2067764216434442240",
+            "3_2067764228010758145",
+            "3_2067764278409535488"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "2067764318662258987",
+        "created_at": "2026-06-19T00:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067764318662258987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "2026年自分が選ぶ今年上半期の4枚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdbZHSgkkc",
+              "end": 43,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/2067764318662258987/photo/1",
+              "media_key": "3_2067764187015557120",
+              "start": 20,
+              "url": "https://t.co/FdbZHSgkkc"
+            },
+            {
+              "display_url": "pic.x.com/FdbZHSgkkc",
+              "end": 43,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/2067764318662258987/photo/1",
+              "media_key": "3_2067764216434442240",
+              "start": 20,
+              "url": "https://t.co/FdbZHSgkkc"
+            },
+            {
+              "display_url": "pic.x.com/FdbZHSgkkc",
+              "end": 43,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/2067764318662258987/photo/1",
+              "media_key": "3_2067764228010758145",
+              "start": 20,
+              "url": "https://t.co/FdbZHSgkkc"
+            },
+            {
+              "display_url": "pic.x.com/FdbZHSgkkc",
+              "end": 43,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/2067764318662258987/photo/1",
+              "media_key": "3_2067764278409535488",
+              "start": 20,
+              "url": "https://t.co/FdbZHSgkkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067764318662258987",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#2026年自分が選ぶ今年上半期の4枚 https://t.co/FdbZHSgkkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。https://t.co/0bAP4M0U4a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 122,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 99,
+                "url": "https://t.co/0bAP4M0U4a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10075,
+          "following_count": 974,
+          "like_count": 32886,
+          "listed_count": 22,
+          "media_count": 93,
+          "tweet_count": 21472
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

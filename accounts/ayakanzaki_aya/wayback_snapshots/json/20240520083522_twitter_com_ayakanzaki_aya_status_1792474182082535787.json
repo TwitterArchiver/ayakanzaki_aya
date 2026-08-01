@@ -1,0 +1,218 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1791313745014038889",
+    "created_at": "2024-05-20T08:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T09:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792474182082535787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1407864778186379267",
+          "start": 0,
+          "username": "katsukiamaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792474182082535787",
+    "in_reply_to_user_id": "1407864778186379267",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791881418123214872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@katsukiamaru 所以說他們就算不被天敵攻擊也有可能會有皮膚癌（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1791313745014038889",
+        "created_at": "2024-05-20T08:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T09:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792474182082535787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1407864778186379267",
+              "start": 0,
+              "username": "katsukiamaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792474182082535787",
+        "in_reply_to_user_id": "1407864778186379267",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791881418123214872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@katsukiamaru 所以說他們就算不被天敵攻擊也有可能會有皮膚癌（？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1407864778186379267",
+        "conversation_id": "1791313745014038889",
+        "created_at": "2024-05-18T17:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T18:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791881418123214872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791881418123214872",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791313745014038889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 聽說白化症因為黑色素缺乏所以很容易曬傷 不知道真的假的 就是有這個印象 也忘記從哪裡聽的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3784,
+          "following_count": 993,
+          "like_count": 23624,
+          "listed_count": 10,
+          "tweet_count": 13151
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T00:55:08.000Z",
+        "description": "大家好 我是香月アマル 姑且算是個V 直播時間不固定 開台全看心情 平時主要直播遊戲 我也喜歡唱歌 畫畫 但唱歌唱的不太好 畫畫也是 我的推特主要會是紀錄我練習畫畫的過程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/katsukiamaru",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/katsukiamaru",
+                "start": 0,
+                "url": "https://t.co/HlC0gwQSeH"
+              }
+            ]
+          }
+        },
+        "id": "1407864778186379267",
+        "name": "香月アマル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787353263391821824/cdkXoK13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 550,
+          "like_count": 2484,
+          "listed_count": 0,
+          "tweet_count": 2051
+        },
+        "url": "https://t.co/HlC0gwQSeH",
+        "username": "katsukiamaru",
+        "verified": false
+      }
+    ]
+  }
+}

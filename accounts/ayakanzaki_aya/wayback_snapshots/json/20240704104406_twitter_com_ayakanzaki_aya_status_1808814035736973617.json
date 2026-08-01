@@ -1,0 +1,243 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1808581271859433525",
+    "created_at": "2024-07-04T10:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T11:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808814035736973617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "942643767370072064",
+          "start": 0,
+          "username": "Hifat2_tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808814035736973617",
+    "in_reply_to_user_id": "942643767370072064",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808581271859433525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hifat2_tw 沒錯好好珍惜👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1808581271859433525",
+        "created_at": "2024-07-04T10:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T11:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808814035736973617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "942643767370072064",
+              "start": 0,
+              "username": "Hifat2_tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808814035736973617",
+        "in_reply_to_user_id": "942643767370072064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808581271859433525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hifat2_tw 沒錯好好珍惜👍🏻"
+      },
+      {
+        "attachments": {},
+        "author_id": "942643767370072064",
+        "conversation_id": "1808581271859433525",
+        "created_at": "2024-07-03T19:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T20:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808581271859433525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_Chan_Pal/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/B_Chan_Pal/status/1808520978902966354",
+              "start": 28,
+              "url": "https://t.co/dKXJmJ6lg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808581271859433525",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13052,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808520978902966354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欸?看到這個仔細想了一下, 原來我是少數有鼻孔的嗎(? https://t.co/dKXJmJ6lg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3903,
+          "following_count": 994,
+          "like_count": 24779,
+          "listed_count": 10,
+          "tweet_count": 14273
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-18T06:32:42.000Z",
+        "description": "📢Vtype：乙叶大二 👘宿主：小二\n二胡樂師、Twitch Partner實況主\n2024/2/22 初配信\n🎧音樂頻道：https://t.co/TRmKuPRmHk\nTwitch：是小二不是店小二 (hihifat2)\n繪師媽媽：@WaniZavir Live2D爸爸：@huacha_oc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "WaniZavir"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "username": "huacha_oc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@hifat2music",
+                "end": 85,
+                "expanded_url": "http://youtube.com/@hifat2music",
+                "start": 62,
+                "url": "https://t.co/TRmKuPRmHk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/hifat2",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/hifat2",
+                "start": 0,
+                "url": "https://t.co/3tgmlyv8sv"
+              }
+            ]
+          }
+        },
+        "id": "942643767370072064",
+        "location": "台灣",
+        "name": "小二Hifat2🎧Vtype二胡樂師🎵 古風合作👋各式連動邀約歡迎❤️",
+        "pinned_tweet_id": "1761131482133963076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759333599369973760/w5-JcsGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 1717,
+          "like_count": 19700,
+          "listed_count": 2,
+          "tweet_count": 3963
+        },
+        "url": "https://t.co/3tgmlyv8sv",
+        "username": "Hifat2_tw",
+        "verified": false
+      }
+    ]
+  }
+}

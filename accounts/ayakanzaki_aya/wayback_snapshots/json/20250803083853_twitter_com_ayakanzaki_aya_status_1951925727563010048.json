@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1950394759836835889",
+    "created_at": "2025-08-03T08:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T09:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951925727563010048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750061588986675200",
+          "start": 0,
+          "username": "kssk102525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951925727563010048",
+    "in_reply_to_user_id": "1750061588986675200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950458064496394388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kssk102525 畢竟那是事實wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1950394759836835889",
+        "created_at": "2025-08-03T08:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951925727563010048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750061588986675200",
+              "start": 0,
+              "username": "kssk102525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951925727563010048",
+        "in_reply_to_user_id": "1750061588986675200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950458064496394388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kssk102525 畢竟那是事實wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750061588986675200",
+        "conversation_id": "1950394759836835889",
+        "created_at": "2025-07-30T07:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T08:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950458064496394388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950458064496394388",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1233,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950394759836835889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 賞味期限也太牙白w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1947849554436477231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8297,
+          "following_count": 996,
+          "like_count": 31455,
+          "listed_count": 19,
+          "media_count": 57,
+          "tweet_count": 20236
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T07:43:21.000Z",
+        "description": "👾💤",
+        "id": "1750061588986675200",
+        "location": "New Taipei City, Taiwan",
+        "name": "洋洋👾💤",
+        "pinned_tweet_id": "1932702899228062028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923641629748912128/dlMlzC5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 819,
+          "like_count": 34404,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 2660
+        },
+        "username": "kssk102525",
+        "verified": false
+      }
+    ]
+  }
+}

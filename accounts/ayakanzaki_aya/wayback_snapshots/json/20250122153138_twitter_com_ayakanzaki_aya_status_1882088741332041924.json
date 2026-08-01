@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1881530385160601894",
+    "created_at": "2025-01-22T15:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T16:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882088741332041924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489847068591943681",
+          "start": 0,
+          "username": "jaysu0722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882088741332041924",
+    "in_reply_to_user_id": "1489847068591943681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881532866401816880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaysu0722 我很有趣啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1881530385160601894",
+        "created_at": "2025-01-22T15:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T16:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882088741332041924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489847068591943681",
+              "start": 0,
+              "username": "jaysu0722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882088741332041924",
+        "in_reply_to_user_id": "1489847068591943681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881532866401816880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaysu0722 我很有趣啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881532861481988096"
+          ]
+        },
+        "author_id": "1489847068591943681",
+        "conversation_id": "1881530385160601894",
+        "created_at": "2025-01-21T02:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T03:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881532866401816880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpLrSNxrHG",
+              "end": 39,
+              "expanded_url": "https://x.com/jaysu0722/status/1881532866401816880/photo/1",
+              "media_key": "3_1881532861481988096",
+              "start": 16,
+              "url": "https://t.co/vpLrSNxrHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881532866401816880",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881530385160601894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya https://t.co/vpLrSNxrHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 991,
+          "like_count": 28098,
+          "listed_count": 10,
+          "media_count": 122,
+          "tweet_count": 17673
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T06:23:41.000Z",
+        "description": "",
+        "id": "1489847068591943681",
+        "location": "Taiwan",
+        "name": "蘇某",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755499390079524864/cIljenkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 289,
+          "like_count": 4615,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 511
+        },
+        "username": "jaysu0722",
+        "verified": false
+      }
+    ]
+  }
+}

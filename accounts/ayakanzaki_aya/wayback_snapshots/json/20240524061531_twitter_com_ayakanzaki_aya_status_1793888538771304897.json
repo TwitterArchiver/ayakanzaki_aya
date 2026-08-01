@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1793512022342357450",
+    "created_at": "2024-05-24T06:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T07:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793888538771304897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1313090775077449730",
+          "start": 0,
+          "username": "_uz_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793888538771304897",
+    "in_reply_to_user_id": "1313090775077449730",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793594809900511312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_uz_owo 老師你好！！我是你的粉絲！！你畫的圖都好好看！！！(*≧ω≦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1793512022342357450",
+        "created_at": "2024-05-24T06:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T07:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793888538771304897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1313090775077449730",
+              "start": 0,
+              "username": "_uz_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793888538771304897",
+        "in_reply_to_user_id": "1313090775077449730",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793594809900511312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_uz_owo 老師你好！！我是你的粉絲！！你畫的圖都好好看！！！(*≧ω≦)"
+      },
+      {
+        "attachments": {},
+        "author_id": "1313090775077449730",
+        "conversation_id": "1793512022342357450",
+        "created_at": "2024-05-23T10:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T11:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793594809900511312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793594809900511312",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793512022342357450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 老師您好 初次見面 請多多指教((((("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 993,
+          "like_count": 23690,
+          "listed_count": 10,
+          "tweet_count": 13216
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T12:17:01.000Z",
+        "description": "Taiwan 18y+1+1｜我叫紆織/ㄩㄓ｜v皮緩慢進行中｜畫圖｜成分複雜｜一堆廢推注意｜Q版委託私訊DC｜DC：_uz_potato ｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/_uz_owo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/_uz_owo",
+                "start": 0,
+                "url": "https://t.co/UyCQoajwzI"
+              }
+            ]
+          }
+        },
+        "id": "1313090775077449730",
+        "location": "Taiwan",
+        "name": "紆織@委託的狗畫皮的狗汪",
+        "pinned_tweet_id": "1748636234388586975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780643453074051072/EcOuxpT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 726,
+          "like_count": 16650,
+          "listed_count": 6,
+          "tweet_count": 6027
+        },
+        "url": "https://t.co/UyCQoajwzI",
+        "username": "_uz_owo",
+        "verified": false
+      }
+    ]
+  }
+}

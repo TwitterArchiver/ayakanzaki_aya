@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1831591808486261032",
+    "created_at": "2024-09-08T09:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T10:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832708124077072600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "901610762958888961",
+          "start": 0,
+          "username": "life777nice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832708124077072600",
+    "in_reply_to_user_id": "901610762958888961",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831633117687509095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@life777nice 沒啦 就是客家人想法覺得賺了而已w\n飯還是有好好吃的 也沒有為了維持髮色而故意弄的營養不良"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1831591808486261032",
+        "created_at": "2024-09-08T09:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T10:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832708124077072600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "901610762958888961",
+              "start": 0,
+              "username": "life777nice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832708124077072600",
+        "in_reply_to_user_id": "901610762958888961",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831633117687509095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@life777nice 沒啦 就是客家人想法覺得賺了而已w\n飯還是有好好吃的 也沒有為了維持髮色而故意弄的營養不良"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901610762958888961",
+        "conversation_id": "1831591808486261032",
+        "created_at": "2024-09-05T09:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T10:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831633117687509095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831633117687509095",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831591808486261032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 欸~~不是!!!\n你別鬧啊XDDD\n這好像不是客家不客家人的問題www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "┊15歳高校一年生꜀(^. .^꜀ )꜆੭ \n┊イラストとベース弾たりいます✐⋆꙳⋆\n┊ご依賴受付中✧ \n┊https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 77,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 54,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 983,
+          "like_count": 25965,
+          "listed_count": 9,
+          "tweet_count": 15425
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-27T01:02:11.000Z",
+        "description": "",
+        "id": "901610762958888961",
+        "name": "黑心豆漿（life777nice）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816700681119760386/qe0eqKoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 244,
+          "like_count": 4393,
+          "listed_count": 0,
+          "tweet_count": 2984
+        },
+        "username": "life777nice",
+        "verified": false
+      }
+    ]
+  }
+}

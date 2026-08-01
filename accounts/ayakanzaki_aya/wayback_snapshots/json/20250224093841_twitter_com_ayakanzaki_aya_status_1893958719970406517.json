@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1893668427912376747",
+    "created_at": "2025-02-24T09:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T10:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893958719970406517"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "恭喜",
+          "probability": 0.5036,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695992179058225152",
+          "start": 0,
+          "username": "Rakusei0605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893958719970406517",
+    "in_reply_to_user_id": "1695992179058225152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893668427912376747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rakusei0605 恭喜！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893668419679158272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkepZQVaAAAog2E.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1893668427912376747",
+        "created_at": "2025-02-24T09:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T10:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893958719970406517"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜",
+              "probability": 0.5036,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695992179058225152",
+              "start": 0,
+              "username": "Rakusei0605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893958719970406517",
+        "in_reply_to_user_id": "1695992179058225152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893668427912376747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rakusei0605 恭喜！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893668419679158272"
+          ]
+        },
+        "author_id": "1695992179058225152",
+        "conversation_id": "1893668427912376747",
+        "created_at": "2025-02-23T14:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T15:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893668427912376747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6CJQLxXY2",
+              "end": 130,
+              "expanded_url": "https://x.com/Rakusei0605/status/1893668427912376747/photo/1",
+              "media_key": "3_1893668419679158272",
+              "start": 107,
+              "url": "https://t.co/a6CJQLxXY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893668427912376747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1028,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "感謝大家的支持！\n沒想到我居然破200追隨啦！\n（都不知道停在100多多久了\n真的超級謝謝大家\n原諒我現在沒辦法給各位粉絲福利\n（我欠的債還沒有還完😭\n之後如果有機會破300追隨\n到時候再看看吧🫵\n愛你們呦～🫶💕 https://t.co/a6CJQLxXY2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "16さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943509473787904/amEOc6Qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6247,
+          "following_count": 976,
+          "like_count": 29147,
+          "listed_count": 16,
+          "media_count": 128,
+          "tweet_count": 18655
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T02:50:42.000Z",
+        "description": "台灣社團勢Vtuber中○/英△/日△/台△粉絲名：星喵☆⁠ Fanart tag：#繪星（R18🚫）/萬用tag：#洛星貓 #洛星 日常小漫：不定時更新，tag：#星日常 圖奇：https://t.co/H1KY51kcMV YT在下方⬇️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "繪星"
+              },
+              {
+                "end": 62,
+                "start": 58,
+                "tag": "洛星貓"
+              },
+              {
+                "end": 66,
+                "start": 63,
+                "tag": "洛星"
+              },
+              {
+                "end": 86,
+                "start": 82,
+                "tag": "星日常"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/rakusei0605",
+                "end": 113,
+                "expanded_url": "http://twitch.tv/rakusei0605",
+                "start": 90,
+                "url": "https://t.co/H1KY51kcMV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@amane_rakusei…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@amane_rakusei?si=Zx52cOlftUSXIkfI",
+                "start": 0,
+                "url": "https://t.co/9gQIUQHGvg"
+              }
+            ]
+          }
+        },
+        "id": "1695992179058225152",
+        "name": "天音洛星☆⁠ 個人勢Vtuber 【初配信準備/活動進行中】",
+        "pinned_tweet_id": "1892472042756133048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762665429359857664/LGbwLRDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 33,
+          "like_count": 13058,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 2424
+        },
+        "url": "https://t.co/9gQIUQHGvg",
+        "username": "Rakusei0605",
+        "verified": false
+      }
+    ]
+  }
+}

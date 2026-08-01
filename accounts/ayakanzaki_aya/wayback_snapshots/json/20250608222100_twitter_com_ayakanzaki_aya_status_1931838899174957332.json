@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1928184344998212080",
+    "created_at": "2025-06-08T22:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T23:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931838899174957332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880751130646634496",
+          "start": 0,
+          "username": "HikaruCrescent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931838899174957332",
+    "in_reply_to_user_id": "1880751130646634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928229755184115942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HikaruCrescent 確實是這樣沒錯 但對於喜歡思考故事的邏輯跟設定的人來説這也不失為一種魅力！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1928184344998212080",
+        "created_at": "2025-06-08T22:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T23:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931838899174957332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880751130646634496",
+              "start": 0,
+              "username": "HikaruCrescent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931838899174957332",
+        "in_reply_to_user_id": "1880751130646634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928229755184115942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HikaruCrescent 確實是這樣沒錯 但對於喜歡思考故事的邏輯跟設定的人來説這也不失為一種魅力！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880751130646634496",
+        "conversation_id": "1928184344998212080",
+        "created_at": "2025-05-29T23:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T00:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928229755184115942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928229755184115942",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928184344998212080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 有一說一，只看了第一期的魔禁動畫對現在魔禁又新約舊約創約每個版本不同，看別人討論都一堆論文的\n真的很難"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6771,
+          "following_count": 999,
+          "like_count": 30716,
+          "listed_count": 19,
+          "media_count": 55,
+          "tweet_count": 19890
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T22:56:35.000Z",
+        "description": "來至M852星雲的夫妻勢兩隻アルマ🐈🐺，目前預定只有在youtube上實況！主要以粵語來實況，希望能陪伴大家生活，成為大家的避風塘 ／樹洞。 光琉 日本語⭕ English🔻 月玡 English⭕ 貓心光琉：立繪媽媽 @zukuaoi 建模爸爸 @akafireinlive2d 琉璃月玡：黑米組長",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 110,
+                "username": "zukuaoi"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "akafireinlive2d"
+              }
+            ]
+          }
+        },
+        "id": "1880751130646634496",
+        "name": "［夫婦Vtuber］🌠 貓心光琉 & 琉璃月玡🌙 ch.［5月31日初配信！］",
+        "pinned_tweet_id": "1918467211867382056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916622207737905152/XttLTSsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 229,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 779
+        },
+        "username": "HikaruCrescent",
+        "verified": false
+      }
+    ]
+  }
+}

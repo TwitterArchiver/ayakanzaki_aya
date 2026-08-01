@@ -1,0 +1,799 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973705983269765120",
+        "3_1973705983101952001"
+      ],
+      "media_source_tweet_id": [
+        "1973705990072848808",
+        "1973705990072848808"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1973919623956607201",
+    "created_at": "2025-10-03T01:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T02:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973919623956607201"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "乃のの様",
+          "probability": 0.7111,
+          "start": 30,
+          "type": "Person"
+        },
+        {
+          "end": 59,
+          "normalized_text": "IRIS OUT",
+          "probability": 0.3167,
+          "start": 52,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 35,
+          "tag": "_nonono_nono"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1603624190124269568",
+          "start": 3,
+          "username": "doghyu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HiNi0JV9YI",
+          "end": 126,
+          "expanded_url": "https://x.com/doghyu_/status/1973705990072848808/photo/1",
+          "media_key": "3_1973705983269765120",
+          "start": 103,
+          "url": "https://t.co/HiNi0JV9YI"
+        },
+        {
+          "display_url": "pic.x.com/HiNi0JV9YI",
+          "end": 126,
+          "expanded_url": "https://x.com/doghyu_/status/1973705990072848808/photo/1",
+          "media_key": "3_1973705983101952001",
+          "start": 103,
+          "url": "https://t.co/HiNi0JV9YI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973919623956607201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973705990072848808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doghyu_: [Works]\nミリプロ所属 音ノ乃のの様(#_nonono_nono)\nの[IRIS OUT]歌ってみたイラストを担当しました。かっこいい声が大好きです。 ぜひ聞いてください！ https://t.co/HiNi0JV9YI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_1973705983269765120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2QDInfbgAAla0-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1754,
+        "media_key": "3_1973705983101952001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2QDIm3a4AEF8js.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973705983269765120",
+            "3_1973705983101952001"
+          ],
+          "media_source_tweet_id": [
+            "1973705990072848808",
+            "1973705990072848808"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1973919623956607201",
+        "created_at": "2025-10-03T01:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T02:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973919623956607201"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "乃のの様",
+              "probability": 0.7111,
+              "start": 30,
+              "type": "Person"
+            },
+            {
+              "end": 59,
+              "normalized_text": "IRIS OUT",
+              "probability": 0.3167,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 35,
+              "tag": "_nonono_nono"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1603624190124269568",
+              "start": 3,
+              "username": "doghyu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HiNi0JV9YI",
+              "end": 126,
+              "expanded_url": "https://x.com/doghyu_/status/1973705990072848808/photo/1",
+              "media_key": "3_1973705983269765120",
+              "start": 103,
+              "url": "https://t.co/HiNi0JV9YI"
+            },
+            {
+              "display_url": "pic.x.com/HiNi0JV9YI",
+              "end": 126,
+              "expanded_url": "https://x.com/doghyu_/status/1973705990072848808/photo/1",
+              "media_key": "3_1973705983101952001",
+              "start": 103,
+              "url": "https://t.co/HiNi0JV9YI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973919623956607201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973705990072848808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doghyu_: [Works]\nミリプロ所属 音ノ乃のの様(#_nonono_nono)\nの[IRIS OUT]歌ってみたイラストを担当しました。かっこいい声が大好きです。 ぜひ聞いてください！ https://t.co/HiNi0JV9YI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973705983269765120",
+            "3_1973705983101952001"
+          ]
+        },
+        "author_id": "1603624190124269568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1973705990072848808",
+        "created_at": "2025-10-02T11:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T12:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973705990072848808"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "乃のの様",
+              "probability": 0.6753,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "IRIS OUT",
+              "probability": 0.3297,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 22,
+              "tag": "_nonono_nono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HiNi0JV9YI",
+              "end": 113,
+              "expanded_url": "https://x.com/doghyu_/status/1973705990072848808/photo/1",
+              "media_key": "3_1973705983269765120",
+              "start": 90,
+              "url": "https://t.co/HiNi0JV9YI"
+            },
+            {
+              "display_url": "pic.x.com/HiNi0JV9YI",
+              "end": 113,
+              "expanded_url": "https://x.com/doghyu_/status/1973705990072848808/photo/1",
+              "media_key": "3_1973705983101952001",
+              "start": 90,
+              "url": "https://t.co/HiNi0JV9YI"
+            },
+            {
+              "display_url": "x.com/_nonono_nono/s…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/_nonono_nono/status/1973539461477847234",
+              "start": 114,
+              "url": "https://t.co/XXNeLaFAo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973705990072848808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 93573,
+          "like_count": 1831,
+          "quote_count": 8,
+          "reply_count": 51,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973539461477847234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "[Works]\nミリプロ所属 音ノ乃のの様(#_nonono_nono)\nの[IRIS OUT]歌ってみたイラストを担当しました。かっこいい声が大好きです。 ぜひ聞いてください！ https://t.co/HiNi0JV9YI https://t.co/XXNeLaFAo0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "1967805324586533227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971477595100184576/WL-P5A6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8319,
+          "following_count": 964,
+          "like_count": 31783,
+          "listed_count": 19,
+          "media_count": 79,
+          "tweet_count": 20509
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-16T05:33:08.000Z",
+        "description": "❌NO AI❌  Illustrator\n🌸イラストのお仕事募集中 : doghyukim@gmail.com \n🌸Fanbox: https://t.co/RHDemNI3Dk\n🌸Sub: @doghyusecret_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "doghyusecret_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "doghyu.fanbox.cc",
+                "end": 89,
+                "expanded_url": "https://doghyu.fanbox.cc/",
+                "start": 66,
+                "url": "https://t.co/RHDemNI3Dk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/36988088",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/36988088",
+                "start": 0,
+                "url": "https://t.co/po1D21zRWF"
+              }
+            ]
+          }
+        },
+        "id": "1603624190124269568",
+        "location": "インターネット",
+        "name": "ゲヒョ🌸/개혀 C107",
+        "pinned_tweet_id": "1973705990072848808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760526417706835968/3u-9cPQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24253,
+          "following_count": 1517,
+          "like_count": 75113,
+          "listed_count": 135,
+          "media_count": 409,
+          "tweet_count": 6570
+        },
+        "url": "https://t.co/po1D21zRWF",
+        "username": "doghyu_",
+        "verified": true
+      }
+    ]
+  }
+}

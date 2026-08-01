@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2067903502006059421",
+    "created_at": "2026-06-19T23:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T00:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068116514285183354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936779927539585024",
+          "start": 0,
+          "username": "Crispy_saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068116514285183354",
+    "in_reply_to_user_id": "1936779927539585024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067903502006059421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crispy_saki 完璧。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2838,
+        "media_key": "3_2067903494066208768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKrRYmbAAACioG.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2067903502006059421",
+        "created_at": "2026-06-19T23:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068116514285183354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936779927539585024",
+              "start": 0,
+              "username": "Crispy_saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068116514285183354",
+        "in_reply_to_user_id": "1936779927539585024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067903502006059421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crispy_saki 完璧。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067903494066208768"
+          ]
+        },
+        "author_id": "1936779927539585024",
+        "conversation_id": "2067903502006059421",
+        "created_at": "2026-06-19T09:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067903502006059421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQeFJOTxiZ",
+              "end": 23,
+              "expanded_url": "https://x.com/Crispy_saki/status/2067903502006059421/photo/1",
+              "media_key": "3_2067903494066208768",
+              "start": 0,
+              "url": "https://t.co/cQeFJOTxiZ"
+            },
+            {
+              "display_url": "x.com/maid_pelori/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/maid_pelori/status/2066760278558302679",
+              "start": 24,
+              "url": "https://t.co/g3HxKD7XSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067903502006059421",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 16643,
+          "like_count": 441,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066760278558302679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/cQeFJOTxiZ https://t.co/g3HxKD7XSY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw88YH\nFANBOX：https://t.co/yhbghbkFby\nたまに。。。https://t.co/0bAP4M0U4a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 38,
+                "url": "https://t.co/Aqt4Xw88YH"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 92,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 69,
+                "url": "https://t.co/yhbghbkFby"
+              },
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 122,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 99,
+                "url": "https://t.co/0bAP4M0U4a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9RBU"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10136,
+          "following_count": 975,
+          "like_count": 32888,
+          "listed_count": 22,
+          "media_count": 93,
+          "tweet_count": 21476
+        },
+        "url": "https://t.co/z3yK0o9RBU",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T13:35:00.000Z",
+        "description": "06(05)/ヨルシカ/ずとまよ/Eve/ 何卒何卒🎸",
+        "id": "1936779927539585024",
+        "name": "Crispy ◂Ⓘ▸",
+        "pinned_tweet_id": "2023317657265869285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008026050794856448/anu-Ixy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 1995,
+          "like_count": 9687,
+          "listed_count": 9,
+          "media_count": 494,
+          "tweet_count": 1766
+        },
+        "url": "",
+        "username": "Crispy_saki",
+        "verified": false
+      }
+    ]
+  }
+}

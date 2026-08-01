@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053679749340291072"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "conversation_id": "2053679775831433460",
+    "created_at": "2026-05-11T03:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053679775831433460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xNc0Pu2Qh",
+          "end": 28,
+          "expanded_url": "https://x.com/ayakanzaki_aya/status/2053679775831433460/photo/1",
+          "media_key": "3_2053679749340291072",
+          "start": 5,
+          "url": "https://t.co/7xNc0Pu2Qh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053679775831433460",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。。。蛤 https://t.co/7xNc0Pu2Qh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 599,
+        "media_key": "3_2053679749340291072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAi2eXXYAAig_j.png",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053679749340291072"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "conversation_id": "2053679775831433460",
+        "created_at": "2026-05-11T03:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053679775831433460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xNc0Pu2Qh",
+              "end": 28,
+              "expanded_url": "https://x.com/ayakanzaki_aya/status/2053679775831433460/photo/1",
+              "media_key": "3_2053679749340291072",
+              "start": 5,
+              "url": "https://t.co/7xNc0Pu2Qh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053679775831433460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。。蛤 https://t.co/7xNc0Pu2Qh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "気づいてくれてありがと。\n高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊お仕事募集中\nPixiv：https://t.co/Aqt4Xw7B99┊FANBOX：https://t.co/yhbghbk7m0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 76,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 53,
+                "url": "https://t.co/Aqt4Xw7B99"
+              },
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 107,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 84,
+                "url": "https://t.co/yhbghbk7m0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2043532600254275763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9277,
+          "following_count": 969,
+          "like_count": 32783,
+          "listed_count": 22,
+          "media_count": 85,
+          "tweet_count": 21343
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      }
+    ]
+  }
+}

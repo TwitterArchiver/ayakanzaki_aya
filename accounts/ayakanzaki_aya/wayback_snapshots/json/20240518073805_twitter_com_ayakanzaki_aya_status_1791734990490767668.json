@@ -1,0 +1,286 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1791313745014038889",
+    "created_at": "2024-05-18T07:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T08:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791734990490767668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1770092222501068801",
+          "start": 0,
+          "username": "ganamhk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791734990490767668",
+    "in_reply_to_user_id": "1770092222501068801",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791333943415108090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ganamhk 原來！！疑惑終於被解答了！謝謝你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1791313745014038889",
+        "created_at": "2024-05-18T07:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T08:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791734990490767668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1770092222501068801",
+              "start": 0,
+              "username": "ganamhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791734990490767668",
+        "in_reply_to_user_id": "1770092222501068801",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791333943415108090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ganamhk 原來！！疑惑終於被解答了！謝謝你！！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1770092222501068801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "1791313745014038889",
+        "created_at": "2024-05-17T05:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T06:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791333943415108090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791333943415108090",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791313745014038889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 一般動物身上的毛髮有花紋或保護色\n可以讓他們躲在草叢等地方獵食/躲避天敵\n白化症動物就像活靶一樣\n身上的毛髮起不了幫助躲藏的作用\n自然會被大自然淘汰\n相反白鯨主要生活在北極及亞北極地區\n這些地方都是白茫茫一片的\n天生白色有助他們融入環境\n類似的動物大概是北極熊（也是天敵）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 61,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 38,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到6月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 993,
+          "like_count": 23592,
+          "listed_count": 10,
+          "tweet_count": 13122
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T14:17:35.000Z",
+        "description": "🇭🇰バ美肉個人勢 |\n👾來自268號宇宙的黑客 & 機械鸚鵡🦜 |\n 神機醫(ママ)🩺：@aduoHOME |\nYouTube💻：\nhttps://t.co/7LmVKTxjuI\n\n#HKVtuber  #Vtuber #港V #準備中Vtuber",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 91,
+                "tag": "HKVtuber"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "Vtuber"
+              },
+              {
+                "end": 113,
+                "start": 110,
+                "tag": "港V"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "tag": "準備中Vtuber"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "aduoHOME"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@ganamhk",
+                "end": 89,
+                "expanded_url": "http://youtube.com/@ganamhk",
+                "start": 66,
+                "url": "https://t.co/7LmVKTxjuI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ganamkanan",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ganamkanan",
+                "start": 0,
+                "url": "https://t.co/eZaqSeejoA"
+              }
+            ]
+          }
+        },
+        "id": "1770092222501068801",
+        "location": "852番宇宙の香港",
+        "name": "👾加南カナン🦜【HKVtuber準備中】",
+        "pinned_tweet_id": "1786715479740154116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781197808126816256/8AUECzUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 208,
+          "like_count": 6231,
+          "listed_count": 0,
+          "tweet_count": 852
+        },
+        "url": "https://t.co/eZaqSeejoA",
+        "username": "ganamhk",
+        "verified": true
+      }
+    ]
+  }
+}

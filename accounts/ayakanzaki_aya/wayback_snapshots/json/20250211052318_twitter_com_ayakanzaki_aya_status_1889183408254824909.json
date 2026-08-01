@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1888473640309580077",
+    "created_at": "2025-02-11T05:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T06:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889183408254824909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1573603779513307137",
+          "start": 0,
+          "username": "mao_eyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889183408254824909",
+    "in_reply_to_user_id": "1573603779513307137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888568767346794641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mao_eyu 一天都不到就被你們扒個精光了你要我怎麽辦（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1888473640309580077",
+        "created_at": "2025-02-11T05:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T06:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889183408254824909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1573603779513307137",
+              "start": 0,
+              "username": "mao_eyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889183408254824909",
+        "in_reply_to_user_id": "1573603779513307137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888568767346794641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mao_eyu 一天都不到就被你們扒個精光了你要我怎麽辦（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573603779513307137",
+        "conversation_id": "1888473640309580077",
+        "created_at": "2025-02-09T12:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T13:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888568767346794641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888568767346794641",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888473640309580077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 色！\n我以為不同階段會有不同的圖\n沒想到直接被扒光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭\n❖AI学習 · 無断使用 · 無断転載 · 全部禁止❖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1869247657853727010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874506906754015232/lGJ_3FS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6191,
+          "following_count": 993,
+          "like_count": 28682,
+          "listed_count": 16,
+          "media_count": 126,
+          "tweet_count": 18208
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T09:22:41.000Z",
+        "description": "初めまして✨ 俺の名前はマオエユだ！マヨもいいだよ～ あと！俺は300歳のショタ魔王様 今後もよろしく✨ （初次見面✨我的名字是瑪歐依幽，可以叫我麻油就好～還有我是300歲的正太魔王大人，今後也請多多指教✨）（日本語勉強中）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@maoeyu_ch.si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@maoeyu_ch.si=am1VqQ7m3zitEDdJ",
+                "start": 0,
+                "url": "https://t.co/ML4sGpXbOX"
+              }
+            ]
+          }
+        },
+        "id": "1573603779513307137",
+        "name": "瑪歐依幽 MaoEyu.ch（愛哭鬼魔王）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780475787113906176/sxHj751__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 3564,
+          "like_count": 22605,
+          "listed_count": 0,
+          "media_count": 1344,
+          "tweet_count": 22135
+        },
+        "url": "https://t.co/ML4sGpXbOX",
+        "username": "mao_eyu",
+        "verified": false
+      }
+    ]
+  }
+}

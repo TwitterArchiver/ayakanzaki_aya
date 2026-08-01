@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1836990408175276060",
+    "created_at": "2024-10-04T05:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T06:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842071733815140470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "4614732913",
+          "start": 0,
+          "username": "xrj0526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842071733815140470",
+    "in_reply_to_user_id": "4614732913",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841047357355671714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xrj0526 笑死wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-10-04T05:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T06:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842071733815140470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4614732913",
+              "start": 0,
+              "username": "xrj0526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842071733815140470",
+        "in_reply_to_user_id": "4614732913",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841047357355671714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xrj0526 笑死wwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841047349747204096"
+          ]
+        },
+        "author_id": "4614732913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1836990408175276060",
+        "created_at": "2024-10-01T09:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T10:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841047357355671714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zueF94hjEV",
+              "end": 48,
+              "expanded_url": "https://x.com/xrj0526/status/1841047357355671714/photo/1",
+              "media_key": "3_1841047349747204096",
+              "start": 25,
+              "url": "https://t.co/zueF94hjEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841047357355671714",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841005911898247622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 我找到了！（小誤 https://t.co/zueF94hjEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15さい。ねこ、紫と絵✐⋆꙳⋆ ✧\nお仕事の依頼DMください \nよろしくお願いします꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1838823866614923552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 978,
+          "like_count": 26597,
+          "listed_count": 10,
+          "tweet_count": 16065
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-20T18:31:06.000Z",
+        "description": "我是誰？\n比阿里山神木還要木頭的中央空調...吧...",
+        "id": "4614732913",
+        "location": "地球村臺灣島彰化市",
+        "name": "江小魚兒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678021923794726913/tB3Dxw6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 371,
+          "like_count": 29458,
+          "listed_count": 0,
+          "tweet_count": 2756
+        },
+        "username": "xrj0526",
+        "verified": false
+      }
+    ]
+  }
+}

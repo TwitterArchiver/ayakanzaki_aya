@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      }
+    ],
+    "conversation_id": "1959082775220211771",
+    "created_at": "2025-08-23T02:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T03:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959082775220211771"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 92,
+          "normalized_text": "SUGAR GOSPEL ver.",
+          "probability": 0.4914,
+          "start": 76,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1884987763994640385",
+          "start": 3,
+          "username": "CREOSIS_info"
+        },
+        {
+          "end": 142,
+          "id": "1884987763994640385",
+          "start": 129,
+          "username": "CREOSIS_info"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959082775220211771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2171
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958831519927050504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CREOSIS_info: ✨【フォロー&amp;リポストキャンペーン】✨\n\nrurudo先生オリジナルキャラクター\n1/6スケールフィギュア「SUGAR GOSPEL ver.」を\n抽選で1名様にプレゼント🎁\n\n【応募方法】\n1️⃣ 本アカウント（@CREOSIS_info）…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_1957807668195962880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyuHs4lbMAAF0Zq.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "1959082775220211771",
+        "created_at": "2025-08-23T02:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T03:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959082775220211771"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 92,
+              "normalized_text": "SUGAR GOSPEL ver.",
+              "probability": 0.4914,
+              "start": 76,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1884987763994640385",
+              "start": 3,
+              "username": "CREOSIS_info"
+            },
+            {
+              "end": 142,
+              "id": "1884987763994640385",
+              "start": 129,
+              "username": "CREOSIS_info"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959082775220211771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2171
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958831519927050504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CREOSIS_info: ✨【フォロー&amp;リポストキャンペーン】✨\n\nrurudo先生オリジナルキャラクター\n1/6スケールフィギュア「SUGAR GOSPEL ver.」を\n抽選で1名様にプレゼント🎁\n\n【応募方法】\n1️⃣ 本アカウント（@CREOSIS_info）…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957807668195962880"
+          ]
+        },
+        "author_id": "1884987763994640385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "1958831519927050504",
+        "created_at": "2025-08-22T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958831519927050504"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 74,
+              "normalized_text": "SUGAR GOSPEL ver.",
+              "probability": 0.5764,
+              "start": 58,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 124,
+              "id": "1884987763994640385",
+              "start": 111,
+              "username": "CREOSIS_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XDZAhvMFh",
+              "end": 191,
+              "expanded_url": "https://x.com/CREOSIS_info/status/1958831519927050504/photo/1",
+              "media_key": "3_1957807668195962880",
+              "start": 168,
+              "url": "https://t.co/6XDZAhvMFh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958831519927050504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 198,
+                "start": 191,
+                "tag": "rurudo"
+              },
+              {
+                "end": 205,
+                "start": 200,
+                "tag": "シュガー"
+              },
+              {
+                "end": 212,
+                "start": 206,
+                "tag": "フィギュア"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 120,
+                "id": "1884987763994640385",
+                "start": 107,
+                "username": "CREOSIS_info"
+              }
+            ]
+          },
+          "text": "✨【フォロー&リポストキャンペーン】✨\n\nrurudo先生オリジナルキャラクター\n1/6スケールフィギュア「SUGAR GOSPEL ver.」を\n抽選で1名様にプレゼント🎁\n\n【応募方法】\n1️⃣ 本アカウント（@CREOSIS_info）をフォロー\n2️⃣ この投稿をリポスト\n\n【応募締切】9月15日（日）23:59まで\n当選者様には9月下旬頃、DMにてご連絡いたします。\n\n#rurudo  #シュガー #フィギュア"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 56618,
+          "like_count": 1152,
+          "quote_count": 10,
+          "reply_count": 43,
+          "retweet_count": 2171
+        },
+        "reply_settings": "everyone",
+        "text": "✨【フォロー&amp;リポストキャンペーン】✨\n\nrurudo先生オリジナルキャラクター\n1/6スケールフィギュア「SUGAR GOSPEL ver.」を\n抽選で1名様にプレゼント🎁\n\n【応募方法】\n1️⃣ 本アカウント（@CREOSIS_info）をフォロー\n2️⃣ この投稿をリポスト\n\n【応募締切】9月15日（日）23:59まで https://t.co/6XDZAhvMFh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. ̫ .^꜀ )꜆੭┊https://t.co/Aqt4Xw7B99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113216667",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/113216667",
+                "start": 27,
+                "url": "https://t.co/Aqt4Xw7B99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya ୨୧",
+        "pinned_tweet_id": "1958347848430342624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8349,
+          "following_count": 998,
+          "like_count": 31604,
+          "listed_count": 19,
+          "media_count": 64,
+          "tweet_count": 20344
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T15:31:27.000Z",
+        "description": "CREOSIS公式アカウント\n「思いを現実に」—— フィギュア＆グッズ展開を手がけるブランドです。\n最新情報や商品情報を発信していきますので、ぜひチェックしてください！",
+        "id": "1884987763994640385",
+        "name": "CREOSIS",
+        "pinned_tweet_id": "1950390906776940622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886827481229123584/tv4BLzxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 22,
+          "media_count": 12,
+          "tweet_count": 16
+        },
+        "username": "CREOSIS_info",
+        "verified": true
+      }
+    ]
+  }
+}

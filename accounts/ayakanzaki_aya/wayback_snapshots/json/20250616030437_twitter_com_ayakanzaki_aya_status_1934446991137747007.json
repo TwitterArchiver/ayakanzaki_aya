@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921380973612302336"
+      ],
+      "media_source_tweet_id": [
+        "1934128739321012409"
+      ]
+    },
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1934446991137747007",
+    "created_at": "2025-06-16T03:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T04:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934446991137747007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1433823355413549056",
+          "start": 3,
+          "username": "FRIEREN_PR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8N6m80yfaT",
+          "end": 39,
+          "expanded_url": "https://x.com/FRIEREN_PR/status/1934128739321012409/photo/1",
+          "media_key": "3_1921380973612302336",
+          "start": 16,
+          "url": "https://t.co/8N6m80yfaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934446991137747007",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26807
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934128739321012409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FRIEREN_PR: https://t.co/8N6m80yfaT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1921380973612302336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqod0MpbAAAa8fS.jpg",
+        "width": 1415
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921380973612302336"
+          ],
+          "media_source_tweet_id": [
+            "1934128739321012409"
+          ]
+        },
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934446991137747007",
+        "created_at": "2025-06-16T03:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T04:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934446991137747007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1433823355413549056",
+              "start": 3,
+              "username": "FRIEREN_PR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8N6m80yfaT",
+              "end": 39,
+              "expanded_url": "https://x.com/FRIEREN_PR/status/1934128739321012409/photo/1",
+              "media_key": "3_1921380973612302336",
+              "start": 16,
+              "url": "https://t.co/8N6m80yfaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934446991137747007",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26807
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934128739321012409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FRIEREN_PR: https://t.co/8N6m80yfaT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921380973612302336"
+          ]
+        },
+        "author_id": "1433823355413549056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934128739321012409",
+        "created_at": "2025-06-15T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934128739321012409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8N6m80yfaT",
+              "end": 23,
+              "expanded_url": "https://x.com/FRIEREN_PR/status/1934128739321012409/photo/1",
+              "media_key": "3_1921380973612302336",
+              "start": 0,
+              "url": "https://t.co/8N6m80yfaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934128739321012409",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6080,
+          "impression_count": 6672722,
+          "like_count": 190293,
+          "quote_count": 2557,
+          "reply_count": 333,
+          "retweet_count": 26807
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8N6m80yfaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "賞味期限まで2年残っている高校生です。\n絵を描いています꜀(^. ̫ .^꜀ )꜆੭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya Ⳋ",
+        "pinned_tweet_id": "1911315036728942755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924193595902353408/3b3qvlF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6841,
+          "following_count": 996,
+          "like_count": 30767,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 19918
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:05:26.000Z",
+        "description": "週刊少年サンデー連載中『葬送のフリーレン』（原作：山田鐘人／作画：アベツカサ）の原作公式アカウントです。更新情報などを編集部員がつぶやきます。第14巻&特装版発売中！TVアニメ第2期2026年1月放送決定。【アニメ公式】→@Anime_Frieren【ファンアートタグ】→#フリーレンFA",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 136,
+                "tag": "フリーレンFA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "Anime_Frieren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sunday-webry.com/detail.php?tit…",
+                "end": 23,
+                "expanded_url": "https://www.sunday-webry.com/detail.php?title_id=1093",
+                "start": 0,
+                "url": "https://t.co/JlxhhN3Z7w"
+              }
+            ]
+          }
+        },
+        "id": "1433823355413549056",
+        "location": "帝国領 帝都アイスベルク",
+        "name": "『葬送のフリーレン』公式",
+        "pinned_tweet_id": "1897247093049491896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736369630871203840/mFFVkd8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248919,
+          "following_count": 61,
+          "like_count": 1157,
+          "listed_count": 2143,
+          "media_count": 1149,
+          "tweet_count": 2560
+        },
+        "url": "https://t.co/JlxhhN3Z7w",
+        "username": "FRIEREN_PR",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1801448112080208337",
+    "created_at": "2024-06-16T08:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T09:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802251406377734252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951383944",
+          "start": 0,
+          "username": "j123k123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802251406377734252",
+    "in_reply_to_user_id": "1951383944",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801463720775766327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j123k123456 他連我在哪裡工作都不知道（（\n明明就是聽別人講的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1801448112080208337",
+        "created_at": "2024-06-16T08:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T09:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802251406377734252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951383944",
+              "start": 0,
+              "username": "j123k123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802251406377734252",
+        "in_reply_to_user_id": "1951383944",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801463720775766327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j123k123456 他連我在哪裡工作都不知道（（\n明明就是聽別人講的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1951383944",
+        "conversation_id": "1801448112080208337",
+        "created_at": "2024-06-14T03:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T04:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801463720775766327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801463720775766327",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801448112080208337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 爸爸說的好像五天都吃一樣#\n如果真的五天都吃來評價說難吃\n那他很傲嬌欸XDDDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻委託排到7月",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3882,
+          "following_count": 993,
+          "like_count": 24288,
+          "listed_count": 10,
+          "tweet_count": 13797
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-10T10:09:37.000Z",
+        "description": "來自台灣🇹🇼目前正在嘗試遊戲直播✨\n台湾から来ました\n今は生放送を試みています✨\n\n開台時間會慢慢調整到固定，\n由於長時間身體欠佳正在調整，\n希望之後有更穩定的時間來開台 !\n還希望大家有空都多來走走~~\n\n設定繪師：@furou185",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "furou185"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/dend321",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/dend321",
+                "start": 0,
+                "url": "https://t.co/ArwScbTmJM"
+              }
+            ]
+          }
+        },
+        "id": "1951383944",
+        "location": "台灣",
+        "name": "伊織院 さいか🏮夏色まつり一生推",
+        "pinned_tweet_id": "1703490706277536037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783426473841590272/WlPpReed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 4433,
+          "like_count": 55979,
+          "listed_count": 29,
+          "tweet_count": 36649
+        },
+        "url": "https://t.co/ArwScbTmJM",
+        "username": "j123k123456",
+        "verified": false
+      }
+    ]
+  }
+}

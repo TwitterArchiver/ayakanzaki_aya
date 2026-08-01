@@ -1,0 +1,212 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "1813119814698954969",
+    "created_at": "2024-07-16T09:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T10:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813146325652787348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1681197482309550080",
+          "start": 0,
+          "username": "zhen0310jk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813146325652787348",
+    "in_reply_to_user_id": "1681197482309550080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813119814698954969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhen0310jk 那是因為我vt出道取！消！了！啊！\n笑死沒看公告抓到了wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "1813119814698954969",
+        "created_at": "2024-07-16T09:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T10:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813146325652787348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1681197482309550080",
+              "start": 0,
+              "username": "zhen0310jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813146325652787348",
+        "in_reply_to_user_id": "1681197482309550080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813119814698954969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhen0310jk 那是因為我vt出道取！消！了！啊！\n笑死沒看公告抓到了wwww"
+      },
+      {
+        "attachments": {},
+        "author_id": "1681197482309550080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1813119814698954969",
+        "created_at": "2024-07-16T07:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T08:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813119814698954969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "1499470341734907907",
+              "start": 79,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813119814698954969",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同樣是15歲的JK\n你不但是一位會畫超可愛圖的繪師\n還很會發推文\n還有去打工\n竟然還在VTuber準備中\n你真的超強\n佩服你欸\n（這樣不會很累嗎？兼差欸！）\n@ayakanzaki_aya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "15歳高校一年生꜀(^. .^꜀ )꜆੭ ┊イラストとベース弾たりいます✐⋆꙳⋆┊ご依賴受付中✧ ┊ https://t.co/vvXWjsjImM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayakanzaki0224",
+                "end": 74,
+                "expanded_url": "https://lit.link/ayakanzaki0224",
+                "start": 51,
+                "url": "https://t.co/vvXWjsjImM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KanzakiAya_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KanzakiAya_",
+                "start": 0,
+                "url": "https://t.co/0bAP4M0meC"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "あやAya🪻",
+        "pinned_tweet_id": "1769919252365000983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775010906004439040/7A0V6YxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 995,
+          "like_count": 25085,
+          "listed_count": 10,
+          "tweet_count": 14566
+        },
+        "url": "https://t.co/0bAP4M0meC",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T07:01:52.000Z",
+        "description": "動漫宅一個～平常沒事做時喜歡窩在家裡看動漫、聽日系音樂（特別喜歡yoasobi&米津🫶）、想一些有的沒的之類的事^^吃貨一個！座右銘是“減肥永遠是明天的事”所以盡量吃（誤w）推特唯一帳號（沒有小號^_^）歡迎追蹤++（私我一起聊天✨",
+        "id": "1681197482309550080",
+        "location": "家裡蹲",
+        "name": "貓貓",
+        "pinned_tweet_id": "1802579012826571123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754830379763265536/xgu3uBkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 556,
+          "like_count": 9325,
+          "listed_count": 0,
+          "tweet_count": 1575
+        },
+        "username": "zhen0310jk",
+        "verified": false
+      }
+    ]
+  }
+}
