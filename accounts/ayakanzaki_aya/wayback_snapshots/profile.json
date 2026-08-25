@@ -1,7 +1,7 @@
 {
   "name": "Aya",
   "username": "@ayakanzaki_aya",
-  "bio": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中 Pixiv：https://www.pixiv.net/users/113216667 FANBOX：https://ayakanzaki.fanbox.cc/ たまに。。。：https://youtube.com/@ayakanzaki_aya",
+  "bio": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://ayakanzaki.fanbox.cc/\nたまに。。。：http://www.youtube.com/@ayakanzaki-aya",
   "location": "家裏蹲",
   "link": "https://lit.link/en/ayakanzaki0224",
   "avatar": "avatar/avatar.jpg",
@@ -10,25 +10,18 @@
   "bio_entities": {
     "urls": [
       {
-        "display_url": "pixiv.net/users/113216667",
-        "end": 61,
-        "expanded_url": "https://www.pixiv.net/users/113216667",
-        "start": 38,
-        "url": "https://t.co/Aqt4Xw88YH"
-      },
-      {
         "display_url": "ayakanzaki.fanbox.cc",
-        "end": 92,
+        "end": 95,
         "expanded_url": "https://ayakanzaki.fanbox.cc/",
-        "start": 69,
-        "url": "https://t.co/yhbghbkFby"
+        "start": 72,
+        "url": "https://t.co/yhbghbk7m0"
       },
       {
-        "display_url": "youtube.com/@ayakanzaki_aya",
-        "end": 123,
-        "expanded_url": "https://youtube.com/@ayakanzaki_aya",
-        "start": 100,
-        "url": "https://t.co/VcHIX9aINY"
+        "display_url": "youtube.com/@ayakanzaki-aya",
+        "end": 126,
+        "expanded_url": "http://www.youtube.com/@ayakanzaki-aya",
+        "start": 103,
+        "url": "https://t.co/38GEbLiB6E"
       }
     ]
   },
