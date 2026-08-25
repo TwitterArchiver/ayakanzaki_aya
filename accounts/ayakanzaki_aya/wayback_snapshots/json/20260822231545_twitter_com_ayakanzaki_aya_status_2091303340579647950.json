@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2090146118441066774",
+    "created_at": "2026-08-22T23:15:45.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T00:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091303340579647950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1596364620692074496",
+          "start": 0,
+          "username": "MGSkonami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091303340579647950",
+    "in_reply_to_user_id": "1596364620692074496",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090224064459870308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MGSkonami ？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2090146118441066774",
+        "created_at": "2026-08-22T23:15:45.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T00:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091303340579647950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1596364620692074496",
+              "start": 0,
+              "username": "MGSkonami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091303340579647950",
+        "in_reply_to_user_id": "1596364620692074496",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090224064459870308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MGSkonami ？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596364620692074496",
+        "conversation_id": "2090146118441066774",
+        "created_at": "2026-08-19T23:47:06.000Z",
+        "display_text_range": [
+          16,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T00:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090224064459870308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090224064459870308",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090146118441066774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya コピーしたテキストと画像が自動的にここに表示されます\nクリップボードのアイテムをスライドさせて削除します\nクリップボードの項目をピン留めすると、1 時間後に期限切れにならなくなります"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/38GEbLiB6E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 95,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 72,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki-aya",
+                "end": 126,
+                "expanded_url": "http://www.youtube.com/@ayakanzaki-aya",
+                "start": 103,
+                "url": "https://t.co/38GEbLiB6E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "is_identity_verified": false,
+        "location": "家裏蹲",
+        "most_recent_tweet_id": "2091303340579647950",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499470341734907907/1787357452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10778,
+          "following_count": 979,
+          "like_count": 32953,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 21573
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T04:46:48.000Z",
+        "description": "赤音她老爹\n\n中文/日本語/eng\n凌空工作室  @makita_gaming  ceo\n大家好，我是練習了兩年半的歌手練習生凌空，請各位多多指教!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "makita_gaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/MGS_konami",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/MGS_konami",
+                "start": 0,
+                "url": "https://t.co/9zwn3Vls8B"
+              }
+            ]
+          }
+        },
+        "id": "1596364620692074496",
+        "is_identity_verified": false,
+        "location": "一台電腦裡",
+        "most_recent_tweet_id": "2090788375985086851",
+        "name": "凌空konami573（ 歌手系vtype）🦊🐱",
+        "pinned_tweet_id": "1897449216743780592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596364620692074496/1747372610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983701164916092928/KL0Fh41F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 2223,
+          "like_count": 6946,
+          "listed_count": 3,
+          "media_count": 1836,
+          "tweet_count": 6052
+        },
+        "url": "https://t.co/9zwn3Vls8B",
+        "username": "MGSkonami",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

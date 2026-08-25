@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2082017681222389848",
+    "created_at": "2026-07-31T02:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083015244599705810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1418895118422233094",
+          "start": 0,
+          "username": "Suya_chikaidol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083015244599705810",
+    "in_reply_to_user_id": "1418895118422233094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082119856057704621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suya_chikaidol 拜托了。。。窮學生急需委托。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-31T02:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083015244599705810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1418895118422233094",
+              "start": 0,
+              "username": "Suya_chikaidol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083015244599705810",
+        "in_reply_to_user_id": "1418895118422233094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082119856057704621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suya_chikaidol 拜托了。。。窮學生急需委托。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418895118422233094",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-28T15:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082119856057704621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082119856057704621",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082017681222389848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 非常喜歡骨頭⋯⋯非常想委⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/VcHIX9aaYq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 95,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 72,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 126,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 103,
+                "url": "https://t.co/VcHIX9aaYq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10731,
+          "following_count": 975,
+          "like_count": 32956,
+          "listed_count": 27,
+          "media_count": 99,
+          "tweet_count": 21553
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T11:25:48.000Z",
+        "description": "嗨，我是スヤ～邊玩遊戲還唱個不停的眠眠國公主，喜歡鴨子公爵。幾乎天天開但看心情休假，詳細請加入dc群🫶🏻 #在眠眠國午夜夢遊 繪師媽媽：草莓果醬尼，建模爸爸：夜颯Live2D。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 53,
+                "tag": "在眠眠國午夜夢遊"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/suya_terana",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/suya_terana",
+                "start": 0,
+                "url": "https://t.co/WcAuQjtGqz"
+              }
+            ]
+          }
+        },
+        "id": "1418895118422233094",
+        "name": "寺奈スヤ🧊個人Vtype",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984685127059062784/iZ7Rq0lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 116,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/WcAuQjtGqz",
+        "username": "Suya_chikaidol",
+        "verified": false
+      }
+    ]
+  }
+}

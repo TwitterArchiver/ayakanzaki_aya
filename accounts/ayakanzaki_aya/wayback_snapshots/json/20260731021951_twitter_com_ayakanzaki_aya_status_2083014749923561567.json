@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2082017681222389848",
+    "created_at": "2026-07-31T02:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083014749923561567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843749774786473986",
+          "start": 0,
+          "username": "alice0000159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083014749923561567",
+    "in_reply_to_user_id": "1843749774786473986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082048717662961670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alice0000159 我。。努力！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-31T02:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083014749923561567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843749774786473986",
+              "start": 0,
+              "username": "alice0000159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083014749923561567",
+        "in_reply_to_user_id": "1843749774786473986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082048717662961670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alice0000159 我。。努力！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843749774786473986",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-28T10:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082048717662961670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082048717662961670",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1064,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082017681222389848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 好美!!!!Aya可以有自信一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/VcHIX9aaYq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 95,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 72,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 126,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 103,
+                "url": "https://t.co/VcHIX9aaYq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10731,
+          "following_count": 975,
+          "like_count": 32950,
+          "listed_count": 27,
+          "media_count": 99,
+          "tweet_count": 21547
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T20:26:25.000Z",
+        "description": "【期許文字能帶給人溫度的十塔星冷笑話國公主】 等一下！我的宇舶⋯⋯啊？貴安！Alice是一位愛好冷笑話，忘記帶地球語翻譯機十塔星公主💛V皮資訊：@KenKenMo6 (X) \n 🧊粉絲名：冰塊子民 💝二創 #Alice皇家畫廊 （禁獵奇）🛎️召喚 #Alice你看",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "Alice皇家畫廊"
+              },
+              {
+                "end": 132,
+                "start": 124,
+                "tag": "Alice你看"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "KenKenMo6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/alice0000159",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/alice0000159",
+                "start": 0,
+                "url": "https://t.co/oe6ZRxq6qa"
+              }
+            ]
+          }
+        },
+        "id": "1843749774786473986",
+        "location": "YouTube、綠界、Linktree",
+        "name": "Alice公主殿下🧊無聲冷笑話系💛個人勢VT【十塔箱】",
+        "pinned_tweet_id": "2081698678797111454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004558700372234241/BinhRyZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 808,
+          "like_count": 3340,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2740
+        },
+        "url": "https://t.co/oe6ZRxq6qa",
+        "username": "alice0000159",
+        "verified": true
+      }
+    ]
+  }
+}

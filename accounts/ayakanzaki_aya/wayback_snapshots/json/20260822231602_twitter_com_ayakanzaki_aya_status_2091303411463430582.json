@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2090146118441066774",
+    "created_at": "2026-08-22T23:16:02.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T00:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091303411463430582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227305845160992768",
+          "start": 0,
+          "username": "aj11735_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091303411463430582",
+    "in_reply_to_user_id": "1227305845160992768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090151293792944137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aj11735_ 哥們要帶我上獵嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2090146118441066774",
+        "created_at": "2026-08-22T23:16:02.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T00:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091303411463430582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227305845160992768",
+              "start": 0,
+              "username": "aj11735_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091303411463430582",
+        "in_reply_to_user_id": "1227305845160992768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090151293792944137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aj11735_ 哥們要帶我上獵嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227305845160992768",
+        "conversation_id": "2090146118441066774",
+        "created_at": "2026-08-19T18:57:56.000Z",
+        "display_text_range": [
+          16,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090151293792944137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090151293792944137",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090146118441066774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 等會 Apex 有我的位置嗎？沒有也沒關係，我可以等，等你的朋友去吃飯的時候，來打一把替補，打完把我踢了就行。哦好...你也要吃飯，沒關係，朋友吃飯比較慢吧，你先吃完我們應該能開一把這樣嗎... ，那...改天吧。是不是在忙啊...沒事沒事，我可以等的，你們有位置喊我就行，我沒朋友一起打，等你們吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/38GEbLiB6E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 95,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 72,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki-aya",
+                "end": 126,
+                "expanded_url": "http://www.youtube.com/@ayakanzaki-aya",
+                "start": 103,
+                "url": "https://t.co/38GEbLiB6E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "is_identity_verified": false,
+        "location": "家裏蹲",
+        "most_recent_tweet_id": "2091303411463430582",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499470341734907907/1787357452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10778,
+          "following_count": 979,
+          "like_count": 32954,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 21574
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-11T19:05:39.000Z",
+        "description": "港仔FPS邊緣人 最喜歡可愛ㄌㄌ DC : AJ#2226 棉花糖留言：https://t.co/1pizhcN8jk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6xkx2ujwp4yopk…",
+                "end": 59,
+                "expanded_url": "https://marshmallow-qa.com/6xkx2ujwp4yopkl?t=ZVgmeu&utm_medium=url_text&",
+                "start": 36,
+                "url": "https://t.co/1pizhcN8jk"
+              }
+            ]
+          }
+        },
+        "id": "1227305845160992768",
+        "is_identity_verified": false,
+        "location": "Tuen Mun District, Hong Kong",
+        "most_recent_tweet_id": "2090151293792944137",
+        "name": "欸杰AJ🐦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227305845160992768/1640078237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769659276887531520/vVYz3hmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 505,
+          "like_count": 37902,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 3192
+        },
+        "url": "",
+        "username": "aj11735_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

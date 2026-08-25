@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2083267821111488950",
+    "created_at": "2026-08-01T06:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083433128052338906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1494399066939133953",
+          "start": 0,
+          "username": "CangYuC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083433128052338906",
+    "in_reply_to_user_id": "1494399066939133953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083267821111488950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CangYuC 一輩子！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 267,
+        "media_key": "3_2083267809522700288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlBCP6bUAADnJw.jpg",
+        "width": 1555
+      },
+      {
+        "height": 3005,
+        "media_key": "3_2083267814941704192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlBCkGawAA3dRv.jpg",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2083267821111488950",
+        "created_at": "2026-08-01T06:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083433128052338906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1494399066939133953",
+              "start": 0,
+              "username": "CangYuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083433128052338906",
+        "in_reply_to_user_id": "1494399066939133953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083267821111488950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CangYuC 一輩子！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083267809522700288",
+            "3_2083267814941704192"
+          ]
+        },
+        "author_id": "1494399066939133953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083267821111488950",
+        "created_at": "2026-07-31T19:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083267821111488950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psPclYPDZs",
+              "end": 58,
+              "expanded_url": "https://x.com/CangYuC/status/2083267821111488950/photo/1",
+              "media_key": "3_2083267809522700288",
+              "start": 35,
+              "url": "https://t.co/psPclYPDZs"
+            },
+            {
+              "display_url": "pic.x.com/psPclYPDZs",
+              "end": 58,
+              "expanded_url": "https://x.com/CangYuC/status/2083267821111488950/photo/1",
+              "media_key": "3_2083267814941704192",
+              "start": 35,
+              "url": "https://t.co/psPclYPDZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083267821111488950",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya Top artist捏\n一辈子！ww https://t.co/psPclYPDZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/38GEbLiB6E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 95,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 72,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki-aya",
+                "end": 126,
+                "expanded_url": "http://www.youtube.com/@ayakanzaki-aya",
+                "start": 103,
+                "url": "https://t.co/38GEbLiB6E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10727,
+          "following_count": 975,
+          "like_count": 32974,
+          "listed_count": 27,
+          "media_count": 99,
+          "tweet_count": 21563
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T19:51:23.000Z",
+        "description": "れいか～\nTips:このアカウントは2人用です。 中国語を使って作品を描くのはグーで、冷夏は日本語を使ってツイッターをスクロールしています",
+        "id": "1494399066939133953",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Cang",
+        "pinned_tweet_id": "1898307828760363175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668650651365126144/lrxVdGcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 1177,
+          "like_count": 44,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "CangYuC",
+        "verified": false
+      }
+    ]
+  }
+}

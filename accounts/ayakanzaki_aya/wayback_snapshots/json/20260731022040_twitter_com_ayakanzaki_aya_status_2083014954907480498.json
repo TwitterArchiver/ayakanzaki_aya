@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2082017681222389848",
+    "created_at": "2026-07-31T02:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083014954907480498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1636409798060281856",
+          "start": 0,
+          "username": "VtuberVan"
+        }
+      ],
+      "urls": [
+        {
+          "description": "不是在畫圖就是在正在畫圖的路上(っ´ω`c).｡oO、One link to tell your story.",
+          "display_url": "lit.link/en/ayakanzaki0…",
+          "end": 56,
+          "expanded_url": "https://lit.link/en/ayakanzaki0224",
+          "images": [
+            {
+              "height": 524,
+              "url": "https://pbs.twimg.com/news_img/2047544350570106880/STxfrg5w?format=jpg&name=orig",
+              "width": 1000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2047544350570106880/STxfrg5w?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 33,
+          "status": 200,
+          "title": "あや lit.link",
+          "unwound_url": "https://lit.link/en/ayakanzaki0224",
+          "url": "https://t.co/DKjWRjtfBK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083014954907480498",
+    "in_reply_to_user_id": "1636409798060281856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082688036568232225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VtuberVan 是的沒錯！很喜歡畫骨頭~\n價目表的話在這裏 https://t.co/DKjWRjtfBK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-31T02:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083014954907480498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1636409798060281856",
+              "start": 0,
+              "username": "VtuberVan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "不是在畫圖就是在正在畫圖的路上(っ´ω`c).｡oO、One link to tell your story.",
+              "display_url": "lit.link/en/ayakanzaki0…",
+              "end": 56,
+              "expanded_url": "https://lit.link/en/ayakanzaki0224",
+              "images": [
+                {
+                  "height": 524,
+                  "url": "https://pbs.twimg.com/news_img/2047544350570106880/STxfrg5w?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047544350570106880/STxfrg5w?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "あや lit.link",
+              "unwound_url": "https://lit.link/en/ayakanzaki0224",
+              "url": "https://t.co/DKjWRjtfBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083014954907480498",
+        "in_reply_to_user_id": "1636409798060281856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082688036568232225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VtuberVan 是的沒錯！很喜歡畫骨頭~\n價目表的話在這裏 https://t.co/DKjWRjtfBK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636409798060281856",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-30T04:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082688036568232225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082688036568232225",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082017681222389848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 想問問這種類型是只氛圍和骨頭嗎？\n反而一直在找願意畫骨頭的繪師找不到\n也想來問問價目表"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/VcHIX9aaYq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 95,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 72,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 126,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 103,
+                "url": "https://t.co/VcHIX9aaYq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10731,
+          "following_count": 975,
+          "like_count": 32951,
+          "listed_count": 27,
+          "media_count": 99,
+          "tweet_count": 21548
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T16:51:31.000Z",
+        "description": "個人勢Vtuber，從新人轉職肝帝中，聯動歡迎DM。\n因災難（哥哥）爆發，掉落到沒有龍可以獵的世界，好心的人買點耳膜吧！\n🅼ᵃ🄼𝕒：C🆁𝘰ẘ̥🐦‍⬛繪師Daddy：烏鴉/加法JAFA｜建模パパ：宗茶@Mat_cha_M｜2.0建模パパ：紺野 ピノろ @KonNoPinolo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "Mat_cha_M"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "KonNoPinolo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/vankaku",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/vankaku",
+                "start": 0,
+                "url": "https://t.co/VYpjGURWXu"
+              }
+            ]
+          }
+        },
+        "id": "1636409798060281856",
+        "name": "𓆩 【嗷嗚是只狼 】2.0 樊悠幻 𝕍𝕒𝕟 𝕜𝕒𝕜𝕦 🦇幻想懷舊系Vtuber",
+        "pinned_tweet_id": "2058037442683478246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030888965512019968/lYbU6DGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 366,
+          "like_count": 25624,
+          "listed_count": 8,
+          "media_count": 1815,
+          "tweet_count": 9432
+        },
+        "url": "https://t.co/VYpjGURWXu",
+        "username": "VtuberVan",
+        "verified": false
+      }
+    ]
+  }
+}

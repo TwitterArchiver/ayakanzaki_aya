@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2082017681222389848",
+    "created_at": "2026-07-31T02:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083016649968365766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3188673722",
+          "start": 0,
+          "username": "_Praeliator"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083016649968365766",
+    "in_reply_to_user_id": "3188673722",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082043487126692087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Praeliator thanks~！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-31T02:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083016649968365766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3188673722",
+              "start": 0,
+              "username": "_Praeliator"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083016649968365766",
+        "in_reply_to_user_id": "3188673722",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082043487126692087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Praeliator thanks~！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3188673722",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-28T10:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082043487126692087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082043487126692087",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 423,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082017681222389848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya This one got me interested, I'll check your other artworks and see if I'll put in a request, but this looks great. 🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/VcHIX9aaYq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 95,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 72,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 126,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 103,
+                "url": "https://t.co/VcHIX9aaYq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10731,
+          "following_count": 975,
+          "like_count": 32963,
+          "listed_count": 27,
+          "media_count": 99,
+          "tweet_count": 21557
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-08T11:38:54.000Z",
+        "description": "A glutton for food and lazy too :P. Started to get into making terrariums. Header and icon made by @vicardspixel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 99,
+                "username": "vicardspixel"
+              }
+            ]
+          }
+        },
+        "id": "3188673722",
+        "location": "Australia",
+        "name": "Praeliator",
+        "pinned_tweet_id": "1531987621965991936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987284299301986304/PndtStgp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 162,
+          "like_count": 8595,
+          "listed_count": 2,
+          "media_count": 2695,
+          "tweet_count": 10827
+        },
+        "url": "",
+        "username": "_Praeliator",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2082017681222389848",
+    "created_at": "2026-07-31T02:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083016942768537836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772252786685890560",
+          "start": 0,
+          "username": "my2379195872052"
+        }
+      ],
+      "urls": [
+        {
+          "description": "不是在畫圖就是在正在畫圖的路上(っ´ω`c).｡oO、One link to tell your story.",
+          "display_url": "lit.link/en/ayakanzaki0…",
+          "end": 47,
+          "expanded_url": "https://lit.link/en/ayakanzaki0224",
+          "images": [
+            {
+              "height": 524,
+              "url": "https://pbs.twimg.com/news_img/2047544350570106880/STxfrg5w?format=jpg&name=orig",
+              "width": 1000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2047544350570106880/STxfrg5w?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "あや lit.link",
+          "unwound_url": "https://lit.link/en/ayakanzaki0224",
+          "url": "https://t.co/DKjWRjtfBK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083016942768537836",
+    "in_reply_to_user_id": "1772252786685890560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082328954770489483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@my2379195872052 這裏都有寫！ https://t.co/DKjWRjtfBK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-31T02:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083016942768537836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1772252786685890560",
+              "start": 0,
+              "username": "my2379195872052"
+            }
+          ],
+          "urls": [
+            {
+              "description": "不是在畫圖就是在正在畫圖的路上(っ´ω`c).｡oO、One link to tell your story.",
+              "display_url": "lit.link/en/ayakanzaki0…",
+              "end": 47,
+              "expanded_url": "https://lit.link/en/ayakanzaki0224",
+              "images": [
+                {
+                  "height": 524,
+                  "url": "https://pbs.twimg.com/news_img/2047544350570106880/STxfrg5w?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047544350570106880/STxfrg5w?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "あや lit.link",
+              "unwound_url": "https://lit.link/en/ayakanzaki0224",
+              "url": "https://t.co/DKjWRjtfBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083016942768537836",
+        "in_reply_to_user_id": "1772252786685890560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082328954770489483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@my2379195872052 這裏都有寫！ https://t.co/DKjWRjtfBK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772252786685890560",
+        "conversation_id": "2082017681222389848",
+        "created_at": "2026-07-29T04:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082328954770489483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082328954770489483",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082017681222389848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 想偷偷卡個價目表跟匯款方式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "高校生┊絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/VcHIX9aaYq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 95,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 72,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki_aya",
+                "end": 126,
+                "expanded_url": "https://youtube.com/@ayakanzaki_aya",
+                "start": 103,
+                "url": "https://t.co/VcHIX9aaYq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "location": "家裏蹲",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10731,
+          "following_count": 975,
+          "like_count": 32971,
+          "listed_count": 27,
+          "media_count": 99,
+          "tweet_count": 21559
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T13:23:00.000Z",
+        "description": "我是超可愛的睡魔熊熊！泱姆！\n是套皮繪師\n泱姆好朋朋：@cindy_liu65371\n我的v女兒：@utopia_mis @soraneyume1101 @yuki_ch_528\n召喚泱姆標籤:#姆姆魅力展示\ndc伺服器：https://t.co/h9oSuKDsy9\n合作聯動請私訊推特\n❌AI禁止",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "姆姆魅力展示"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "cindy_liu65371"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "utopia_mis"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "soraneyume1101"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "yuki_ch_528"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/4A4pfedsRQ",
+                "end": 134,
+                "expanded_url": "https://discord.gg/4A4pfedsRQ",
+                "start": 111,
+                "url": "https://t.co/h9oSuKDsy9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/amumu_0308?sr=a",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/amumu_0308?sr=a",
+                "start": 0,
+                "url": "https://t.co/bHuhO6j3sm"
+              }
+            ]
+          }
+        },
+        "id": "1772252786685890560",
+        "name": "睡魔熊泱姆（暫不接委託 可排單）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065108907715125248/kewCnfLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 986,
+          "like_count": 25365,
+          "listed_count": 6,
+          "media_count": 1056,
+          "tweet_count": 8618
+        },
+        "url": "https://t.co/bHuhO6j3sm",
+        "username": "my2379195872052",
+        "verified": false
+      }
+    ]
+  }
+}
