@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2093172916385108206",
+    "created_at": "2026-08-28T03:39:57.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T04:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093181766668521854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093181766668521854",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093173416136417606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft 高中畢業了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2093172916385108206",
+        "created_at": "2026-08-28T03:39:57.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093181766668521854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093181766668521854",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093173416136417606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft 高中畢業了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2093172916385108206",
+        "created_at": "2026-08-28T03:06:46.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093173416136417606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093173416136417606",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093172916385108206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 总算毕业了吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/38GEbLiB6E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 91,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 68,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki-aya",
+                "end": 122,
+                "expanded_url": "http://www.youtube.com/@ayakanzaki-aya",
+                "start": 99,
+                "url": "https://t.co/38GEbLiB6E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "is_identity_verified": false,
+        "location": "家裏蹲",
+        "most_recent_tweet_id": "2093181766668521854",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499470341734907907/1787357452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10776,
+          "following_count": 980,
+          "like_count": 32955,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 21589
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "二号机:@koysov2022\n普通人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "is_identity_verified": false,
+        "location": "电波研究所",
+        "most_recent_tweet_id": "2093181048184250871",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987402138667130881/1784604220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 631,
+          "like_count": 12269,
+          "listed_count": 0,
+          "media_count": 445,
+          "tweet_count": 5992
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

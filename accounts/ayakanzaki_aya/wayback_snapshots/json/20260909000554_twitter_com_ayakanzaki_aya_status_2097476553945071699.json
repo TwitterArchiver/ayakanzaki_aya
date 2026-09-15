@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2097476553945071699",
+    "created_at": "2026-09-09T00:05:54.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T01:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097476553945071699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aj11735_/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/aj11735_/status/2097474291508130052",
+          "start": 9,
+          "url": "https://t.co/R4FBJQKp1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097476553945071699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097474291508130052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "⬅️差點被騙的人 https://t.co/R4FBJQKp1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097474283983474688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRu5v5ZaEAAgh_J.jpg",
+        "width": 944
+      },
+      {
+        "height": 889,
+        "media_key": "3_2097474283891208192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRu5v5DaMAADsxE.jpg",
+        "width": 948
+      },
+      {
+        "height": 1361,
+        "media_key": "3_2097474283962585088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRu5v5UbUAAtvJl.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097474283983523840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRu5v5Za0AAMoYT.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2097476553945071699",
+        "created_at": "2026-09-09T00:05:54.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T01:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097476553945071699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aj11735_/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/aj11735_/status/2097474291508130052",
+              "start": 9,
+              "url": "https://t.co/R4FBJQKp1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097476553945071699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097474291508130052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⬅️差點被騙的人 https://t.co/R4FBJQKp1b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097474283983474688",
+            "3_2097474283891208192",
+            "3_2097474283962585088",
+            "3_2097474283983523840"
+          ]
+        },
+        "author_id": "1227305845160992768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2097474291508130052",
+        "created_at": "2026-09-08T23:56:54.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T00:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097474291508130052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtBocF7Bru",
+              "end": 186,
+              "expanded_url": "https://x.com/aj11735_/status/2097474291508130052/photo/1",
+              "media_key": "3_2097474283983474688",
+              "start": 163,
+              "url": "https://t.co/QtBocF7Bru"
+            },
+            {
+              "display_url": "pic.x.com/QtBocF7Bru",
+              "end": 186,
+              "expanded_url": "https://x.com/aj11735_/status/2097474291508130052/photo/1",
+              "media_key": "3_2097474283891208192",
+              "start": 163,
+              "url": "https://t.co/QtBocF7Bru"
+            },
+            {
+              "display_url": "pic.x.com/QtBocF7Bru",
+              "end": 186,
+              "expanded_url": "https://x.com/aj11735_/status/2097474291508130052/photo/1",
+              "media_key": "3_2097474283962585088",
+              "start": 163,
+              "url": "https://t.co/QtBocF7Bru"
+            },
+            {
+              "display_url": "pic.x.com/QtBocF7Bru",
+              "end": 186,
+              "expanded_url": "https://x.com/aj11735_/status/2097474291508130052/photo/1",
+              "media_key": "3_2097474283983523840",
+              "start": 163,
+              "url": "https://t.co/QtBocF7Bru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097474291508130052",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097474283983474688"
+          },
+          {
+            "media_key": "3_2097474283891208192"
+          },
+          {
+            "media_key": "3_2097474283962585088"
+          },
+          {
+            "media_key": "3_2097474283983523840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "警示所有有我DC好友 (aj2226）的人/朋友們\n這個帳號已經被嚴重駭入並開始到處找好友名單的人進行詐騙行為，他會用DC表符誘惑你們，所以必定要提高警覺 我這邊已經找DC ,Google,TeamYoutube客服處理，但給的很多都是罐頭訊息，如果跟YT，DC，Google有合作關係的人，請私訊我幫助我把帳號刪掉/拿回來 https://t.co/QtBocF7Bru"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/38GEbLiB6E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 91,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 68,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki-aya",
+                "end": 122,
+                "expanded_url": "http://www.youtube.com/@ayakanzaki-aya",
+                "start": 99,
+                "url": "https://t.co/38GEbLiB6E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "is_identity_verified": false,
+        "location": "家裏蹲",
+        "most_recent_tweet_id": "2097476553945071699",
+        "name": "Aya",
+        "pinned_tweet_id": "2067764318662258987",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499470341734907907/1787357452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10788,
+          "following_count": 980,
+          "like_count": 32861,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 21600
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-11T19:05:39.000Z",
+        "description": "港仔FPS邊緣人 最喜歡可愛ㄌㄌ DC : AJ#2226 棉花糖留言：https://t.co/1pizhcN8jk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6xkx2ujwp4yopk…",
+                "end": 59,
+                "expanded_url": "https://marshmallow-qa.com/6xkx2ujwp4yopkl?t=ZVgmeu&utm_medium=url_text&",
+                "start": 36,
+                "url": "https://t.co/1pizhcN8jk"
+              }
+            ]
+          }
+        },
+        "id": "1227305845160992768",
+        "is_identity_verified": false,
+        "location": "Tuen Mun District, Hong Kong",
+        "most_recent_tweet_id": "2097475371814044090",
+        "name": "欸杰AJ🐦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227305845160992768/1640078237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769659276887531520/vVYz3hmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 508,
+          "like_count": 38056,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 3198
+        },
+        "url": "",
+        "username": "aj11735_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

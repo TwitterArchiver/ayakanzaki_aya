@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2093172916385108206",
+    "created_at": "2026-08-28T03:39:46.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T04:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093181721495891995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1342313271806685184",
+          "start": 0,
+          "username": "even38997474"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093181721495891995",
+    "in_reply_to_user_id": "1342313271806685184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093181570635243681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@even38997474 蜘蛛人是黑戶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2093172916385108206",
+        "created_at": "2026-08-28T03:39:46.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093181721495891995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1342313271806685184",
+              "start": 0,
+              "username": "even38997474"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093181721495891995",
+        "in_reply_to_user_id": "1342313271806685184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093181570635243681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@even38997474 蜘蛛人是黑戶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342313271806685184",
+        "conversation_id": "2093172916385108206",
+        "created_at": "2026-08-28T03:39:10.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093181570635243681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093181570635243681",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093172916385108206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 變成大學生了 但蜘蛛人沒有上大學"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/38GEbLiB6E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 91,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 68,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki-aya",
+                "end": 122,
+                "expanded_url": "http://www.youtube.com/@ayakanzaki-aya",
+                "start": 99,
+                "url": "https://t.co/38GEbLiB6E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "is_identity_verified": false,
+        "location": "家裏蹲",
+        "most_recent_tweet_id": "2093181721495891995",
+        "name": "Aya",
+        "pinned_tweet_id": "2062076289033416845",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499470341734907907/1787357452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10776,
+          "following_count": 980,
+          "like_count": 32955,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 21588
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-25T03:37:00.000Z",
+        "description": "帶來一切混沌但是喜愛人類的物品",
+        "id": "1342313271806685184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093181570635243681",
+        "name": "even（潘多拉的盒子）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342313271806685184/1612350933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342397401898741761/EkOCJxZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 874,
+          "like_count": 6743,
+          "listed_count": 2,
+          "media_count": 7506,
+          "tweet_count": 22577
+        },
+        "url": "",
+        "username": "even38997474",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

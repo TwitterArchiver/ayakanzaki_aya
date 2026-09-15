@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1499470341734907907",
+    "conversation_id": "2096324113929580802",
+    "created_at": "2026-09-07T02:58:33.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096795225960382946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1333797861385912325",
+          "start": 0,
+          "username": "anTleCk1d48HW6e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096795225960382946",
+    "in_reply_to_user_id": "1333797861385912325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096436983572885516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anTleCk1d48HW6e 加拿大有（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499470341734907907",
+        "conversation_id": "2096324113929580802",
+        "created_at": "2026-09-07T02:58:33.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096795225960382946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1333797861385912325",
+              "start": 0,
+              "username": "anTleCk1d48HW6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096795225960382946",
+        "in_reply_to_user_id": "1333797861385912325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096436983572885516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anTleCk1d48HW6e 加拿大有（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1333797861385912325",
+        "conversation_id": "2096324113929580802",
+        "created_at": "2026-09-06T03:15:01.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096436983572885516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1499470341734907907",
+              "start": 0,
+              "username": "ayakanzaki_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096436983572885516",
+        "in_reply_to_user_id": "1499470341734907907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096324113929580802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayakanzaki_aya 有咖哩烏龍麵但好像沒有咖哩拉麵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T19:42:57.000Z",
+        "description": "絵を描いています꜀(^. .^꜀ )꜆੭┊お仕事募集中\n【連絡用メール】ayakanzaki0224@gmail.com\nFANBOX：https://t.co/yhbghbk7m0\nたまに。。。：https://t.co/38GEbLiB6E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ayakanzaki.fanbox.cc",
+                "end": 91,
+                "expanded_url": "https://ayakanzaki.fanbox.cc/",
+                "start": 68,
+                "url": "https://t.co/yhbghbk7m0"
+              },
+              {
+                "display_url": "youtube.com/@ayakanzaki-aya",
+                "end": 122,
+                "expanded_url": "http://www.youtube.com/@ayakanzaki-aya",
+                "start": 99,
+                "url": "https://t.co/38GEbLiB6E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/ayakanzaki0…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/ayakanzaki0224",
+                "start": 0,
+                "url": "https://t.co/z3yK0o9jMm"
+              }
+            ]
+          }
+        },
+        "id": "1499470341734907907",
+        "is_identity_verified": false,
+        "location": "家裏蹲",
+        "most_recent_tweet_id": "2096795225960382946",
+        "name": "Aya",
+        "pinned_tweet_id": "2067764318662258987",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499470341734907907/1787357452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032171984910761984/-2tIuZ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10785,
+          "following_count": 980,
+          "like_count": 32861,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 21598
+        },
+        "url": "https://t.co/z3yK0o9jMm",
+        "username": "ayakanzaki_aya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-01T15:39:34.000Z",
+        "description": "台湾のひとつ普通の人です\n不知道寫什麼，不然這樣好了\n你有聽過文愛嗎？",
+        "id": "1333797861385912325",
+        "is_identity_verified": false,
+        "location": "日本以南 中國以東 菲律賓以北 的不可描述之國",
+        "most_recent_tweet_id": "2096603078980186364",
+        "name": "曉風",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1333797861385912325/1648056858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790058006866182144/caDBXR4n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 297,
+          "like_count": 72384,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 2757
+        },
+        "url": "",
+        "username": "anTleCk1d48HW6e",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
